@@ -1631,7 +1631,7 @@
 27-28	er	_	_	_	_	_	_	_	_
 27	er	e	ADP	pr	_	30	case	_	_
 28	r	an	DET	det	_	30	det	_	_
-29	vro	bro	NOUN	n	Gender=Fem|Number=Sing	27	X	_	SpaceAfter=No
+29	vro	bro	NOUN	n	Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = bremaik.vislcg.txt:64:1959
@@ -2460,7 +2460,7 @@
 
 # sent_id = bremaik.vislcg.txt:104:3461
 # text = Met chom a ra bresk-tre an traoù memes tra.
-1	met	met	CCONJ	cnjcoo	_	2	cc	_	_
+1	Met	met	CCONJ	cnjcoo	_	2	cc	_	_
 2	chom	chom	VERB	vblex	VerbForm=Inf	0	root	_	_
 3	a	a	PART	vpart	_	2	aux	_	_
 4	ra	ober	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
@@ -2470,7 +2470,7 @@
 7	an	an	DET	det	_	8	det	_	_
 8	traoù	tra	NOUN	n	Gender=Masc|Number=Plur	2	nsubj	_	_
 9	memes	memes	X	x	_	10	dep	_	_
-10	tra	tra	ADV	adv	_	2	advmod	_	_
+10	tra	tra	ADV	adv	_	2	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	sent	_	2	punct	_	_
 
 # sent_id = bremaik.vislcg.txt:105:3486
@@ -4361,7 +4361,7 @@
 21	a	a	ADP	pr	_	23	case	_	_
 22	viz	miz	X	x	_	23	dep	_	_
 23	Even	Even	NOUN	n	Gender=Masc	17	nmod	_	SpaceAfter=No
-24	,	,	PUNCT	cm	_	27	X	_	_
+24	,	,	PUNCT	cm	_	27	punct	_	_
 25	war	war	ADP	pr	_	27	case	_	_
 26	pevarzek	pevarzek	NUM	num	Number=Plur	27	nummod	_	_
 27	kumun	kumun	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	_
@@ -6262,7 +6262,7 @@
 4	ouzh	ouzh	ADP	pr	_	6	case	_	_
 5	an	an	DET	det	_	6	det	_	_
 6	dud	den	NOUN	n	Gender=Masc|Number=Plur	3	obl	_	_
-7	o	o	PART	vpart	_	8	X	_	_
+7	o	o	PART	vpart	_	8	aux	_	_
 8	labourat	labourat	VERB	vblex	VerbForm=Inf	6	acl	_	_
 9-10	er	_	_	_	_	_	_	_	_
 9	er	e	ADP	pr	_	11	case	_	_
@@ -7548,7 +7548,7 @@
 # text = Bet eo Divi o naetaat e gambrig-kousket gant evezh.
 1	Bet	bezañ	VERB	vblex	Tense=Past|VerbForm=Part	5	aux	_	_
 2	eo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-3	Divi	Divi	PROPN	np	Gender=Masc|Number=Sing	5	X	_	_
+3	Divi	Divi	PROPN	np	Gender=Masc|Number=Sing	5	nsubj	_	_
 4	o	o	PART	vpart	_	5	aux	_	_
 5	naetaat	naetaat	VERB	vblex	VerbForm=Inf	0	root	_	_
 6	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	7	det	_	_
@@ -8731,7 +8731,7 @@
 5	e	e	ADP	pr	_	6	case	_	_
 6	diabarzh	diabarzh	NOUN	n	Gender=Masc|Number=Sing	3	obl	_	_
 7	o	o	DET	det	Poss=Yes	8	det	_	_
-8	framm	framm	NOUN	n	Gender=Masc|Number=Sing	6	X	_	_
+8	framm	framm	NOUN	n	Gender=Masc|Number=Sing	6	nmod:gen	_	_
 9	ar	an	DET	det	_	10	det	_	_
 10	barregezhioù	barregezh	NOUN	n	Gender=Fem|Number=Plur	3	obj	_	_
 11	ret	ret	ADJ	adj	_	10	amod	_	_
@@ -10199,8 +10199,8 @@
 
 # sent_id = oab.vislcg.txt:162:4318
 # text = Muioc'h-mui a dud a zebr boued bio.
-1	Muioc'h-mui	muioc’h-mui	ADV	adv	_	5	X	_	_
-2	a	a	ADP	pr	_	3	X	_	_
+1	Muioc'h-mui	muioc’h-mui	ADV	adv	_	5	advmod	_	_
+2	a	a	ADP	pr	_	3	case	_	_
 3	dud	den	NOUN	n	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	a	a	PART	vpart	_	5	aux	_	_
 5	zebr	debriñ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -10482,7 +10482,7 @@
 11	brudet	brudañ	VERB	vblex	Tense=Past|VerbForm=Part	8	acl	_	_
 12	gant	gant	ADP	pr	_	14	case	_	_
 13	pedadennoù	pedadenn	NOUN	n	Gender=Fem|Number=Plur	12	obl	_	_
-14	divyezhek	divyezhek	ADJ	adj	_	14	X	_	SpaceAfter=No
+14	divyezhek	divyezhek	ADJ	adj	_	14	amod	_	SpaceAfter=No
 15	.	.	PUNCT	sent	_	5	punct	_	_
 
 # sent_id = oab.vislcg.txt:176:4860
