@@ -6,13 +6,13 @@
 
 ...
 
-# Acknowledgments
+# Acknowledgements
 
-...
+We would like to thank Fulup Jakez and other members of Ofis Publik ar Brezhoneg for constant help and support over the years.
 
 ## References
 
-* (citation)
+* Francis M. Tyers and Vinit Ravishankar (2018) "A prototype dependency treebank for Breton". _Traitement automatique des langues_ (to appear)
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
