@@ -18,9 +18,17 @@ machine translated from Breton to French using [Apertium](http://www.apertium.or
 
 We would like to thank Fulup Jakez and other members of Ofis Publik ar Brezhoneg for constant help and support over the years.
 
-## References
+If you use this treebank in your work, please cite:
 
-* Francis M. Tyers and Vinit Ravishankar (2018) "A prototype dependency treebank for Breton". _Traitement automatique des langues_ (to appear)
+```
+@inproceedings{tyers:2018a,
+    author = {Francis M. Tyers and Vinit Ravishankar},
+    title = {A prototype dependency treebank for Breton},
+    booktitle = {Actes de la 25e conférence sur le Traitement Automatique des Langues Naturelles (TALN)},
+    note = {\emph{to appear}},
+    year = 2018
+}
+```
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
