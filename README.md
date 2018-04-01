@@ -35,12 +35,12 @@ If you use this treebank in your work, please cite:
 Data available since: UD v2.2
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
+Genre: grammar-examples wiki nonfiction fiction news poetry
 Lemmas: converted from manual
 UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
-Relations: converted from manual
+Relations: manual native
 Contributors: Tyers, Francis
 Contributing: elsewhere
 Contact: ftyers@hse.ru
