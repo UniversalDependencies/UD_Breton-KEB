@@ -14,6 +14,11 @@ texts from _Ofis Publik ar Brezhoneg_ and short prose texts from _Bremaik_. In a
 Out of 888 sentences, 256 have translations in French, 275 have translations in English and 347 have translations which have been
 machine translated from Breton to French using [Apertium](http://www.apertium.org)
 
+# Changelog
+
+* 2018-11-15 v1.0
+  * First release in UD
+
 # Acknowledgements
 
 We would like to thank Fulup Jakez and other members of Ofis Publik ar Brezhoneg for constant help and support over the years.
