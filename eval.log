@@ -1,11 +1,11 @@
 Running the following version of tools/evaluate_treebank.pl:
-commit 87d374bbd458d29331d76014d05c52eaac32518d
+commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 09:21:53 2018 +0200
+Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Breton-KEB:
-commit e4fe0b572f216e6a37d03b921580719254de68e1
+commit f6e0b0d8d96dd18bfacc928a9e99b1c0c1f369d2
+Merge: 2186077 3ef6dc2
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 09:14:11 2018 +0200
 Size: counted 10054 of 10054 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.61594113054077.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -21,18 +21,18 @@ Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi: found 1906 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10054 words.
-Genres: found 5 out of 14 known.
+Genres: found 6 out of 17 known.
 validate.py --lang br --max-err=10 UD_Breton-KEB/br_keb-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
-(weight=0.0769230769230769) * (score{genres}=0.357142857142857) = 0.0274725274725275
+(weight=0.0769230769230769) * (score{genres}=0.352941176470588) = 0.0271493212669683
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.334112960297352) = 0.0856699898198339
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.352488650756142) * (availability=1) * (validity=1) = 0.352488650756142
+(TOTAL score=0.352165444550583) * (availability=1) * (validity=1) = 0.352165444550583
 STARS = 2
-UD_Breton-KEB	0.352488650756142	2
+UD_Breton-KEB	0.352165444550583	2
