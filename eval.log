@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Breton-KEB:
-commit 2a39707680374e6e8fe40d414cd345fd72558be0
-Merge: f300657 dcf88b5
+commit 4e5e55cee8e2b525da49064c020e47e150338d3e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 20:56:26 2019 +0200
 Size: counted 10054 of 10054 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.61594113054077.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,8 +23,20 @@ Udapi: found 1906 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10054 words.
 Genres: found 6 out of 17 known.
 validate.py --lang br --max-err=10 UD_Breton-KEB/br_keb-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 6 Sent apertium.vislcg.txt:1:0 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 17 Sent apertium.vislcg.txt:2:15 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 38 Sent apertium.vislcg.txt:4:45 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 47 Sent apertium.vislcg.txt:5:57 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 56 Sent apertium.vislcg.txt:6:69 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 57 Sent apertium.vislcg.txt:6:69 Node 3]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 65 Sent apertium.vislcg.txt:7:81 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 73 Sent apertium.vislcg.txt:8:91 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 74 Sent apertium.vislcg.txt:8:91 Node 3]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+...suppressing further errors regarding Syntax
+Syntax errors: 1411
+*** FAILED *** with 1411 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.352941176470588) = 0.0271493212669683
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -33,6 +45,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.352165444550583) * (availability=1) * (validity=1) = 0.352165444550583
-STARS = 2
-UD_Breton-KEB	0.352165444550583	2
+(TOTAL score=0.352165444550583) * (availability=1) * (validity=0.01) = 0.00352165444550583
+STARS = 0
+UD_Breton-KEB	0.00352165444550583	0
