@@ -14307,8 +14307,8 @@
 9	resevet	resev	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 10	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
 11	-	-	PUNCT	guio	_	12	punct	_	SpaceAfter=No
-12	Fañch	Fañch	PROPN	np	Gender=Masc|Number=Sing	10	fixed:name	_	_
-13	Kemener	Kemener	PROPN	np	Number=Sing	10	fixed:name	_	_
+12	Fañch	Fañch	PROPN	np	Gender=Masc|Number=Sing	10	flat:name	_	_
+13	Kemener	Kemener	PROPN	np	Number=Sing	10	flat:name	_	_
 14	Urzh	urzh	NOUN	n	Gender=Fem|Number=Sing	9	obj	_	_
 15	an	an	DET	det	_	16	det	_	_
 16	Erminig	erminig	NOUN	n	Gender=Masc|Number=Sing	14	nmod:gen	_	SpaceAfter=No
