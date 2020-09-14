@@ -12771,8 +12771,8 @@
 7	gant	gant	ADP	pr	_	9	case	_	_
 8	ar	an	DET	det	_	9	det	_	_
 9	Vikinged	Viking	NOUN	n	Gender=Masc|Number=Plur	1	obl:agent	_	_
-10	e	e	X	x	_	11	dep	_	_
-11	deroù	deroù	ADP	pr	_	14	case	_	_
+10	e	e	ADP	pr	_	14	case	_	_
+11	deroù	deroù	X	x	_	10	fixed	_	_
 12	an	an	DET	det	_	14	det	_	_
 13	X	X	NUM	num	NumType=Ord	14	amod	_	_
 14	kantved	kantved	NOUN	n	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
@@ -13008,8 +13008,8 @@
 7	tachenn	tachenn	NOUN	n	Gender=Fem|Number=Sing	1	obj	_	_
 8	e	e	ADP	pr	_	9	case	_	_
 9	Breizh	Breizh	PROPN	np	Number=Sing	1	obl	_	_
-10	abalamour	abalamour	X	x	_	11	dep	_	_
-11	d'	da	ADP	pr	_	13	case	_	SpaceAfter=No
+10	abalamour	abalamour	ADP	pr	_	13	case	_	_
+11	d'	da	X	x	_	10	fixed	_	SpaceAfter=No
 12	ar	an	DET	det	_	13	det	_	_
 13	roll	roll	NOUN	n	Gender=Masc|Number=Sing	1	obl	_	_
 14	a-bouez	a-bouez	ADJ	adj	_	13	amod	_	_
@@ -13505,7 +13505,7 @@
 10	150	150	NUM	num	_	1	obl:agent	_	_
 11	000	000	NUM	num	Number=Plur	10	fixed	_	_
 12	a	a	ADP	pr	_	13	case	_	_
-13	dud	den	NOUN	n	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+13	dud	den	NOUN	n	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = wikipedia.vislcg.txt:71:2240
