@@ -318,8 +318,8 @@
 2	em eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
 3	ar	an	DET	det	_	4	det	_	_
 4	c’hi	ki	NOUN	n	Gender=Masc|Number=Sing	1	obj	_	_
-5	en	en	X	x	_	6	dep	_	_
-6	ur	ur	AUX	vpart	_	7	aux	_	_
+5	en	en	AUX	vpart	_	7	aux	_	_
+6	ur	ur	X	x	_	5	fixed	_	_
 7	dreuziñ	treuziñ	VERB	vblex	VerbForm=Inf	1	advcl	_	_
 8	an	an	DET	det	_	9	det	_	_
 9	hent	hent	NOUN	n	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
@@ -381,8 +381,8 @@
 # text = En em walc’hiñ a ran.
 # text[fra] = Je me lave.
 # labels = to_check
-1	En	en	X	x	_	2	dep	_	_
-2	em	em	AUX	vpart	Reflex=Yes	3	aux	_	_
+1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
+2	em	em	X	x	_	1	fixed	_	_
 3	walc’hiñ	gwalc’hiñ	VERB	vblex	VerbForm=Inf	0	root	_	_
 4	a	a	AUX	vpart	_	3	aux	_	_
 5	ran	ober	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	SpaceAfter=No
@@ -392,8 +392,8 @@
 # text = En em c'houlenn a ran.
 # text[fra] = Je me demande.
 # labels = to_check
-1	En	en	X	x	_	2	dep	_	_
-2	em	em	AUX	vpart	Reflex=Yes	3	aux	_	_
+1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
+2	em	em	X	x	_	1	fixed	_	_
 3	c'houlenn	goulenn	VERB	vblex	VerbForm=Inf	0	root	_	_
 4	a	a	AUX	vpart	_	3	aux	_	_
 5	ran	ober	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	SpaceAfter=No
@@ -403,8 +403,8 @@
 # text = En em gannet out c'hoazh ?
 # text[fra] = Tu t'es encore battu ?
 # labels = to_check
-1	En	en	X	x	_	2	dep	_	_
-2	em	em	AUX	vpart	Reflex=Yes	3	aux	_	_
+1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
+2	em	em	X	x	_	1	fixed	_	_
 3	gannet	kannañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 4	out	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
 5	c'hoazh	c’hoazh	ADV	adv	_	3	advmod	_	_
@@ -415,8 +415,8 @@
 # text[fra] = Je me lave.
 # labels = to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	en	en	X	x	_	3	dep	_	_
-3	em	em	AUX	vpart	Reflex=Yes	4	aux	_	_
+2	en	en	AUX	vpart	Reflex=Yes	4	aux	_	_
+3	em	em	X	x	_	2	fixed	_	_
 4	walc'h	gwalc’hañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	sent	_	4	punct	_	_
 
@@ -429,8 +429,8 @@
 2	r	an	DET	det	_	3	det	_	_
 3	sal	sal	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	_
 4	dour	dour	NOUN	n	Gender=Masc|Number=Sing	3	nmod:gen	_	_
-5	en	en	X	x	_	6	dep	_	_
-6	em	em	AUX	vpart	Reflex=Yes	7	aux	_	_
+5	en	en	AUX	vpart	Reflex=Yes	7	aux	_	_
+6	em	em	X	x	_	5	fixed	_	_
 7	walc'han	gwalc’hañ	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	7	punct	_	_
 
@@ -443,8 +443,8 @@
 2	r	an	DET	det	_	3	det	_	_
 3	sal	sal	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	_
 4	dour	dour	NOUN	n	Gender=Masc|Number=Sing	3	nmod:gen	_	_
-5	en	en	X	x	_	6	dep	_	_
-6	em	em	AUX	vpart	Reflex=Yes	7	aux	_	_
+5	en	en	AUX	vpart	Reflex=Yes	7	aux	_	_
+6	em	em	X	x	_	5	fixed	_	_
 7	walc'hen	gwalc’hañ	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	7	punct	_	_
 
@@ -458,8 +458,8 @@
 3	sal	sal	NOUN	n	Gender=Fem|Number=Sing	8	obl	_	_
 4	dour	dour	NOUN	n	Gender=Masc|Number=Sing	3	nmod:gen	_	_
 5	on	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
-6	en	en	X	x	_	7	dep	_	_
-7	em	em	AUX	vpart	Reflex=Yes	8	aux	_	_
+6	en	en	AUX	vpart	Reflex=Yes	8	aux	_	_
+7	em	em	X	x	_	6	fixed	_	_
 8	walc'het	gwalc’hañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	8	punct	_	_
 
@@ -467,8 +467,8 @@
 # text = En em walc'het on er sal dour.
 # text[fra] = Je me suis lavé dans la salle de bain.
 # labels = to_check
-1	En	en	X	x	_	2	dep	_	_
-2	em	em	AUX	vpart	Reflex=Yes	3	aux	_	_
+1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
+2	em	em	X	x	_	1	fixed	_	_
 3	walc'het	gwalc’hañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 4	on	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 5-6	er	_	_	_	_	_	_	_	_
@@ -483,8 +483,8 @@
 # text[fra] = Pourquoi te laves tu ?
 # labels = to_check
 1	Perak	perak	ADV	adv	PronType=Int	4	advmod	_	_
-2	en	en	X	x	_	3	dep	_	_
-3	em	em	AUX	vpart	Reflex=Yes	4	aux	_	_
+2	en	en	AUX	vpart	Reflex=Yes	4	aux	_	_
+3	em	em	X	x	_	2	fixed	_	_
 4	walc'hez	gwalc’hañ	VERB	vblex	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	?	?	PUNCT	sent	_	4	punct	_	_
 
