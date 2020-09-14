@@ -1995,8 +1995,8 @@
 # text = En em vodañ a raio pennoù ar sindikadoù adarre hiziv evit gwelet penaos kas ar stourm war-raok.
 # text[fra¹] = regroupera les têtes des syndicats de nouveau aujourd’hui pour voir comment envoyer le combat en avant.
 # labels = to_check
-1	En	en	X	x	_	2	dep	_	_
-2	em	em	AUX	vpart	Reflex=Yes	3	aux	_	_
+1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
+2	em	em	X	x	_	1	fixed	_	_
 3	vodañ	bodañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 4	a	a	AUX	vpart	_	3	aux	_	_
 5	raio	ober	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux	_	_
@@ -2055,8 +2055,8 @@
 4	spontus	spontus	ADJ	adj	_	1	advmod	_	_
 5	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	6	det	_	_
 6	vuhez	buhez	NOUN	n	Gender=Fem|Number=Sing	1	obj	_	_
-7	abalamour	abalamour	X	x	_	8	dep	_	_
-8	d'	da	ADP	pr	_	10	case	_	SpaceAfter=No
+7	abalamour	abalamour	ADP	pr	_	10	case	_	_
+8	d'	da	X	x	_	7	fixed	_	SpaceAfter=No
 9	an	an	DET	det	_	10	det	_	_
 10	enklask	enklask	NOUN	n	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 11	-se	se	ADV	adv	_	1	advmod	_	SpaceAfter=No
@@ -2303,8 +2303,8 @@
 10	ar	an	DET	det	_	12	det	_	_
 11	17vet	17vet	NUM	num	Number=Plur|NumType=Ord	12	amod	_	_
 12	kantved	kantved	NOUN	n	Gender=Masc|Number=Sing	8	nmod:gen	_	_
-13	en	e	ADP	pr	_	16	case	_	_
-14	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	16	det	_	_
+13	en	e	ADP	pr	_	15	case	_	_
+14	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	15	det	_	_
 15	gorn-bro	korn-bro	NOUN	n	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 16	.	.	PUNCT	sent	_	1	punct	_	_
 
@@ -2545,8 +2545,8 @@
 14	ar	an	DET	det	_	15	det	_	_
 15	SMIC	SMIC	NOUN	n	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	cm	_	20	punct	_	_
-17	evit	evit	X	x	_	18	dep	_	_
-18	ma	ma	SCONJ	cnjadv	_	20	mark	_	_
+17	evit	evit	SCONJ	cnjadv	_	20	mark	_	_
+18	ma	ma	X	x	_	17	fixed	_	_
 19	c'hellfe	gellout	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	20	aux	_	_
 20	bevañ	bevañ	VERB	vblex	VerbForm=Inf	8	advcl	_	_
 21-22	en un	_	_	_	_	_	_	_	_
