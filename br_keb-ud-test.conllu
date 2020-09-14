@@ -13499,7 +13499,7 @@
 4	kembraeg	kembraeg	NOUN	n	Gender=Masc|Number=Sing	1	nsubj	_	_
 5	e	e	ADP	pr	_	6	case	_	_
 6	Bro-Saoz	bro-Saoz	PROPN	np	Number=Sing	1	obl	_	_
-7	gant	gant	ADP	pr	_	11	case	_	_
+7	gant	gant	ADP	pr	_	10	case	_	_
 8	tost	tost	ADP	pr	_	10	det	_	_
 9	da	da	X	x	_	8	fixed	_	_
 10	150	150	NUM	num	_	1	obl:agent	_	_
@@ -13653,7 +13653,7 @@
 3	an	an	DET	det	_	5	det	_	_
 4	naontekvet	naontekvet	ADJ	adj	_	5	amod	_	_
 5	kantved	kantved	NOUN	n	Gender=Masc|Number=Sing	2	nmod:gen	_	_
-6	e	e	AUX	vpart	_	7	aux	_	_
+6	e	e	AUX	vpart	_	2	aux	_	_
 7	oa	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	SpaceAfter=No
 8	,	,	PUNCT	cm	_	10	punct	_	_
 9	d’an	d’an	X	x	_	10	dep	_	_
@@ -13712,8 +13712,8 @@
 13	rannvroioù	rannvro	NOUN	n	Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
 14	-se	se	ADV	adv	_	13	advmod	_	SpaceAfter=No
 15	,	,	PUNCT	cm	_	19	punct	_	_
-16	dre	dre	X	x	_	17	dep	_	_
-17	ma	ma	SCONJ	cnjsub	_	19	mark	_	_
+16	dre	dre	SCONJ	cnjsub	_	19	mark	_	_
+17	ma	ma	X	x	_	16	fixed	_	_
 18	oa	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux:pass	_	_
 19	kresket	kreskiñ	VERB	vblex	Tense=Past|VerbForm=Part	3	advcl	_	_
 20	ar	an	DET	det	_	21	det	_	_
@@ -14247,8 +14247,8 @@
 # text = En em gavout a ra eno gant e gamaladed skol met ivez gant izili eus e familh, deuet eus pell.
 # text[fra¹] = Il se trouve là-bas avec ses camarades d'école mais aussi avec membres de son famille, venu de loin.
 # labels = to_check
-1	En	en	X	x	_	2	dep	_	_
-2	em	em	AUX	vpart	Reflex=Yes	3	aux	_	_
+1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
+2	em	em	X	x	_	1	fixed	_	_
 3	gavout	kavout	VERB	vblex	VerbForm=Inf	0	root	_	_
 4	a	a	AUX	vpart	_	3	aux	_	_
 5	ra	ober	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
