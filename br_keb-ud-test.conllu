@@ -3535,8 +3535,8 @@
 # text = Tro-dro da vourk Lanniliz e vez aozet Tro Bro Leon bewech.
 # text[fra¹] = Autour du bourg de Lannilis Elle est organisé Tour de Leon chaque fois.
 # labels = to_check
-1	Tro-dro	tro-dro	X	x	_	2	dep	_	_
-2	da	da	ADP	pr	_	3	case	_	_
+1	Tro-dro	tro-dro	ADP	pr	_	3	case	_	_
+2	da	da	X	x	_	1	fixed	_	_
 3	vourk	bourk	NOUN	n	Gender=Masc|Number=Sing	7	obl	_	_
 4	Lanniliz	Lanniliz	PROPN	np	Number=Sing	3	nmod:gen	_	_
 5	e	e	AUX	vpart	_	7	aux	_	_
@@ -3920,8 +3920,8 @@
 14	e	e	ADP	pr	_	16	case	_	_
 15	n	an	DET	det	_	16	det	_	_
 16	Heol	heol	NOUN	n	Gender=Masc|Number=Sing	10	obl	_	_
-17	evit	evit	X	x	_	18	dep	_	_
-18	ma	ma	SCONJ	cnjadv	_	19	mark	_	_
+17	evit	evit	SCONJ	cnjadv	_	19	mark	_	_
+18	ma	ma	X	x	_	17	fixed	_	_
 19	c'hanfe	genel	VERB	vblex	Mood=Cnd|Number=Sing|Person=3	10	advcl	_	_
 20	ur	un	DET	det	_	21	det	_	_
 21	steredenn	steredenn	NOUN	n	Gender=Fem|Number=Sing	19	obj	_	_
@@ -4058,8 +4058,8 @@
 9	vo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux:pass	_	_
 10	kinniget	kinnig	VERB	vblex	Tense=Past|VerbForm=Part	2	parataxis	_	_
 11	obererezhioù	obererezh	NOUN	n	Gender=Masc|Number=Plur	10	nsubj	_	_
-12	tro-dro	tro-dro	X	x	_	13	dep	_	_
-13	d'	da	ADP	pr	_	15	case	_	SpaceAfter=No
+12	tro-dro	tro-dro	ADP	pr	_	15	case	_	_
+13	d'	da	X	x	_	12	fixed	_	SpaceAfter=No
 14	an	an	DET	det	_	15	det	_	_
 15	darvoud	darvoud	NOUN	n	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 16	-mañ	mañ	ADV	adv	_	15	advmod	_	_
@@ -4204,8 +4204,8 @@
 5	bet	bezañ	AUX	vblex	Tense=Past|VerbForm=Part	6	aux:pass	_	_
 6	kinniget	kinnig	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 7	zoken	zoken	ADV	adv	_	6	advmod	_	_
-8	evit	evit	X	x	_	9	dep	_	_
-9	ma	ma	SCONJ	cnjadv	_	11	mark	_	_
+8	evit	evit	SCONJ	cnjadv	_	11	mark	_	_
+9	ma	ma	X	x	_	8	fixed	_	_
 10	vefe	bezañ	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	11	cop	_	_
 11	paouezet	paouez	VERB	vblex	Tense=Past|VerbForm=Part	6	advcl	_	_
 12	d'	da	ADP	pr	_	13	mark	_	SpaceAfter=No
@@ -4473,14 +4473,14 @@
 3	dudius	dudius	ADJ	adj	_	2	amod	_	_
 4	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 5	neuze	neuze	ADV	adv	_	2	advmod	_	SpaceAfter=No
-6	,	,	PUNCT	cm	_	15	punct	_	_
+6	,	,	PUNCT	cm	_	2	punct	_	_
 7	met	met	CCONJ	cnjcoo	_	11	cc	_	_
 8	hep	hep	ADP	pr	_	11	case	_	_
 9	a-walc'h	a-walc’h	ADV	adv	_	11	advmod	_	_
 10	a	a	ADP	pr	_	11	case	_	_
 11	bersonelezh	personelezh	NOUN	n	Gender=Fem|Number=Sing	2	conj	_	_
-12	evit	evit	X	x	_	13	dep	_	_
-13	ma	ma	SCONJ	cnjadv	_	15	mark	_	_
+12	evit	evit	SCONJ	cnjadv	_	15	mark	_	_
+13	ma	ma	X	x	_	12	fixed	_	_
 14	vefe	bezañ	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	15	cop	_	_
 15	dispar	dispar	ADJ	adj	_	11	advcl	_	SpaceAfter=No
 16	.	.	PUNCT	sent	_	2	punct	_	_
@@ -4608,8 +4608,8 @@
 7	tremenet	tremen	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 8	un	un	DET	det	_	9	det	_	_
 9	destenn	testenn	NOUN	n	Gender=Fem|Number=Sing	7	nsubj	_	_
-10	evit	evit	X	x	_	11	dep	_	_
-11	ma	ma	SCONJ	cnjadv	_	13	mark	_	_
+10	evit	evit	SCONJ	cnjadv	_	13	mark	_	_
+11	ma	ma	X	x	_	10	fixed	_	_
 12	vefe	bezañ	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	13	aux	_	_
 13	paouezet	paouez	VERB	vblex	Tense=Past|VerbForm=Part	7	advcl	_	_
 14	da	da	ADP	pr	_	15	mark	_	_
@@ -4897,8 +4897,8 @@
 # text = Kalz a drouz evit netra a lavarfen-me.
 # text[fra¹] = Beaucoup de bruit pour rien Je dirais-je.
 # labels = to_check
-1	Kalz	kalz	X	x	_	2	dep	_	_
-2	a	a	ADP	pr	_	3	case	_	_
+1	Kalz	kalz	ADP	pr	_	3	case	_	_
+2	a	a	X	x	_	1	fixed	_	_
 3	drouz	trouz	NOUN	n	Gender=Masc|Number=Sing	7	obj	_	_
 4	evit	evit	ADP	pr	_	5	case	_	_
 5	netra	netra	PRON	prn	Number=Sing	3	nmod	_	_
@@ -5193,8 +5193,8 @@
 # text = Tra ma vo mor 'vel mur 'n he zro, ra vezo digabestr ma bro!
 # text[fra] = Tant que la mer sera comme un mur autour d'elle.
 # labels = to_check song
-1	Tra	tra	X	x	_	2	dep	_	_
-2	ma	ma	SCONJ	cnjadv	_	6	mark	_	_
+1	Tra	tra	SCONJ	cnjadv	_	6	mark	_	_
+2	ma	ma	X	x	_	1	fixed	_	_
 3	vo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	_	_
 4	mor	mor	NOUN	n	Gender=Masc|Number=Sing	6	nsubj	_	_
 5	'vel	evel	ADP	pr	_	6	case	_	_
