@@ -930,8 +930,8 @@
 4	pep	pep	X	x	_	5	dep	_	_
 5	tra	tra	PRON	prn	Case=Acc|Number=Sing|PronType=Prs	1	obj	_	_
 6	evit	evit	ADP	pr	_	9	mark	_	_
-7	en	en	X	x	_	8	dep	_	_
-8	em	em	AUX	vpart	Reflex=Yes	9	aux	_	_
+7	en	en	AUX	vpart	Reflex=Yes	8	aux	_	_
+8	em	em	X	x	_	9	fixed	_	_
 9	staliañ	staliañ	VERB	vblex	VerbForm=Inf	1	advcl	_	_
 10	da	da	DET	det	Poss=Yes	11	det	_	_
 11	vat	mat	ADJ	adj	_	9	obj	_	SpaceAfter=No
@@ -940,8 +940,8 @@
 14	ho	ho	DET	det	Poss=Yes	15	det	_	_
 15	puhez	buhez	NOUN	n	Gender=Fem|Number=Sing	9	obl	_	_
 16	personel	personel	ADJ	adj	_	15	amod	_	_
-17	koulz	koulz	X	x	_	18	dep	_	_
-18	hag	hag	CCONJ	cnjcoo	_	21	cc	_	_
+17	koulz	koulz	CCONJ	cnjcoo	_	21	cc	_	_
+18	hag	hag	X	x	_	17	fixed	_	_
 19	en	e	ADP	pr	_	21	case	_	_
 20	ho	ho	DET	det	Poss=Yes	21	det	_	_
 21	puhez	buhez	NOUN	n	Gender=Fem|Number=Sing	15	obl	_	_
@@ -1020,8 +1020,8 @@
 6	kemer	kemer	VERB	vblex	VerbForm=Inf	1	csubj	_	_
 7	divizioù	diviz	NOUN	n	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	cm	_	11	punct	_	_
-9	en	en	X	x	_	10	dep	_	_
-10	em	em	AUX	vpart	Reflex=Yes	11	aux	_	_
+9	en	en	AUX	vpart	Reflex=Yes	11	aux	_	_
+10	em	em	X	x	_	9	fixed	_	_
 11	zifenn	difenn	VERB	vblex	VerbForm=Inf	6	conj	_	SpaceAfter=No
 12	,	,	PUNCT	cm	_	13	punct	_	_
 13	fiñval	fiñval	VERB	vblex	VerbForm=Inf	6	conj	_	_
@@ -1082,8 +1082,8 @@
 2-3	deoc'h	_	_	_	_	_	_	_	_
 2	de	da	ADP	pr	_	3	case	_	_
 3	oc'h	indirect	PRON	prn	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
-4	en	en	X	x	_	5	dep	_	_
-5	em	em	AUX	vpart	Reflex=Yes	6	aux	_	_
+4	en	en	AUX	vpart	Reflex=Yes	6	aux	_	_
+5	em	em	X	x	_	4	fixed	_	_
 6	santout	santout	VERB	vblex	VerbForm=Inf	1	csubj	_	_
 7	re	re	ADV	adv	_	8	advmod	_	_
 8	gablus	kablus	ADJ	adj	_	6	xcomp	_	_
