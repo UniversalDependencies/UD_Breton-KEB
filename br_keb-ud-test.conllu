@@ -8750,16 +8750,16 @@
 9	a	a	AUX	vpart	_	10	aux	_	_
 10	wisko	gwiskañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
 11	anezhi	direct	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
-12	.	.	PUNCT	sent	_	1	punct	_	_
+12	.	.	PUNCT	sent	_	3	punct	_	_
 
 # sent_id = grammar.vislcg.txt:271:5075
 # text = Rodig hag a dro, a ra bro.
 # text[eng] = A wheel that turns, travels.
-# labels = press_1986 ch_syntax p_208 to_check
+# labels = press_1986 ch_syntax p_208 to_check relcl
 1	Rodig	rodig	NOUN	n	Gender=Masc|Number=Sing	7	nsubj	_	_
-2	hag	ha	CCONJ	cnjcoo	_	4	cc	_	_
-3	a	a	PART	vpart	_	1	acl	_	_
-4	dro	treiñ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	fixed	_	SpaceAfter=No
+2	hag	ha	CCONJ	cnjcoo	_	4	mark	_	_
+3	a	a	PART	vpart	_	4	aux	_	_
+4	dro	treiñ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	SpaceAfter=No
 5	,	,	PUNCT	cm	_	4	punct	_	_
 6	a	a	AUX	vpart	_	7	aux	_	_
 7	ra	ober	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -8974,7 +8974,7 @@
 12	an	an	DET	det	_	13	det	_	_
 13	dra	tra	NOUN	n	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
 14	-se	se	ADV	adv	_	13	advmod	_	_
-15	ez	e	AUX	vpart	_	16	aux	_	_
+15	ez	e	AUX	vpart	_	13	aux	_	_
 16	int	bezañ	AUX	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	SpaceAfter=No
 17	.	.	PUNCT	sent	_	2	punct	_	_
 
@@ -9088,8 +9088,8 @@
 4	an	an	DET	det	_	5	det	_	_
 5	Norzh	norzh	NOUN	n	Gender=Masc|Number=Sing	3	nmod:gen	_	_
 6	zo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-7	kement	kement	X	x	_	8	dep	_	_
-8	hag	hag	SCONJ	cnjadv	_	9	mark	_	_
+7	kement	kement	SCONJ	cnjadv	_	9	mark	_	_
+8	hag	hag	X	x	_	7	fixed	_	_
 9	anavezout	anavezout	VERB	vblex	VerbForm=Inf	0	root	_	_
 10	ledred	ledred	NOUN	n	Gender=Masc|Number=Sing	9	obj	_	_
 11	al	an	DET	det	_	12	det	_	_
