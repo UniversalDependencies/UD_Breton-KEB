@@ -10115,8 +10115,8 @@
 7	teuas	dont	VERB	vblex	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	greantioù	greanti	NOUN	n	Gender=Masc|Number=Plur	7	nsubj	_	_
 9	d’	da	ADP	pr	_	12	mark	_	SpaceAfter=No
-10	en	en	X	x	_	11	dep	_	_
-11	em	em	AUX	vpart	Reflex=Yes	12	aux	_	_
+10	en	en	AUX	vpart	Reflex=Yes	12	aux	_	_
+11	em	em	X	x	_	10	fixed	_	_
 12	staliañ	staliañ	VERB	vblex	VerbForm=Inf	8	acl	_	_
 13	eno	eno	ADV	adv	_	12	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	7	punct	_	_
@@ -10143,7 +10143,7 @@
 # labels = to_check opab_parallel
 1-2	Warno	_	_	_	_	_	_	_	_
 1	War	war	ADP	pr	_	2	case	_	_
-2	no	indirect	PRON	prn	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+2	no	indirect	PRON	prn	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obl	_	_
 3	e	e	AUX	vpart	_	5	aux	_	_
 4	veze	bezañ	AUX	vblex	Aspect=Hab|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	lakaet	lakaat	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11283,7 +11283,7 @@
 # text[fra] = De structures similaires, ils disposeront chacun d'une surface au sol de 350 m².
 # labels = to_check opab_parallel
 1	Ur	un	DET	det	_	2	det	_	_
-2	gorread	gorread	NOUN	n	Gender=Masc|Number=Sing	12	nsubj	_	_
+2	gorread	gorread	NOUN	n	Gender=Masc|Number=Sing	13	nsubj	_	_
 3	leur	leur	NOUN	n	Gender=Fem|Number=Sing	2	nmod:gen	_	_
 4	a	a	ADP	pr	_	6	case	_	_
 5	350	350	NUM	num	Number=Plur	6	nummod	_	_
@@ -11741,8 +11741,8 @@
 1	Staliañ	staliañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	ar	an	DET	det	_	3	det	_	_
 3	brezhoneg	brezhoneg	NOUN	n	Gender=Masc|Number=Sing	1	obj	_	_
-4	e	e	X	x	_	5	dep	_	_
-5	diabarzh	diabarzh	ADP	pr	_	7	case	_	_
+4	e	e	ADP	pr	_	7	case	_	_
+5	diabarzh	diabarzh	X	x	_	4	fixed	_	_
 6	mont	mont	X	x	_	7	dep	_	_
 7	en-dro	en-dro	NOUN	n	Gender=Masc|Number=Sing	1	obl	_	_
 8	ho	ho	DET	det	Poss=Yes	9	det	_	_
