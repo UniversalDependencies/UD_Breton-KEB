@@ -3068,8 +3068,8 @@
 7	gentañ	kentañ	ADJ	adj	_	5	amod	_	_
 8	ar	an	DET	det	_	9	det	_	_
 9	vro	bro	NOUN	n	Gender=Fem|Number=Sing	5	nmod:gen	_	_
-10	koulz	koulz	X	x	_	11	dep	_	_
-11	hag	hag	SCONJ	cnjadv	_	13	cc	_	_
+10	koulz	koulz	SCONJ	cnjadv	_	13	cc	_	_
+11	hag	hag	X	x	_	10	fixed	_	_
 12	ur	un	DET	det	_	13	det	_	_
 13	rummad	rummad	NOUN	n	Gender=Masc|Number=Sing	5	conj	_	_
 14	skeudennoù	skeudenn	NOUN	n	Gender=Fem|Number=Plur	13	nmod:gen	_	_
@@ -3424,9 +3424,9 @@
 6	d'	da	ADP	pr	_	8	case	_	_
 7	an	an	DET	det	_	8	det	_	_
 8	holl	holl	PRON	prn	Number=Plur	4	obl	_	_
-9	en	en	X	x	_	11	dep	_	_
-10	desped	desped	X	x	_	11	dep	_	_
-11	da	da	ADP	pr	_	13	case	_	_
+9	en	en	ADP	pr	_	13	case	_	_
+10	desped	desped	X	x	_	9	fixed	_	_
+11	da	da	X	x	_	9	fixed	_	_
 12	bep	bep	DET	det	Number=Sing	13	det	_	_
 13	tra	tra	NOUN	n	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	4	punct	_	_
