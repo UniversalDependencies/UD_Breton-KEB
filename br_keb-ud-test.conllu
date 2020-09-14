@@ -13500,10 +13500,10 @@
 5	e	e	ADP	pr	_	6	case	_	_
 6	Bro-Saoz	bro-Saoz	PROPN	np	Number=Sing	1	obl	_	_
 7	gant	gant	ADP	pr	_	11	case	_	_
-8	tost	tost	X	x	_	9	dep	_	_
-9	da	da	ADP	pr	_	11	det	_	_
-10	150	150	X	x	_	11	dep	_	_
-11	000	000	NUM	num	Number=Plur	1	obl:agent	_	_
+8	tost	tost	ADP	pr	_	10	det	_	_
+9	da	da	X	x	_	8	fixed	_	_
+10	150	150	NUM	num	_	1	obl:agent	_	_
+11	000	000	NUM	num	Number=Plur	10	fixed	_	_
 12	a	a	ADP	pr	_	13	case	_	_
 13	dud	den	NOUN	n	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	1	punct	_	_
