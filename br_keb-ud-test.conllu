@@ -1115,11 +1115,11 @@
 # text[fra¹] = Cette affaire est très sérieuse
 # labels = to_check
 1-2	Sirius-tre	_	_	_	_	_	_	_	_
-1	Sirius	sirius	ADJ	adj	_	0	root	_	SpaceAfter=No
+1	Sirius	sirius	ADJ	adj	_	0	root	_	_
 2	-tre	tre	ADV	adv	_	1	advmod	_	_
 3	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 4	an	an	DET	det	_	5	det	_	_
-5	afer	afer	NOUN	n	Gender=Fem|Number=Sing	1	nsubj	_	_
+5	afer	afer	NOUN	n	Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
 6	-mañ	mañ	ADV	adv	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	1	punct	_	_
 
