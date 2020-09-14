@@ -1119,7 +1119,7 @@
 2	-tre	tre	ADV	adv	_	1	advmod	_	_
 3	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 4	an	an	DET	det	_	5	det	_	_
-5	afer	afer	NOUN	n	Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+5	afer	afer	NOUN	n	Gender=Fem|Number=Sing	1	nsubj	_	_
 6	-mañ	mañ	ADV	adv	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	1	punct	_	_
 
@@ -1567,7 +1567,7 @@
 7	en-dro	en-dro	ADV	adv	_	3	advmod	_	_
 8	memes	memes	X	x	_	9	dep	_	_
 9	tra	tra	ADV	adv	_	3	advmod	_	SpaceAfter=No
-10	.	.	PUNCT	sent	_	5	punct	_	_
+10	.	.	PUNCT	sent	_	3	punct	_	_
 
 # sent_id = bremaik.vislcg.txt:51:1453
 # text = Dek kilometrad a-raok ar fin, e oa daou varc'hhouarner oc'h en em gannañ evit ar plas kentañ.
@@ -9604,7 +9604,7 @@
 4	divyezhek	divyezhek	ADJ	adj	_	3	amod	_	_
 5	e	e	ADP	pr	_	6	case	_	_
 6	2007	2007	NUM	num	Number=Plur	2	nmod	_	SpaceAfter=No
-7	/	/	SYM	sym	_	8	punct	_	SpaceAfter=No
+7	/	/	punct	sym	_	8	punct	_	SpaceAfter=No
 8	2008	2008	NUM	num	Number=Plur	6	conj	_	_
 
 # sent_id = oab.vislcg.txt:38:1055
@@ -12014,7 +12014,7 @@
 # text = Petra 'peus 'ta plac'h yaouank?
 # text[fra] = Qu'as-tu donc jeune fille?
 # labels = to_check song
-1	Petra	petra	PRON	prn	PronType=Int	3	advmod	_	_
+1	Petra	petra	ADV	prn	PronType=Int	3	advmod	_	_
 2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
 3	peus	kaout	VERB	vblex	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	'ta	eta	ADV	adv	_	3	advmod	_	_
@@ -12026,7 +12026,7 @@
 # text = Petra 'ra dit gouelañ ?
 # text[fra] = Qu'est-ce qui te fait pleurer ?
 # labels = to_check song
-1	Petra	petra	PRON	prn	PronType=Int	3	advmod	_	_
+1	Petra	petra	ADV	prn	PronType=Int	3	advmod	_	_
 2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
 3	ra	ober	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4-5	dit	_	_	_	_	_	_	_	_
@@ -12945,7 +12945,7 @@
 7	gomiserien	komiser	NOUN	n	Gender=Masc|Number=Plur	5	nmod:gen	_	_
 8	all	all	ADJ	adj	_	7	amod	_	_
 9	(	(	PUNCT	lpar	_	11	punct	_	SpaceAfter=No
-10	=	=	SYM	sym	_	11	punct	_	SpaceAfter=No
+10	=	=	punct	sym	_	11	punct	_	SpaceAfter=No
 11	prefeded	prefed	NOUN	n	Gender=Masc|Number=Plur	7	appos	_	SpaceAfter=No
 12	)	)	PUNCT	rpar	_	11	punct	_	_
 13	e	e	ADP	pr	_	14	case	_	_
