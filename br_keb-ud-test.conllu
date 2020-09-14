@@ -930,8 +930,8 @@
 4	pep	pep	X	x	_	5	dep	_	_
 5	tra	tra	PRON	prn	Case=Acc|Number=Sing|PronType=Prs	1	obj	_	_
 6	evit	evit	ADP	pr	_	9	mark	_	_
-7	en	en	AUX	vpart	Reflex=Yes	8	aux	_	_
-8	em	em	X	x	_	9	fixed	_	_
+7	en	en	AUX	vpart	Reflex=Yes	9	aux	_	_
+8	em	em	X	x	_	7	fixed	_	_
 9	staliañ	staliañ	VERB	vblex	VerbForm=Inf	1	advcl	_	_
 10	da	da	DET	det	Poss=Yes	11	det	_	_
 11	vat	mat	ADJ	adj	_	9	obj	_	SpaceAfter=No
@@ -1584,8 +1584,8 @@
 9	daou	daou	NUM	num	Gender=Masc|Number=Plur	10	nummod	_	_
 10	varc'hhouarner	marc’hhouarner	NOUN	n	Gender=Masc|Number=Sing	14	nsubj	_	_
 11	oc'h	o	AUX	vpart	_	14	aux	_	_
-12	en	en	X	x	_	13	dep	_	_
-13	em	em	AUX	vpart	Reflex=Yes	14	aux	_	_
+12	en	en	AUX	vpart	Reflex=Yes	14	aux	_	_
+13	em	em	X	x	_	12	fixed	_	_
 14	gannañ	kannañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 15	evit	evit	ADP	pr	_	17	case	_	_
 16	ar	an	DET	det	_	17	det	_	_
@@ -1660,8 +1660,8 @@
 5	dud	den	NOUN	n	Gender=Masc|Number=Plur	2	nmod	_	_
 6	a	a	AUX	vpart	_	7	aux	_	_
 7	c'hounez	gounit	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
-8	nebeutoc'h	nebeutoc’h	X	x	_	9	dep	_	_
-9	eget	eget	ADP	pr	_	11	case	_	_
+8	nebeutoc'h	nebeutoc’h	ADP	pr	_	11	case	_	_
+9	eget	eget	X	x	_	8	fixed	_	_
 10	1	1	NUM	num	Number=Sing	11	nummod	_	_
 11	$	$	SYM	sym	_	7	obl	_	_
 12	bemdez	bemdez	ADV	adv	_	7	advmod	_	_
@@ -1855,7 +1855,7 @@
 10	,	,	PUNCT	cm	_	12	punct	_	_
 11	a-benn	a-benn	ADP	pr	_	12	mark	_	_
 12	gouzout	gouzout	VERB	vblex	VerbForm=Inf	1	advcl	_	_
-13	"	"	PUNCT	quot	_	15	punct	_	SpaceAfter=No
+13	"	"	PUNCT	quot	_	14	punct	_	SpaceAfter=No
 14	piv	piv	PRON	prn	PronType=Int	12	obj	_	SpaceAfter=No
 15	,	,	PUNCT	cm	_	16	punct	_	_
 16	petra	petra	PRON	prn	PronType=Int	14	conj	_	_
