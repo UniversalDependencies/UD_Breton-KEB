@@ -9604,7 +9604,7 @@
 4	divyezhek	divyezhek	ADJ	adj	_	3	amod	_	_
 5	e	e	ADP	pr	_	6	case	_	_
 6	2007	2007	NUM	num	Number=Plur	2	nmod	_	SpaceAfter=No
-7	/	/	punct	sym	_	8	punct	_	SpaceAfter=No
+7	/	/	PUNCT	sym	_	8	punct	_	SpaceAfter=No
 8	2008	2008	NUM	num	Number=Plur	6	conj	_	_
 
 # sent_id = oab.vislcg.txt:38:1055
@@ -12945,7 +12945,7 @@
 7	gomiserien	komiser	NOUN	n	Gender=Masc|Number=Plur	5	nmod:gen	_	_
 8	all	all	ADJ	adj	_	7	amod	_	_
 9	(	(	PUNCT	lpar	_	11	punct	_	SpaceAfter=No
-10	=	=	punct	sym	_	11	punct	_	SpaceAfter=No
+10	=	=	PUNCT	sym	_	11	punct	_	SpaceAfter=No
 11	prefeded	prefed	NOUN	n	Gender=Masc|Number=Plur	7	appos	_	SpaceAfter=No
 12	)	)	PUNCT	rpar	_	11	punct	_	_
 13	e	e	ADP	pr	_	14	case	_	_
