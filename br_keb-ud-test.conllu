@@ -6346,7 +6346,7 @@
 3	-mañ	mañ	ADV	adv	_	2	advmod	_	_
 4	'ni	hini	PRON	prn	_	2	nsubj	_	_
 5	am eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
-6	kavet	kavout	VERB	vblex	Tense=Past|VerbForm=Part	4	acl:focus	_	SpaceAfter=No
+6	kavet	kavout	VERB	vblex	Tense=Past|VerbForm=Part	4	acl	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	4	punct	_	_
 
 # sent_id = grammar.vislcg.txt:80:1544
@@ -6742,7 +6742,7 @@
 1	Buan	buan	ADV	adv	_	0	root	_	_
 2	'ni	hini	PRON	prn	_	1	nsubj	_	_
 3	e	e	AUX	vpart	_	4	aux	_	_
-4	rede	redek	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:focus	_	_
+4	rede	redek	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	_
 5	dre	dre	ADP	pr	_	7	case	_	_
 6	ar	an	DET	det	_	7	det	_	_
 7	parkeier	park	NOUN	n	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
