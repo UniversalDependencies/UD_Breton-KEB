@@ -10467,7 +10467,7 @@
 # labels = to_check opab_parallel
 1	Gant	gant	ADP	pr	_	3	case	_	_
 2	ar	an	DET	det	_	3	det	_	_
-3	servijer	servijer	NOUN	n	Gender=Masc|Number=Sing	7	obl:x	_	SpaceAfter=No
+3	servijer	servijer	NOUN	n	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 4	-mañ	mañ	ADV	adv	_	3	advmod	_	_
 5	e	e	AUX	vpart	_	7	aux	_	_
 6	vez	bezañ	AUX	vblex	Aspect=Hab|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
