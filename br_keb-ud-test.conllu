@@ -8990,7 +8990,7 @@
 6	bir	bir	NOUN	n	Gender=Masc|Number=Sing	3	obl	_	_
 7	n'	ne	ADV	adv	Polarity=Neg	11	advmod	_	SpaceAfter=No
 8	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-9	ket	ket	ADV	adv	_	11	advmod:neg	_	_
+9	ket	ket	ADV	adv	_	11	advmod	_	_
 10	ur	un	DET	det	_	11	det	_	_
 11	c'halaksienn	galaksienn	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
 12	met	met	CCONJ	cnjcoo	_	14	cc	_	_
