@@ -5159,7 +5159,7 @@
 4	brezel	brezel	NOUN	n	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	cm	_	7	punct	_	_
 6	hon	hon	DET	det	Poss=Yes	7	det	_	_
-7	tadoù	tad	NOUN	n	Gender=Masc|Number=Plur	12	nsubj:appos	_	_
+7	tadoù	tad	NOUN	n	Gender=Masc|Number=Plur	12	nsubj	_	_
 8	ken	ken	ADV	preadv	_	9	advmod	_	_
 9	mat	mat	ADJ	adj	_	7	amod	_	SpaceAfter=No
 10	,	,	PUNCT	cm	_	12	punct	_	_
@@ -9317,7 +9317,7 @@
 # text = Ezel eus Kevredigezh al Livourien-engraverien c'hall, e produ dourioù-kreñv.
 # text[fra] = Membre de la Société des Peintres-Graveurs français, il exécute des eaux-fortes.
 # labels = to_check opab_parallel
-1	Ezel	ezel	NOUN	n	Gender=Masc|Number=Sing	11	nsubj:appos	_	_
+1	Ezel	ezel	NOUN	n	Gender=Masc|Number=Sing	11	nsubj	_	_
 2	eus	eus	ADP	pr	_	3	case	_	_
 3	Kevredigezh	kevredigezh	NOUN	n	Gender=Fem|Number=Sing	1	nmod	_	_
 4	al	an	DET	det	_	5	det	_	_
