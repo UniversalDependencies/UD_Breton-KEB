@@ -50,10 +50,10 @@
     <feat name="Number" value="Plur" upos="AUX,DET,NOUN,NUM,PRON,PROPN,VERB">924</feat><!-- dud, daou, o, oc'h, vugale, tud, traoù, o deus, holl, int -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2763</feat><!-- eo, oa, vo, zo, Breizh, ra, Yann, levr, vez, brezhoneg -->
     <feat name="NumType" value="Ord" upos="ADJ,NUM">17</feat><!-- eil, 19vet, 13vet, 17vet, 1añ, 31añ, 60vet, X, c'hentañ, drede -->
+    <feat name="Person" value="0" upos="AUX,VERB">31</feat><!-- reer, c'haller, c'heller, adkaver, eus, c'haver, c'houlenner, c’haller, eur, gaver -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">145</feat><!-- me, in, ran, am eus, em eus, on, rin, -me, hon eus, omp -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">106</feat><!-- oc'h, tennit, klaskit, meskit, out, Lakait, hoc'h eus, it, rit, Ouzhpennit -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">874</feat><!-- eo, oa, vo, zo, ra, vez, en deus, o, i, añ -->
-    <feat name="Person" value="Auto" upos="AUX,VERB">31</feat><!-- reer, c'haller, c'heller, adkaver, eus, c'haver, c'houlenner, c’haller, eur, gaver -->
     <feat name="Polarity" value="Neg" upos="ADV,AUX,PART">98</feat><!-- ne, n', na, Ne'z, n’ -->
     <feat name="Poss" value="Yes" upos="DET">153</feat><!-- e, ho, o, he, ma, va, hon, hoc'h, da, hor -->
     <feat name="PronType" value="Dem" upos="PRON">12</feat><!-- Hemañ, kement-se, Hennezh, se, Honnezh, hounnezh -->
@@ -69,13 +69,11 @@
     <feat name="VerbForm" value="Part" upos="AUX,VERB">434</feat><!-- bet, kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="43">
-    <dep name="acl">125</dep>
-    <dep name="acl:focus">2</dep>
+  <deps unique="39">
+    <dep name="acl">127</dep>
     <dep name="acl:relcl">1</dep>
     <dep name="advcl">151</dep>
-    <dep name="advmod">534</dep>
-    <dep name="advmod:neg">1</dep>
+    <dep name="advmod">535</dep>
     <dep name="amod">291</dep>
     <dep name="appos">39</dep>
     <dep name="aux">969</dep>
@@ -99,14 +97,12 @@
     <dep name="nmod">221</dep>
     <dep name="nmod:gen">378</dep>
     <dep name="nmod:poss">4</dep>
-    <dep name="nsubj">547</dep>
-    <dep name="nsubj:appos">2</dep>
+    <dep name="nsubj">549</dep>
     <dep name="nsubj:cop">1</dep>
     <dep name="nummod">97</dep>
     <dep name="obj">393</dep>
-    <dep name="obl">617</dep>
+    <dep name="obl">618</dep>
     <dep name="obl:agent">66</dep>
-    <dep name="obl:x">1</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">37</dep>
     <dep name="punct">1153</dep>
