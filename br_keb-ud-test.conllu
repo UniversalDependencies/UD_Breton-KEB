@@ -14,7 +14,7 @@
 # text[fra] = On n'a pas progressé.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
-2	eur	bezañ	AUX	vblex	Mood=Ind|Number=Plur|Person=Auto|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	eur	bezañ	AUX	vblex	Mood=Ind|Number=Plur|Person=0|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	ket	ket	ADV	adv	_	4	advmod	_	_
 4	aet	mont	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 5	war-raok	war-raok	ADV	adv	_	4	advmod	_	SpaceAfter=No
@@ -2123,7 +2123,7 @@
 1	Kaotigell	kaotigell	NOUN	n	Gender=Fem|Number=Sing	5	nsubj	_	_
 2	sivi	sivi	NOUN	n	Gender=Fem|Number=Plur	1	nmod:gen	_	_
 3	a	a	AUX	vpart	_	5	aux	_	_
-4	c'heller	gellout	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	c'heller	gellout	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	ouzhpennañ	ouzhpennañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 6	ivez	ivez	ADV	adv	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	5	punct	_	_
@@ -3092,7 +3092,7 @@
 # labels = to_check
 1	Displegañ	displegañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
-3	reer	ober	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3	reer	ober	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	1	aux	_	_
 4-5	en	_	_	_	_	_	_	_	_
 4	e	e	ADP	pr	_	6	case	_	_
 5	n	an	DET	det	_	6	det	_	_
@@ -3264,7 +3264,7 @@
 11	ar	ar	X	x	_	12	dep	_	_
 12	re	re	PRON	prn	Number=Sing|PronType=Rel	9	obl	_	_
 13	a	a	AUX	vpart	_	15	aux	_	_
-14	c'heller	gellout	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	c'heller	gellout	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	15	aux	_	_
 15	lakaat	lakaat	VERB	vblex	VerbForm=Inf	12	acl	_	_
 16-17	er	_	_	_	_	_	_	_	_
 16	e	e	ADP	pr	_	18	case	_	_
@@ -3375,7 +3375,7 @@
 # text[fra¹] = On ne peut plus parler à individus quels à groupes petits laissés à faire ce que ils aiment.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	5	advmod	_	_
-2	c'heller	gellout	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	5	aux	_	_
+2	c'heller	gellout	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	ket	ket	X	x	_	4	dep	_	_
 4	mui	mui	ADV	adv	_	5	advmod	_	_
 5	komz	komz	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -3735,7 +3735,7 @@
 1	Fentus	fentus	ADJ	adj	_	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	pa	pa	SCONJ	cnjsub	_	4	mark	_	_
-4	soñjer	soñjal	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	1	csubj	_	_
+4	soñjer	soñjal	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	1	csubj	_	_
 5	e	e	AUX	vpart	_	8	aux	_	_
 6	c'hallfe	gallout	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	8	aux	_	_
 7	bezañ	bezañ	AUX	vblex	VerbForm=Inf	8	aux	_	_
@@ -3868,7 +3868,7 @@
 # labels = to_check
 1	Adarre	adarre	ADV	adv	_	3	advmod	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
-3	c'houlenner	goulenn	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	c'houlenner	goulenn	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	pr	_	6	case	_	_
 5	wir	gwir	ADJ	adj	_	6	amod	_	_
 6	galon	kalon	NOUN	n	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
@@ -4631,7 +4631,7 @@
 6	met	met	CCONJ	cnjcoo	_	10	cc	_	_
 7-8	n'eus	_	_	_	_	_	_	_	_
 7	n'	ne	ADV	adv	_	10	advmod	_	_
-8	eus	bezañ	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	10	aux	_	_
+8	eus	bezañ	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	10	aux	_	_
 9	bet	bezañ	AUX	vblex	Tense=Past|VerbForm=Part	10	aux:pass	_	_
 10	cheñchet	cheñch	VERB	vblex	Tense=Past|VerbForm=Part	1	conj	_	_
 11	netra	netra	PRON	prn	Number=Sing	10	nsubj	_	_
@@ -5004,7 +5004,7 @@
 # labels = to_check
 1	Gellout	gellout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
-3	reer	ober	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3	reer	ober	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	1	aux	_	_
 4	gwelet	gwelout	VERB	vblex	VerbForm=Inf	1	xcomp	_	_
 5	skeudennoù	skeudenn	NOUN	n	Gender=Fem|Number=Plur	4	obj	_	_
 6	eus	eus	ADP	pr	_	8	case	_	_
@@ -5159,7 +5159,7 @@
 4	brezel	brezel	NOUN	n	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	cm	_	7	punct	_	_
 6	hon	hon	DET	det	Poss=Yes	7	det	_	_
-7	tadoù	tad	NOUN	n	Gender=Masc|Number=Plur	12	nsubj:appos	_	_
+7	tadoù	tad	NOUN	n	Gender=Masc|Number=Plur	12	nsubj	_	_
 8	ken	ken	ADV	preadv	_	9	advmod	_	_
 9	mat	mat	ADJ	adj	_	7	amod	_	SpaceAfter=No
 10	,	,	PUNCT	cm	_	12	punct	_	_
@@ -5229,7 +5229,7 @@
 # labels = to_check song
 1-2	N'eus	_	_	_	_	_	_	_	_
 1	N'	ne	ADV	adv	_	5	advmod	_	_
-2	eus	bezañ	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	eus	bezañ	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	pobl	pobl	NOUN	n	Gender=Fem|Number=Sing	5	nsubj	_	_
 4	ken	ken	ADV	preadv	_	5	advmod	_	_
 5	kalonek	kalonek	ADJ	adj	_	0	root	_	_
@@ -6346,7 +6346,7 @@
 3	-mañ	mañ	ADV	adv	_	2	advmod	_	_
 4	'ni	hini	PRON	prn	_	2	nsubj	_	_
 5	am eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
-6	kavet	kavout	VERB	vblex	Tense=Past|VerbForm=Part	4	acl:focus	_	SpaceAfter=No
+6	kavet	kavout	VERB	vblex	Tense=Past|VerbForm=Part	4	acl	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	4	punct	_	_
 
 # sent_id = grammar.vislcg.txt:80:1544
@@ -6519,7 +6519,7 @@
 1	An	an	DET	det	_	2	det	_	_
 2	den	den	NOUN	n	Gender=Masc|Number=Sing	9	nsubj	_	_
 3	ma	ma	SCONJ	cnjsub	_	4	mark	_	_
-4	gomzer	komz	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	2	acl	_	_
+4	gomzer	komz	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	2	acl	_	_
 5-6	dioutañ	_	_	_	_	_	_	_	_
 5	diout	diouzh	ADP	pr	_	6	case	_	_
 6	añ	indirect	PRON	prn	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
@@ -6742,7 +6742,7 @@
 1	Buan	buan	ADV	adv	_	0	root	_	_
 2	'ni	hini	PRON	prn	_	1	nsubj	_	_
 3	e	e	AUX	vpart	_	4	aux	_	_
-4	rede	redek	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:focus	_	_
+4	rede	redek	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	_
 5	dre	dre	ADP	pr	_	7	case	_	_
 6	ar	an	DET	det	_	7	det	_	_
 7	parkeier	park	NOUN	n	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
@@ -7576,7 +7576,7 @@
 1	Al	an	DET	det	_	2	det	_	_
 2	levr	levr	NOUN	n	Gender=Masc|Number=Sing	4	dep	_	_
 3	a	a	AUX	vpart	_	4	aux	_	_
-4	lenner	lenn	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	lenner	lenn	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	sent	_	4	punct	_	_
 
 # sent_id = grammar.vislcg.txt:183:3320
@@ -8990,7 +8990,7 @@
 6	bir	bir	NOUN	n	Gender=Masc|Number=Sing	3	obl	_	_
 7	n'	ne	ADV	adv	Polarity=Neg	11	advmod	_	SpaceAfter=No
 8	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-9	ket	ket	ADV	adv	_	11	advmod:neg	_	_
+9	ket	ket	ADV	adv	_	11	advmod	_	_
 10	ur	un	DET	det	_	11	det	_	_
 11	c'halaksienn	galaksienn	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
 12	met	met	CCONJ	cnjcoo	_	14	cc	_	_
@@ -9317,7 +9317,7 @@
 # text = Ezel eus Kevredigezh al Livourien-engraverien c'hall, e produ dourioù-kreñv.
 # text[fra] = Membre de la Société des Peintres-Graveurs français, il exécute des eaux-fortes.
 # labels = to_check opab_parallel
-1	Ezel	ezel	NOUN	n	Gender=Masc|Number=Sing	11	nsubj:appos	_	_
+1	Ezel	ezel	NOUN	n	Gender=Masc|Number=Sing	11	nsubj	_	_
 2	eus	eus	ADP	pr	_	3	case	_	_
 3	Kevredigezh	kevredigezh	NOUN	n	Gender=Fem|Number=Sing	1	nmod	_	_
 4	al	an	DET	det	_	5	det	_	_
@@ -9529,7 +9529,7 @@
 # labels = to_check opab_parallel
 1	Evel-se	evel-se	ADV	adv	_	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
-3	c’haller	gallout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	c’haller	gallout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	stardañ	stardañ	VERB	vblex	VerbForm=Inf	3	dep	_	_
 5	mat	mat	ADV	adv	_	4	advmod	_	_
 6	ar	an	DET	det	_	7	det	_	_
@@ -10363,7 +10363,7 @@
 # text[fra] = Impossible d'ajouter un ou plusieurs utilisateurs à la liste.
 # labels = to_check opab_parallel
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
-2	c'haller	gallout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	c'haller	gallout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ouzhpennañ	ouzhpennañ	VERB	vblex	VerbForm=Inf	2	xcomp	_	_
 4	implijer	implijer	NOUN	n	Gender=Masc|Number=Sing	3	obj	_	_
 5	ebet	ebet	ADV	adv	_	3	advmod	_	_
@@ -10387,7 +10387,7 @@
 # text[fra] = Impossible de lire une propriété écriture seule.
 # labels = to_check opab_parallel
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
-2	c'haller	gallout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	c'haller	gallout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ket	ket	ADV	adv	_	2	advmod	_	_
 4	lenn	lenn	VERB	vblex	VerbForm=Inf	2	xcomp	_	_
 5	ur	un	DET	det	_	6	det	_	_
@@ -10427,7 +10427,7 @@
 # labels = to_check opab_parallel
 1	Evel-se	evel-se	ADV	adv	_	3	dep	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
-3	tiwaller	diwall	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tiwaller	diwall	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	na	na	AUX	vpart	Polarity=Neg	6	aux	_	_
 5	vefe	bezañ	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	6	aux	_	_
 6	paouezet	paouez	VERB	vblex	Tense=Past|VerbForm=Part	3	dep	_	_
@@ -10467,7 +10467,7 @@
 # labels = to_check opab_parallel
 1	Gant	gant	ADP	pr	_	3	case	_	_
 2	ar	an	DET	det	_	3	det	_	_
-3	servijer	servijer	NOUN	n	Gender=Masc|Number=Sing	7	obl:x	_	SpaceAfter=No
+3	servijer	servijer	NOUN	n	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 4	-mañ	mañ	ADV	adv	_	3	advmod	_	_
 5	e	e	AUX	vpart	_	7	aux	_	_
 6	vez	bezañ	AUX	vblex	Aspect=Hab|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
@@ -10941,7 +10941,7 @@
 7	an	an	DET	det	_	8	det	_	_
 8	hent-ged	hent-ged	NOUN	n	Gender=Masc|Number=Sing	2	conj	_	_
 9	a	a	AUX	vpart	_	10	aux	_	_
-10	c'haller	gallout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	c'haller	gallout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	gweladenniñ	gweladenniñ	VERB	vblex	VerbForm=Inf	10	xcomp	_	_
 12	digoust	digoust	ADV	adv	_	10	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	sent	_	10	punct	_	_
@@ -11194,7 +11194,7 @@
 1	2002	2002	NUM	num	Number=Plur	2	parataxis	_	_
 2	Lidañ	lidañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 3	a	a	AUX	vpart	_	2	aux	_	_
-4	reer	ober	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	2	aux	_	_
+4	reer	ober	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	2	aux	_	_
 5	digoradur	digoradur	NOUN	n	Gender=Masc|Number=Sing	2	obj	_	_
 6	ar	an	DET	det	_	7	det	_	_
 7	framm	framm	NOUN	n	Gender=Masc|Number=Sing	5	nmod:gen	_	_
@@ -11549,7 +11549,7 @@
 10	ha	ha	CCONJ	cnjcoo	_	11	cc	_	_
 11	gallout	gallout	VERB	vblex	VerbForm=Inf	1	conj	_	_
 12	a	a	AUX	vpart	_	11	aux	_	_
-13	reer	ober	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	11	aux	_	_
+13	reer	ober	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	11	aux	_	_
 14	krouiñ	krouiñ	VERB	vblex	VerbForm=Inf	11	xcomp	_	_
 15	kinkladurioù	kinkladur	NOUN	n	Gender=Masc|Number=Plur	14	obj	_	_
 16	gouloù	gouloù	ADJ	adj	_	15	amod	_	_
@@ -11703,7 +11703,7 @@
 4	pal	pal	NOUN	n	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 5	-se	se	ADV	adv	_	4	advmod	_	_
 6	e	e	AUX	vpart	_	8	aux	_	_
-7	tleer	dleout	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	tleer	dleout	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	suraat	suraat	VERB	vblex	VerbForm=Inf	0	root	_	_
 9	hag	ha	CCONJ	cnjcoo	_	10	cc	_	_
 10	aesaat	aesaat	VERB	vblex	VerbForm=Inf	8	conj	_	_
@@ -11875,7 +11875,7 @@
 # text[fra] = Si l'on ajoute la famille et les copains, invités occasionnels, ce total atteint sans doute trois millions de personnes.
 # labels = to_check opab_parallel
 1	Ma'z	ma	SCONJ	cnjsub	_	2	mark	_	_
-2	ouzhpenner	ouzhpennañ	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+2	ouzhpenner	ouzhpennañ	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 3	ar	an	DET	det	_	4	det	_	_
 4	familh	familh	NOUN	n	Gender=Fem|Number=Sing	2	obj	_	_
 5	hag	ha	CCONJ	cnjcoo	_	7	cc	_	_
@@ -11889,7 +11889,7 @@
 13	amzer	amzer	NOUN	n	Gender=Fem|Number=Sing	11	nmod:gen	_	SpaceAfter=No
 14	,	,	PUNCT	cm	_	9	punct	_	_
 15	e	e	AUX	vpart	_	16	aux	_	_
-16	tizher	tizhout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	tizher	tizhout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	e-tro	e-tro	ADP	pr	_	20	case	_	_
 18	3	3	NUM	num	Number=Plur	19	compound	_	_
 19	milion	milion	NOUN	n	Gender=Masc|Number=Sing	20	nummod	_	_
@@ -12307,7 +12307,7 @@
 3	daolenn	taolenn	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	_
 4	dindan	dindan	ADV	adv	_	3	advmod	_	_
 5	e	e	AUX	vpart	_	6	aux	_	_
-6	c'haller	gallout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	c'haller	gallout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	gwelet	gwelet	VERB	vblex	VerbForm=Inf	6	xcomp	_	_
 8	ar pezh	ar pezh a	PRON	prn	Number=Sing|PronType=Rel	10	nsubj	_	_
 9	zo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
@@ -12363,7 +12363,7 @@
 # labels = to_check
 1	Muioc'h-mui	muioc’h-mui	ADV	adv	_	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
-3	adkaver	adkavout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	adkaver	adkavout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	ivez	ivez	ADV	adv	_	3	advmod	_	_
 5	ar	an	DET	det	_	6	det	_	_
 6	yezh	yezh	NOUN	n	Gender=Fem|Number=Sing	3	obj	_	_
@@ -12384,7 +12384,7 @@
 3	an	an	DET	det	_	4	det	_	_
 4	Emsav	emsav	NOUN	n	Gender=Masc|Number=Sing	6	obl	_	_
 5	e	e	AUX	vpart	_	6	aux	_	_
-6	adkaver	adkavout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	adkaver	adkavout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	nebeut	nebeut	ADV	adv	_	8	advmod	_	_
 8	implij	implij	NOUN	n	Gender=Masc|Number=Sing	6	obj	_	_
 9	eus	eus	ADP	pr	_	11	case	_	_
@@ -13113,7 +13113,7 @@
 # labels = to_check
 1	Kenderc’hel	kenderc’hel	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
-3	reer	ober	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3	reer	ober	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	1	aux	_	_
 4	da	da	ADP	pr	_	5	mark	_	_
 5	zivizout	divizout	VERB	vblex	VerbForm=Inf	1	xcomp	_	_
 6	er	e	ADP	pr	_	7	case	_	_
@@ -13618,7 +13618,7 @@
 # labels = to_check
 1	Kavout	kavout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
-3	reer	ober	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3	reer	ober	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	1	aux	_	_
 4	kembraeg	kembraeg	NOUN	n	Gender=Masc|Number=Sing	1	nsubj	_	_
 5	war	war	ADP	pr	_	7	case	_	_
 6	ar	an	DET	det	_	7	det	_	_
@@ -13750,7 +13750,7 @@
 1	Da	da	ADP	pr	_	2	case	_	_
 2	gentañ	kentañ	ADJ	adj	_	5	obl	_	_
 3	e	e	AUX	vpart	_	5	aux	_	_
-4	ranker	rankout	AUX	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	ranker	rankout	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	menegiñ	menegiñ	VERB	vblex	VerbForm=Inf	0	root	_	_
 6	levezon	levezon	NOUN	n	Gender=Fem|Number=Sing	5	dep	_	_
 7	al	an	DET	det	_	8	det	_	_
@@ -14066,7 +14066,7 @@
 1	Teir	tri	NUM	num	Gender=Fem|Number=Plur	2	nummod	_	_
 2	relijion	relijion	NOUN	n	Gender=Fem|Number=Sing	4	dep	_	_
 3	a	a	AUX	vpart	_	4	aux	_	_
-4	gaver	kavout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	gaver	kavout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	e	e	ADP	pr	_	6	case	_	_
 6	Tibet	Tibet	PROPN	np	Number=Sing	4	obl	_	_
 7	:	:	PUNCT	sent	_	9	punct	_	_
@@ -14123,7 +14123,7 @@
 # text[fra¹] = On ne sait pas bien d'où venait Nominoe.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	2	advmod	_	SpaceAfter=No
-2	ouzer	gouzout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ouzer	gouzout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ket	ket	ADV	adv	_	2	advmod	_	_
 4	mat	mat	ADJ	adj	_	2	advmod	_	_
 5	eus	eus	ADP	pr	_	6	case	_	_
@@ -14689,7 +14689,7 @@
 7	,	,	PUNCT	cm	_	10	punct	_	_
 8	n'	ne	ADV	adv	Polarity=Neg	10	advmod	_	SpaceAfter=No
 9	he	direct	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
-10	c'haver	kavout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+10	c'haver	kavout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 11	ket	ket	ADV	adv	_	10	advmod	_	_
 12-13	en	_	_	_	_	_	_	_	_
 12	e	e	ADP	pr	_	14	case	_	_
