@@ -1419,27 +1419,29 @@
 9	un	un	DET	det	_	10	det	_	_
 10	dibenn-sizhun	dibenn-sizhun	NOUN	n	Gender=Masc|Number=Sing	1	obj	_	_
 11	staj	staj	NOUN	n	Gender=Masc|Number=Sing	10	nmod:gen	_	_
+12-13	er	_	_	_	_	_	_	_	_
 12	e	e	ADP	pr	_	13	case	_	_
-13	r Poulgwenn	Ar Poulgwenn	PROPN	Poulgwenn	Number=Sing	1	obl	_	_
-14	(	(	PUNCT	lpar	_	15	punct	_	SpaceAfter=No
-15	44	44	NUM	num	Number=Plur	13	appos	_	SpaceAfter=No
-16	)	)	PUNCT	rpar	_	15	punct	_	_
-17-18	d'ar	_	_	_	_	_	_	_	_
-17	d'	da	ADP	pr	_	19	case	_	_
-18	ar	an	DET	det	_	19	det	_	_
-19	Sadorn	Sadorn	NOUN	n	Gender=Masc	1	obl	_	_
-20	15	15	NUM	num	Number=Plur	19	nmod	_	_
-21	ha	ha	CCONJ	cnjcoo	_	24	cc	_	_
-22-23	d'ar	_	_	_	_	_	_	_	_
-22	d'	da	ADP	pr	_	24	case	_	_
-23	ar	an	DET	det	_	24	det	_	_
-24	Sul	Sul	NOUN	n	Gender=Masc	19	conj	_	_
-25	16	16	NUM	num	Number=Plur	24	nmod	_	_
-26	a	a	ADP	pr	_	28	case	_	_
-27	viz	miz	X	x	_	28	dep	_	_
-28	Meurzh	Meurzh	NOUN	n	Gender=Masc	19	nmod	_	_
-29	2008	2008	NUM	num	Number=Plur	28	nmod	_	SpaceAfter=No
-30	.	.	PUNCT	sent	_	1	punct	_	_
+13	r	an	DET	det	_	13	det	_	_
+14	Poulgwenn	Poulgwenn	PROPN	Poulgwenn	Number=Sing	1	obl	_	_
+15	(	(	PUNCT	lpar	_	16	punct	_	SpaceAfter=No
+16	44	44	NUM	num	Number=Plur	14	appos	_	SpaceAfter=No
+17	)	)	PUNCT	rpar	_	16	punct	_	_
+18-19	d'ar	_	_	_	_	_	_	_	_
+18	d'	da	ADP	pr	_	20	case	_	_
+19	ar	an	DET	det	_	20	det	_	_
+20	Sadorn	Sadorn	NOUN	n	Gender=Masc	1	obl	_	_
+21	15	15	NUM	num	Number=Plur	20	nmod	_	_
+22	ha	ha	CCONJ	cnjcoo	_	25	cc	_	_
+23-24	d'ar	_	_	_	_	_	_	_	_
+23	d'	da	ADP	pr	_	25	case	_	_
+24	ar	an	DET	det	_	25	det	_	_
+25	Sul	Sul	NOUN	n	Gender=Masc	20	conj	_	_
+26	16	16	NUM	num	Number=Plur	25	nmod	_	_
+27	a	a	ADP	pr	_	29	case	_	_
+28	viz	miz	X	x	_	29	dep	_	_
+29	Meurzh	Meurzh	NOUN	n	Gender=Masc	20	nmod	_	_
+30	2008	2008	NUM	num	Number=Plur	29	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = bremaik.vislcg.txt:46:1244
 # text = Pezhioù-c'hoari a bep seurt a vo kinniget e Konk-Kerne, Pont-Aven, Sant-Ivi, Tregon.
