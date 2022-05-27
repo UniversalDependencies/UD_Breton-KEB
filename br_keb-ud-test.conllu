@@ -592,9 +592,8 @@
 # labels = to_check
 1	Degouezhet	degouezhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
-3-4	da gentañ	_	_	_	_	_	_	_	SpaceAfter=No
 3	da	da	ADP	pr	_	4	case	_	_
-4	gentañ	kentañ	ADJ	adj	_	1	obl	_	_
+4	gentañ	kentañ	ADJ	adj	_	1	obl	_	SpaceAfter=No
 5	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = apertium.vislcg.txt:53:834
@@ -813,7 +812,6 @@
 7	bleuñv	bleuñv	NOUN	n	Gender=Fem|Number=Plur	6	nmod:gen	_	SpaceAfter=No
 8	-	-	PUNCT	guio	_	9	punct	_	SpaceAfter=No
 9	orañjez	orañjez	NOUN	n	Gender=Fem|Number=Plur	7	compound	_	_
-10-11	en un	_	_	_	_	_	_	_	_
 10	en	e	ADP	pr	_	12	case	_	_
 11	un	un	DET	det	_	12	det	_	_
 12	hanter	hanter	NOUN	n	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1211,7 +1209,6 @@
 # text = En ur girin, savit da erc'h ar 4 gwenn-vi.
 # text[fra¹] = Dans une terrine, lèvez à neige les 4 blancs d’oeufs.
 # labels = to_check
-1-2	En ur	_	_	_	_	_	_	_	_
 1	En	e	ADP	pr	_	3	case	_	_
 2	ur	un	DET	det	_	3	det	_	_
 3	girin	kirin	NOUN	n	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
@@ -1422,7 +1419,6 @@
 9	un	un	DET	det	_	10	det	_	_
 10	dibenn-sizhun	dibenn-sizhun	NOUN	n	Gender=Masc|Number=Sing	1	obj	_	_
 11	staj	staj	NOUN	n	Gender=Masc|Number=Sing	10	nmod:gen	_	_
-12-13	er Poulgwenn	_	_	_	_	_	_	_	_
 12	e	e	ADP	pr	_	13	case	_	_
 13	r Poulgwenn	Ar Poulgwenn	PROPN	Poulgwenn	Number=Sing	1	obl	_	_
 14	(	(	PUNCT	lpar	_	15	punct	_	SpaceAfter=No
@@ -2549,7 +2545,6 @@
 18	ma	ma	X	x	_	17	fixed	_	_
 19	c'hellfe	gellout	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	20	aux	_	_
 20	bevañ	bevañ	VERB	vblex	VerbForm=Inf	8	advcl	_	_
-21-22	en un	_	_	_	_	_	_	_	_
 21	en	e	ADP	pr	_	23	case	_	_
 22	un	un	DET	det	_	23	det	_	_
 23	doare	doare	NOUN	n	Gender=Masc|Number=Sing	20	obl	_	_
@@ -3514,7 +3509,6 @@
 7	,	,	PUNCT	cm	_	4	punct	_	_
 8	a	a	AUX	vpart	_	13	aux	_	_
 9	oa	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
-10-11	da gentañ	_	_	_	_	_	_	_	_
 10	da	da	ADP	pr	_	11	case	_	_
 11	gentañ	kentañ	ADJ	adj	_	13	obl	_	_
 12	ur	un	DET	det	_	13	det	_	_
@@ -4142,7 +4136,6 @@
 4	da	da	ADP	pr	_	5	mark	_	_
 5	gemer	kemer	VERB	vblex	VerbForm=Inf	2	advcl	_	_
 6	perzh	perzh	NOUN	n	Gender=Masc|Number=Sing	5	obj	_	_
-7-8	en ur	_	_	_	_	_	_	_	_
 7	en	e	ADP	pr	_	9	case	_	_
 8	ur	un	DET	det	_	9	det	_	_
 9	stourm	stourm	NOUN	n	Gender=Masc|Number=Sing	5	obl	_	_
@@ -4792,7 +4785,6 @@
 5	amann	amann	NOUN	n	Gender=Masc|Number=Sing	3	nmod	_	_
 6	da	da	ADP	pr	_	7	mark	_	_
 7	deuziñ	teuziñ	VERB	vblex	VerbForm=Inf	1	advcl	_	_
-8-9	en ur	_	_	_	_	_	_	_	_
 8	en	e	ADP	pr	_	10	case	_	_
 9	ur	un	DET	det	_	10	det	_	_
 10	gastelodenn	kastelodenn	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
@@ -5125,9 +5117,8 @@
 1	Ni	prpers	PRON	prn	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	3	punct	_	_
 3	Breizhiz	Breizhad	NOUN	n	Gender=Masc|Number=Plur	1	appos	_	_
-4-5	a galon	_	_	_	_	_	_	_	SpaceAfter=No
 4	a	a	ADP	pr	_	5	case	_	_
-5	galon	kalon	NOUN	n	Gender=Fem|Number=Sing	3	nmod	_	_
+5	galon	kalon	NOUN	n	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	cm	_	3	punct	_	_
 7	karomp	karout	VERB	vblex	Number=Plur|Person=1	0	root	_	_
 8	hon	hon	DET	det	Poss=Yes	10	det	_	_
@@ -8862,7 +8853,6 @@
 2	zo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	o	o	AUX	vpart	_	4	aux	_	_
 4	komz	komz	VERB	vblex	VerbForm=Inf	0	root	_	_
-5-6	gant ma	_	_	_	_	_	_	_	_
 5	gant	gant	ADP	pr	_	7	case	_	_
 6	ma	ma	DET	det	Poss=Yes	7	det	_	_
 7	amezeg	amezeg	NOUN	n	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
@@ -8874,7 +8864,6 @@
 1	Me	me	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
 3	gomz	komz	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4-5	gant ma	_	_	_	_	_	_	_	_
 4	gant	gant	ADP	pr	_	6	case	_	_
 5	ma	ma	DET	det	Poss=Yes	6	det	_	_
 6	amezeg	amezeg	NOUN	n	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
@@ -13719,7 +13708,6 @@
 20	ar	an	DET	det	_	21	det	_	_
 21	boblañs	poblañs	NOUN	n	Gender=Fem|Number=Sing	19	nsubj	_	_
 22	eno	eno	ADV	adv	_	19	advmod	_	_
-23-24	en un	_	_	_	_	_	_	_	_
 23	en	e	ADP	pr	_	25	case	_	_
 24	un	un	DET	det	_	25	det	_	_
 25	taol	taol	NOUN	n	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
