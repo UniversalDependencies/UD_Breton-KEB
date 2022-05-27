@@ -1420,8 +1420,8 @@
 10	dibenn-sizhun	dibenn-sizhun	NOUN	n	Gender=Masc|Number=Sing	1	obj	_	_
 11	staj	staj	NOUN	n	Gender=Masc|Number=Sing	10	nmod:gen	_	_
 12-13	er	_	_	_	_	_	_	_	_
-12	e	e	ADP	pr	_	13	case	_	_
-13	r	an	DET	det	_	13	det	_	_
+12	e	e	ADP	pr	_	14	case	_	_
+13	r	an	DET	det	_	14	det	_	_
 14	Poulgwenn	Poulgwenn	PROPN	Poulgwenn	Number=Sing	1	obl	_	_
 15	(	(	PUNCT	lpar	_	16	punct	_	SpaceAfter=No
 16	44	44	NUM	num	Number=Plur	14	appos	_	SpaceAfter=No
