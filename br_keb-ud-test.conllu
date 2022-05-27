@@ -2027,21 +2027,21 @@
 8	r	an	DET	det	_	9	det	_	_
 9	bloaz	bloaz	NOUN	n	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 10	-mañ	mañ	ADV	adv	_	6	advmod	_	SpaceAfter=No
-11	,	,	PUNCT	cm	_	14	punct	_	_
-12-13	en o zouez	_	_	_	_	_	_	_	_
-12	en o zouez	e-touez	ADP	pr	_	13	case	_	_
-13	o	indirect	PRON	prn	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	nmod	_	_
-14	kantikoù	kantik	NOUN	n	Gender=Masc|Number=Plur	6	parataxis	_	_
-15	gouestlet	gouestlañ	VERB	vblex	Tense=Past|VerbForm=Part	14	acl	_	_
-16-17	d'ar	_	_	_	_	_	_	_	_
-16	d'	da	ADP	pr	_	18	case	_	_
-17	ar	an	DET	det	_	18	det	_	_
-18	Werc'hez	gwerc’hez	NOUN	n	Gender=Fem|Number=Sing	15	obl	_	_
-19	ha	ha	CCONJ	cnjcoo	_	21	cc	_	_
-20	da	da	ADP	pr	_	21	case	_	_
-21	Santez	sant	NOUN	n	Gender=Fem|Number=Sing	18	conj	_	_
-22	Anna	Anna	PROPN	np	Gender=Fem|Number=Sing	21	appos	_	SpaceAfter=No
-23	.	.	PUNCT	sent	_	6	punct	_	_
+11	,	,	PUNCT	cm	_	15	punct	_	_
+12	en	e-touez	ADP	pr	_	15	case	_	_
+13	o	indirect	PRON	prn	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	fixed	_	_
+14	zouez	e-touez	ADP	pr	_	12	fixed	_	_
+15	kantikoù	kantik	NOUN	n	Gender=Masc|Number=Plur	6	parataxis	_	_
+16	gouestlet	gouestlañ	VERB	vblex	Tense=Past|VerbForm=Part	15	acl	_	_
+17-18	d'ar	_	_	_	_	_	_	_	_
+17	d'	da	ADP	pr	_	19	case	_	_
+18	ar	an	DET	det	_	19	det	_	_
+19	Werc'hez	gwerc’hez	NOUN	n	Gender=Fem|Number=Sing	16	obl	_	_
+20	ha	ha	CCONJ	cnjcoo	_	22	cc	_	_
+21	da	da	ADP	pr	_	22	case	_	_
+22	Santez	sant	NOUN	n	Gender=Fem|Number=Sing	19	conj	_	_
+23	Anna	Anna	PROPN	np	Gender=Fem|Number=Sing	22	appos	_	SpaceAfter=No
+24	.	.	PUNCT	sent	_	6	punct	_	_
 
 # sent_id = bremaik.vislcg.txt:71:2243
 # text = Cheñch a raio spontus e vuhez abalamour d'an enklask-se.
@@ -9820,7 +9820,7 @@
 # text = Dilennidi, teknikourien ar gumun ha frammoù dave (Ofis ar Brezhoneg en o zouez) a ya d’ober ar bodadoù trakêr-se.
 # text[fra] = Ces commissions se composent d’élus, de techniciens de la commune et de structures de référence (dont l’Office de la langue bretonne).
 # labels = to_check opab_parallel
-1	Dilennidi	dilennad	NOUN	n	Gender=Masc|Number=Plur	17	dep	_	SpaceAfter=No
+1	Dilennidi	dilennad	NOUN	n	Gender=Masc|Number=Plur	18	dep	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	3	punct	_	_
 3	teknikourien	teknikour	NOUN	n	Gender=Masc|Number=Plur	1	conj	_	_
 4	ar	an	DET	det	_	5	det	_	_
@@ -9832,19 +9832,19 @@
 10	Ofis	Ofis	X	x	_	12	dep	_	_
 11	ar	ar	X	x	_	12	dep	_	_
 12	Brezhoneg	Brezhoneg	PROPN	np	Number=Sing	7	appos	_	_
-13-14	en o zouez	_	_	_	_	_	_	_	SpaceAfter=No
-13	en o zouez	e-touez	ADP	pr	_	14	case	_	_
+13	en	e-touez	ADP	pr	_	14	case	_	_
 14	o	indirect	PRON	prn	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	nmod	_	_
-15	)	)	PUNCT	rpar	_	12	punct	_	_
-16	a	a	AUX	vpart	_	17	aux	_	_
-17	ya	mont	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-18	d’	da	ADP	pr	_	19	mark	_	SpaceAfter=No
-19	ober	ober	VERB	vblex	VerbForm=Inf	17	xcomp	_	_
-20	ar	an	DET	det	_	21	det	_	_
-21	bodadoù	bodad	NOUN	n	Gender=Masc|Number=Plur	19	obj	_	_
-22	trakêr	trakêr	ADJ	adj	_	21	amod	_	SpaceAfter=No
-23	-se	se	ADV	adv	_	21	advmod	_	SpaceAfter=No
-24	.	.	PUNCT	sent	_	17	punct	_	_
+15	zouez	e-touez	ADP	pr	_	13	fixed	_	SpaceAfter=No
+16	)	)	PUNCT	rpar	_	12	punct	_	_
+17	a	a	AUX	vpart	_	18	aux	_	_
+18	ya	mont	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	d’	da	ADP	pr	_	20	mark	_	SpaceAfter=No
+20	ober	ober	VERB	vblex	VerbForm=Inf	18	xcomp	_	_
+21	ar	an	DET	det	_	22	det	_	_
+22	bodadoù	bodad	NOUN	n	Gender=Masc|Number=Plur	20	obj	_	_
+23	trakêr	trakêr	ADJ	adj	_	22	amod	_	SpaceAfter=No
+24	-se	se	ADV	adv	_	22	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	sent	_	18	punct	_	_
 
 # sent_id = oab.vislcg.txt:51:1461
 # text = Un Aotreegezh gant ar meneg yezhoù ha sevenadur rannvro zo kinniget d’ar studierien hepken.
