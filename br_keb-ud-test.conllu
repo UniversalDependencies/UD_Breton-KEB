@@ -8082,7 +8082,7 @@
 1	Morwenna	Morwenna	PROPN	np	Gender=Fem|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
 3	wel	gwelout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+4	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	sent	_	3	punct	_	_
 
 # sent_id = grammar.vislcg.txt:224:4070
@@ -11274,7 +11274,7 @@
 # text[fra] = De structures similaires, ils disposeront chacun d'une surface au sol de 350 m².
 # labels = to_check opab_parallel
 1	Ur	un	DET	det	_	2	det	_	_
-2	gorread	gorread	NOUN	n	Gender=Masc|Number=Sing	13	nsubj	_	_
+2	gorread	gorread	NOUN	n	Gender=Masc|Number=Sing	11	nsubj	_	_
 3	leur	leur	NOUN	n	Gender=Fem|Number=Sing	2	nmod:gen	_	_
 4	a	a	ADP	pr	_	6	case	_	_
 5	350	350	NUM	num	Number=Plur	6	nummod	_	_
