@@ -592,9 +592,8 @@
 # labels = to_check
 1	Degouezhet	degouezhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
-3-4	da gentañ	_	_	_	_	_	_	_	SpaceAfter=No
 3	da	da	ADP	pr	_	4	case	_	_
-4	gentañ	kentañ	ADJ	adj	_	1	obl	_	_
+4	gentañ	kentañ	ADJ	adj	_	1	obl	_	SpaceAfter=No
 5	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = apertium.vislcg.txt:53:834
@@ -813,7 +812,6 @@
 7	bleuñv	bleuñv	NOUN	n	Gender=Fem|Number=Plur	6	nmod:gen	_	SpaceAfter=No
 8	-	-	PUNCT	guio	_	9	punct	_	SpaceAfter=No
 9	orañjez	orañjez	NOUN	n	Gender=Fem|Number=Plur	7	compound	_	_
-10-11	en un	_	_	_	_	_	_	_	_
 10	en	e	ADP	pr	_	12	case	_	_
 11	un	un	DET	det	_	12	det	_	_
 12	hanter	hanter	NOUN	n	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1211,7 +1209,6 @@
 # text = En ur girin, savit da erc'h ar 4 gwenn-vi.
 # text[fra¹] = Dans une terrine, lèvez à neige les 4 blancs d’oeufs.
 # labels = to_check
-1-2	En ur	_	_	_	_	_	_	_	_
 1	En	e	ADP	pr	_	3	case	_	_
 2	ur	un	DET	det	_	3	det	_	_
 3	girin	kirin	NOUN	n	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
@@ -1422,28 +1419,29 @@
 9	un	un	DET	det	_	10	det	_	_
 10	dibenn-sizhun	dibenn-sizhun	NOUN	n	Gender=Masc|Number=Sing	1	obj	_	_
 11	staj	staj	NOUN	n	Gender=Masc|Number=Sing	10	nmod:gen	_	_
-12-13	er Poulgwenn	_	_	_	_	_	_	_	_
-12	e	e	ADP	pr	_	13	case	_	_
-13	r Poulgwenn	Ar Poulgwenn	PROPN	Poulgwenn	Number=Sing	1	obl	_	_
-14	(	(	PUNCT	lpar	_	15	punct	_	SpaceAfter=No
-15	44	44	NUM	num	Number=Plur	13	appos	_	SpaceAfter=No
-16	)	)	PUNCT	rpar	_	15	punct	_	_
-17-18	d'ar	_	_	_	_	_	_	_	_
-17	d'	da	ADP	pr	_	19	case	_	_
-18	ar	an	DET	det	_	19	det	_	_
-19	Sadorn	Sadorn	NOUN	n	Gender=Masc	1	obl	_	_
-20	15	15	NUM	num	Number=Plur	19	nmod	_	_
-21	ha	ha	CCONJ	cnjcoo	_	24	cc	_	_
-22-23	d'ar	_	_	_	_	_	_	_	_
-22	d'	da	ADP	pr	_	24	case	_	_
-23	ar	an	DET	det	_	24	det	_	_
-24	Sul	Sul	NOUN	n	Gender=Masc	19	conj	_	_
-25	16	16	NUM	num	Number=Plur	24	nmod	_	_
-26	a	a	ADP	pr	_	28	case	_	_
-27	viz	miz	X	x	_	28	dep	_	_
-28	Meurzh	Meurzh	NOUN	n	Gender=Masc	19	nmod	_	_
-29	2008	2008	NUM	num	Number=Plur	28	nmod	_	SpaceAfter=No
-30	.	.	PUNCT	sent	_	1	punct	_	_
+12-13	er	_	_	_	_	_	_	_	_
+12	e	e	ADP	pr	_	14	case	_	_
+13	r	an	DET	det	_	14	det	_	_
+14	Poulgwenn	Poulgwenn	PROPN	Poulgwenn	Number=Sing	1	obl	_	_
+15	(	(	PUNCT	lpar	_	16	punct	_	SpaceAfter=No
+16	44	44	NUM	num	Number=Plur	14	appos	_	SpaceAfter=No
+17	)	)	PUNCT	rpar	_	16	punct	_	_
+18-19	d'ar	_	_	_	_	_	_	_	_
+18	d'	da	ADP	pr	_	20	case	_	_
+19	ar	an	DET	det	_	20	det	_	_
+20	Sadorn	Sadorn	NOUN	n	Gender=Masc	1	obl	_	_
+21	15	15	NUM	num	Number=Plur	20	nmod	_	_
+22	ha	ha	CCONJ	cnjcoo	_	25	cc	_	_
+23-24	d'ar	_	_	_	_	_	_	_	_
+23	d'	da	ADP	pr	_	25	case	_	_
+24	ar	an	DET	det	_	25	det	_	_
+25	Sul	Sul	NOUN	n	Gender=Masc	20	conj	_	_
+26	16	16	NUM	num	Number=Plur	25	nmod	_	_
+27	a	a	ADP	pr	_	29	case	_	_
+28	viz	miz	X	x	_	29	dep	_	_
+29	Meurzh	Meurzh	NOUN	n	Gender=Masc	20	nmod	_	_
+30	2008	2008	NUM	num	Number=Plur	29	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = bremaik.vislcg.txt:46:1244
 # text = Pezhioù-c'hoari a bep seurt a vo kinniget e Konk-Kerne, Pont-Aven, Sant-Ivi, Tregon.
@@ -2029,21 +2027,21 @@
 8	r	an	DET	det	_	9	det	_	_
 9	bloaz	bloaz	NOUN	n	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 10	-mañ	mañ	ADV	adv	_	6	advmod	_	SpaceAfter=No
-11	,	,	PUNCT	cm	_	14	punct	_	_
-12-13	en o zouez	_	_	_	_	_	_	_	_
-12	en o zouez	e-touez	ADP	pr	_	13	case	_	_
-13	o	indirect	PRON	prn	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	nmod	_	_
-14	kantikoù	kantik	NOUN	n	Gender=Masc|Number=Plur	6	parataxis	_	_
-15	gouestlet	gouestlañ	VERB	vblex	Tense=Past|VerbForm=Part	14	acl	_	_
-16-17	d'ar	_	_	_	_	_	_	_	_
-16	d'	da	ADP	pr	_	18	case	_	_
-17	ar	an	DET	det	_	18	det	_	_
-18	Werc'hez	gwerc’hez	NOUN	n	Gender=Fem|Number=Sing	15	obl	_	_
-19	ha	ha	CCONJ	cnjcoo	_	21	cc	_	_
-20	da	da	ADP	pr	_	21	case	_	_
-21	Santez	sant	NOUN	n	Gender=Fem|Number=Sing	18	conj	_	_
-22	Anna	Anna	PROPN	np	Gender=Fem|Number=Sing	21	appos	_	SpaceAfter=No
-23	.	.	PUNCT	sent	_	6	punct	_	_
+11	,	,	PUNCT	cm	_	15	punct	_	_
+12	en	e-touez	ADP	pr	_	15	case	_	_
+13	o	indirect	PRON	prn	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	fixed	_	_
+14	zouez	e-touez	ADP	pr	_	12	fixed	_	_
+15	kantikoù	kantik	NOUN	n	Gender=Masc|Number=Plur	6	parataxis	_	_
+16	gouestlet	gouestlañ	VERB	vblex	Tense=Past|VerbForm=Part	15	acl	_	_
+17-18	d'ar	_	_	_	_	_	_	_	_
+17	d'	da	ADP	pr	_	19	case	_	_
+18	ar	an	DET	det	_	19	det	_	_
+19	Werc'hez	gwerc’hez	NOUN	n	Gender=Fem|Number=Sing	16	obl	_	_
+20	ha	ha	CCONJ	cnjcoo	_	22	cc	_	_
+21	da	da	ADP	pr	_	22	case	_	_
+22	Santez	sant	NOUN	n	Gender=Fem|Number=Sing	19	conj	_	_
+23	Anna	Anna	PROPN	np	Gender=Fem|Number=Sing	22	appos	_	SpaceAfter=No
+24	.	.	PUNCT	sent	_	6	punct	_	_
 
 # sent_id = bremaik.vislcg.txt:71:2243
 # text = Cheñch a raio spontus e vuhez abalamour d'an enklask-se.
@@ -2549,7 +2547,6 @@
 18	ma	ma	X	x	_	17	fixed	_	_
 19	c'hellfe	gellout	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	20	aux	_	_
 20	bevañ	bevañ	VERB	vblex	VerbForm=Inf	8	advcl	_	_
-21-22	en un	_	_	_	_	_	_	_	_
 21	en	e	ADP	pr	_	23	case	_	_
 22	un	un	DET	det	_	23	det	_	_
 23	doare	doare	NOUN	n	Gender=Masc|Number=Sing	20	obl	_	_
@@ -3514,7 +3511,6 @@
 7	,	,	PUNCT	cm	_	4	punct	_	_
 8	a	a	AUX	vpart	_	13	aux	_	_
 9	oa	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
-10-11	da gentañ	_	_	_	_	_	_	_	_
 10	da	da	ADP	pr	_	11	case	_	_
 11	gentañ	kentañ	ADJ	adj	_	13	obl	_	_
 12	ur	un	DET	det	_	13	det	_	_
@@ -4142,7 +4138,6 @@
 4	da	da	ADP	pr	_	5	mark	_	_
 5	gemer	kemer	VERB	vblex	VerbForm=Inf	2	advcl	_	_
 6	perzh	perzh	NOUN	n	Gender=Masc|Number=Sing	5	obj	_	_
-7-8	en ur	_	_	_	_	_	_	_	_
 7	en	e	ADP	pr	_	9	case	_	_
 8	ur	un	DET	det	_	9	det	_	_
 9	stourm	stourm	NOUN	n	Gender=Masc|Number=Sing	5	obl	_	_
@@ -4792,7 +4787,6 @@
 5	amann	amann	NOUN	n	Gender=Masc|Number=Sing	3	nmod	_	_
 6	da	da	ADP	pr	_	7	mark	_	_
 7	deuziñ	teuziñ	VERB	vblex	VerbForm=Inf	1	advcl	_	_
-8-9	en ur	_	_	_	_	_	_	_	_
 8	en	e	ADP	pr	_	10	case	_	_
 9	ur	un	DET	det	_	10	det	_	_
 10	gastelodenn	kastelodenn	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
@@ -5125,9 +5119,8 @@
 1	Ni	prpers	PRON	prn	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	3	punct	_	_
 3	Breizhiz	Breizhad	NOUN	n	Gender=Masc|Number=Plur	1	appos	_	_
-4-5	a galon	_	_	_	_	_	_	_	SpaceAfter=No
 4	a	a	ADP	pr	_	5	case	_	_
-5	galon	kalon	NOUN	n	Gender=Fem|Number=Sing	3	nmod	_	_
+5	galon	kalon	NOUN	n	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	cm	_	3	punct	_	_
 7	karomp	karout	VERB	vblex	Number=Plur|Person=1	0	root	_	_
 8	hon	hon	DET	det	Poss=Yes	10	det	_	_
@@ -8089,7 +8082,7 @@
 1	Morwenna	Morwenna	PROPN	np	Gender=Fem|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
 3	wel	gwelout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+4	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	sent	_	3	punct	_	_
 
 # sent_id = grammar.vislcg.txt:224:4070
@@ -8862,7 +8855,6 @@
 2	zo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	o	o	AUX	vpart	_	4	aux	_	_
 4	komz	komz	VERB	vblex	VerbForm=Inf	0	root	_	_
-5-6	gant ma	_	_	_	_	_	_	_	_
 5	gant	gant	ADP	pr	_	7	case	_	_
 6	ma	ma	DET	det	Poss=Yes	7	det	_	_
 7	amezeg	amezeg	NOUN	n	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
@@ -8874,7 +8866,6 @@
 1	Me	me	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
 3	gomz	komz	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4-5	gant ma	_	_	_	_	_	_	_	_
 4	gant	gant	ADP	pr	_	6	case	_	_
 5	ma	ma	DET	det	Poss=Yes	6	det	_	_
 6	amezeg	amezeg	NOUN	n	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
@@ -9829,7 +9820,7 @@
 # text = Dilennidi, teknikourien ar gumun ha frammoù dave (Ofis ar Brezhoneg en o zouez) a ya d’ober ar bodadoù trakêr-se.
 # text[fra] = Ces commissions se composent d’élus, de techniciens de la commune et de structures de référence (dont l’Office de la langue bretonne).
 # labels = to_check opab_parallel
-1	Dilennidi	dilennad	NOUN	n	Gender=Masc|Number=Plur	17	dep	_	SpaceAfter=No
+1	Dilennidi	dilennad	NOUN	n	Gender=Masc|Number=Plur	18	dep	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	3	punct	_	_
 3	teknikourien	teknikour	NOUN	n	Gender=Masc|Number=Plur	1	conj	_	_
 4	ar	an	DET	det	_	5	det	_	_
@@ -9841,19 +9832,19 @@
 10	Ofis	Ofis	X	x	_	12	dep	_	_
 11	ar	ar	X	x	_	12	dep	_	_
 12	Brezhoneg	Brezhoneg	PROPN	np	Number=Sing	7	appos	_	_
-13-14	en o zouez	_	_	_	_	_	_	_	SpaceAfter=No
-13	en o zouez	e-touez	ADP	pr	_	14	case	_	_
+13	en	e-touez	ADP	pr	_	14	case	_	_
 14	o	indirect	PRON	prn	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	nmod	_	_
-15	)	)	PUNCT	rpar	_	12	punct	_	_
-16	a	a	AUX	vpart	_	17	aux	_	_
-17	ya	mont	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-18	d’	da	ADP	pr	_	19	mark	_	SpaceAfter=No
-19	ober	ober	VERB	vblex	VerbForm=Inf	17	xcomp	_	_
-20	ar	an	DET	det	_	21	det	_	_
-21	bodadoù	bodad	NOUN	n	Gender=Masc|Number=Plur	19	obj	_	_
-22	trakêr	trakêr	ADJ	adj	_	21	amod	_	SpaceAfter=No
-23	-se	se	ADV	adv	_	21	advmod	_	SpaceAfter=No
-24	.	.	PUNCT	sent	_	17	punct	_	_
+15	zouez	e-touez	ADP	pr	_	13	fixed	_	SpaceAfter=No
+16	)	)	PUNCT	rpar	_	12	punct	_	_
+17	a	a	AUX	vpart	_	18	aux	_	_
+18	ya	mont	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	d’	da	ADP	pr	_	20	mark	_	SpaceAfter=No
+20	ober	ober	VERB	vblex	VerbForm=Inf	18	xcomp	_	_
+21	ar	an	DET	det	_	22	det	_	_
+22	bodadoù	bodad	NOUN	n	Gender=Masc|Number=Plur	20	obj	_	_
+23	trakêr	trakêr	ADJ	adj	_	22	amod	_	SpaceAfter=No
+24	-se	se	ADV	adv	_	22	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	sent	_	18	punct	_	_
 
 # sent_id = oab.vislcg.txt:51:1461
 # text = Un Aotreegezh gant ar meneg yezhoù ha sevenadur rannvro zo kinniget d’ar studierien hepken.
@@ -11283,7 +11274,7 @@
 # text[fra] = De structures similaires, ils disposeront chacun d'une surface au sol de 350 m².
 # labels = to_check opab_parallel
 1	Ur	un	DET	det	_	2	det	_	_
-2	gorread	gorread	NOUN	n	Gender=Masc|Number=Sing	13	nsubj	_	_
+2	gorread	gorread	NOUN	n	Gender=Masc|Number=Sing	11	nsubj	_	_
 3	leur	leur	NOUN	n	Gender=Fem|Number=Sing	2	nmod:gen	_	_
 4	a	a	ADP	pr	_	6	case	_	_
 5	350	350	NUM	num	Number=Plur	6	nummod	_	_
@@ -13719,7 +13710,6 @@
 20	ar	an	DET	det	_	21	det	_	_
 21	boblañs	poblañs	NOUN	n	Gender=Fem|Number=Sing	19	nsubj	_	_
 22	eno	eno	ADV	adv	_	19	advmod	_	_
-23-24	en un	_	_	_	_	_	_	_	_
 23	en	e	ADP	pr	_	25	case	_	_
 24	un	un	DET	det	_	25	det	_	_
 25	taol	taol	NOUN	n	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No

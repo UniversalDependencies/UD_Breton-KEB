@@ -5,22 +5,22 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>888</sentences><tokens>9760</tokens><words>10054</words><fused>294</fused></total>
+    <total><sentences>888</sentences><tokens>9776</tokens><words>10057</words><fused>281</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>888</sentences><tokens>9760</tokens><words>10054</words><fused>294</fused></test>
+    <test><sentences>888</sentences><tokens>9776</tokens><words>10057</words><fused>281</fused></test>
   </size>
   <lemmas unique="1727" /><!-- an, ., bezañ, e, a, da, ,, ha, un, gant, ober, indirect, kaout, ne, evit -->
   <forms unique="2423" /><!-- ., e, ar, a, an, ,, eo, da, gant, ha, ur, o, ket, oa, evit -->
-  <fusions unique="69" /><!-- er, d'ar, en, d'an, deoc'h, din, dezho, dezhañ, d’ar, ganin, gantañ, ganti, ganto, enni, ganeoc'h -->
+  <fusions unique="66" /><!-- er, d'ar, en, d'an, deoc'h, din, dezho, dezhañ, d’ar, ganin, gantañ, ganti, ganto, enni, ganeoc'h -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">435</tag><!-- bras, mat, ret, nevez, kentañ, yaouank, all, brav, kozh, bihan -->
-    <tag name="ADP">1102</tag><!-- da, e, gant, evit, war, eus, a, ouzh, dre, e-pad -->
+    <tag name="ADP">1104</tag><!-- da, e, gant, evit, war, eus, a, ouzh, dre, e-pad -->
     <tag name="ADV">552</tag><!-- ne, ket, se, mañ, ivez, bremañ, ebet, neuze, setu, hepken -->
     <tag name="AUX">1332</tag><!-- bezañ, a, e, ober, kaout, o, en, gellout, na, rankout -->
     <tag name="CCONJ">206</tag><!-- ha, pe, met, hogen, koulz -->
-    <tag name="DET">1205</tag><!-- an, un, ho, e, ma, o, he, holl, bep, hon -->
+    <tag name="DET">1206</tag><!-- an, un, ho, e, ma, o, he, holl, bep, hon -->
     <tag name="INTJ">2</tag><!-- o -->
     <tag name="NOUN">1990</tag><!-- den, levr, bro, ti, labour, yezh, brezhoneg, bugel, rannvro, breur -->
     <tag name="NUM">233</tag><!-- daou, unan, tri, 2007, 20, 4, pevar, 000, 1950, 3 -->
@@ -86,21 +86,21 @@
     <dep name="cop">220</dep>
     <dep name="csubj">27</dep>
     <dep name="dep">156</dep>
-    <dep name="det">1206</dep>
+    <dep name="det">1207</dep>
     <dep name="discourse">2</dep>
     <dep name="dislocated">3</dep>
     <dep name="expl">2</dep>
-    <dep name="fixed">63</dep>
+    <dep name="fixed">66</dep>
     <dep name="flat:name">25</dep>
     <dep name="list">2</dep>
     <dep name="mark">161</dep>
-    <dep name="nmod">221</dep>
+    <dep name="nmod">220</dep>
     <dep name="nmod:gen">378</dep>
     <dep name="nmod:poss">4</dep>
-    <dep name="nsubj">549</dep>
+    <dep name="nsubj">548</dep>
     <dep name="nsubj:cop">1</dep>
     <dep name="nummod">97</dep>
-    <dep name="obj">393</dep>
+    <dep name="obj">394</dep>
     <dep name="obl">618</dep>
     <dep name="obl:agent">66</dep>
     <dep name="orphan">2</dep>
