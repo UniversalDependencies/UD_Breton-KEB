@@ -562,7 +562,7 @@
 
 # sent_id = apertium.vislcg.txt:50:784
 # text = Goulenn a reont ma vo digoret an nor .
-# text[fra] = Ils demandent que soit ouvert la porte.
+# text[fra] = Ils demandent que la porte soit ouverte.
 # labels = to_check
 1	Goulenn	goulenn	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
