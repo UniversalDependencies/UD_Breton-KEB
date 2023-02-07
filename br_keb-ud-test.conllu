@@ -13203,7 +13203,7 @@
 
 # sent_id = wikipedia.vislcg.txt:57:1746
 # text = Reolennoù doare-skrivañ ar peurunvan a vo kavet er pennad doareoù-skrivañ e brezhoneg.
-# text[fra¹] = Les règles du orthographe du peurunvan seront trouvées dans l'article de orthographe en breton.
+# text[fra¹] = Les règles d'orthographe du peurunvan se trouvent dans l'article "manières d'écrire en breton".
 # labels = to_check
 1	Reolennoù	reolenn	NOUN	n	Gender=Fem|Number=Plur	7	nsubj	_	_
 2	doare-skrivañ	doare-skrivañ	NOUN	n	Gender=Masc|Number=Sing	1	nmod:gen	_	_
@@ -13223,7 +13223,7 @@
 
 # sent_id = wikipedia.vislcg.txt:58:1777
 # text = Koulskoude ez eus bet tabut e-pad pell e Breizh diwar-benn an doare-skrivañ ha dreist-holl enebiezh ouzh ar peurunvan.
-# text[fra¹] = Elle pourtant a été pendant longtemps dispute en Bretagne au sujet du #orthographe et surtout animosité contre le peurunvan.
+# text[fra¹] = Pendant longtemps en Bretagne, cependant, ont fait débat l'orthographe et surtout l'hostilité à l'écriture peurunvan.
 # labels = to_check
 1	Koulskoude	koulskoude	ADV	adv	_	8	advmod	_	_
 2	ez eus	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
@@ -13246,7 +13246,7 @@
 
 # sent_id = wikipedia.vislcg.txt:59:1817
 # text = Kevreet eo ar spas gant an arzoù plastik, hag an amzer gant ar muzik hag al lennegezh.
-# text[fra¹] = Il a connecté l'espace avec les arts de plastique, et le temps avec la musique et la littérature.
+# text[fra¹] = L'espace est lié aux arts plastiques, et le temps avec la musique et la littérature.
 # labels = to_check
 1	Kevreet	kevreañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -13270,7 +13270,7 @@
 
 # sent_id = wikipedia.vislcg.txt:60:1859
 # text = Gant an teatr hag an dañs e teu an nen da vezañ danvez e arz.
-# text[fra¹] = Avec le théâtre et la danse vient la personne à être la matière d'e art.
+# text[fra¹] = Avec le théâtre et la danse on est soi-même la matière de son art.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	3	case	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -13290,15 +13290,14 @@
 16	.	.	PUNCT	sent	_	8	punct	_	_
 
 # sent_id = wikipedia.vislcg.txt:61:1895
-# text = Istor.
-# text[fra¹] = Histoire.
+# text = istor
+# text[fra¹] = histoire
 # labels = to_check
 1	Istor	istor	NOUN	n	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = wikipedia.vislcg.txt:62:1903
 # text = Ar ouenn goshañ anezhe a zo bet kavet en Afrika.
-# text[fra¹] = La race la plus vieille d'eux a été trouvée en Afrique.
+# text[fra¹] = Leur plus ancienne race a été trouvée en Afrique.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	ouenn	gouenn	NOUN	n	Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -13318,7 +13317,7 @@
 
 # sent_id = wikipedia.vislcg.txt:63:1931
 # text = Ur sindikad zo kevredigezh ur c’houch tud ha prevez, dizalc’h e-keñver ar Stad met anavezet ganti, ha renet gant un teskad lezennoù.
-# text[fra¹] = un syndicat est un société d'une équipe gens et privés, indépendants par comparaison à l'État mais connu avec elle, et dirigé avec un recueil de lois.
+# text[fra¹] = Un syndicat est un groupement de personnes physiques et morales, indépendants de l'État mais reconnu par lui, et régi par un ensemble de lois.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	sindikad	sindikad	NOUN	n	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -13350,7 +13349,7 @@
 
 # sent_id = wikipedia.vislcg.txt:64:1986
 # text = Gant al lodenn all ez eus kaoz eus gouzout tout a-fet Mab-Den, anvet douaroniezh denel.
-# text[fra¹] = Avec l'autre partie est conversation de savoir toute au sujet d'homme, nommé géographie humaine.
+# text[fra¹] = L'autre partie concerne tout ce qui touche à l'humain, nommée géographie humaine.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	3	case	_	_
 2	al	an	DET	det	_	3	det	_	_
@@ -13371,7 +13370,7 @@
 
 # sent_id = wikipedia.vislcg.txt:65:2022
 # text = Abaoe an Dispac'h gall ez eo deuet war-wel ur sell nevez evit renkañ ar strolladoù politikel hag an dud hervez al liv politikel warno.
-# text[fra¹] = Depuis la Révolution française est apparue un nouveau regard pour ranger les groupes politiques et les gens selon la couleur politique sur eux.
+# text[fra¹] = Depuis la Révolution française est apparue une nouvelle manière d'envisager le spectre politique et de classer les gens selon leur couleur politique.
 # labels = to_check
 1	Abaoe	abaoe	ADP	pr	_	3	case	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -13402,17 +13401,16 @@
 26	.	.	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = wikipedia.vislcg.txt:66:2077
-# text = Emdroadur ar yezh.
-# text[fra¹] = L'évolution de la langue.
+# text = emdroadur ar yezh
+# text[fra¹] = l'évolution de la langue
 # labels = to_check
 1	Emdroadur	emdroadur	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	ar	an	DET	det	_	3	det	_	_
 3	yezh	yezh	NOUN	n	Gender=Fem|Number=Sing	1	nmod:gen	_	SpaceAfter=No
-4	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = wikipedia.vislcg.txt:67:2089
 # text = Ar saozneg zo ur yezh c'hermanek hag a zo bet edan levezon ar galleg e meur a goulz.
-# text[fra¹] = L'anglais est une langue germanique et ont été sous l'influence du français #le e de plusieurs moment.
+# text[fra¹] = L'anglais est une langue germanique qui s'est trouvée sous l'influence du français à plusieurs périodes.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	saozneg	saozneg	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -13436,7 +13434,7 @@
 
 # sent_id = wikipedia.vislcg.txt:68:2131
 # text = Hañval-bras ouzh hini ar brezhoneg eo ereadurezh ar c'herneveureg.
-# text[fra¹] = Très semblable contre aucun le breton il est la syntaxe du cornique.
+# text[fra¹] = La syntaxe du cornique est très similaire à celle du breton.
 # labels = to_check
 1-2	Hañval-bras	_	_	_	_	_	_	_	_
 1	Hañval	hañval	ADJ	adj	_	0	root	_	_
@@ -13453,7 +13451,7 @@
 
 # sent_id = wikipedia.vislcg.txt:69:2156
 # text = Komzet e vez kembraeg e Kembre, gant war-dro 611 000 den (da lavaret eo tremen 22% eus tud ar vro).
-# text[fra¹] = Parlé est gallois au , avec environ 611 000 personnes (c’est-à-dire passage 22% des gens du pays).
+# text[fra¹] = Le gallois est parlé au Pays de Galles, par environ 611 000 personnes (c’est-à-dire plus de 22% de la population).
 # labels = to_check
 1	Komzet	komz	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -13482,7 +13480,7 @@
 
 # sent_id = wikipedia.vislcg.txt:70:2208
 # text = Komzet e vez kembraeg e Bro-Saoz gant tost da 150 000 a dud.
-# text[fra¹] = Parlé est gallois en Angleterre avec près de 150 000 à gens.
+# text[fra¹] = Le gallois est parlé en Angleterre par près de 150 000 personnes.
 # labels = to_check
 1	Komzet	komz	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -13501,7 +13499,7 @@
 
 # sent_id = wikipedia.vislcg.txt:71:2240
 # text = Stummoù kozh ar c'hembraeg zo anavezet mat.
-# text[fra¹] = Les formes anciennes du gallois sont connues bien.
+# text[fra¹] = Les formes anciennes du gallois sont bien connues.
 # labels = to_check
 1	Stummoù	stumm	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
 2	kozh	kozh	ADJ	adj	_	1	amod	_	_
@@ -13514,7 +13512,7 @@
 
 # sent_id = wikipedia.vislcg.txt:72:2260
 # text = Komzet e vez bemdez gant miliadoù ha miliadoù a dud ha gwelet e vez e pep lec’h e Kembre.
-# text[fra¹] = Il est parlé tous les jours par milliers et milliers de gens et voir il est partout au Pays de Galles.
+# text[fra¹] = Il est parlé tous les jours par des milliers et des milliers de gens et est visible partout au Pays de Galles.
 # labels = to_check
 1	Komzet	komz	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -13539,7 +13537,7 @@
 
 # sent_id = wikipedia.vislcg.txt:73:2304
 # text = Rankout a ra an aozadurioù foran prientiñ ha kas da benn ur steuñv yezh.
-# text[fra¹] = les organisations publiques doit préparer et réaliser un plan linguistique.
+# text[fra¹] = Les organisations publiques doivent concevoir et réaliser une planification linguistique.
 # labels = to_check
 1	Rankout	rankout	AUX	vblex	VerbForm=Inf	7	aux	_	_
 2	a	a	AUX	vpart	_	7	aux	_	_
@@ -13559,7 +13557,7 @@
 
 # sent_id = wikipedia.vislcg.txt:74:2338
 # text = Gant strollegezhioù lec’hel ha gant Bodadenn Kembre e vez implijet ar c’hembraeg evel ur yezh ofisiel, oc’h embann skridoù er yezh-se ha dleout a rafe an holl banelloù hent e Kembre bezañ e kembraeg hag e saozneg.
-# text[fra¹] = Par collectivités locales et avec l'Assemblée du Pays de Galles le gallois est employé comme une langue officielle, en train d'éditer écrits dans cette langue et elle devrait tous les panneaux à l'être en gallois et en anglais.
+# text[fra¹] = Le gallois est employé comme langue officielle par les collectivités locales et par l'Assemblée du Pays de Galles, qui publient des écrits en cette langue et tous les panneaux routiers du Pays de Galles devraient être en gallois et en anglais.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	2	case	_	_
 2	strollegezhioù	strollegezh	NOUN	n	Gender=Fem|Number=Plur	10	obl:agent	_	_
@@ -13605,7 +13603,7 @@
 
 # sent_id = wikipedia.vislcg.txt:75:2421
 # text = Kavout a reer kembraeg war ar Genrouedad ivez.
-# text[fra¹] = On trouve gallois sur l'Internet aussi.
+# text[fra¹] = On trouve aussi du gallois sur Internet.
 # labels = to_check
 1	Kavout	kavout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -13619,7 +13617,7 @@
 
 # sent_id = wikipedia.vislcg.txt:76:2443
 # text = Gwechall e oa kembraegerien unyezhek eus an holl Gembreiz, koulz lavaret.
-# text[fra¹] = Autrefois il était galloisants monolingues de tous les Gallois, pour ainsi dire.
+# text[fra¹] = Autrefois tous les gallois étaient galloisants monolingues, pour ainsi dire.
 # labels = to_check
 1	Gwechall	gwezhall	ADV	adv	_	9	advmod	_	_
 2	e	e	AUX	vpart	_	9	aux	_	_
@@ -13637,7 +13635,7 @@
 
 # sent_id = wikipedia.vislcg.txt:77:2473
 # text = E deroù an naontekvet kantved e oa, d’an nebeutañ, 80% eus an dud o komz kembraeg.
-# text[fra¹] = Au début de dix-neuvième siècle était, du moins, 80% des gens en train de parler gallois.
+# text[fra¹] = Au début du dix-neuvième siècle, au moins, 80% des gens parlaient gallois.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	deroù	deroù	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -13661,7 +13659,7 @@
 
 # sent_id = wikipedia.vislcg.txt:78:2515
 # text = Met gant an dispac’h greantel e voe desachet ur bern tud eus an diavaez da Su Kembre.
-# text[fra¹] = Mais par la révolution industrielle Il fut attiré un tas de gens de l'extérieur au Sud du Pays de Galles.
+# text[fra¹] = Mais la révolution industrielle attira un tas de gens de l'extérieur dans le Sud du Pays de Galles.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	8	cc	_	_
 2	gant	gant	ADP	pr	_	4	case	_	_
@@ -13684,7 +13682,7 @@
 
 # sent_id = wikipedia.vislcg.txt:79:2555
 # text = Kement-se a zegasas un diskar en dregantad a gembraegerien er rannvroioù-se, dre ma oa kresket ar boblañs eno en un taol.
-# text[fra¹] = Cela apporta un déclin dans le pourcentage de galloisants dans ces régions, puisque elle avait augmentée la population là-bas dans un coup.
+# text[fra¹] = Cela provoqua un déclin dans le pourcentage de galloisants dans ces régions, puisque la population y avait augmenté subitement.
 # labels = to_check
 1	Kement-se	kement-se	PRON	prn	Number=Sing|PronType=Dem	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -13717,7 +13715,7 @@
 
 # sent_id = wikipedia.vislcg.txt:80:2608
 # text = E niveradeg 1911 e voe embannet sifroù resis da live ar parrezioù.
-# text[fra¹] = Dans le recensement 1911 Il fut édité chiffres précis au niveau des paroisses.
+# text[fra¹] = Le recensement de 1911 publia des chiffres précis au niveau des paroisses.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	niveradeg	niveradeg	NOUN	n	Gender=Fem|Number=Sing	6	obl	_	_
