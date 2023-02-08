@@ -11686,7 +11686,7 @@
 
 # sent_id = oab.vislcg.txt:165:4387
 # text = Evit tizhout ar pal-se e tleer suraat hag aesaat labour ar wazourien.
-# text[fra] = Pour atteindre cet objectif, il est nécessaire d'améliorer le niveau de sécurité et de confort des agents.
+# text[fra] = Pour atteindre cet objectif, il est nécessaire d'améliorer le niveau de sécurité et de confort au travail des agents.
 # labels = to_check opab_parallel
 1	Evit	evit	ADP	pr	_	2	mark	_	_
 2	tizhout	tizhout	VERB	vblex	VerbForm=Inf	8	advcl	_	_
@@ -11705,7 +11705,7 @@
 
 # sent_id = oab.vislcg.txt:166:4419
 # text = An holl frammoù a sav kartennoù hetoù ha da gentañ holl evit lidañ ar bloavezh nevez.
-# text[fra] = Tous les organismes impriment des cartes de voeux et en premier lieu pour souhaiter la bonne année.
+# text[fra] = Tous les organismes impriment des cartes de vœux et surtout pour souhaiter la bonne année.
 # labels = to_check opab_parallel
 1	An	an	DET	det	_	3	det	_	_
 2	holl	holl	DET	predet	_	3	det	_	_
@@ -11727,7 +11727,7 @@
 
 # sent_id = oab.vislcg.txt:167:4457
 # text = Staliañ ar brezhoneg e diabarzh mont en-dro ho framm
-# text[fra] = Installer la langue bretonne dans le cœur du fonctionnement de votre organisme
+# text[fra] = installer la langue bretonne au cœur du fonctionnement de votre organisme
 # labels = to_check opab_parallel
 1	Staliañ	staliañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -11768,7 +11768,7 @@
 
 # sent_id = oab.vislcg.txt:169:4524
 # text = War-dro 5.000 den o doa lestret e bigi ar gompagnunezh-vor Penn-ar-Bed evit mont da Eusa, Sun ha Molenez e-kerzh an dibenn-sizhun Pask tremen.
-# text[fra] = Près de 5.000 personnes ont été transportées par la Compagnie maritime Penn ar Bed durant le dernier week-end de Pâques vers les îles de Molène, Ouessant et Sein.
+# text[fra] = Le dernier week-end de Pâques a vu près de 5.000 personnes embarquer avec la Compagnie maritime Penn ar Bed pour les îles de Ouessant, Sein et Molène.
 # labels = to_check opab_parallel
 1	War-dro	war-dro	ADV	adv	_	2	advmod	_	_
 2	5.000	5.000	NUM	num	Number=Plur	3	nummod	_	_
@@ -11799,7 +11799,7 @@
 
 # sent_id = oab.vislcg.txt:170:4580
 # text = A-benn tizhout e balioù en doa disklêriet an emstriver sokialour e oa « a-du » evit krouiñ ministrerezh ar Mor.
-# text[fra] = Pour atteindre ces objectifs, le candidat socialiste à la présidentielle s'est déclaré "favorable" à l'idée d'un ministère de la Mer.
+# text[fra] = Pour atteindre ces objectifs, le candidat socialiste s'est déclaré "favorable" à la création d'un ministère de la Mer.
 # labels = to_check opab_parallel
 1	A-benn	a-benn	ADP	pr	_	2	mark	_	_
 2	tizhout	tizhout	VERB	vblex	VerbForm=Inf	6	advcl	_	_
@@ -11863,7 +11863,7 @@
 
 # sent_id = oab.vislcg.txt:172:4693
 # text = Ma'z ouzhpenner ar familh hag ar vignoned, pedet ur wezh an amzer, e tizher e-tro 3 milion den.
-# text[fra] = Si l'on ajoute la famille et les copains, invités occasionnels, ce total atteint sans doute trois millions de personnes.
+# text[fra] = Si l'on ajoute la famille et les copains, invités occasionnels, ce total atteint dans les trois millions de personnes.
 # labels = to_check opab_parallel
 1	Ma'z	ma	SCONJ	cnjsub	_	2	mark	_	_
 2	ouzhpenner	ouzhpennañ	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	16	advcl	_	_
@@ -11889,7 +11889,7 @@
 
 # sent_id = oab.vislcg.txt:173:4739
 # text = Dedennet eo gant an deskadurezh ha kemer a ra perzh e kevredigezhioù a bep seurt a stourm evit stummañ ar re yaouank.
-# text[fra] = Il est intéressé par l'éducation et il est impliqué dans différentes associations qui militent pour la formation des jeunes.
+# text[fra] = Il est intéressé par le monde de l'éducation et il est impliqué dans différentes associations qui militent pour la formation des jeunes.
 # labels = to_check opab_parallel
 1	Dedennet	dedennañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -11937,7 +11937,7 @@
 
 # sent_id = oab.vislcg.txt:175:4823
 # text = Al linenn reter-kornôg a zarempredo an takadoù annez, implij hag obererezh pennañ.
-# text[fra] = Cette ligne est-ouest desservira les principaux secteurs d’habitat, d’emploi et d’activité.
+# text[fra] = La ligne est-ouest desservira les principaux secteurs d’habitation, d’emploi et d’activité.
 # labels = to_check opab_parallel
 1	Al	an	DET	det	_	2	det	_	_
 2	linenn	linenn	NOUN	n	Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -11957,8 +11957,8 @@
 16	.	.	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = oab.vislcg.txt:176:4859
-# text = un aod traezh munut !
-# text[fra] = plage de sable fin !
+# text = Un aod traezh munut !
+# text[fra] = Une plage de sable fin !
 # labels = to_check opab_parallel
 1	un	un	DET	det	_	2	det	_	_
 2	aod	aod	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -11967,8 +11967,8 @@
 5	!	!	PUNCT	sent	_	2	punct	_	_
 
 # sent_id = war-bont.vislcg.txt:1:0
-# text = P'edon war bont an Naoned, an deiz all o kanañ.
-# text[fra] = Quand j'étais sur le pont de Nantes l'autre jour à chanter
+# text = P'edon war bont an Naoned, an deiz all o kanañ...
+# text[fra] = Quand je chantais l'autre jour sur le pont de Nantes... 
 # labels = to_check song
 1-2	P'edon	_	_	_	_	_	_	_	_
 1	P'	pa	SCONJ	cnjsub	_	4	mark	_	_
@@ -11987,7 +11987,7 @@
 
 # sent_id = war-bont.vislcg.txt:2:28
 # text = Me 'welas ur verjelenn war ar pont o ouelañ.
-# text[fra] = Je vis une bergère qui pleurait sur le pont
+# text[fra] = Je vis une bergère qui pleurait sur le pont.
 # labels = to_check song
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
@@ -12028,7 +12028,7 @@
 
 # sent_id = war-bont.vislcg.txt:5:89
 # text = Va gwalenn aour, emezi, zo kouezhet er mor amañ.
-# text[fra] = Mon anneau d'or, dit-elle, Est tombé là dans la mer
+# text[fra] = Mon anneau d'or, dit-elle, est tombé là dans la mer.
 # labels = to_check song
 1	Va	ma	DET	det	Poss=Yes	2	det	_	_
 2	gwalenn	gwalenn	NOUN	n	Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -12048,8 +12048,8 @@
 14	.	.	PUNCT	sent	_	9	punct	_	_
 
 # sent_id = war-bont.vislcg.txt:6:119
-# text = Petra 'roi din, plac'h yaouank, me 'yelo d'he zapañ ?
-# text[fra] = Que me donnes-tu, jeune fille, si je vais le chercher ?
+# text = Petra 'roi din, plac'h yaouank? Me 'yelo d'he zapañ.
+# text[fra] = Que me donneras-tu, jeune fille? J'irai le chercher.
 # labels = to_check song
 1	Petra	petra	PRON	prn	PronType=Int	3	obj	_	_
 2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
@@ -12092,7 +12092,7 @@
 
 # sent_id = war-bont.vislcg.txt:8:178
 # text = 'vit ar c'hentañ ploñjadenn, netra gwelet e oa.
-# text[fra] = Au premier plongeon, on ne vit rien.
+# text[fra] = Au premier plongeon, il ne vit rien.
 # labels = to_check song
 1	'vit	evit	ADP	pr	_	4	case	_	_
 2	ar	an	DET	det	_	4	det	_	_
@@ -12107,7 +12107,7 @@
 
 # sent_id = war-bont.vislcg.txt:9:202
 # text = 'vit an eilvet ploñjadenn, 'r walenn touchet e oa.
-# text[fra] = Au deuxième plongeon, l'anneau était touché.
+# text[fra] = Au deuxième plongeon, il a touché l'anneau.
 # labels = to_check song
 1	'vit	evit	ADP	pr	_	4	case	_	_
 2	an	an	DET	det	_	4	det	_	_
@@ -12123,7 +12123,7 @@
 
 # sent_id = war-bont.vislcg.txt:10:228
 # text = 'vit an drede ploñjadenn, ar paotr beuzet e oa.
-# text[fra] = Au troisième plongeon, le garçon fut noyé.
+# text[fra] = Au troisième plongeon, le garçon était noyé.
 # labels = to_check song
 1	'vit	evit	ADP	pr	_	4	case	_	_
 2	an	an	DET	det	_	4	det	_	_
@@ -12196,7 +12196,7 @@
 
 # sent_id = wikipedia.vislcg.txt:7:77
 # text = Er bloaz 1950 ne chome mui nemet 100 000 a dud na ouient nemet brezhoneg.
-# text[fra¹] = Dans l'an 1950 ne restaient plus sauf 100 000 à gens savaient sauf breton.
+# text[fra¹] = Il ne restait plus en 1950 que 100 000 brittophones monolingues.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
 1	E	e	ADP	pr	_	3	case	_	_
@@ -12218,7 +12218,7 @@
 
 # sent_id = wikipedia.vislcg.txt:8:112
 # text = Er bloaz 1977 eo bet krouet ar skolioù Diwan.
-# text[fra¹] = Dans l'an 1977 ont été créés les écoles Diwan.
+# text[fra¹] = Les écoles Diwan ont été créés en 1977.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
 1	E	e	ADP	pr	_	3	case	_	_
@@ -12235,7 +12235,7 @@
 
 # sent_id = wikipedia.vislcg.txt:9:137
 # text = Er skolioù-se e vez desket dre ar brezhoneg (4 087 skoliad da vare an distro-skol e 2015).
-# text[fra¹] = Dans ces écoles est appris par le breton (4 087 écoliers à l’époque de la rentrée scolaire dans 2015).
+# text[fra¹] = Dans ces écoles l'enseignement est fait en breton (4 087 écoliers lors de la rentrée scolaire de 2015).
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
 1	E	e	ADP	pr	_	3	case	_	_
@@ -12263,7 +12263,7 @@
 
 # sent_id = wikipedia.vislcg.txt:10:184
 # text = Miliadoù a dud yaouank (16 345 e 2015) a ya da skolioù seurt-se adal ar skol-vamm betek fin al lise.
-# text[fra¹] = Milliers à jeunes hommes (16 345 dans 2015) va aux écoles de sorte ci à partir de l'école maternelle jusqu’à la fin du lycée.
+# text[fra¹] = Des milliers de jeunes (16 345 en 2015) sont scolarisés dans de telles écoles de la maternelle jusqu’à la fin du lycée.
 # labels = to_check
 1	Miliadoù	miliad	NOUN	n	Gender=Masc|Number=Plur	11	nsubj	_	_
 2	a	a	ADP	pr	_	3	case	_	_
@@ -12291,7 +12291,7 @@
 
 # sent_id = wikipedia.vislcg.txt:11:234
 # text = Dre an daolenn dindan e c'haller gwelet ar pezh zo heñvel etre brezhoneg (hini Gwened ha KLT) ha kerneveureg, gallaoueg ha galleg.
-# text[fra¹] = Par le tableau dessous on peut voir ce que il est semblable entre breton (aucun Vannes et KLT) et cornique, gallo et français.
+# text[fra¹] = On peut voir dans le tableau ci-dessous les similarités entre le breton (Vannetais et KLT) et le cornique, le gallo et le français.
 # labels = to_check
 1	Dre	dre	ADP	pr	_	3	case	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -12321,7 +12321,7 @@
 
 # sent_id = wikipedia.vislcg.txt:12:288
 # text = A-benn talañ ouzh an diouer a gelennerien stummet war an deskadurezh vrezhoneg ez eus bet krouet yalc'hadoù gant ar rannvroioù hag ar c'huzul bro.
-# text[fra¹] = Pour affronter le manque de professeurs formé sur l'enseignement de breton ont été créé bourses par les régions et le conseil de pays.
+# text[fra¹] = Les régions et les cantons ont créé des bourses pour parer au manque d'enseignants formés en enseignement brittophone.
 # labels = to_check
 1	A-benn	a-benn	ADP	pr	_	2	case	_	_
 2	talañ	talañ	VERB	vblex	VerbForm=Inf	15	advcl	_	_
@@ -12350,7 +12350,7 @@
 
 # sent_id = wikipedia.vislcg.txt:13:340
 # text = Muioc'h-mui e adkaver ivez ar yezh vrezhon e-liamm gant ar bed ekonomikel.
-# text[fra¹] = On de plus en plus retrouve aussi la langue bretonne e-lien avec le monde économique.
+# text[fra¹] = La langue bretonne est aussi de plus en plus présente dans le monde économique.
 # labels = to_check
 1	Muioc'h-mui	muioc’h-mui	ADV	adv	_	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -12368,7 +12368,7 @@
 
 # sent_id = wikipedia.vislcg.txt:14:370
 # text = Er maez eus an Emsav e adkaver nebeut implij eus ar yezh vrezhon war an dachenn bolitikel.
-# text[fra¹] = Dehors de l'Emsav qu'on retrouve peu emploi de la langue bretonne sur le terrain politique.
+# text[fra¹] = Si ce n'est dans l'Emsav, la langue bretonne est peu employée dans le domaine politique.
 # labels = to_check
 1	Er maez	er-maez	ADV	adv	_	4	case	_	_
 2	eus	eus	ADP	pr	_	1	fixed	_	_
@@ -12390,7 +12390,7 @@
 
 # sent_id = wikipedia.vislcg.txt:15:408
 # text = Ral eo da gavout ur c'hoant gwirion da souten ar yezh.
-# text[fra¹] = Rare est trouver une envie effective à soutenir la langue.
+# text[fra¹] = Il est rare de rencontrer une réelle envie de soutenir la langue.
 # labels = to_check
 1	Ral	ral	ADJ	adj	_	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
@@ -12407,7 +12407,7 @@
 
 # sent_id = wikipedia.vislcg.txt:16:436
 # text = Hervez un enklask kaset en-dro gant Fañch Broudig ha TMO, paeet gant Kuzul Rannvro Breizh, ne vije nemet 207 000 brezhoneger ken e 2007.
-# text[fra¹] = Selon une enquête renvoyée par Fañch Broudig et TMO, payé par le Conseil de la Région de Bretagne, n'elle serait sauf 207 000 brittophones si dans 2007.
+# text[fra¹] = Selon une nouvelle enquête de Fañch Broudig et TMO, commanditée par le Conseil Régional de Bretagne, il n'y aurait plus en 2007 que 207 000 brittophones.
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	3	case	_	_
 2	un	un	DET	det	_	3	det	_	_
@@ -12439,7 +12439,7 @@
 
 # sent_id = wikipedia.vislcg.txt:17:494
 # text = Hervez enklask an INSEE, kempoelloc'h hervez Hervé Abalain, graet e 1999, e vefe 295 000.
-# text[fra¹] = Selon enquêter l'INSEE, plus cohérent selon Hervé Abalain, fait dans 1999, Il serait 295 000.
+# text[fra¹] = Selon l'enquête de l'INSEE de 1999, plus cohérente selon Hervé Abalain, ce serait 295 000.
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	2	case	_	_
 2	enklask	enklask	NOUN	n	Gender=Masc|Number=Sing	16	obl	_	_
@@ -12463,7 +12463,7 @@
 
 # sent_id = wikipedia.vislcg.txt:18:536
 # text = Ur vro eo Breizh.
-# text[fra¹] = Un pays est la Bretagne.
+# text[fra¹] = La Bretagne est un pays.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	vro	bro	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -12473,7 +12473,7 @@
 
 # sent_id = wikipedia.vislcg.txt:19:550
 # text = Unan eus ar riezoù kentañ bet krouet en Europa eo ivez.
-# text[fra¹] = Un des états premiers été créés il est en Europe aussi.
+# text[fra¹] = C'est aussi un des premiers états créés en Europe.
 # labels = to_check
 1	Unan	unan	NUM	num	Number=Sing	7	nsubj	_	_
 2	eus	eus	ADP	pr	_	4	case	_	_
@@ -12490,7 +12490,7 @@
 
 # sent_id = wikipedia.vislcg.txt:20:578
 # text = Krouet e oa ar rannvro Breizh ez-ofisiel e 1943 gant gouarnamant Vichy, enni pevar departamant eus Breizh istorel hepken.
-# text[fra¹] = Il avait créé la région la Bretagne dans ta-officielle dans 1943 avec le gouvernement de Vichy, dans elle quatre départements de Bretagne historique seulement.
+# text[fra¹] = La région Bretagne a été créée officiellement en 1943 par le gouvernement de Vichy, à partir de seulement quatre départements de la Bretagne historique.
 # labels = to_check
 1	Krouet	krouiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -12518,7 +12518,7 @@
 
 # sent_id = wikipedia.vislcg.txt:21:625
 # text = Chaseal a raent kirvi, yourc'hed ha lern.
-# text[fra¹] = Ils chassaient des cerfs, chevreuils et renards.
+# text[fra¹] = Ils chassaient des cerfs, des chevreuils et renards.
 # labels = to_check
 1	Chaseal	chaseal	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -12532,7 +12532,7 @@
 
 # sent_id = wikipedia.vislcg.txt:22:647
 # text = Pesketa ha kregina a raent ivez a-benn debriñ.
-# text[fra¹] = Pêcher et Ils @kregina aussi pour manger.
+# text[fra¹] = Ils pêchaient aussi poissons et coquillages pour se nourrir.
 # labels = to_check
 1	Pesketa	pesketa	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	ha	ha	CCONJ	cnjcoo	_	3	cc	_	_
@@ -12546,7 +12546,7 @@
 
 # sent_id = wikipedia.vislcg.txt:23:669
 # text = Stagañ a raent da c'hounit plant, ha da zoñvaat loened.
-# text[fra¹] = Ils attachaient à gagner des plantes, et à domestiquer des animaux.
+# text[fra¹] = Ils commençaient à cultiver des plantes et à domestiquer des animaux.
 # labels = to_check
 1	Stagañ	stagañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -12563,7 +12563,7 @@
 
 # sent_id = wikipedia.vislcg.txt:24:697
 # text = Ar Gelted ne implijent ket ar skritur da gustum.
-# text[fra¹] = Les Celtes n'employaient pas l'écriture à accoutumée.
+# text[fra¹] = Les Celtes n'employaient qu'exceptionnellement l'écriture.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	Gelted	Kelt	NOUN	n	Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -12593,7 +12593,7 @@
 
 # sent_id = wikipedia.vislcg.txt:26:742
 # text = Lakaet e oa izili ar sened d'ar marv hag ar "peurrest" eus ar bobl a oa gwerzhet evel sklaved.
-# text[fra¹] = Il avait mis les membres du sénat à la morte et le "reste" du peuple avaient vendus comme esclaves.
+# text[fra¹] = Les membres du sénat étaient mis à mort et le "reste" du peuple vendu en esclavage.
 # labels = to_check
 1	Lakaet	lakaat	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -12622,7 +12622,7 @@
 
 # sent_id = wikipedia.vislcg.txt:27:791
 # text = Distrujet e oa kalz kêriadennoù.
-# text[fra¹] = Il avait détruit beaucoup des villages.
+# text[fra¹] = Beaucoup des villages étaient détruits.
 # labels = to_check
 1	Distrujet	distrujañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -12633,7 +12633,7 @@
 
 # sent_id = wikipedia.vislcg.txt:28:807
 # text = Graet e oa kalz pezhioù moneiz.
-# text[fra¹] = Il avait fait beaucoup des pièces de monnaie.
+# text[fra¹] = Il était frappé beaucoup des pièces de monnaie.
 # labels = to_check
 1	Graet	ober	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -12645,7 +12645,7 @@
 
 # sent_id = wikipedia.vislcg.txt:29:825
 # text = War ar memes tro eo aloubet reter an enezenn gant pobloù german, an Angled hag ar Saozon peurgetket, a argas ar Vrezhoned trema ar c'hornôg.
-# text[fra¹] = Sur même tour a envahi l'est de l'île par peuples germains, les Angles et les Anglais notamment, il chasse les Bretons vers l'ouest.
+# text[fra¹] = Au même moment l'est de l'île est envahi par des peuples germaniques, les Angles et les Saxons notamment, qui chassent les Brittons vers l'ouest.
 # labels = to_check
 1	War	war	ADP	pr	_	4	case	_	_
 2	ar	an	DET	det	_	4	det	_	_
@@ -12678,7 +12678,7 @@
 
 # sent_id = wikipedia.vislcg.txt:30:885
 # text = Bodet e oa bet an teir rouantelezh dindan aotrouniezh roueed ha duged Breizh en IXvet kantved.
-# text[fra¹] = Il avait été regroupé les trois royaumes dessous l'autorité de rois et les ducs de la Bretagne dans l'IXème siècle.
+# text[fra¹] = Les trois royaumes ont été regroupés sous l'autorité des rois et ducs de Bretagne  au IXème siècle.
 # labels = to_check
 1	Bodet	bodañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -12708,7 +12708,7 @@
 
 # sent_id = wikipedia.vislcg.txt:32:933
 # text = D’ar mare-se e voe staget Bro-Naoned ha Bro-Roazhon ouzh rouantelezh Breizh.
-# text[fra¹] = À ce moment-là il fut attaché Pays nantais et Pays Rennais contre le royaume de la Bretagne.
+# text[fra¹] = C'est à ce moment-là que furent rattachés le Pays nantais et le Pays Rennais au royaume de Bretagne.
 # labels = to_check
 1-2	D’ar	_	_	_	_	_	_	_	_
 1	D’	da	ADP	pr	_	3	case	_	_
@@ -12728,7 +12728,7 @@
 
 # sent_id = wikipedia.vislcg.txt:33:964
 # text = Ar Vikinged, siwazh d’ar Vretoned, a aloubas Stad unanet kentañ Breizh e 913.
-# text[fra¹] = Les Vikings, hélas aux Bretons, il envahit État uni premier la Bretagne dans 913.
+# text[fra¹] = Malheureusement pour les bretons, les Vikings envahirent le premier État unifié de Bretagne en 913.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	Vikinged	Viking	NOUN	n	Gender=Masc|Number=Plur	10	nsubj	_	SpaceAfter=No
@@ -12750,8 +12750,8 @@
 17	.	.	PUNCT	sent	_	10	punct	_	_
 
 # sent_id = wikipedia.vislcg.txt:34:1001
-# text = Distrujet hag aloubet e voe war-lerc’h gant ar Vikinged e deroù an X kantved.
-# text[fra¹] = Détruit et envahi fut ensuite avec les Vikings au début du X de siècle.
+# text = Distrujet hag aloubet e voe war-lerc’h gant ar Vikinged e deroù an Xvet kantved.
+# text[fra¹] = Il fut ensuite détruit et envahi par les Vikings au début du Xème siècle.
 # labels = to_check
 1	Distrujet	distrujañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	hag	ha	CCONJ	cnjcoo	_	1	cc	_	_
@@ -12771,7 +12771,7 @@
 
 # sent_id = wikipedia.vislcg.txt:35:1035
 # text = Melestradurezh c’hall ar Renadur kozh a anaveze Breizh da vroad.
-# text[fra¹] = L'administration française du Régime vieille Elle connaissait la Bretagne à nation.
+# text[fra¹] = L'administration française de l'ancien Régime reconnaissait la Bretagne comme nation.
 # labels = to_check
 1	Melestradurezh	melestradurezh	NOUN	n	Gender=Fem|Number=Sing	7	nsubj	_	_
 2	c’hall	gall	ADJ	adj	_	1	amod	_	_
@@ -12787,7 +12787,7 @@
 
 # sent_id = wikipedia.vislcg.txt:36:1061
 # text = Da-heul e voe trec’h rouantelezh Bro-C’hall, ur rouantelezh c’halloudus anezhi, war an dugelezh da vare emgannoù 1488 ha 1491.
-# text[fra¹] = Ensuite elle fut victorieux royaume de France, un royaume puissant d'elle, sur le duché à l’époque de batailles 1488 et 1491.
+# text[fra¹] = Ensuite le royaume de France, un royaume puissant, vainquit le duché lors des batailles de 1488 et 1491.
 # labels = to_check
 1	Da-heul	da-heul	ADV	adv	_	4	advmod	_	_
 2	e	e	AUX	vpart	_	4	aux	_	_
@@ -12816,7 +12816,7 @@
 
 # sent_id = wikipedia.vislcg.txt:37:1110
 # text = Gant se e oa bet boulc’het an hent a gase d’an unaniezh.
-# text[fra¹] = Par ça avait été entamé la route que envoyait à l'union.
+# text[fra¹] = Ainsi fut initié le processus qui menait à l'union.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	2	case	_	_
 2	se	se	PRON	prn	Number=Sing|PronType=Dem	6	obl:agent	_	_
@@ -12836,7 +12836,7 @@
 
 # sent_id = wikipedia.vislcg.txt:38:1141
 # text = Daou seurt unaniezh a voe.
-# text[fra¹] = Deux sortes union fut.
+# text[fra¹] = Il y eût deux sortes d'unions.
 # labels = to_check
 1	Daou	daou	NUM	num	Gender=Masc|Number=Plur	2	nummod	_	_
 2	seurt	seurt	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -12847,7 +12847,7 @@
 
 # sent_id = wikipedia.vislcg.txt:39:1157
 # text = Gant an arc’hant bras dastumet d’ar mare-se e voe diorroet-mat glad ar savouriezh er vro.
-# text[fra¹] = Avec l'argent grand ramassé à ce moment-là fut très développé le patrimoine de l'architecture dans le pays.
+# text[fra¹] = Le patrimoine architecturel du pays s'épanouit de ces richesses amassées.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	3	case	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -12875,7 +12875,7 @@
 
 # sent_id = wikipedia.vislcg.txt:40:1198
 # text = Ostel an Arc’hant Roazhon a oa an hini kentañ eus Frañs.
-# text[fra¹] = L'hôtel de l'Argent Rennes était l'aucun premier de France.
+# text[fra¹] = L'hôtel des Monnaies à Rennes était le premier de France.
 # labels = to_check
 1	Ostel	ostel	NOUN	n	Gender=Masc|Number=Sing	8	nsubj	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -12892,7 +12892,7 @@
 
 # sent_id = wikipedia.vislcg.txt:41:1226
 # text = Rannet e oant ivez etre nav eskopti.
-# text[fra¹] = Ils avaient partagés aussi entre neuf évêchés.
+# text[fra¹] = Ils avaient aussi été scindés en neuf évêchés.
 # labels = to_check
 1	Rannet	rannañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -12925,7 +12925,7 @@
 
 # sent_id = wikipedia.vislcg.txt:44:1274
 # text = Hennezh a oa e penn ar gomiserien all (=prefeded) e Breizh.
-# text[fra¹] = Celui-là était à la tête des autres commissaires (=préfets) en Bretagne.
+# text[fra¹] = Celui-ci était à la tête des autres commissaires (=préfets) en Bretagne.
 # labels = to_check
 1	Hennezh	hennezh	PRON	prn	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
 2	a	a	AUX	vpart	_	5	aux	_	_
@@ -12945,7 +12945,7 @@
 
 # sent_id = wikipedia.vislcg.txt:45:1308
 # text = An Eil Brezel-bed en deus skoet kalz tud e Breizh, prizoniet, gloazet, kaset d'ar c'hampoù bac'h pe gloazet.
-# text[fra¹] = Second Guerre-monde a frappé beaucoup des gens en Bretagne, faite prisonnier, blessée, envoyée aux camps de prison ou blessés.
+# text[fra¹] = La Second Guerre mondiale a frappé beaucoup des gens en Bretagne, faits prisonniers, blessés, envoyés aux camps de prisonniers ou blessés.
 # labels = to_check
 1	An	an	DET	det	_	3	det	_	_
 2	Eil	eil	ADJ	adj	_	3	amod	_	_
@@ -12975,7 +12975,7 @@
 
 # sent_id = wikipedia.vislcg.txt:46:1359
 # text = Kalz distrujoù zo bet ivez betek 1945.
-# text[fra¹] = Beaucoup destructions elle a été aussi jusque 1945.
+# text[fra¹] = Il y eût aussi beaucoup destructions jusqu'en 1945.
 # labels = to_check
 1	Kalz	kalz	ADP	pr	_	2	case	_	_
 2	distrujoù	distruj	NOUN	n	Gender=Masc|Number=Plur	7	nsubj	_	_
@@ -12988,7 +12988,7 @@
 
 # sent_id = wikipedia.vislcg.txt:47:1379
 # text = Gounit a ra ar gomunouriezh kalz tachenn e Breizh abalamour d'ar roll a-bouez en deus bet ar PCF hag an URSS er brezel.
-# text[fra¹] = Elle gagne le communisme beaucoup terrain en Bretagne à cause de la rôle importante elle a eue le PCF et l'URSS dans la guerre.
+# text[fra¹] = Le communisme gagne beaucoup de terrain en Bretagne en raison du rôle important qu'ont eu le PCF et l'URSS dans la guerre.
 # labels = to_check
 1	Gounit	gounit	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -13019,7 +13019,7 @@
 
 # sent_id = wikipedia.vislcg.txt:48:1432
 # text = E miz Gwengolo 1919 o doa kroget ar c’hevredadoù tiez an degemer da aozañ “rannvroioù touristel” diwar ur patrom un tamm disheñvel.
-# text[fra¹] = En septembre 1919 avaient commencés les sociétés de maisons l'accueil à organiser “des régions touristiques” d'un patron un peu différent.
+# text[fra¹] = Les sociétés des maisons de l'accueil ont commencé dès septembre 1919 à organiser “des régions touristiques” sur un modèle un peu différent.
 # labels = to_check
 1	E	e	ADP	pr	_	3	case	_	_
 2	miz	miz	X	x	_	3	dep	_	_
@@ -13048,7 +13048,7 @@
 
 # sent_id = wikipedia.vislcg.txt:49:1484
 # text = Ne gloto tamm ebet ar rannvroioù-se gant ar rannvroioù armerzhel.
-# text[fra¹] = Elle ne correspondra pas du tout ces régions avec les régions économiques.
+# text[fra¹] = Ces régions ne correspondront pas du tout aux régions économiques.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	gloto	klotañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -13065,7 +13065,7 @@
 
 # sent_id = wikipedia.vislcg.txt:50:1512
 # text = Krouet eo bet ar rannvro velestradurel nevez-se hep derc’hel kont eus an istor.
-# text[fra¹] = Elle a été créé la région administrative nouvelle ci sans tenir en compte de l'histoire.
+# text[fra¹] = Cette nouvelle région administrative a été créée sans tenir compte de l'histoire.
 # labels = to_check
 1	Krouet	krouiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -13085,7 +13085,7 @@
 
 # sent_id = wikipedia.vislcg.txt:51:1546
 # text = Mouezhiadegoù peurheñvel a voe aozet gant Kuzul-rannvro Breizh ivez.
-# text[fra¹] = Votes identiques Elle fut organisé par Conseil régional de Bretagne aussi.
+# text[fra¹] = Le Conseil régional de Bretagne a aussi organisé des référendums identiques.
 # labels = to_check
 1	Mouezhiadegoù	mouezhiadeg	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
 2	peurheñvel	peurheñvel	ADJ	adj	_	1	amod	_	_
@@ -13100,7 +13100,7 @@
 
 # sent_id = wikipedia.vislcg.txt:52:1570
 # text = Kenderc’hel a reer da zivizout er mare-mañ evit adstagañ al Liger-Atlantel ouzh Rannvro Breizh.
-# text[fra¹] = On continue à décider en ce moment pour rattacher le Loire-Atlantique contre la Région de la Bretagne.
+# text[fra¹] = Le rattachement de la Loire-Atlantique à la Région Bretagne est toujours en débat.
 # labels = to_check
 1	Kenderc’hel	kenderc’hel	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -13121,7 +13121,7 @@
 
 # sent_id = wikipedia.vislcg.txt:53:1606
 # text = Tu a vefe neuze da unaniñ ar vro bremañ.
-# text[fra¹] = Il y aurait moyen Alors à unir le pays maintenant.
+# text[fra¹] = Il y aurait donc maintenant moyen d'unifier le pays.
 # labels = to_check
 1	Tu	tu	NOUN	n	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -13136,7 +13136,7 @@
 
 # sent_id = wikipedia.vislcg.txt:54:1630
 # text = Prezidanted an daou guzul-rannvro ha prezidant kuzul-departamant al Liger-Atlantel hepken a c’hall divizout reiñ lañs da adaozañ ar rannvro.
-# text[fra¹] = Présidents les deux conseils régionaux et le président de conseil général le Loire-Atlantique seulement il peut décider lancer réorganiser la région.
+# text[fra¹] = Pré Seuls les présidents des deux conseils régionaux et le président du conseil général de Loire-Atlantique peuvent décider de lancer la réorganisation de la région.
 # labels = to_check
 1	Prezidanted	prezidant	NOUN	n	Gender=Masc|Number=Plur	12	nsubj	_	_
 2	an	an	DET	det	_	4	det	_	_
@@ -13161,7 +13161,7 @@
 
 # sent_id = wikipedia.vislcg.txt:55:1674
 # text = Doare-skrivañ pennañ ar brezhoneg eo hiziv.
-# text[fra¹] = Il y a le #orthographe principal du breton aujourd’hui.
+# text[fra¹] = C'est aujourd’hui la principale orthographe du breton.
 # labels = to_check
 1	Doare-skrivañ	doare-skrivañ	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	pennañ	pennañ	ADJ	adj	_	1	amod	_	_
@@ -13173,7 +13173,7 @@
 
 # sent_id = wikipedia.vislcg.txt:56:1692
 # text = Implijet e vez gant an holl skolioù, degemeret gant an holl skolioù-meur, hag e ya da ober tost an holl levrioù embannet.
-# text[fra¹] = Employé est avec toutes les écoles, accueillies avec toutes les universités, et Elle va faire près tous les livres édités.
+# text[fra¹] = Elle est reconnue dans toutes les universités, est employée par toutes les écoles, et dans presque tous les livres.
 # labels = to_check
 1	Implijet	implijout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
