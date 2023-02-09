@@ -7336,7 +7336,7 @@
 # sent_id = grammar.vislcg.txt:157:2884
 # text = Labourat a raen gant ma mamm er parkeier.
 # text[eng] = I used to work with my mother in the fields.
-# text[fra] =Je travaillais avec ma mère dans les champs.
+# text[fra] = Je travaillais avec ma mère dans les champs.
 # labels = press_1986 ch_morphology to_check
 1	Labourat	labourat	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -7353,6 +7353,7 @@
 # sent_id = grammar.vislcg.txt:158:2907
 # text = Labourat ne rin biken ganeoc'h.
 # text[eng] = I shall never work with you.
+# text[fra] = Je ne travaillerai jamais avec vous.
 # labels = press_1986 ch_morphology to_check
 1	Labourat	labourat	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	ne	ne	ADV	adv	Polarity=Neg	1	advmod	_	_
@@ -7366,6 +7367,7 @@
 # sent_id = grammar.vislcg.txt:159:2924
 # text = Kouezhet en deus en ur zont.
 # text[eng] = He fell while coming.
+# text[fra] = Il est tombé en venant.
 # labels = press_1986 ch_morphology to_check
 1	Kouezhet	kouezhañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7377,6 +7379,7 @@
 # sent_id = grammar.vislcg.txt:160:2940
 # text = Marvet en deus al leue bihan.
 # text[eng] = The little calf has died.
+# text[fra] = Le petit veau est mort.
 # labels = press_1986 ch_morphology to_check
 1	Marvet	mervel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7388,6 +7391,7 @@
 # sent_id = grammar.vislcg.txt:161:2956
 # text = Kerzhout a ran.
 # text[eng] = I walk.
+# text[fra] = Je marche.
 # labels = press_1986 ch_morphology to_check
 1	Kerzhout	kerzhout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -7397,6 +7401,7 @@
 # sent_id = grammar.vislcg.txt:162:2968
 # text = Kerzhout a rin.
 # text[eng] = I will walk.
+# text[fra] = Je marcherai.
 # labels = press_1986 ch_morphology to_check
 1	Kerzhout	kerzhout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -7406,6 +7411,7 @@
 # sent_id = grammar.vislcg.txt:163:2980
 # text = Kerzhout a raen.
 # text[eng] = I used to walk.
+# text[fra] = Je marchais.
 # labels = press_1986 ch_morphology to_check
 1	Kerzhout	kerzhout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -7415,6 +7421,7 @@
 # sent_id = grammar.vislcg.txt:164:2992
 # text = Kerzhout a rafen.
 # text[eng] = I would walk.
+# text[fra] = Je marcherais.
 # labels = press_1986 ch_morphology to_check
 1	Kerzhout	kerzhout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -7424,6 +7431,7 @@
 # sent_id = grammar.vislcg.txt:165:3004
 # text = Kerzhout a rajen.
 # text[eng] = I would walk.
+# text[fra] = J'aurai marché.
 # labels = press_1986 ch_morphology to_check
 1	Kerzhout	kerzhout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -7433,6 +7441,7 @@
 # sent_id = grammar.vislcg.txt:166:3016
 # text = Kerzhout am eus graet.
 # text[eng] = I have walked.
+# text[fra] = J'ai marché.
 # labels = press_1986 ch_morphology to_check
 1	Kerzhout	kerzhout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	am eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7442,6 +7451,7 @@
 # sent_id = grammar.vislcg.txt:167:3028
 # text = Da Gemper emaon o vont.
 # text[eng] = I am going to Quimper.
+# text[fra] = Je vais à Quimper.
 # labels = press_1986 ch_morphology to_check
 1	Da	da	ADP	pr	_	2	case	_	_
 2	Gemper	Kemper	PROPN	np	Number=Sing	5	obl	_	_
@@ -7453,6 +7463,7 @@
 # sent_id = grammar.vislcg.txt:168:3044
 # text = Da Gemper e vin o vont.
 # text[eng] = I will be going to Quimper.
+# text[fra] = J'irai à Quimper.
 # labels = press_1986 ch_morphology to_check
 1	Da	da	ADP	pr	_	2	case	_	_
 2	Gemper	Kemper	PROPN	np	Number=Sing	6	obl	_	_
@@ -7465,6 +7476,7 @@
 # sent_id = grammar.vislcg.txt:169:3062
 # text = Da Gemper e oan o vont.
 # text[eng] = I was going to Quimper.
+# text[fra] = J'allais à Quimper.
 # labels = press_1986 ch_morphology to_check
 1	Da	da	ADP	pr	_	2	case	_	_
 2	Gemper	Kemper	PROPN	np	Number=Sing	6	obl	_	_
@@ -7477,6 +7489,7 @@
 # sent_id = grammar.vislcg.txt:170:3080
 # text = Da Gemper e vefen o vont.
 # text[eng] = I would be going to Quimper.
+# text[fra] = J'irais à Quimper.
 # labels = press_1986 ch_morphology to_check
 1	Da	da	ADP	pr	_	2	case	_	_
 2	Gemper	Kemper	PROPN	np	Number=Sing	6	obl	_	_
@@ -7489,6 +7502,7 @@
 # sent_id = grammar.vislcg.txt:171:3098
 # text = Lennet en deus Yann al levr.
 # text[eng] = Yann has read the book.
+# text[fra] = Yann a lu le livre.
 # labels = press_1986 ch_morphology to_check
 1	Lennet	lenn	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7500,6 +7514,7 @@
 # sent_id = grammar.vislcg.txt:172:3114
 # text = Yann en deus lennet al levr.
 # text[eng] = Yann has read the book.
+# text[fra] = Yann a lu le livre.
 # labels = press_1986 ch_morphology to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
@@ -7511,6 +7526,7 @@
 # sent_id = grammar.vislcg.txt:173:3130
 # text = Dibabet he do Mari ar falc'h-se.
 # text[eng] = Mari will have chosen that scythe.
+# text[fra] = Marie aura choisi cette faux.
 # labels = press_1986 ch_morphology to_check
 1	Dibabet	dibab	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	he do	kaout	AUX	vblex	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	aux	_	_
@@ -7521,22 +7537,25 @@
 7	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = grammar.vislcg.txt:174:3148
-# text = Kavet o doa ar soudarded c'hazh dindan ar gador.
+# text = Kavet o doa ar soudarded ar c'hazh dindan ar gador.
 # text[eng] = The soldiers had found the cat under the chair.
+# text[fra] = Les soldats avaient trouvé un chat sous la chaise.
 # labels = press_1986 ch_morphology to_check
 1	Kavet	kavout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	o doa	kaout	AUX	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	aux	_	_
 3	ar	an	DET	det	_	4	det	_	_
 4	soudarded	soudard	NOUN	n	Gender=Masc|Number=Plur	1	nsubj	_	_
-5	c'hazh	kazh	NOUN	n	Gender=Masc|Number=Sing	1	obj	_	_
-6	dindan	dindan	ADP	pr	_	8	case	_	_
-7	ar	an	DET	det	_	8	det	_	_
-8	gador	kador	NOUN	n	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
-9	.	.	PUNCT	sent	_	1	punct	_	_
+5	ar	an	DET	det	_	6	det	_	_
+6	c'hazh	kazh	NOUN	n	Gender=Masc|Number=Sing	1	obj	_	_
+7	dindan	dindan	ADP	pr	_	9	case	_	_
+8	ar	an	DET	det	_	9	det	_	_
+9	gador	kador	NOUN	n	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+10	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = grammar.vislcg.txt:175:3170
 # text = Kavet em eus bet al levr.
 # text[eng] = I've found the book.
+# text[fra] = J'ai trouvé le livre.
 # labels = press_1986 ch_morphology to_check
 1	Kavet	kavout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	em eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7548,6 +7567,7 @@
 # sent_id = grammar.vislcg.txt:176:3186
 # text = Savet eo bet dija.
 # text[eng] = He's already got up.
+# text[fra] = Il est déjà levé.
 # labels = press_1986 ch_morphology to_check
 1	Savet	sevel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7558,6 +7578,7 @@
 # sent_id = grammar.vislcg.txt:177:3200
 # text = Bet em eus tri lur diganti.
 # text[eng] = I've had three francs off her.
+# text[fra] = J'ai eu trois francs d'elle.
 # labels = press_1986 ch_morphology to_check
 1	Bet	kaout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	em eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7570,7 +7591,8 @@
 
 # sent_id = grammar.vislcg.txt:178:3217
 # text = Kollet eo bet ar voutailh gant Lan.
-# text[eng] = The bottle has been lost by Lan.
+# text[eng] = Lan has lost the bottle.
+text[fra] = Lan a perdu la bouteille.
 # labels = press_1986 ch_morphology to_check
 1	Kollet	koll	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7584,6 +7606,7 @@
 # sent_id = grammar.vislcg.txt:179:3237
 # text = Gant Lan eo bet kollet ar voutailh.
 # text[eng] = The bottle has been lost by Lan.
+# text[fra] = La bouteille a été perdue par Lan.
 # labels = press_1986 ch_morphology to_check
 1	Gant	gant	ADP	pr	_	2	case	_	_
 2	Lan	Lan	PROPN	np	Gender=Masc|Number=Sing	5	obl:agent	_	_
@@ -7597,6 +7620,7 @@
 # sent_id = grammar.vislcg.txt:180:3257
 # text = Ar voutailh a zo bet kollet gant Lan.
 # text[eng] = The bottle has been lost by Lan.
+# text[fra] = La bouteille a été perdue par Lan.
 # labels = press_1986 ch_morphology to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	voutailh	boutailh	NOUN	n	Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -7611,6 +7635,7 @@
 # sent_id = grammar.vislcg.txt:181:3279
 # text = Me a zo bet roet ul levr din gant Yannig.
 # text[eng] = I have been given a book by Yannig.
+# text[fra] = J'ai reçu un livre de Yannig.
 # labels = press_1986 ch_morphology to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 2	a	a	AUX	vpart	_	5	aux	_	_
@@ -7629,6 +7654,7 @@
 # sent_id = grammar.vislcg.txt:182:3306
 # text = Al levr a lenner.
 # text[eng] = The book is read.
+# text[fra] = On lit le livre.
 # labels = press_1986 ch_morphology to_check
 1	Al	an	DET	det	_	2	det	_	_
 2	levr	levr	NOUN	n	Gender=Masc|Number=Sing	4	dep	_	_
@@ -7639,6 +7665,7 @@
 # sent_id = grammar.vislcg.txt:183:3320
 # text = Degouezhet eo ganin ho lizher.
 # text[eng] = I've got your letter.
+# text[fra] = J'ai reçu votre lettre.
 # labels = press_1986 ch_morphology to_check
 1	Degouezhet	degouezhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7652,6 +7679,7 @@
 # sent_id = grammar.vislcg.txt:184:3337
 # text = Kresket eo an dud en hon ti.
 # text[eng] = There's been an addition to the family.
+# text[fra] = Notre maisonnée s'est agrandie.
 # labels = press_1986 ch_morphology to_check
 1	Kresket	kreskiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7665,6 +7693,7 @@
 # sent_id = grammar.vislcg.txt:185:3357
 # text = Ar vugale en em vag.
 # text[eng] = The children feed themselves.
+# text[fra] = Les enfants se nourrissent eux-mêmes.
 # labels = press_1986 ch_morphology to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	vugale	bugel	NOUN	n	Gender=Masc|Number=Plur	5	nsubj	_	_
@@ -7676,6 +7705,7 @@
 # sent_id = grammar.vislcg.txt:186:3373
 # text = En em vagañ a ra ar vugale.
 # text[eng] = The children feed themselves.
+# text[fra] = Les enfants se nourrissent eux-mêmes.
 # labels = press_1986 ch_morphology to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
 2	em	em	X	x	_	1	fixed	_	_
@@ -7689,6 +7719,7 @@
 # sent_id = grammar.vislcg.txt:187:3393
 # text = Ar vugale n'en em vagont ket.
 # text[eng] = The children do not feed themselves.
+# text[fra] = Les enfants ne se nourrissent pas eux-mêmes.
 # labels = press_1986 ch_morphology to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	vugale	bugel	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -7702,6 +7733,7 @@
 # sent_id = grammar.vislcg.txt:188:3413
 # text = N'en em vag ket ar vugale.
 # text[eng] = The children do not feed themselves.
+# text[fra] = Les enfants ne se nourrissent pas eux-mêmes.
 # labels = press_1986 ch_morphology to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
 2	en	en	AUX	vpart	Reflex=Yes	4	aux	_	_
@@ -7715,6 +7747,7 @@
 # sent_id = grammar.vislcg.txt:189:3433
 # text = En em c'houlenn a ran hag-eñ e teuy pe ne zeuy ket.
 # text[eng] = I wonder if he will come or not.
+# text[fra] = Je me demande si il viendra ou pas.
 # labels = press_1986 ch_morphology to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
 2	em	em	X	x	_	1	fixed	_	_
@@ -7733,6 +7766,7 @@
 # sent_id = grammar.vislcg.txt:190:3463
 # text = Ar armeoù en em gann.
 # text[eng] = The armies fight.
+# text[fra] = Les armées se battent.
 # labels = press_1986 ch_morphology to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	armeoù	arme	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -7744,6 +7778,7 @@
 # sent_id = grammar.vislcg.txt:191:3479
 # text = N'en em garont ket an eil egile.
 # text[eng] = They don't like each other.
+# text[fra] = Ils ne s'aiment pas.
 # labels = press_1986 ch_morphology to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
 2	en	en	AUX	vpart	Reflex=Yes	5	aux	_	_
@@ -7758,6 +7793,7 @@
 # sent_id = grammar.vislcg.txt:192:3501
 # text = Fall eo ganti.
 # text[eng] = She's not well.
+# text[fra] = Elle ne se sent pas bien.
 # labels = press_1986 ch_morphology to_check
 1	Fall	fall	ADJ	adj	_	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
@@ -7769,6 +7805,7 @@
 # sent_id = grammar.vislcg.txt:193:3514
 # text = Int a fell dezho c'hoari ganin.
 # text[eng] = They want to play with me.
+# text[fra] = Elles, elles veulent jouer avec moi.
 # labels = press_1986 ch_morphology to_check
 1	Int	prpers	PRON	prn	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -7785,6 +7822,7 @@
 # sent_id = grammar.vislcg.txt:194:3534
 # text = Fellout a reas din kavout ma breur.
 # text[eng] = I wanted to find my brother.
+# text[fra] = J'ai voulu trouver mon frère.
 # labels = press_1986 ch_morphology to_check
 1	Fellout	fellout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -7800,6 +7838,7 @@
 # sent_id = grammar.vislcg.txt:195:3555
 # text = Hi a blijfe dezhi debriñ ur grampouezhenn vras.
 # text[eng] = She'd like to eat a big crêpe.
+# text[fra] = Elle voudrait manger une grande crêpe.
 # labels = press_1986 ch_morphology to_check
 1	Hi	prpers	PRON	prn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -7816,6 +7855,7 @@
 # sent_id = grammar.vislcg.txt:196:3578
 # text = Plijout a rafe deomp ober un dro e Montroulez.
 # text[eng] = We'd like to go for a walk in Morlaix.
+# text[fra] = Nous voudrions faire un tour à Morlaix.
 # labels = press_1986 ch_morphology to_check
 1	Plijout	plijout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
