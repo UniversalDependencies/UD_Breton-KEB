@@ -7769,6 +7769,7 @@
 # sent_id = grammar.vislcg.txt:197:3603
 # text = Ar sae a brenan.
 # text[eng] = I buy the dress.
+# text[fra] = J'achète la robe.
 # labels = press_1986 ch_morphology to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	sae	sae	NOUN	n	Gender=Fem|Number=Sing	4	obj	_	_
@@ -7779,6 +7780,7 @@
 # sent_id = grammar.vislcg.txt:198:3617
 # text = Yannig a welez.
 # text[eng] = You see Yannig.
+# text[fra] = Tu vois Yannig.
 # labels = press_1986 ch_morphology to_check
 1	Yannig	Yannig	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -7788,6 +7790,7 @@
 # sent_id = grammar.vislcg.txt:199:3629
 # text = Amañ e kavo-hi ur wetur.
 # text[eng] = She'll find a car here.
+# text[fra] = Elle trouvera une voiture ici.
 # labels = press_1986 ch_morphology to_check
 1	Amañ	amañ	ADV	adv	_	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -7800,6 +7803,7 @@
 # sent_id = grammar.vislcg.txt:200:3647
 # text = Kousket ne rin ket.
 # text[eng] = I'll not sleep.
+# text[fra] = Je ne dormirai pas.
 # labels = press_1986 ch_morphology to_check
 1	Kousket	kousket	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	ne	ne	ADV	adv	Polarity=Neg	1	advmod	_	_
@@ -7810,6 +7814,7 @@
 # sent_id = grammar.vislcg.txt:201:3661
 # text = Ne'z ajen ket.
 # text[eng] = I wouldn't go.
+# text[fra] = Je ne serais pas allée.
 # labels = press_1986 ch_morphology to_check
 1	Ne'z	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	ajen	monet	VERB	vblex	Number=Sing|Person=1	0	root	_	_
@@ -7819,6 +7824,7 @@
 # sent_id = grammar.vislcg.txt:202:3673
 # text = Me ne brenin ket an dra-se.
 # text[eng] = I'll not buy that.
+# text[fra] = Moi je n'achèterai pas ça.
 # labels = press_1986 ch_morphology to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	ne	ne	ADV	adv	Polarity=Neg	3	advmod	_	_
@@ -7831,7 +7837,8 @@
 
 # sent_id = grammar.vislcg.txt:203:3693
 # text = Ne daolimp ket ar bili war ar geot.
-# text[eng] = We won't throw pebbles onto the grass.
+# text[eng] = We won't throw the pebbles onto the grass.
+# text[fra] = On ne jettera pas les galets sur la pelouse.
 # labels = press_1986 ch_morphology to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	daolimp	teuler	VERB	vblex	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -7845,7 +7852,8 @@
 
 # sent_id = grammar.vislcg.txt:204:3715
 # text = Va zud ne ouzont ket.
-# text[eng] = My family don't know.
+# text[eng] = My family doesn't know it.
+# text[fra] = Ma famille ne le sait pas.
 # labels = press_1986 ch_morphology to_check
 1	Va	ma	DET	det	Poss=Yes	2	det	_	_
 2	zud	den	NOUN	n	Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -7856,7 +7864,8 @@
 
 # sent_id = grammar.vislcg.txt:205:3731
 # text = Ne oar ket va zud.
-# text[eng] = My family don't know.
+# text[eng] = My family doesn't know it.
+# text[fra] = Ma famille ne le sait pas.
 # labels = press_1986 ch_morphology to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	oar	gouzout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -7868,6 +7877,7 @@
 # sent_id = grammar.vislcg.txt:206:3747
 # text = Brav he deus lammet.
 # text[eng] = She jumped well.
+# text[fra] = Elle a bien sauté.
 # labels = press_1986 ch_morphology to_check
 1	Brav	brav	ADJ	adj	_	3	advmod	_	_
 2	he deus	kaout	AUX	vblex	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
@@ -7876,7 +7886,8 @@
 
 # sent_id = grammar.vislcg.txt:207:3759
 # text = Skuizh-bras eo hi.
-# text[eng] = She's really tired.
+# text[eng] = She's very tired.
+# text[fra] = Elle est très fatiguée.
 # labels = press_1986 ch_morphology to_check
 1-2	Skuizh-bras	_	_	_	_	_	_	_	_
 1	Skuizh	skuizh	ADJ	adj	_	0	root	_	_
@@ -7888,6 +7899,7 @@
 # sent_id = grammar.vislcg.txt:208:3772
 # text = Pegement e labour-hi e-pad an devezh?
 # text[eng] = How much does she work during the day?
+# Elle travaille combien par jour ?
 # labels = press_1986 ch_morphology to_check
 1	Pegement	pegement	ADV	adv	PronType=Int	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -7901,6 +7913,7 @@
 # sent_id = grammar.vislcg.txt:209:3792
 # text = Va gwreg ne vo ket eno kennebeut.
 # text[eng] = My wife will not be there either.
+# text[fra] = Ma femme n'y sera pas non plus.
 # labels = press_1986 ch_morphology to_check
 1	Va	ma	DET	det	Poss=Yes	2	det	_	_
 2	gwreg	gwreg	NOUN	n	Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -7914,6 +7927,7 @@
 # sent_id = grammar.vislcg.txt:210:3812
 # text = Ar merc'hed hepken a zeuy d'ar c'hendalc'h.
 # text[eng] = Only the girls will come to the congress.
+# text[fra] = Seules les filles viendront au congrès.
 # labels = press_1986 ch_morphology to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	merc'hed	merc’h	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -7929,6 +7943,7 @@
 # sent_id = grammar.vislcg.txt:211:3833
 # text = N'he deus klasket zoken gwalc'hiñ he belo.
 # text[eng] = She hasn't even tried to wash her bicycle.
+# text[fra] = Elle n'a même pas cherché à laver son vélo.
 # labels = press_1986 ch_morphology to_check
 1	N'	ne	ADV	adv	Polarity=Neg	3	advmod	_	SpaceAfter=No
 2	he deus	kaout	AUX	vblex	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
@@ -7942,6 +7957,7 @@
 # sent_id = grammar.vislcg.txt:212:3853
 # text = Yann a rae stamm, Mari a laboure.
 # text[eng] = Yann knitted, Mari worked.
+# text[fra] = Yann tricotait, Marie travaillait.
 # labels = press_1986 ch_syntax p_185 to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -7955,7 +7971,8 @@
 
 # sent_id = grammar.vislcg.txt:213:3875
 # text = Yann a davas, Mari e oa skuizh.
-# text[eng] = Yann became silent because Mari was tired.
+# text[eng] = Yann became silent, Mari was tired.
+# Yann se tût, Marie était fatiguée.
 # labels = press_1986 ch_syntax p_185 to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -7970,6 +7987,7 @@
 # sent_id = grammar.vislcg.txt:214:3897
 # text = Setu an dorgenn ma savas-hi he zi warni.
 # text[eng] = Here is the hill where she built her house.
+# text[fra] = Voici la colline sur laquelle elle a construit sa maison.
 # labels = press_1986 ch_syntax p_186 to_check
 1	Setu	setu	ADV	adv	_	0	root	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -7987,6 +8005,7 @@
 # sent_id = grammar.vislcg.txt:215:3922
 # text = Gwelout e vignonez a ra Yann.
 # text[eng] = Yann sees his girlfriend.
+# text[fra] = Yann voit sa copine.
 # labels = press_1986 ch_syntax p_190 to_check
 1	Gwelout	gwelout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	3	det	_	_
@@ -7998,7 +8017,8 @@
 
 # sent_id = grammar.vislcg.txt:216:3940
 # text = Gwelout e vignonez en deus graet Yann.
-# text[eng] = Yann sees his girlfriend.
+# text[eng] = Yann has seen his girlfriend.
+# text[fra] = Yann a vu sa copine.
 # labels = press_1986 ch_syntax p_191 to_check
 1	Gwelout	gwelout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	3	det	_	_
@@ -8009,10 +8029,11 @@
 7	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = grammar.vislcg.txt:217:3958
-# text = Gwelout en deus Yann e vignonez.
-# text[eng] = Yann sees his girlfriend.
+# text = Gwelet en deus Yann e vignonez.
+# text[eng] = Yann has seen his girlfriend.
+# text[fra] = Yann a vu sa copine.
 # labels = press_1986 ch_syntax p_191 to_check
-1	Gwelout	gwelout	VERB	vblex	VerbForm=Inf	0	root	_	_
+1	Gwelet	gwelout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
 3	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	1	nsubj	_	_
 4	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	5	det	_	_
@@ -8022,6 +8043,7 @@
 # sent_id = grammar.vislcg.txt:218:3974
 # text = Klask a ra Yann ul levr.
 # text[eng] = Yann seeks a book.
+# text[fra] = Yann cherche un livre.
 # labels = press_1986 ch_syntax p_191 to_check
 1	Klask	klask	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -8034,6 +8056,7 @@
 # sent_id = grammar.vislcg.txt:219:3992
 # text = Klask ul levr a ra Yann.
 # text[eng] = Yann seeks a book.
+# text[fra] = Yann cherche un livre.
 # labels = press_1986 ch_syntax p_191 to_check
 1	Klask	klask	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	ul	un	DET	det	_	3	det	_	_
@@ -8046,6 +8069,7 @@
 # sent_id = grammar.vislcg.txt:220:4010
 # text = Yann a zibab ul levr.
 # text[eng] = Yann chooses a book.
+# text[fra] = Yann choisit un livre.
 # labels = press_1986 ch_syntax p_192 to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8057,6 +8081,7 @@
 # sent_id = grammar.vislcg.txt:221:4026
 # text = Ul levr a zibab Yann.
 # text[eng] = Yann chooses a book.
+# text[fra] = Yann choisit un livre.
 # labels = press_1986 ch_syntax p_192 to_check
 1	Ul	un	DET	det	_	2	det	_	_
 2	levr	levr	NOUN	n	Gender=Masc|Number=Sing	4	obj	_	_
@@ -8068,6 +8093,7 @@
 # sent_id = grammar.vislcg.txt:222:4042
 # text = Yann a wel Morwenna.
 # text[eng] = Yann sees Morwenna.
+# text[fra] = Yann voit Morwenna.
 # labels = press_1986 ch_syntax p_192 to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8078,6 +8104,7 @@
 # sent_id = grammar.vislcg.txt:223:4056
 # text = Morwenna a wel Yann.
 # text[eng] = Yann sees Morwenna.
+# text[fra] = Yann voit Morwenna.
 # labels = press_1986 ch_syntax p_192 to_check
 1	Morwenna	Morwenna	PROPN	np	Gender=Fem|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8088,6 +8115,7 @@
 # sent_id = grammar.vislcg.txt:224:4070
 # text = Morwenna e wel Yann.
 # text[eng] = Yann sees Morwenna.
+# text[fra] = Yann voit Morwenna.
 # labels = press_1986 ch_syntax p_192 to_check
 1	Morwenna	Morwenna	PROPN	np	Gender=Fem|Number=Sing	3	obj	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -8098,6 +8126,7 @@
 # sent_id = grammar.vislcg.txt:225:4084
 # text = El liorzh e c'hortoz Yann.
 # text[eng] = Yann waits in the garden.
+# text[fra] = Yann attend dans le jardin.
 # labels = press_1986 ch_syntax p_192 to_check
 1-2	El	_	_	_	_	_	_	_	_
 1	E	e	ADP	pr	_	3	case	_	_
@@ -8110,7 +8139,8 @@
 
 # sent_id = grammar.vislcg.txt:226:4101
 # text = Piv a wel Yannig ?
-# text[fra] = Qui a vu Yannig ?
+# text[eng] = Who sees Yannig ?
+# text[fra] = Qui voit Yannig ?
 # labels = press_1986 ch_syntax to_check
 1	Piv	piv	PRON	prn	PronType=Int	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8120,7 +8150,8 @@
 
 # sent_id = grammar.vislcg.txt:227:4115
 # text = Mari a wel Yannig.
-# text[fra] = Mari a vu Yannig.
+# text[eng] = Mari sees Yannig.
+# text[fra] = Mari voit Yannig.
 # labels = press_1986 ch_syntax to_check
 1	Mari	Mari	PROPN	np	Gender=Fem|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8131,6 +8162,7 @@
 # sent_id = grammar.vislcg.txt:228:4129
 # text = Al labour e kavo mat.
 # text[eng] = He'll find the work good.
+# text[fra] = Il appréciera le travail.
 # labels = press_1986 ch_syntax to_check
 1	Al	an	DET	det	_	2	det	_	_
 2	labour	labour	NOUN	n	Gender=Masc|Number=Sing	4	obj	_	_
@@ -8142,6 +8174,7 @@
 # sent_id = grammar.vislcg.txt:229:4145
 # text = Diskouezit din an ti !
 # text[eng] = Show me the house!
+# text[fra] = Montrez-moi la maison!
 # labels = press_1986 ch_syntax to_check
 1	Diskouezit	diskouez	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2-3	din	_	_	_	_	_	_	_	_
@@ -8154,6 +8187,7 @@
 # sent_id = grammar.vislcg.txt:230:4160
 # text = Na ziskouezit ket din an ti !
 # text[eng] = Don't show me the house!
+# text[fra] = Ne me montrez pas la maison!
 # labels = press_1986 ch_syntax to_check
 1	Na	na	AUX	vpart	Polarity=Neg	2	aux	_	_
 2	ziskouezit	diskouez	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -8168,6 +8202,7 @@
 # sent_id = grammar.vislcg.txt:231:4179
 # text = Va selaouit!
 # text[eng] = Listen to me!
+# text[fra] = Écoutez-moi !
 # labels = press_1986 ch_morphology p_195 to_check
 1	Va	direct	PRON	prn	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 2	selaouit	selaou	VERB	vblex	Number=Plur|Person=2	0	root	_	SpaceAfter=No
@@ -8176,6 +8211,7 @@
 # sent_id = grammar.vislcg.txt:232:4189
 # text = Na selaouit ket ac'hanon!
 # text[eng] = Don't listen to me!
+# text[fra] = Ne m'écoutez pas !
 # labels = press_1986 ch_syntax p_195 to_check
 1	Na	na	AUX	vpart	Polarity=Neg	2	aux	_	_
 2	selaouit	selaou	VERB	vblex	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -8186,6 +8222,7 @@
 # sent_id = grammar.vislcg.txt:233:4203
 # text = Pesketaer e vo Yannig a-hed e vuhez.
 # text[eng] = Yannig will be a fisherman all his life.
+#  text[fra] = Yannig sera pêcheur toute sa vie.
 # labels = press_1986 ch_syntax p_196
 1	Pesketaer	pesketaer	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -8199,6 +8236,7 @@
 # sent_id = grammar.vislcg.txt:234:4223
 # text = Yannig a vo pesketaer a-hed e vuhez.
 # text[eng] = Yannig will be a fisherman all his life.
+#  text[fra] = Yannig sera pêcheur toute sa vie.
 # labels = press_1986 ch_syntax p_196
 1	Yannig	Yannig	PROPN	np	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	a	a	AUX	vpart	_	4	aux	_	_
@@ -8212,6 +8250,7 @@
 # sent_id = grammar.vislcg.txt:235:4243
 # text = A-hed e vuhez e vo Yannig pesketaer.
 # text[eng] = Yannig will be a fisherman all his life.
+#  text[fra] = Yannig sera pêcheur toute sa vie.
 # labels = press_1986 ch_syntax p_196
 1	A-hed	a-hed	ADP	pr	_	3	case	_	_
 2	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	3	det	_	_
@@ -8224,7 +8263,8 @@
 
 # sent_id = grammar.vislcg.txt:236:4263
 # text = Debriñ a ra Mona he boued er gegin.
-# text[eng] = Mona eats her food here in the kitchen.
+# text[eng] = Mona eats her food in the kitchen.
+# text[fra] = Mona mange son repas dans la cuisine.
 # labels = press_1986 ch_syntax p_197 to_check
 1	Debriñ	debriñ	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -8240,7 +8280,8 @@
 
 # sent_id = grammar.vislcg.txt:237:4286
 # text = Mona a zebr he boued er gegin.
-# text[eng] = Mona eats her food here in the kitchen.
+# text[eng] = Mona eats her food in the kitchen.
+# text[fra] = Mona mange son repas dans la cuisine.
 # labels = press_1986 ch_syntax p_197 to_check
 1	Mona	Mona	PROPN	np	Gender=Fem|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8255,7 +8296,8 @@
 
 # sent_id = grammar.vislcg.txt:238:4307
 # text = He boued e tebr Mona er gegin.
-# text[eng] = Mona eats her food here in the kitchen.
+# text[eng] = Mona eats her food in the kitchen.
+# text[fra] = Mona mange son repas dans la cuisine.
 # labels = press_1986 ch_syntax p_197 to_check
 1	He	he	DET	det	Gender[psor]=Fem|Poss=Yes	2	det	_	_
 2	boued	boued	NOUN	n	Gender=Masc|Number=Sing	4	obj	_	_
@@ -8271,6 +8313,7 @@
 # sent_id = grammar.vislcg.txt:239:4328
 # text = Ne gavo ket ho preudeur a labour e Pariz.
 # text[eng] = Your brothers will not find work in Paris.
+# text[fra] = Vos frères ne trouveront pas d'emploi à Paris.
 # labels = press_1986 ch_syntax p_198 to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	gavo	kavout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -8285,7 +8328,8 @@
 
 # sent_id = grammar.vislcg.txt:240:4352
 # text = Ne gavo ho preudeur labour ebet e Pariz.
-# text[eng] = Your brothers will not find work in Paris.
+# text[eng] = Your brothers will not find any work in Paris.
+# text[fra] = Vos frères ne trouveront aucun emploi à Paris.
 # labels = press_1986 ch_syntax p_198 to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	gavo	kavout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -8300,6 +8344,7 @@
 # sent_id = grammar.vislcg.txt:241:4374
 # text = E Pariz ne gavo ho preudeur a labour.
 # text[eng] = Your brothers will not find work in Paris.
+# text[fra] = Point ne trouveront d'emploi vos frères à Paris.
 # labels = press_1986 ch_syntax p_198 to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Pariz	Pariz	PROPN	np	Number=Sing	4	obl	_	_
@@ -8314,6 +8359,7 @@
 # sent_id = grammar.vislcg.txt:242:4396
 # text = E Pariz ne gavo ho preudeur labour ebet.
 # text[eng] = Your brothers will not find work in Paris.
+# text[fra] = À Paris, vos frères ne trouveront aucun emploi.
 # labels = press_1986 ch_syntax p_198 to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Pariz	Pariz	PROPN	np	Number=Sing	4	obl	_	_
@@ -8328,6 +8374,7 @@
 # sent_id = grammar.vislcg.txt:243:4418
 # text = Ho preudeur ne gavint ket a labour e Pariz.
 # text[eng] = Your brothers will not find work in Paris.
+# text[fra] = Vos frères ne trouveront pas d'emploi à Paris.
 # labels = press_1986 ch_syntax p_198 to_check
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
 2	preudeur	breur	NOUN	n	Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -8343,6 +8390,7 @@
 # sent_id = grammar.vislcg.txt:244:4442
 # text = Ho preudeur ne gavint labour ebet e Pariz.
 # text[eng] = Your brothers will not find work in Paris.
+# text[fra] = Vos frères ne trouveront aucun emploi à Paris.
 # labels = press_1986 ch_syntax p_198 to_check
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
 2	preudeur	breur	NOUN	n	Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -8372,6 +8420,7 @@
 # sent_id = grammar.vislcg.txt:246:4488
 # text = E Pariz ho preudeur ne gavint labour ebet.
 # text[eng] = Your brothers will not find work in Paris.
+# text[fra] = À Paris, vos frères ne trouveront aucun emploi.
 # labels = press_1986 ch_syntax p_198 to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Pariz	Pariz	PROPN	np	Number=Sing	6	obl	_	_
@@ -8386,6 +8435,7 @@
 # sent_id = grammar.vislcg.txt:247:4510
 # text = Labourer-douar eo bet Yannig e-pad daou vloaz.
 # text[eng] = Yannig has been a farm worker for two years.
+# text[fra] = Yannig a été agriculteur pendant deux ans.
 # labels = press_1986 ch_syntax p_199 to_check
 1	Labourer-douar	labourer-douar	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -8399,6 +8449,7 @@
 # sent_id = grammar.vislcg.txt:248:4530
 # text = Yannig a zo bet labourer-douar e-pad daou vloaz.
 # text[eng] = Yannig has been a farm worker for two years.
+# text[fra] = Yannig a été agriculteur pendant deux ans.
 # labels = press_1986 ch_syntax p_199 to_check
 1	Yannig	Yannig	PROPN	np	Gender=Masc|Number=Sing	5	nsubj	_	_
 2	a	a	AUX	vpart	_	5	aux	_	_
@@ -8413,6 +8464,7 @@
 # sent_id = grammar.vislcg.txt:249:4552
 # text = E-pad daou vloaz eo bet labourer-douar Yannig.
 # text[eng] = Yannig has been a farm worker for two years.
+# text[fra] = Pendant deux ans Yannig a été agriculteur.
 # labels = press_1986 ch_syntax p_199 to_check
 1	E-pad	e-pad	ADP	pr	_	3	case	_	_
 2	daou	daou	NUM	num	Gender=Masc|Number=Plur	3	nummod	_	_
@@ -8426,6 +8478,7 @@
 # sent_id = grammar.vislcg.txt:250:4572
 # text = Bet eo Yannig labourer-douar e-pad daou vloaz.
 # text[eng] = Yannig has been a farm worker for two years.
+# text[fra] = Yannig a été agriculteur pendant deux ans.
 # labels = press_1986 ch_syntax p_199 to_check
 1	Bet	bezañ	AUX	vblex	Tense=Past|VerbForm=Part	4	cop	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
@@ -8437,20 +8490,22 @@
 8	.	.	PUNCT	sent	_	4	punct	_	_
 
 # sent_id = grammar.vislcg.txt:251:4592
-# text = Deut eo Yannig da verañ labourer-douar.
+# text = Deut eo Yannig da vezañ labourer-douar.
 # text[eng] = Yannig has become a farm worker.
+# text[fra] = Yannig est devenu agriculteur.
 # labels = press_1986 ch_syntax p_200 to_check
 1	Deut	dont	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
 3	Yannig	Yannig	PROPN	np	Gender=Masc|Number=Sing	1	nsubj	_	_
 4	da	da	ADP	pr	_	5	mark	_	_
-5	verañ	merañ	VERB	vblex	VerbForm=Inf	1	xcomp	_	_
+5	vezañ	bezañ	VERB	vblex	VerbForm=Inf	1	xcomp	_	_
 6	labourer-douar	labourer-douar	NOUN	n	Gender=Masc|Number=Sing	5	dep	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = grammar.vislcg.txt:252:4610
 # text = Debriñ en deus graet Yann e voued er wetur.
 # text[eng] = Yann has eaten his food in the car.
+# text[fra] = Yann a mangé son repas dans la voiture.
 # labels = press_1986 ch_syntax p_200 to_check
 1	Debriñ	debriñ	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -8467,6 +8522,7 @@
 # sent_id = grammar.vislcg.txt:253:4633
 # text = Yann en deus debret e voued er wetur.
 # text[eng] = Yann has eaten his food in the car.
+# text[fra] = Yann a mangé son repas dans la voiture.
 # labels = press_1986 ch_syntax p_200 to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
@@ -8482,6 +8538,7 @@
 # sent_id = grammar.vislcg.txt:254:4654
 # text = E voued en deus debret Yann er wetur.
 # text[eng] = Yann has eaten his food in the car.
+# text[fra] = Son repas, Yann l'a mangé dans la voiture.
 # labels = press_1986 ch_syntax p_200 to_check
 1	E	e	DET	det	Gender[psor]=Masc|Poss=Yes	2	det	_	_
 2	voued	boued	NOUN	n	Gender=Masc|Number=Sing	4	obj	_	_
@@ -8497,6 +8554,7 @@
 # sent_id = grammar.vislcg.txt:255:4675
 # text = Debret en deus Yann e voued er wetur.
 # text[eng] = Yann has eaten his food in the car.
+# text[fra] = Yann a mangé son repas dans la voiture.
 # labels = press_1986 ch_syntax p_200 to_check
 1	Debret	debriñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -8512,6 +8570,7 @@
 # sent_id = grammar.vislcg.txt:256:4696
 # text = E zebret en deus Yann er wetur.
 # text[eng] = Yann ate it in the car.
+# text[fra] = Yann l'a mangé dans la voiture.
 # labels = press_1986 ch_syntax p_201 to_check
 1	E	direct	PRON	prn	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 2	zebret	debriñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -8526,6 +8585,7 @@
 # sent_id = grammar.vislcg.txt:257:4715
 # text = N'o deus ket gwelet ar wazed an ti-se.
 # text[eng] = The men haven't seen that house.
+# text[fra] = Les hommes n'ont pas vu cette maison.
 # labels = press_1986 ch_syntax p_201 to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
 2	o deus	kaout	AUX	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
@@ -8541,6 +8601,7 @@
 # sent_id = grammar.vislcg.txt:258:4739
 # text = Ar wazed n'o deus ket gwelet an ti-se.
 # text[eng] = The men haven't seen that house.
+# text[fra] = Les hommes n'ont pas vu cette maison.
 # labels = press_1986 ch_syntax p_201 to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	wazed	gwaz	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -8556,6 +8617,7 @@
 # sent_id = grammar.vislcg.txt:259:4763
 # text = An ti-se n'o deus ket gwelet ar wazed.
 # text[eng] = The men haven't seen that house.
+# text[fra] = Cette maison, les hommes ne l'ont pas vue.
 # labels = press_1986 ch_syntax p_201 to_check
 1	An	an	DET	det	_	2	det	_	_
 2	ti	ti	NOUN	n	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
@@ -8571,6 +8633,7 @@
 # sent_id = grammar.vislcg.txt:260:4787
 # text = An ti-se ar wazed n'o deus ket e welet.
 # text[eng] = The men haven't seen that house.
+# text[fra] = Cette maison, les hommes ne l'ont pas vue.
 # labels = press_1986 ch_syntax p_201 to_check
 1	An	an	DET	det	_	2	det	_	_
 2	ti	ti	NOUN	n	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
@@ -8586,7 +8649,8 @@
 
 # sent_id = grammar.vislcg.txt:261:4813
 # text = O naetaat e oa Divi e gambrig-kousket gant evezh.
-# text[eng] = Divi was carefully cleaning his bedroom.
+# text[eng] = Divi was carefully cleaning his bedroom. 
+# text[fra] = Divi nettoyait méticuleusement sa chambre.
 # labels = press_1986 ch_syntax p_202 to_check
 1	O	o	AUX	vpart	_	2	aux	_	_
 2	naetaat	naetaat	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -8602,6 +8666,7 @@
 # sent_id = grammar.vislcg.txt:262:4837
 # text = Divi a oa o naetaat e gambrig-kousket gant evezh.
 # text[eng] = Divi was carefully cleaning his bedroom.
+# text[fra] = Divi nettoyait méticuleusement sa chambre.
 # labels = press_1986 ch_syntax p_202 to_check
 1	Divi	Divi	PROPN	np	Gender=Masc|Number=Sing	5	nsubj	_	_
 2	a	a	AUX	vpart	_	5	aux	_	_
@@ -8617,6 +8682,7 @@
 # sent_id = grammar.vislcg.txt:263:4861
 # text = E gambrig-kousket e oa Divi o naetaat gant evezh.
 # text[eng] = Divi was carefully cleaning his bedroom.
+# text[fra] = Divi nettoyait méticuleusement sa chambre.
 # labels = press_1986 ch_syntax p_202 to_check
 1	E	e	DET	det	Gender[psor]=Masc|Poss=Yes	2	det	_	_
 2	gambrig-kousket	kambrig-kousket	NOUN	n	Gender=Fem|Number=Sing	7	obj	_	_
@@ -8632,6 +8698,7 @@
 # sent_id = grammar.vislcg.txt:264:4885
 # text = Bet eo Divi o naetaat e gambrig-kousket gant evezh.
 # text[eng] = Divi has been carefully cleaning his bedroom.
+# text[fra] = Divi a nettoyé méticuleusement sa chambre.
 # labels = press_1986 ch_syntax p_203 to_check
 1	Bet	bezañ	AUX	vblex	Tense=Past|VerbForm=Part	5	aux	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
@@ -8647,6 +8714,7 @@
 # sent_id = grammar.vislcg.txt:265:4909
 # text = O naetaat anezhi e oa Divi gant evezh.
 # text[eng] = Divi was cleaning it carefully.
+# text[fra] = Divi la nettoyait méticuleusement.
 # labels = press_1986 ch_syntax p_203 to_check
 1	O	o	AUX	vpart	_	2	aux	_	_
 2	naetaat	naetaat	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -8661,6 +8729,7 @@
 # sent_id = grammar.vislcg.txt:266:4931
 # text = Disul, goude an oferenn, ar beleg a zo aet da c'hoari c'hartoù.
 # text[eng] = Last Sunday, after mass, the priest went to play cards.
+# text[fra] = Dimanche après la messe, le prêtre est allé joué aux cartes.
 # labels = press_1986 ch_syntax p_204 to_check
 1	Disul	disul	ADV	adv	_	11	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	1	punct	_	_
@@ -8679,8 +8748,9 @@
 15	.	.	PUNCT	sent	_	11	punct	_	_
 
 # sent_id = grammar.vislcg.txt:267:4965
-# text = Disul, goude an oferenn, ez eo aet ar beleg c'hoari c'hartoù.
+# text = Disul, goude an oferenn, ez eo aet ar beleg da c'hoari c'hartoù.
 # text[eng] = Last Sunday, after mass, the priest went to play cards.
+# text[fra] = Dimanche après la messe, le prêtre est allé joué aux cartes.
 # labels = press_1986 ch_syntax p_204 to_check
 1	Disul	disul	ADV	adv	_	9	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	1	punct	_	_
@@ -8693,13 +8763,15 @@
 9	aet	mont	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 10	ar	an	DET	det	_	11	det	_	_
 11	beleg	beleg	NOUN	n	Gender=Masc|Number=Sing	9	nsubj	_	_
-12	c'hoari	c’hoari	VERB	vblex	VerbForm=Inf	9	dep	_	_
-13	c'hartoù	kartenn	NOUN	n	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
-14	.	.	PUNCT	sent	_	9	punct	_	_
+12	da	da	ADP	pr	_	13	mark	_	_
+13	c'hoari	c’hoari	VERB	vblex	VerbForm=Inf	9	dep	_	_
+14	c'hartoù	kartenn	NOUN	n	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	sent	_	9	punct	_	_
 
 # sent_id = grammar.vislcg.txt:268:4997
 # text = Me a yelo di hag a gavo an teñzor.
 # text[eng] = I will go there and find the treasure.
+# text[fra] = J'y irai et je trouverai le trésor.
 # labels = press_1986 ch_syntax p_204 to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8715,6 +8787,7 @@
 # sent_id = grammar.vislcg.txt:269:5021
 # text = C'hwi a yelo, pe e kavo Lan hoc'h arc'hant.
 # text[eng] = You'll go or Lan will find your money.
+# text[fra] = Vous y irez, ou bien Lan trouvera votre argent.
 # labels = press_1986 ch_syntax p_205 to_check
 1	C'hwi	prpers	PRON	prn	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8731,6 +8804,7 @@
 # sent_id = grammar.vislcg.txt:270:5047
 # text = Me a breno ar sae, hogen c'hwi a wisko anezhi.
 # text[eng] = I'll buy the dress but you'll wear it.
+# text[fra] = J'achèterai la robe mais vous la mettrez.
 # labels = press_1986 ch_syntax p_205 to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8748,6 +8822,7 @@
 # sent_id = grammar.vislcg.txt:271:5075
 # text = Rodig hag a dro, a ra bro.
 # text[eng] = A wheel that turns, travels.
+# text[fra] = Petite roue qui tourne parcourt du pays.
 # labels = press_1986 ch_syntax p_208 to_check relcl
 1	Rodig	rodig	NOUN	n	Gender=Masc|Number=Sing	7	nsubj	_	_
 2	hag	ha	CCONJ	cnjcoo	_	4	mark	_	_
@@ -8762,6 +8837,7 @@
 # sent_id = grammar.vislcg.txt:272:5097
 # text = Pa c'hellin dont, e teuin.
 # text[eng] = If I can come, I will come.
+# text[fra] = Si je peux venir, je viendrai.
 # labels = press_1986 ch_syntax p_209 to_check
 1	Pa	pa	SCONJ	cnjsub	_	3	mark	_	_
 2	c'hellin	gellout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	3	aux	_	_
@@ -8773,7 +8849,8 @@
 
 # sent_id = grammar.vislcg.txt:273:5115
 # text = Int a zeuy pa roy mammig dezho arc'hant.
-# text[eng] = They'll come when mum gives them money.
+# text[eng] = They'll come when mum will give them money.
+# text[fra] = Ils viendront quand maman leur donnera de l'argent.
 # labels = press_1986 ch_syntax p_210 to_check
 1	Int	prpers	PRON	prn	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8790,6 +8867,7 @@
 # sent_id = grammar.vislcg.txt:274:5138
 # text = Int a zeuy pe a yay.
 # text[eng] = They will come or go.
+# text[fra] = Ils feront des aller-retours.
 # labels = press_1986 ch_syntax p_210 to_check
 1	Int	prpers	PRON	prn	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8802,6 +8880,7 @@
 # sent_id = grammar.vislcg.txt:275:5156
 # text = Me 'lavar deoc'h ar marc'h-se a oa re gozh.
 # text[eng] = I tell you that horse was too old.
+# text[fra] = Je vous dis que ce cheval était trop vieux.
 # labels = press_1986 ch_syntax p_210 to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
@@ -8820,7 +8899,8 @@
 
 # sent_id = grammar.vislcg.txt:276:5185
 # text = N'em eus ket kavet ar mignon-se da Ber.
-# text[eng] = I haven't found that friend of Per's
+# text[eng] = I haven't found that friend of Per's.
+# text[fra] = Je n'ai pas trouvé cet ami de Pierre.
 # labels = press_1986 ch_syntax p_212 to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
 2	em eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
