@@ -10523,6 +10523,7 @@
 
 # sent_id = oab.vislcg.txt:91:2551
 # text = Peurliesañ e klot anv ar voest posteloù gant hoc'h anv implijer.
+# text[spa] = Generalmente el nombre de buzón de correos corresponde a tu nombre de usuario.
 # text[fra] = La plupart du temps, le nom de votre boite mail et votre nom d'utilisateur concordent.
 # labels = to_check opab_parallel
 1	Peurliesañ	peurliesañ	ADV	adv	_	3	advmod	_	_
