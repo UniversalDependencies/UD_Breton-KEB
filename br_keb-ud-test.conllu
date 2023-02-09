@@ -10483,7 +10483,7 @@
 8	digan	digant	ADP	pr	_	9	case	_	_
 9	in	indirect	PRON	prn	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
 10	kevreañ	kevreañ	VERB	vblex	VerbForm=Inf	7	xcomp	_	_
-11	.	.	PUNCT	sent	_	10	punct	_	_
+11	.	.	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = oab.vislcg.txt:88:2462
 # text = Kefluniet brav eo ho kont postel evit implijout.
@@ -10497,7 +10497,7 @@
 6	postel	postel	NOUN	n	Gender=Masc|Number=Sing	5	nmod:gen	_	_
 7	evit	evit	ADP	pr	_	8	mark	_	_
 8	implijout	implijout	VERB	vblex	VerbForm=Inf	1	advcl	_	_
-9	.	.	PUNCT	sent	_	10	punct	_	_
+9	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = oab.vislcg.txt:89:2482
 # text = An titouroù a eskemmit gant al lec'hienn-mañ ne c'hallont ket bezañ lennet pe cheñchet gant implijerien all.
@@ -10573,7 +10573,7 @@
 8	ar	an	DET	det	_	9	det	_	_
 9	voest	boest	NOUN	n	Gender=Fem|Number=Sing	5	obl	_	_
 10	kendiviz	kendiviz	NOUN	n	Gender=Masc|Number=Sing	9	nmod:gen	_	_
-11	.	.	PUNCT	sent	_	3	punct	_	_
+11	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = oab.vislcg.txt:93:2603
 # text = eilañ ar grafik
