@@ -8836,6 +8836,7 @@
 # sent_id = grammar.vislcg.txt:277:5209
 # text = Ne c'hellan ket gwelout ar prenestroù eus e di.
 # text[eng] = I can't see the windows of his house.
+# text[fra] = Je ne peux pas voir les fenêtres de sa maison.
 # labels = press_1986 ch_syntax p_212 to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	4	advmod	_	_
 2	c'hellan	gellout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
@@ -8850,6 +8851,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:1:0
 # text = Me zo o komz gant ma amezeg.
+# text[eng] = I am talking with my neighbour.
+# text[fra] = Je suis en train de parler avec mon voisin.
 # labels = to_check
 1	Me	me	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	zo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
@@ -8862,6 +8865,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:2:17
 # text = Me a gomz gant ma amezeg.
+# text[eng] = I talk to my neighbour.
+# text[fra] = Je parle avec mon voisin.
 # labels = to_check
 1	Me	me	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8873,6 +8878,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:3:33
 # text = Ul levr zo ganin.
+# text[eng] = I have a book here.
+# text[fra] = J'ai un livre avec moi.
 # labels = to_check
 1	Ul	un	DET	det	_	2	det	_	_
 2	levr	levr	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -8884,6 +8891,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:4:47
 # text = Un died zo ganit.
+# text[eng] = You have a drink here with you.
+# text[fra] = Tu as une boisson.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	died	died	NOUN	n	Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -8895,6 +8904,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:5:61
 # text = Un urzhiataer zo gantañ.
+# text[eng] = He has a computer.
+# text[fra] = Il a apporté un ordinateur.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	urzhiataer	urzhiataer	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -8906,6 +8917,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:6:75
 # text = Ur bugel zo ganti.
+# text[eng] = She is with a child.
+# text[fra] = Elle est avec un enfant.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	bugel	bugel	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -8917,6 +8930,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:7:89
 # text = Ur c'harr zo ganimp.
+# text[eng] = We have a car here.
+# text[fra] = Nous sommes en voiture.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	c'harr	karr	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -8928,6 +8943,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:8:103
 # text = Un ti zo ganeoc'h.
+# text[eng] = You have a house.
+# text[fra] = Vous avez une maison.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	ti	ti	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -8939,6 +8956,8 @@
 
 # sent_id = miscellaneous.vislcg.txt:9:117
 # text = Arc'hant zo ganto.
+# text[eng] = They have money.
+# text[fra] = Ils ont de l'argent.
 # labels = to_check
 1	Arc'hant	arc’hant	NOUN	n	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	zo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -8949,7 +8968,7 @@
 
 # sent_id = oab.vislcg.txt:1:0
 # text = Ur gevezadeg ziaes ha brudet eo an Olimpiadennoù, met ouzhpenn an dra-se ez int.
-# text[fra] = Les Olympiades sont une compétition exigeante et prestigieuse mais pas seulement.
+# text[fra] = Les Olympiades sont plus qu'une compétition difficile et renommée.
 # labels = to_check opab_parallel
 1	Ur	un	DET	det	_	2	det	_	_
 2	gevezadeg	kevezadeg	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -8971,7 +8990,7 @@
 
 # sent_id = oab.vislcg.txt:2:37
 # text = An takad merket gant ar bir n'eo ket ur c'halaksienn met ur bouilh stered ha gaz a zeu eus unan eus ar galaksiennoù distummet gant efed ar gravitadur.
-# text[fra] = La zone indiquée par la flèche n'est pas une galaxie mais un jet d'étoiles et de gaz provenant d'une des galaxies déformée par effet gravitationnel.
+# text[fra] = La zone indiquée par la flèche n'est pas une galaxie mais une éruption d'étoiles et de gaz provenant d'une des galaxies déformée par effet gravitationnel.
 # labels = to_check opab_parallel
 1	An	an	DET	det	_	2	det	_	_
 2	takad	takad	NOUN	n	Gender=Masc|Number=Sing	11	nsubj	_	_
@@ -9133,10 +9152,10 @@
 13	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = oab.vislcg.txt:10:312
-# text = Takad teñval
-# text[fra] = Zone obscure
+# text = takad teñval
+# text[fra] = zone obscure
 # labels = to_check opab_parallel
-1	Takad	takad	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
+1	takad	takad	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	teñval	teñval	ADJ	adj	_	1	amod	_	_
 
 # sent_id = oab.vislcg.txt:11:320
@@ -9150,7 +9169,7 @@
 
 # sent_id = oab.vislcg.txt:12:332
 # text = Ar Vreizhiz a ranko deskiñ terkañ mat o bro ma fell dezho mirout he neuz dibar dezhi.
-# text[fra] = Il s’agit d’un des défis que la Bretagne devra relever pour préserver son originalité.
+# text[fra] = Les bretons devront apprendre à perfectionner l'aménagement du territoire s'ils veulent lui préserver son originalité.
 # labels = to_check opab_parallel
 1	Ar	an	DET	det	_	2	det	_	_
 2	Vreizhiz	Breizhad	NOUN	n	Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -9198,8 +9217,8 @@
 16	.	.	PUNCT	sent	_	6	punct	_	_
 
 # sent_id = oab.vislcg.txt:14:409
-# text = Gant Ofis ar Brezhoneg eo bet troet al levr-mañ
-# text[fra] = Cet ouvrage a été traduit par l'Office de la Langue Bretonne
+# text = Gant Ofis ar Brezhoneg eo bet troet al levr-mañ.
+# text[fra] = Cet ouvrage a été traduit par l'Office de la Langue Bretonne.
 # labels = to_check opab_parallel
 1	Gant	gant	ADP	pr	_	4	case	_	_
 2	Ofis	Ofis	X	x	_	4	dep	_	_
@@ -9211,6 +9230,7 @@
 8	al	an	DET	det	_	9	det	_	_
 9	levr	levr	NOUN	n	Gender=Masc|Number=Sing	7	dep	_	SpaceAfter=No
 10	-mañ	mañ	ADV	adv	_	9	advmod	_	_
+11	.	.	PUNCT	sent	_	0	punct	_	_
 
 # sent_id = oab.vislcg.txt:15:433
 # text = Daou arvest eus buhez Sant Erwan
@@ -9236,7 +9256,7 @@
 
 # sent_id = oab.vislcg.txt:17:465
 # text = Porzh Pont-Aven
-# text[fra] = Port de Pont-Aven
+# text[fra] = Le port de Pont-Aven
 # labels = to_check opab_parallel
 1	Porzh	porzh	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	Pont-Aven	Pont-Aven	PROPN	np	Number=Sing	1	nmod:gen	_	_
@@ -9271,7 +9291,7 @@
 
 # sent_id = oab.vislcg.txt:19:523
 # text = En em gavout a ra gant Gauguin e 1888.
-# text[fra] = En 1888, il rencontre Gauguin qui lui conseille de se consacrer exclusivement à la peinture.
+# text[fra] = En 1888, il rencontre Gauguin.
 # labels = to_check opab_parallel
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
 2	em	em	X	x	_	1	fixed	_	_
@@ -9286,7 +9306,7 @@
 
 # sent_id = oab.vislcg.txt:20:547
 # text = Hemañ a erbed dezhañ en em ouestlañ penn-da-benn d'al livañ.
-# text[fra] = En 1888, il rencontre Gauguin qui lui conseille de se consacrer exclusivement à la peinture.
+# text[fra] = Celui-ci lui conseille de se consacrer exclusivement à la peinture.
 # labels = to_check opab_parallel
 1	Hemañ	hemañ	PRON	prn	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -9538,7 +9558,7 @@
 
 # sent_id = oab.vislcg.txt:34:955
 # text = E 2004 e oa bet embannet gant an Ofis diagnostikoù war stad ar brezhoneg evit pep bro.
-# text[fra] = En 2004 l’Office publiait des diagnostics par pays sur l’état du breton.
+# text[fra] = L’Office a publié en 2004 pour chaque pays des diagnostics sur l’état de la langue bretonne.
 # labels = to_check opab_parallel
 1	E	e	ADP	pr	_	2	case	_	_
 2	2004	2004	NUM	num	Number=Plur	6	obl	_	_
@@ -9571,7 +9591,7 @@
 
 # sent_id = oab.vislcg.txt:36:1009
 # text = Ar ger tiriad-se n’eo ket gwall anavezet c’hoazh.
-# text[fra] = Le mot “tiriad” n’est pas encore très connu.
+# text[fra] = Ce mot “tiriad” n’est pas encore très connu.
 # labels = to_check opab_parallel
 1	Ar	an	DET	det	_	2	det	_	_
 2	ger	ger	NOUN	n	Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -9782,8 +9802,8 @@
 9	brezhoneg	brezhoneg	NOUN	n	Gender=Masc|Number=Sing	3	nmod	_	_
 
 # sent_id = oab.vislcg.txt:48:1358
-# text = Ar budjed gouestlet d'ar yezhoù rannvro gant Kuzulioù-rannvro all e Frañs
-# text[fra] = Le budget alloué aux langues régionales par d’autres Conseils régionaux en France
+# text = ar budjed gouestlet d'ar yezhoù rannvro gant Kuzulioù-rannvro all e Frañs
+# text[fra] = le budget alloué aux langues régionales par d’autres Conseils régionaux en France
 # labels = to_check opab_parallel
 1	Ar	an	DET	det	_	2	det	_	_
 2	budjed	budjed	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -9818,7 +9838,7 @@
 
 # sent_id = oab.vislcg.txt:50:1410
 # text = Dilennidi, teknikourien ar gumun ha frammoù dave (Ofis ar Brezhoneg en o zouez) a ya d’ober ar bodadoù trakêr-se.
-# text[fra] = Ces commissions se composent d’élus, de techniciens de la commune et de structures de référence (dont l’Office de la langue bretonne).
+# text[fra] = Ces commissions municipales se composent d’élus, de techniciens de la commune et de structures de référence (dont l’Office de la langue bretonne).
 # labels = to_check opab_parallel
 1	Dilennidi	dilennad	NOUN	n	Gender=Masc|Number=Plur	18	dep	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	3	punct	_	_
@@ -9848,7 +9868,7 @@
 
 # sent_id = oab.vislcg.txt:51:1461
 # text = Un Aotreegezh gant ar meneg yezhoù ha sevenadur rannvro zo kinniget d’ar studierien hepken.
-# text[fra] = Celle-ci ne propose qu’une Licence intitulée « Langues et culture régionales ».
+# text[fra] = Elle ne propose aux étudiants qu’une Licence intitulée « Langues et culture régionales ».
 # labels = to_check opab_parallel
 1	Un	un	DET	det	_	2	det	_	_
 2	Aotreegezh	aotreegezh	NOUN	n	Gender=Fem|Number=Sing	11	nsubj	_	_
@@ -9870,7 +9890,7 @@
 
 # sent_id = oab.vislcg.txt:52:1496
 # text = Evit echuiñ, kinnig a ra Skol-veur Breizh-Izel un diplom skol-veur « Yezhoù ha sevenadur Breizh ».
-# text[fra] = Enfin, l’Université de Bretagne Occidentale propose un diplôme universitaire “Langues et culture bretonnes”.
+# text[fra] = Enfin, l’Université de Bretagne Occidentale propose un diplôme universitaire “Langues et culture de Bretagne”.
 # labels = to_check opab_parallel
 1	Evit	evit	ADP	pr	_	2	mark	_	_
 2	echuiñ	echuiñ	VERB	vblex	VerbForm=Inf	4	advcl	_	SpaceAfter=No
@@ -9935,7 +9955,7 @@
 
 # sent_id = oab.vislcg.txt:56:1602
 # text = Alies ne gavont ket e diabarzh o framm ar barregezhioù ret evit diorren implij ar yezh ouzhpenn-se.
-# text[fra] = Souvent, ils ne trouvent pas à l’intérieur de leur structure les compétences nécessaires pour développer l’usage de la langue, qui plus est.
+# text[fra] = Souvent, qui plus est, ils manquent à trouver à l’intérieur de leur structure les compétences nécessaires pour développer l’usage de la langue.
 # labels = to_check opab_parallel
 1	Alies	alies	ADV	adv	_	3	advmod	_	_
 2	ne	ne	ADV	adv	Polarity=Neg	3	advmod	_	_
@@ -9958,7 +9978,7 @@
 
 # sent_id = oab.vislcg.txt:57:1642
 # text = Skoazellet eo an embann e brezhoneg gant ar galloudoù foran.
-# text[fra] = L’édition en breton est aidée par les pouvoirs publics.
+# text[fra] = L’édition en breton est soutenue par les pouvoirs publics.
 # labels = to_check opab_parallel
 1	Skoazellet	skoazellañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -9993,7 +10013,7 @@
 
 # sent_id = oab.vislcg.txt:59:1697
 # text = Sinet e oa bet ur c’hendivizad palioù ha danvezioù etre ar Stad, France 3 ha Strollegezh Korsika evit krouiñ ar chadenn e miz Ebrel 2006.
-# text[fra] = En avril 2006, une convention d’objectifs et de moyens a été signée entre l’État, France 3 et la Collectivité de Corse pour la création de cette chaîne.
+# text[fra] = L’État, France 3 et la Collectivité de Corse ont signé une convention d’objectifs et de moyens pour la création de la chaîne en avril 2006.
 # labels = to_check opab_parallel
 1	Sinet	sinañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -10025,7 +10045,7 @@
 
 # sent_id = oab.vislcg.txt:60:1755
 # text = Met nevez eo ar c’hinnig-se.
-# text[fra] = Mais cette offre nouvelle commence à émerger.
+# text[fra] = Mais cette offre est récente.
 # labels = to_check opab_parallel
 1	Met	met	CCONJ	cnjcoo	_	2	cc	_	_
 2	nevez	nevez	ADJ	adj	_	0	root	_	_
@@ -10036,8 +10056,8 @@
 7	.	.	PUNCT	sent	_	2	punct	_	_
 
 # sent_id = oab.vislcg.txt:61:1773
-# text = An diskoulmoù hag an diaesterioù evit diorren ar c’hinnig
-# text[fra] = Les solutions pour développer l’offre et les blocages
+# text = an diskoulmoù hag an diaesterioù evit diorren ar c’hinnig
+# text[fra] = les blocages et les solutions au développement de l'offre
 # labels = to_check opab_parallel
 1	An	an	DET	det	_	2	det	_	_
 2	diskoulmoù	diskoulm	NOUN	n	Gender=Masc|Number=Plur	7	obj	_	_
@@ -10051,7 +10071,7 @@
 
 # sent_id = oab.vislcg.txt:62:1795
 # text = Ur raktres bras e oa, pa oa anv da gaout un talbenn daou-ugent metr hed.
-# text[fra] = Ce projet est ambitieux puisqu’il prévoit une longueur de façade de quarante mètres.
+# text[fra] = C'était un projet ambitieux puisqu’il prévoyait une longueur de façade de quarante mètres.
 # labels = to_check opab_parallel
 1	Ur	un	DET	det	_	2	det	_	_
 2	raktres	raktres	NOUN	n	Gender=Masc|Number=Sing	3	nsubj	_	_
