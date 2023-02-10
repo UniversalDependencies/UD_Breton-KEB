@@ -67,7 +67,7 @@
 
 # sent_id = apertium.vislcg.txt:8:91
 # text = Dav e vije.
-# text[fra] = Il serait nécessaire.
+# text[fra] = Ce serait nécessaire.
 # labels = to_check
 1	Dav	dav	ADJ	adj	_	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -657,7 +657,7 @@
 
 # sent_id = bremaik.vislcg.txt:1:0
 # text = Kontadennoù niverus en doa gellet dastum diwar komzoù Stéphanie Guillaume, eus Gavr.
-# text[fra¹] = Contes nombreux avaient pu ramasser des paroles de Stéphanie Guillaume, de Gâvres.
+# text[fra¹] = Elle avait pu rassembler de nombreux contes de la bouche de Stéphanie Guillaume, du Gâvres.
 # labels = to_check
 1	Kontadennoù	kontadenn	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
 2	niverus	niverus	ADJ	adj	_	1	amod	_	_
@@ -675,7 +675,7 @@
 
 # sent_id = bremaik.vislcg.txt:2:29
 # text = En teuliad e vez kinniget ur pennad diwar-benn stad an dachenn douar, arouezius eus an dizemglev padus etre Israeliz ha Palestiniz.
-# text[fra¹] = Dans le dossier est présenté un article au sujet de l'état du terrain terre, significative de la mésentente durable entre des Israéliens/Israéliens et des Palestiniens.
+# text[fra¹] = Le dossier contient un article sur l'état du terrain, symbole de la mésentente durable entre israéliens et palestinens.
 # labels = to_check
 1-2	En	_	_	_	_	_	_	_	_
 1	E	e	ADP	pr	_	2	case	_	_
@@ -705,7 +705,7 @@
 
 # sent_id = bremaik.vislcg.txt:3:80
 # text = En India eo bet kemeret ar skeudennoù.
-# text[fra¹] = en Inde a été prise les images.
+# text[fra¹] = Les images ont été prises en Inde.
 # labels = to_check
 1-2	En	_	_	_	_	_	_	_	_
 1	E	e	ADP	pr	_	3	case	_	_
@@ -720,7 +720,7 @@
 
 # sent_id = bremaik.vislcg.txt:4:101
 # text = Ouzhpenn 20 beaj zo bet graet gantañ en India abaoe e 25 bloaz.
-# text[fra¹] = En plus 20 voyages ont été faits avec lui en Inde depuis dans 25 ans.
+# text[fra¹] = Il a fait plus de vingt voyages en Inde depuis ses vingt-cinq ans.
 # labels = to_check
 1	Ouzhpenn	ouzhpenn	ADV	adv	_	2	advmod	_	_
 2	20	20	NUM	num	Number=Plur	3	nummod	_	_
@@ -743,7 +743,7 @@
 
 # sent_id = bremaik.vislcg.txt:5:135
 # text = A-bouez bras eo al livioù.
-# text[fra¹] = Les couleurs est importantes grandes
+# text[fra¹] = Les couleurs sont très importantes.
 # labels = to_check
 1	A-bouez	a-bouez	ADJ	adj	_	2	amod	_	_
 2	bras	bras	ADJ	adj	_	0	root	_	_
@@ -754,7 +754,7 @@
 
 # sent_id = bremaik.vislcg.txt:6:151
 # text = Diskouezadegoù skeudennoù a vez graet ingal gant Skol Diwan Roazhon.
-# text[fra¹] = Il y a les expositions d'images fait régulièrement avec l'École Diwan de Rennes.
+# text[fra¹] = L'école Diwan de Rennes organise régulièrement des expositions iconograhiques.
 # labels = to_check
 1	Diskouezadegoù	diskouezadeg	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
 2	skeudennoù	skeudenn	NOUN	n	Gender=Fem|Number=Plur	1	nmod:gen	_	_
@@ -770,7 +770,7 @@
 
 # sent_id = bremaik.vislcg.txt:7:177
 # text = Staliet e Konk-Kerne emañ.
-# text[fra¹] = Installé est à Concarneau.
+# text[fra¹] = Elle est installée à Concarneau.
 # labels = to_check
 1	Staliet	staliañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	ADP	pr	_	3	case	_	_
@@ -780,7 +780,7 @@
 
 # sent_id = bremaik.vislcg.txt:8:191
 # text = Ranket em boa dilezel geriaoueg voutin ar rock evit sevel ur pennad diwar-benn ar bladenn-se.
-# text[fra¹] = J'avais dû délaisser le vocabulaire commun du rock pour lever un article au sujet de ce disque.
+# text[fra¹] = J'avais dû me défaire du vocabulaire habituel du rock pour écrire un article sur ce disque.
 # labels = to_check
 1	Ranket	rankout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	em boa	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	aux	_	_
@@ -801,7 +801,7 @@
 
 # sent_id = bremaik.vislcg.txt:9:227
 # text = Diskennit div loaiad vras a zourenn bleuñv-orañjez en un hanter litrad a zour o virviñ.
-# text[fra¹] = Descendez deux cuillerées grandes au liquide de fleurs-orange dans un à moitié litre il arrose en train de bouillir.
+# text[fra¹] = Versez deux cuillères à soupe d'eau de fleurs d'oranger dans un demi-litre d'eau bouillante.
 # labels = to_check
 1	Diskennit	diskenn	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	div	daou	NUM	num	Gender=Fem|Number=Plur	3	nummod	_	_
@@ -824,7 +824,7 @@
 
 # sent_id = bremaik.vislcg.txt:10:266
 # text = Ouzhpennit div loaiad vras a sukr rouz.
-# text[fra¹] = Vous ajoutez deux cuillerées grandes elle sucre roux.
+# text[fra¹] = Ajoutez  deux cuillèrées à soupe de sucre roux.
 # labels = to_check
 1	Ouzhpennit	ouzhpennañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	div	daou	NUM	num	Gender=Fem|Number=Plur	3	nummod	_	_
@@ -837,7 +837,7 @@
 
 # sent_id = bremaik.vislcg.txt:11:286
 # text = Pa grog da virviñ adarre, tennit diwar an tan.
-# text[fra¹] = Quand il commence à bouillir de nouveau, tirez du feu.
+# text[fra¹] = Au retour de l'ébullition, tirez du feu.
 # labels = to_check
 1	Pa	pa	SCONJ	cnjsub	_	2	mark	_	_
 2	grog	kregiñ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
@@ -853,7 +853,7 @@
 
 # sent_id = bremaik.vislcg.txt:12:312
 # text = Ho fent avat a chom unan eus ho perzhioù gwellañ.
-# text[fra¹] = Votre humour alors reste une de vos qualités les plus mieux.
+# text[fra¹] = Mais votre humour reste une de vos plus grandes qualités.
 # labels = to_check
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
 2	fent	fent	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -869,7 +869,7 @@
 
 # sent_id = bremaik.vislcg.txt:13:338
 # text = Ne vezit dilezet gwezh ebet gantañ.
-# text[fra¹] = vous n'êtes délaissé jamais avec lui.
+# text[fra¹] = Il ne vous quittera jamais.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	3	advmod	_	_
 2	vezit	bezañ	AUX	vblex	Aspect=Hab|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
@@ -883,7 +883,7 @@
 
 # sent_id = bremaik.vislcg.txt:14:357
 # text = Beajoù a c'hellfe bezañ mat evit ho labour.
-# text[fra¹] = Voyages pourraient être bien pour votre travail.
+# text[fra¹] = Voyager pourrait vous aider professionnellement.
 # labels = to_check
 1	Beajoù	beaj	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
 2	a	a	AUX	vpart	_	5	aux	_	_
@@ -897,7 +897,7 @@
 
 # sent_id = bremaik.vislcg.txt:15:379
 # text = A-hed ar bloavezh, klaskit chom gant ur spered distan, ha derc'hel d'ho palioù.
-# text[fra¹] = Le long de l'année, cherchez rester avec un esprit calme, et tenir à vos avenues.
+# text[fra¹] = Durant l'année, cherchez la sérénité et restez concentrés sur vos objectifs.
 # labels = to_check
 1	A-hed	a-hed	ADP	pr	_	3	case	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -920,7 +920,7 @@
 
 # sent_id = bremaik.vislcg.txt:16:416
 # text = Ober a reot pep tra evit en em staliañ da vat, en ho puhez personel koulz hag en ho puhez labour.
-# text[fra¹] = Vous ferez tout pour installer pour de bon, dans votre vie personnelle ainsi que dans votre vie de travail.
+# text[fra¹] = Vous ferez tout pour vous installer réellement, personnellement comme professionnellement.
 # labels = to_check
 1	Ober	ober	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -948,7 +948,7 @@
 
 # sent_id = bremaik.vislcg.txt:17:466
 # text = Labourit an toaz un tammig.
-# text[fra¹] = Travaillez la pâte un petit peu.
+# text[fra¹] = Travaillez un peu la pâte.
 # labels = to_check
 1	Labourit	labourat	VERB	vblex	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -959,7 +959,7 @@
 
 # sent_id = bremaik.vislcg.txt:18:482
 # text = Gant beg ur gontell, tresit linennoù war ar gorre.
-# text[fra¹] = Avec la pointe d'un couteau, Vous dessinez des lignes sur la surface.
+# text[fra¹] = Avec la pointe d'un couteau, dessinez des lignes à la surface.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	2	case	_	_
 2	beg	beg	NOUN	n	Gender=Masc|Number=Sing	6	obl	_	_
@@ -975,7 +975,7 @@
 
 # sent_id = bremaik.vislcg.txt:19:508
 # text = Klaskit chom e peoc'h.
-# text[fra¹] = Vous cherchez rester dans paix.
+# text[fra¹] = Cherchez le calme.
 # labels = to_check
 1	Klaskit	klask	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	chom	chom	VERB	vblex	VerbForm=Inf	1	xcomp	_	_
@@ -985,7 +985,7 @@
 
 # sent_id = bremaik.vislcg.txt:20:522
 # text = Pasianted ivez!
-# text[fra¹] = Patience aussi!
+# text[fra¹] = Et la patience!
 # labels = to_check
 1	Pasianted	pasianted	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
 2	ivez	ivez	ADV	adv	_	1	advmod	_	SpaceAfter=No
@@ -993,7 +993,7 @@
 
 # sent_id = bremaik.vislcg.txt:21:532
 # text = Tarzhañ ne zegaso mann ebet deoc'h.
-# text[fra¹] = Éclater Il n'apportera rien du tout à vous.
+# text[fra¹] = Un accès de colère ne vous apportera rien.
 # labels = to_check
 1	Tarzhañ	tarzhañ	VERB	vblex	VerbForm=Inf	3	csubj	_	_
 2	ne	ne	ADV	adv	Polarity=Neg	3	advmod	_	_
@@ -1007,7 +1007,7 @@
 
 # sent_id = bremaik.vislcg.txt:22:551
 # text = Ret e vo deoc'h kemer divizioù, en em zifenn, fiñval ha cheñch.
-# text[fra¹] = Il faudra que Vous preniez décisions, défend, bouger et changer.
+# text[fra¹] = Il vous faudra prendre des décisions, vous défendre, bouger et changer.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -1029,7 +1029,7 @@
 
 # sent_id = bremaik.vislcg.txt:23:586
 # text = Ret e vo derc'hel mat.
-# text[fra¹] = Nécessaire sera tenir bien.
+# text[fra¹] = Il vous faudra tenir bon.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -1040,7 +1040,7 @@
 
 # sent_id = bremaik.vislcg.txt:24:602
 # text = Aesoc'h e vo an traoù deoc'h.
-# text[fra¹] = Plus facile sera les choses à vous.
+# text[fra¹] = Cela vous sera plus facile.
 # labels = to_check
 1	Aesoc'h	aes	ADJ	adj	Degree=Cmp	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -1054,7 +1054,7 @@
 
 # sent_id = bremaik.vislcg.txt:25:621
 # text = Un nebeud diaesterioù a c'hellfe c'hoarvezout en ho puhez kalon pe en ho labour.
-# text[fra¹] = Un peu de difficultés pourrait arriver dans votre vie de coeur quel dans votre travail.
+# text[fra¹] = Vous pourriez rencontrer quelques difficultés dan votre vie émotionnelle ou professionnelle.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	nebeud	nebeud	NOUN	n	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -1074,7 +1074,7 @@
 
 # sent_id = bremaik.vislcg.txt:26:655
 # text = Arabat deoc'h en em santout re gablus ma rit fazioù.
-# text[fra¹] = Interdit à vous sentir trop coupable si vous faites des erreurs.
+# text[fra¹] = Ne vous sentez pas trop coupable si vous faites des erreurs.
 # labels = to_check
 1	Arabat	arabat	ADV	adv	_	0	root	_	_
 2-3	deoc'h	_	_	_	_	_	_	_	_
@@ -1092,7 +1092,7 @@
 
 # sent_id = bremaik.vislcg.txt:27:682
 # text = Ho youl da eeunaat an traoù a vo a-walc'h evit bezañ digarezet.
-# text[fra¹] = Votre volonté à simplifier les choses sera assez pour être excusé.
+# text[fra¹] = Votre volonté d'éclaircir les choses amènera le pardon. 
 # labels = to_check
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
 2	youl	youl	NOUN	n	Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -1110,7 +1110,7 @@
 
 # sent_id = bremaik.vislcg.txt:28:712
 # text = Sirius-tre eo an afer-mañ.
-# text[fra¹] = Cette affaire est très sérieuse
+# text[fra¹] = Cette affaire est très sérieuse.
 # labels = to_check
 1-2	Sirius-tre	_	_	_	_	_	_	_	_
 1	Sirius	sirius	ADJ	adj	_	0	root	_	_
@@ -1123,7 +1123,7 @@
 
 # sent_id = bremaik.vislcg.txt:29:729
 # text = Un teuliad peder fajennad zo bet gouestlet en niverenn-mañ da Vro-Euskadi.
-# text[fra¹] = Un dossier quatre pages ont été engagées dans ce numéro à Pays-le Pays Basque.
+# text[fra¹] = Ce numéro a consacré un dossier de quatre pages au Pays Basque.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	teuliad	teuliad	NOUN	n	Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -1143,7 +1143,7 @@
 
 # sent_id = bremaik.vislcg.txt:30:760
 # text = Sinema, kontadennoù, dañs, sonerezh, c'hoariva, barzhonegoù, kendivizoù, stajoù...
-# text[fra¹] = Cinéma, contes, danse, musique, théâtre, poèmes, débats, stages...
+# text[fra¹] = Du cinéma, des contes, de la danse, de la musique, du théâtre, des poèmes, des discussions, des stages...
 # labels = to_check
 1	Sinema	sinema	NOUN	n	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	3	punct	_	_
@@ -1164,7 +1164,7 @@
 
 # sent_id = bremaik.vislcg.txt:31:796
 # text = Kontet gant ur paotrig, mab d'un den gwenn ha d'ur plac'h du, e tizho an istor-mañ tud a bep seurt oadoù.
-# text[fra¹] = Compté par un petit garçon, fils à une personne blanche et à une fille noire, atteindra cette histoire gens de toute sorte âges.
+# text[fra¹] = Cette histoire, contée par un petit garçon fils d'un homme blanc et d'une femme noire, touchera tous les âges.
 # labels = to_check
 1	Kontet	kontañ	VERB	vblex	Tense=Past|VerbForm=Part	20	acl	_	_
 2	gant	gant	ADP	pr	_	4	case	_	_
@@ -1196,7 +1196,7 @@
 
 # sent_id = bremaik.vislcg.txt:32:854
 # text = Lakait er yenerez.
-# text[fra¹] = Mettez dans le réfrigérateur.
+# text[fra¹] = Mettez au réfrigérateur.
 # labels = to_check
 1	Lakait	lakaat	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2-3	er	_	_	_	_	_	_	_	_
@@ -1207,7 +1207,7 @@
 
 # sent_id = bremaik.vislcg.txt:33:867
 # text = En ur girin, savit da erc'h ar 4 gwenn-vi.
-# text[fra¹] = Dans une terrine, lèvez à neige les 4 blancs d’oeufs.
+# text[fra¹] = Dans une terrine, levez les quatre blancs en neige.
 # labels = to_check
 1	En	e	ADP	pr	_	3	case	_	_
 2	ur	un	DET	det	_	3	det	_	_
@@ -1223,7 +1223,7 @@
 
 # sent_id = bremaik.vislcg.txt:34:892
 # text = Ouzhpennit ar meskaj bleud, ha goude-se an amann blotaet, meskit kaer a-benn chom hep terriñ ar vioù.
-# text[fra¹] = Ajoutez le mélange en farine, et ensuite le beurre amolli, tu mélanges beau pour rester sans casser les oeufs.
+# text[fra¹] = Ajoutez le mélange de farine, puis le beurre amolli, mélangez bien de manière à ne pas casser les œufs.
 # labels = to_check
 1	Ouzhpennit	ouzhpennañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -1248,7 +1248,7 @@
 
 # sent_id = bremaik.vislcg.txt:35:936
 # text = An teuliad peder fajennad zo gouestlet da adunvanidigezh Breizh.
-# text[fra¹] = Le dossier quatre pages ont engagées à la réunification de la Bretagne.
+# text[fra¹] = Le dossier de quatre pages est consacré à la réunification de la Bretagne.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
 2	teuliad	teuliad	NOUN	n	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -1263,7 +1263,7 @@
 
 # sent_id = bremaik.vislcg.txt:36:960
 # text = Merket e vo poentoù ganeoc'h pa dizhoc'h harnez ar c'hoarierien all.
-# text[fra¹] = Des points sera marqué par vous quand vous atteindrez le harnais des autres joueurs.
+# text[fra¹] = Vous marquerez des points quand vous atteindrez le harnais des autres joueurs.
 # labels = to_check
 1	Merket	merkañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -1282,7 +1282,7 @@
 
 # sent_id = bremaik.vislcg.txt:37:989
 # text = Kontet e vo ar poentoù er fin gant an urzhiataer.
-# text[fra¹] = sera compté les points à la fin par l'ordinateur.
+# text[fra¹] = L'ordinateur comptera les points à la fin.
 # labels = to_check
 1	Kontet	kontañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -1300,7 +1300,7 @@
 
 # sent_id = bremaik.vislcg.txt:38:1016
 # text = Meskit an hanter eus ar c'heuz gant ar c'hraoñ-kelvez pilet hag an eoul.
-# text[fra¹] = Vous mélangez le à moitié du fromage avec les noisettes écrasées et l'huile.
+# text[fra¹] = Mélangez la moitié du fromage avec les noisettes écrasées et l'huile.
 # labels = to_check
 1	Meskit	meskañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -1319,7 +1319,7 @@
 
 # sent_id = bremaik.vislcg.txt:39:1048
 # text = Ho pet pasianted!
-# text[fra¹] = Ayez patience!
+# text[fra¹] = Soyez patients!
 # labels = to_check
 1	Ho pet	kaout	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	pasianted	pasianted	NOUN	n	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
@@ -1327,7 +1327,7 @@
 
 # sent_id = bremaik.vislcg.txt:40:1058
 # text = Cheñchamantoù bras a vo evidoc'h, met ne vint ket graet trumm.
-# text[fra¹] = Grands changements sera pour vous, mais ils ne seront pas fait instantané.
+# text[fra¹] = Vous noterez de grands changements, mais ils ne seront pas instantanés.
 # labels = to_check
 1	Cheñchamantoù	cheñchamant	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
 2	bras	bras	ADJ	adj	_	1	amod	_	_
@@ -1347,7 +1347,7 @@
 
 # sent_id = bremaik.vislcg.txt:41:1089
 # text = Klaskit chom e peoc'h.
-# text[fra¹] = Vous cherchez rester dans paix.
+# text[fra¹] = Recherchez la paix.
 # labels = to_check
 1	Klaskit	klask	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	chom	chom	VERB	vblex	VerbForm=Inf	1	xcomp	_	_
@@ -1357,7 +1357,7 @@
 
 # sent_id = bremaik.vislcg.txt:42:1103
 # text = Un emzalc'h doujus ha spis a zereo kalz gwelloc'h.
-# text[fra¹] = Un comportement respectueux et clair conviendra beaucoup plus mieux.
+# text[fra¹] = Un comportement clair et respectueux conviendra bien mieux.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	emzalc'h	emzalc’h	NOUN	n	Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -1372,7 +1372,7 @@
 
 # sent_id = bremaik.vislcg.txt:43:1127
 # text = Tachennoù an arc'hant hag ar familh a vo gwarezet.
-# text[fra¹] = Les terrains de l'argent et la famille sera protégée.
+# text[fra¹] = Le capital et la famille seront protégés. 
 # labels = to_check
 1	Tachennoù	tachenn	NOUN	n	Gender=Fem|Number=Plur	9	nsubj	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -1387,7 +1387,7 @@
 
 # sent_id = bremaik.vislcg.txt:44:1151
 # text = En holl e vefe bet tizhet etre 2,1 ha 4,8 milion a dud.
-# text[fra¹] = en tout il aurait été atteint entre 2,1 et 4,8 millions à gens.
+# text[fra¹] = Entre 2,1 et 4,8 millions de personnes auraient été touchées.
 # labels = to_check
 1	En	e	ADP	pr	_	2	case	_	_
 2	holl	holl	PRON	prn	Number=Plur	6	obl	_	_
@@ -1406,7 +1406,7 @@
 
 # sent_id = bremaik.vislcg.txt:45:1183
 # text = Kinnig a ra ar gevredigezh Kentelioù an Noz un dibenn-sizhun staj er Poulgwenn (44) d'ar Sadorn 15 ha d'ar Sul 16 a viz Meurzh 2008.
-# text[fra¹] = La société de Leçons de la Nuit présente un week-end de stage à Pouliguen (44) le samedi 15 et le dimanche 16 mars 2008.
+# text[fra¹] = L'association Kenteliou an Noz propose un week-end de stage au Pouliguen (44) les samedi 15 et dimanche 16 mars 2008. 
 # labels = to_check
 1	Kinnig	kinnig	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
