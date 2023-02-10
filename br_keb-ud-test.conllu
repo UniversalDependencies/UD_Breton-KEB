@@ -9966,6 +9966,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:26:717
 # text = Arzourien ar gevredigezh Spered Kelt
+# text[eng] = Artists of the Spered Kelt association
 # text[fra] = Artistes de l’association Spered Kelt
 # labels = to_check opab_parallel
 1	Arzourien	arzour	NOUN	n	Gender=Masc|Number=Plur	0	root	_	_
@@ -9976,6 +9977,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:27:731
 # text = En deroù e talveze ar c'henemglev evit an eskemmoù kenwerzhel hag ekonomikel dreist-holl, met tamm-ha-tamm eo bet astennet da dachennoù all.
+# text[eng] = Rather focused on trade and economic exchanges in the start-up phase, the cooperation gradually extended to other sectors.
 # text[fra] = Plutôt concentrée sur les échanges commerciaux et économiques dans la phase de démarrage, la coopération s’est progressivement étendue à d’autres secteurs.
 # labels = to_check opab_parallel
 1	En	en	X	x	_	2	dep	_	_
@@ -10004,6 +10006,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:28:781
 # text = Tennit dousik-kenañ war an neudenn evit lakaat donder.
+# text[eng] = Pull very lightly on your thread to give depth.
 # text[fra] = Tirez très légèrement sur votre fil pour donner du relief.
 # labels = to_check opab_parallel
 1	Tennit	tennañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -10020,7 +10023,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:29:807
 # text = Treuzit an holl wiadoù, tennit ho nadoz er-maez en ur zilec’hiañ anezhi, hag all.
-# text[fra] = Traversez toutes les étoffes, ressortez votre aiguille en décalant et ainsi de suite.
+# text[eng] = Cross all the fabrics, take out your needle by shifting it and so on.
+# text[fra] = Traversez toutes les étoffes, ressortez votre aiguille en la décalant et ainsi de suite.
 # labels = to_check opab_parallel
 1	Treuzit	treuziñ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	an	an	DET	det	_	4	det	_	_
@@ -10042,7 +10046,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:30:845
 # text = Tennit an nadoz just e-kichen ho neudenn gentañ en ur lakaat an nadoz da dremen dreist ho neudenn.
-# text[fra] = Ressortez juste à côté de votre premier fil en faisant passer l'aiguille au dessus de votre fil.
+# text[eng] = Come out right next to your first thread by passing the needle over your thread.
+# text[fra] = Ressortez juste à côté de votre premier fil en faisant passer l'aiguille au-dessus de votre fil.
 # labels = to_check opab_parallel
 1	Tennit	tennañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -10064,29 +10069,9 @@ text[eng] = Salt, pepper.
 18	neudenn	neudenn	NOUN	n	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 19	.	.	PUNCT	sent	_	1	punct	_	_
 
-# sent_id = oab.vislcg.txt:31:887
-# text = Treuzit an holl wiadoù, tennit ho nadoz er-maez en ur zilec’hiañ, hag all.
-# text[fra] = Traversez toutes les étoffes, ressortez votre aiguille en décalant et ainsi de suite.
-# labels = to_check opab_parallel
-1	Treuzit	treuziñ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
-2	an	an	DET	det	_	4	det	_	_
-3	holl	holl	DET	predet	_	4	det	_	_
-4	wiadoù	gwiad	NOUN	n	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
-5	,	,	PUNCT	cm	_	6	punct	_	_
-6	tennit	tennañ	VERB	vblex	Number=Plur|Person=2	1	parataxis	_	_
-7	ho	ho	DET	det	Poss=Yes	8	det	_	_
-8	nadoz	nadoz	NOUN	n	Gender=Fem|Number=Sing	6	obj	_	_
-9	er-maez	er-maez	ADV	adv	_	6	advmod	_	_
-10	en	en	AUX	vpart	_	12	aux	_	_
-11	ur	ur	X	x	_	10	fixed	_	_
-12	zilec’hiañ	dilec’hiañ	VERB	vblex	VerbForm=Inf	6	advcl	_	SpaceAfter=No
-13	,	,	PUNCT	cm	_	15	punct	_	_
-14	hag	hag	X	x	_	15	dep	_	_
-15	all	all	ADV	adv	_	1	advmod	_	SpaceAfter=No
-16	.	.	PUNCT	sent	_	1	punct	_	_
-
 # sent_id = oab.vislcg.txt:32:923
 # text = Evel-se e c’haller stardañ mat ar perlez.
+# text[eng] = This allows the beads to be tightened well.
 # text[fra] = Cela permet de bien serrer les perles.
 # labels = to_check opab_parallel
 1	Evel-se	evel-se	ADV	adv	_	3	advmod	_	_
@@ -10100,6 +10085,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:33:943
 # text = Modernaat ar porzhioù rannvroel
+# text[eng] = Modernize regional ports
 # text[fra] = Moderniser les ports à vocation régionale
 # labels = to_check opab_parallel
 1	Modernaat	modernaat	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -10109,6 +10095,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:34:955
 # text = E 2004 e oa bet embannet gant an Ofis diagnostikoù war stad ar brezhoneg evit pep bro.
+# text[eng] = In 2004, the Office published diagnoses on the state of the Breton language for each country.
 # text[fra] = L’Office a publié en 2004 pour chaque pays des diagnostics sur l’état de la langue bretonne.
 # labels = to_check opab_parallel
 1	E	e	ADP	pr	_	2	case	_	_
@@ -10132,6 +10119,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:35:995
 # text = Paul Molac, prezidant KSB
+# text[eng] = Paul Molac, president of the CCB
 # text[fra] = Paul Molac, président du CCB
 # labels = to_check opab_parallel
 1	Paul	Paul	PROPN	np	Gender=Masc|Number=Sing	0	root	_	_
@@ -10142,6 +10130,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:36:1009
 # text = Ar ger tiriad-se n’eo ket gwall anavezet c’hoazh.
+# text[eng] = This word “tiriad” is not very well known yet.
 # text[fra] = Ce mot “tiriad” n’est pas encore très connu.
 # labels = to_check opab_parallel
 1	Ar	an	DET	det	_	2	det	_	_
@@ -10158,6 +10147,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:37:1035
 # text = Ar c’hinnig kelenn divyezhek e 2007/2008
+# text[eng] = The offer of bilingual education in 2007/2008
 # text[fra] = L’offre de l’enseignement bilingue en 2007/2008
 # labels = to_check opab_parallel
 1	Ar	an	DET	det	_	2	det	_	_
@@ -10171,6 +10161,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:38:1055
 # text = Kargoù hollek
+# text[eng] = General Charges
 # text[fra] = Charges à caractère général
 # labels = to_check opab_parallel
 1	Kargoù	karg	NOUN	n	Gender=Fem|Number=Plur	0	root	_	_
@@ -10178,6 +10169,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:39:1063
 # text = Kargoù sokial diseurt all
+# text[eng] = Other miscellaneous social charges
 # text[fra] = Autres charges sociales diverses
 # labels = to_check opab_parallel
 1	Kargoù	karg	NOUN	n	Gender=Fem|Number=Plur	0	root	_	_
