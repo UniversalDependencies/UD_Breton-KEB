@@ -1445,7 +1445,7 @@
 
 # sent_id = bremaik.vislcg.txt:46:1244
 # text = Pezhioù-c'hoari a bep seurt a vo kinniget e Konk-Kerne, Pont-Aven, Sant-Ivi, Tregon.
-# text[fra¹] = @Pezh de toute sorte il sera présenté à Concarneau, Pont-Aven, Saint-Yvi, Trégunc.
+# text[fra¹] = Il y aura des pièces de théâtres de toutes sortes à Concarneau, Pont-Aven, Saint-Yvi, Trégunc.
 # labels = to_check
 1	Pezhioù-c'hoari	pezh-c’hoari	NOUN	n	Gender=Masc|Number=Plur	7	nsubj	_	_
 2	a	a	ADP	pr	_	4	case	_	_
@@ -1466,7 +1466,7 @@
 
 # sent_id = bremaik.vislcg.txt:47:1280
 # text = Ar re o deus ezhomm groñs eus ur c'harr-saout (4x4) evit o micher (labour-douar, labour er c'hoadoù) a vefe aotreet da gaout unan.
-# text[fra¹] = Ceux qui ont besoin formel d'une voiture-vaches (4x4) pour leur métier (agriculture, travail dans les bois) aient autorisés à avoir un.
+# text[fra¹] = Les professionnels (agriculture, foresterie) qui nécessitent un quatre roues motrices (4x4) obtiendraient une autorisation.
 # labels = to_check
 1	Ar	ar	X	x	_	2	dep	_	_
 2	re	re	PRON	prn	Number=Sing|PronType=Rel	27	nsubj	_	_
@@ -1503,7 +1503,7 @@
 
 # sent_id = bremaik.vislcg.txt:48:1345
 # text = Kenaozet e vo an degouezh er bloaz-mañ gant Park an Arvorig.
-# text[fra¹] = Il sera coorganisé l'occasion cette année avec Parc d’Armorique.
+# text[fra¹] = L'évènement sera co-organisé cette année avec le Parc d’Armorique.
 # labels = to_check
 1	Kenaozet	kenaozañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -1523,7 +1523,7 @@
 
 # sent_id = bremaik.vislcg.txt:49:1376
 # text = Ma n'ho peus ket lennet al lodenn gentañ er sizhun tremenet, klikit amañ evit lenn anezhi pe war Bremaik ar sizhun dremenet.
-# text[fra¹] = Si vous n'avez pas lu la première partie dans la semaine passée, cliquez ici pour lire elle quelle sur #le Bremaik de la semaine passée.
+# text[fra¹] = Si vous n'avez pas lu la première partie la semaine dernière, cliquez ici pour la lire sur le Bremaik de la semaine dernière.
 # labels = to_check
 1	Ma	ma	SCONJ	cnjsub	_	5	mark	_	_
 2	n'	ne	ADV	adv	Polarity=Neg	5	advmod	_	SpaceAfter=No
@@ -1554,7 +1554,7 @@
 
 # sent_id = bremaik.vislcg.txt:50:1429
 # text = Hag int kroget da c'hounit tachenn en-dro memes tra.
-# text[fra¹] = Et ils ont commencé à gagner terrain de nouveau quand même.
+# text[fra¹] = Et ils commencèrent tout de même à regagner du terrain.
 # labels = to_check
 1	Hag	ha	CCONJ	cnjcoo	_	3	cc	_	_
 2	int	bezañ	AUX	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
@@ -1569,7 +1569,7 @@
 
 # sent_id = bremaik.vislcg.txt:51:1453
 # text = Dek kilometrad a-raok ar fin, e oa daou varc'hhouarner oc'h en em gannañ evit ar plas kentañ.
-# text[fra¹] = Dix kilomètres avant la fin, elle était deux cyclistes êtes battre pour la première place.
+# text[fra¹] = Dix kilomètres avant la fin, deux cyclistes se battaient pour la première place.
 # labels = to_check
 1	Dek	dek	NUM	num	Number=Plur	2	nummod	_	_
 2	kilometrad	kilometrad	NOUN	n	Gender=Masc|Number=Sing	14	dep	_	_
@@ -1593,7 +1593,7 @@
 
 # sent_id = bremaik.vislcg.txt:52:1495
 # text = Servijit diouzhtu.
-# text[fra¹] = Vous servez tout de suite.
+# text[fra¹] = Servez de suite.
 # labels = to_check
 1	Servijit	servijañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	diouzhtu	diouzhtu	ADV	adv	_	1	advmod	_	SpaceAfter=No
@@ -1601,7 +1601,7 @@
 
 # sent_id = bremaik.vislcg.txt:53:1505
 # text = Hiziv, d'al Lun 8 a viz Meurzh, e vez lidet devezh etrebroadel ar maouezed.
-# text[fra¹] = Aujourd’hui, le lundi 8 mars, il est célébré la journée internationale des femmes.
+# text[fra¹] = Aujourd’hui, lundi 8 mars, est célébrée la journée internationale des femmes.
 # labels = to_check
 1	Hiziv	hiziv	ADV	adv	_	13	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	5	punct	_	_
@@ -1625,7 +1625,7 @@
 
 # sent_id = bremaik.vislcg.txt:54:1544
 # text = Hervez Burev Etrebroadel al Labour, 40 % eus an dud gopret er bed a zo merc'hed.
-# text[fra¹] = Selon le Bureau International du Travail, 40 % de les salariés dans le monde sont filles.
+# text[fra¹] = Selon le Bureau International du Travail, 40 % de les salariés dans le monde sont des femmes.
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	2	case	_	_
 2	Burev	burev	NOUN	n	Gender=Masc|Number=Sing	17	obl	_	_
@@ -1649,7 +1649,7 @@
 
 # sent_id = bremaik.vislcg.txt:55:1583
 # text = Met 60 % eus an dud a c'hounez nebeutoc'h eget 1 $ bemdez a zo merc'hed.
-# text[fra¹] = Mais 60 % des gens Elle gagne moins que 1 $ tous les jours est filles.
+# text[fra¹] = Mais 60% des gens qui gagnent moins d' 1 $ par jour sont des femmes.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	4	cc	_	_
 2	60 %	60	NUM	num	Number=Plur	15	nsubj	_	_
@@ -1670,7 +1670,7 @@
 
 # sent_id = bremaik.vislcg.txt:56:1619
 # text = E Frañs, e 2001, e oa bet jedet gant an EBSSA (INSEE) e veze paeet ar merc'hed, en embregerezhioù prevez hag evit memes amzer labour, tro-dro da 20 % nebeutoc'h eget ar baotred.
-# text[fra¹] = En France, dans 2001, a été calculés par l'EBSSA (d'INSEE) que les filles ont était payé, dans les entreprises privées et pour même le temps de travail, autour de 20 % moins que les garçons.
+# text[fra¹] = En France, en 2001, l'EBSSA (INSEE) a calculé que les filles ont était payées, dans les entreprises privées et pour même le temps de travail, autour de 20 % de moins que les garçons.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Frañs	Frañs	PROPN	np	Number=Sing	10	obl	_	SpaceAfter=No
@@ -1716,7 +1716,7 @@
 
 # sent_id = bremaik.vislcg.txt:57:1702
 # text = Klaseloc'h e oa ar pezh kinniget e Kemper d'ar mare-mañ.
-# text[fra¹] = Plus classique était ce que présenté à Quimper à ce moment.
+# text[fra¹] = La pièce alors présentée à Quimper était plus classique.
 # labels = to_check
 1	Klaseloc'h	klasel	ADJ	adj	Degree=Cmp	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -1734,7 +1734,7 @@
 
 # sent_id = bremaik.vislcg.txt:58:1729
 # text = En dibenn-sizhun-mañ paseet e oa bet kroget kampionad ar bed an F1.
-# text[fra¹] = Dans ce week-end passé avait été commencé le championnat du monde le F1.
+# text[fra¹] = Le week-end passé a commencé le championnat du monde de F1.
 # labels = to_check
 1-2	En	_	_	_	_	_	_	_	_
 1	E	e	ADP	pr	_	3	case	_	_
@@ -1755,7 +1755,7 @@
 
 # sent_id = bremaik.vislcg.txt:59:1762
 # text = Peurrest ar skipailhoù a seblant pell a-walc'h eus al live avat.
-# text[fra¹] = Le reste des équipes semble assez loin du niveau alors.
+# text[fra¹] = Mais le reste des équipes semble loin du niveau.
 # labels = to_check
 1	Peurrest	peurrest	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -1772,7 +1772,7 @@
 
 # sent_id = bremaik.vislcg.txt:60:1790
 # text = Ur fest-deiz a vo kinniget goude an droiad er maezioù.
-# text[fra¹] = Un fest-deiz sera présenté après la tournée dans les campagnes.
+# text[fra¹] = Après une ballade dans la campagne vous sera proposé un fest-deiz.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	fest-deiz	fest-deiz	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -1790,7 +1790,7 @@
 
 # sent_id = bremaik.vislcg.txt:61:1817
 # text = Fellout a ra dezho e vefe savet un destenn ofisiel a-benn anzav n'eo ket doujet ouzh o gwirioù abaoe trevadennerezh Aostralia gant ar Rouantelezh.
-# text[fra¹] = Ils Veulent qu'il aurait levé un texte officiel pour reconnaître qu'il n'a pas respecté leur droits depuis la colonisation de l'Australie par le Royaume.
+# text[fra¹] = Ils veulent l'obtention d'un texte officiel qui reconnaisse que leurs droits ont été baffoués depuis la colonisation de l'Australie par le Royaume.
 # labels = to_check
 1	Fellout	fellout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -1823,7 +1823,7 @@
 
 # sent_id = bremaik.vislcg.txt:62:1874
 # text = Ar c'harotez a zle dont da vezañ tener-kenañ.
-# text[fra¹] = Les carottes à doivent devenir très tendres.
+# text[fra¹] = Les carottes doivent devenir très tendres.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	c'harotez	karotez	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -1839,7 +1839,7 @@
 
 # sent_id = bremaik.vislcg.txt:63:1897
 # text = Savet ez eus bet ur c'houlennaoueg gant tud Divskouarn eta, a-benn gouzout "piv, petra ha penaos" e-keñver ar c'hinnig brezhoneg d'ar bugaligoù er vro.
-# text[fra¹] = Un questionnaire a été levé par les gens de Divskouarn donc, pour savoir "qui, quoi et comment" par comparaison à la proposition de breton aux petits enfants dans le pays.
+# text[fra¹] = Les gens de Diskouarn ont donc monté un questionnaire pour connaitre le qui, le pourquoi et le comment de la proposition de breton aux enfants du pays.
 # labels = to_check
 1	Savet	sevel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	ez eus	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -1876,7 +1876,7 @@
 
 # sent_id = bremaik.vislcg.txt:64:1959
 # text = Ret e vo kinnig 2 ganaouenn da nebeutañ hag an hollad ne ranko ket padout ouzhpenn 20 munutenn.
-# text[fra¹] = Nécessaire sera proposer 2 chansons au moins et le total ne devront pas durer plus de 20 minutes.
+# text[fra¹] = Il faudra proposer deux chansons, et le tout ne devra pas dépasser 20 minutes.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -1900,7 +1900,7 @@
 
 # sent_id = bremaik.vislcg.txt:65:2001
 # text = Tennit diouzh ar forn.
-# text[fra¹] = Vous tirez du four.
+# text[fra¹] = Sortez du four.
 # labels = to_check
 1	Tennit	tennañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	diouzh	diouzh	ADP	pr	_	4	case	_	_
@@ -1910,7 +1910,7 @@
 
 # sent_id = bremaik.vislcg.txt:66:2015
 # text = 200 den a oa bet lazhet diriaou, ha 1500 den gloazet, gant gwall-daolioù Madrid.
-# text[fra¹] = 200 personnes avaient été tuées jeudi, et 1500 personnes blessées, par mal-les coups de Madrid.
+# text[fra¹] = 200 personnes ont été tuées jeudi, et 1500 blessées, dans les attentats de Madrid.
 # labels = to_check
 1	200	200	NUM	num	Number=Plur	2	nummod	_	_
 2	den	den	NOUN	n	Gender=Masc|Number=Sing	6	nsubj	_	_
