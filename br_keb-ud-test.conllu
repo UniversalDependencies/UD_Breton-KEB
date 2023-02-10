@@ -5220,7 +5220,7 @@
 
 # sent_id = bro-gozh.vislcg.txt:7:167
 # text = N'eus pobl ken kalonek a-zindan an neñv.
-# text[fra] =  Aucun peuple sous les cieux n'est aussi courageux.
+# text[fra] = Aucun peuple sous les cieux n'est aussi courageux.
 # labels = to_check song
 1-2	N'eus	_	_	_	_	_	_	_	_
 1	N'	ne	ADV	adv	_	5	advmod	_	_
