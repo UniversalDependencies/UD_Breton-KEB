@@ -2154,7 +2154,7 @@
 
 # sent_id = bremaik.vislcg.txt:78:2416
 # text = Un nebeud strolladoù a vank c'hoazh er programm, kit neuze da welout al liammoù kinniget amañ dindan evit gouzout hiroc'h.
-# text[fra¹] = Un peu de groupes manque encore dans le programme, allez alors à voir les liens présentés ci-dessous pour en savoir plus.
+# text[fra¹] = Quelques groupes manquent encore au programme, explorez-donc les liens ci-dessous pour en savoir plus.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	nebeud	nebeud	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -2183,7 +2183,7 @@
 
 # sent_id = bremaik.vislcg.txt:79:2465
 # text = Ouzhpenn 200 darvoud liesseurt a vo kinniget war dachenn Frañs a-bezh.
-# text[fra¹] = Plus de 200 événements divers seront présentés sur le terrain de la France entièrement.
+# text[fra¹] = Plus de 200 événements variés seront présentés dans toute la France.
 # labels = to_check
 1	Ouzhpenn	ouzhpenn	ADP	pr	_	2	dep	_	_
 2	200	200	NUM	num	Number=Plur	3	nummod	_	_
@@ -2200,7 +2200,7 @@
 
 # sent_id = bremaik.vislcg.txt:80:2493
 # text = Hag anavezout a rit an abadenn "Mil dremm" a vez kinniget bep sizhun war TV Breizh?
-# text[fra¹] = Et connaissez-vous l'émission "d'Animal visage" qui est présenté toutes les semaines sur TV Breizh?
+# text[fra¹] = Connaissez-vous l'émission hebdomadaire "Mil dremm" [Mille visages] sur TV Breizh ?
 # labels = to_check
 1	Hag	ha	CCONJ	cnjcoo	_	2	cc	_	_
 2	anavezout	anavezout	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -2224,7 +2224,7 @@
 
 # sent_id = bremaik.vislcg.txt:81:2535
 # text = War an tele e tremen abred-tre d'ar Sadorn neuze, e-tro 7 eur.
-# text[fra¹] = Sur la télé dans passage très tôt le samedi alors, autour de 7 heures.
+# text[fra¹] = Elle passe très tôt à la télé le samedi alors, vers 7 heures.
 # labels = to_check
 1	War	war	ADP	pr	_	3	case	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -2247,7 +2247,7 @@
 
 # sent_id = bremaik.vislcg.txt:82:2569
 # text = E gwerzh er stalioù levrioù a ginnig danvez Breizh, pe dre goumanant.
-# text[fra¹] = En vente dans les librairies ou par abonnement il présente la matière de la Bretagne.
+# text[fra¹] = En vente dans les librairies de matière bretonne ou par abonnement.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	gwerzh	gwerzh	NOUN	n	Gender=Fem|Number=Sing	8	obl	_	_
@@ -2268,7 +2268,7 @@
 
 # sent_id = bremaik.vislcg.txt:83:2602
 # text = Ganet eo bet e 1958 e Naoned ha marv e Pariz e 1993.
-# text[fra¹] = Elle a été née en 1958 à Nantes et morte à Paris en 1993.
+# text[fra¹] = Elle est née à Nantes en 1958  et est morte à Paris en 1993.
 # labels = to_check
 1	Ganet	genel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -2287,7 +2287,7 @@
 
 # sent_id = bremaik.vislcg.txt:84:2634
 # text = Techet e oa al livour da skeudenniñ buhez pemdez ar 17vet kantved en e gorn-bro.
-# text[fra¹] = Porté était le peintre à représenter vie quotidienne les 17ème siècle dans son coin.
+# text[fra¹] = Le peintre était porté à représenter la vie quotidienne de son milieu au 17ème siècle.
 # labels = to_check
 1	Techet	techet	ADJ	adj	_	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -2308,7 +2308,7 @@
 
 # sent_id = bremaik.vislcg.txt:85:2670
 # text = Un "dro bed ar sonerezh" a zastumo war he hent 10 strollad a sono e-kerz 13vet Gouel an Erer Kozh.
-# text[fra¹] = Un "tour de monde de la musique" ramassera sur son route 10 groupes qui sonnera en la possession de 13ème Fête de l'Aigle Vieille.
+# text[fra¹] = Un "tour du monde de la musique" rassemblera dans son sillage 10 groupes qui se produiront à la treizième fête des "Vieilles Charrues".
 # labels = to_check
 1	Un	un	DET	det	_	3	det	_	_
 2	"	"	PUNCT	quot	_	3	punct	_	SpaceAfter=No
@@ -2336,7 +2336,7 @@
 
 # sent_id = bremaik.vislcg.txt:86:2720
 # text = Ma fell deoc'h kemer perzh en Erer Yaouank e c'hellit lakaat hoc'h anv e-pad ur pennadig c'hoazh.
-# text[fra¹] = Si vous voulez participer dans le Jeune Aigle pouvez mettre votre nom pendant un petit moment encore.
+# text[fra¹] = Si vous voulez participer aux "Vieilles Charrues Jeunes" vous avez encore un petit délai pour vous inscrire. 
 # labels = to_check
 1	Ma	ma	SCONJ	cnjsub	_	2	mark	_	_
 2	fell	fellout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
@@ -2363,7 +2363,7 @@
 
 # sent_id = bremaik.vislcg.txt:87:2762
 # text = Ur stourm a ranko kenderc'hel (ha marteze dont da vezañ... nerzhusoc'h) ma fell d'ar Vretoned bezañ doujet evit pezh a sell ouzh skignañ o yezh er radio.
-# text[fra¹] = Un combat devra continuer (et peut-être devenir... plus fort) s'il veut aux Bretons être respectés pour ce que regardent les diffuser linguistiques dans la radio.
+# text[fra¹] = Un combat devra continuer (et peut-être prendre un peu de nerf) si les bretons veulent être respectés en ce qui concerne la diffusion radiophonique de leur langue.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	stourm	stourm	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -2403,7 +2403,7 @@
 
 # sent_id = bremaik.vislcg.txt:88:2830
 # text = Ur pred krampouezh a vo kinniget war al lec'h.
-# text[fra¹] = Il Sera présenté un repas de crêpes sur place.
+# text[fra¹] = Un repas de crêpes sera proposé sur place.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	pred	pred	NOUN	n	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -2418,7 +2418,7 @@
 
 # sent_id = bremaik.vislcg.txt:89:2854
 # text = Kenaozet eo gant implijidi an ospital ha kevredigezhioù lec'hel.
-# text[fra¹] = Il a coorganisé avec les employés de l'hôpital et des sociétés locales.
+# text[fra¹] = Il est coorganisé avec les employés de l'hôpital et des associations locales.
 # labels = to_check
 1	Kenaozet	kenaozañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	_
@@ -2433,7 +2433,7 @@
 
 # sent_id = bremaik.vislcg.txt:90:2878
 # text = An holl arc'hant dastumet a servijo da seveniñ raktresoù pe da brenañ dafar evit gwellaat degemer ar vugale en ospitalioù.
-# text[fra¹] = Tout l'argent ramassé servira à réaliser projets où à acheter matériel pour améliorer accueillir les enfants dans les hôpitaux.
+# text[fra¹] = Les sommes récoltées serviront entièrement à réaliser des projets où à acheter du matériel pour améliorer les conditions d'accueil des enfants dans les hôpitaux.
 # labels = to_check
 1	An	an	DET	det	_	3	det	_	_
 2	holl	holl	DET	predet	_	3	det	_	_
@@ -2461,7 +2461,7 @@
 
 # sent_id = bremaik.vislcg.txt:91:2925
 # text = Gwelomp er sizhun-mañ peseurt strategiezhioù a vez lakaet e-pleustr gant an embregerezhioù bras-se evit mirout al labourerien-douar en o dalc'h.
-# text[fra¹] = Nous voyons cette semaine quel stratégies son mis en pratique par ces grandes entreprises pour garder les fermiers dans leurs maintien.
+# text[fra¹] = Voyons cette semaine quelles stratégies sont pratiquées par ces grandes entreprises pour garder les agriculteurs sous leur coupe.
 # labels = to_check
 1	Gwelomp	gwelout	VERB	vblex	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	er	_	_	_	_	_	_	_	_
@@ -2508,7 +2508,7 @@
 
 # sent_id = bremaik.vislcg.txt:93:3001
 # text = Hervez al lec'h e vo marteze graet an dibab?
-# text[fra¹] = Selon le lieu peut-être sera fait le choix?
+# text[fra¹] = Le choix sera peut-être opéré selon le lieu ?
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	3	case	_	_
 2	al	an	DET	det	_	3	det	_	_
@@ -2523,7 +2523,7 @@
 
 # sent_id = bremaik.vislcg.txt:94:3025
 # text = Ar goulenn brasañ graet ganto zo krouiñ ur skoaziad arc'hant kevatal d'ar SMIC, evit ma c'hellfe bevañ en un doare aesoc'h an dud nammet betek chom hep gellout labourat.
-# text[fra¹] = La question grande faite par eux est créer une subvention d'argent égal au SMIC, pour que puisse vivre dans une manière plus facile les gens handicapés jusque rester sans pouvoir travailler.
+# text[fra¹] = Leur plus grande revendication est la création d'un soutien financier égal au SMIC pour faciliter la vie des personnes qui sont handicapées au point de pas pouvoir travailler.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	goulenn	goulenn	NOUN	n	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -2563,7 +2563,7 @@
 
 # sent_id = bremaik.vislcg.txt:95:3092
 # text = E Kemper ez eo ar stourm evit ar c'helenn divyezhek a vo er jeu.
-# text[fra¹] = À Quimper est le combat pour l'enseignement bilingue qui sera dans l'affaire.
+# text[fra¹] = C'est à Quimper que se mène le combat pour le type d'enseignement bilingue dont il sera question.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Kemper	Kemper	PROPN	np	Number=Sing	0	root	_	_
@@ -2585,7 +2585,7 @@
 
 # sent_id = bremaik.vislcg.txt:96:3127
 # text = Rankout a reont bewech stourm ha stourm adarre evit rediañ Renerezh-eskopti ar c'helenn katolik da zigeriñ klasoù divyezhek nevez.
-# text[fra¹] = Ils doivent chaque fois combattre et combattre de nouveau pour obliger la Direction de l'évêché de l'enseignement catholique à ouvrir des nouvelles classes bilingues.
+# text[fra¹] = C'est pour eux un combat sans fin pour obliger la Direction de l'évêché de l'enseignement catholique à ouvrir des nouvelles classes bilingues.
 # labels = to_check
 1	Rankout	rankout	AUX	vblex	VerbForm=Inf	5	aux	_	_
 2	a	a	AUX	vpart	_	5	aux	_	_
@@ -2612,7 +2612,7 @@
 
 # sent_id = bremaik.vislcg.txt:97:3175
 # text = E Brest, Douarnenez, Kemper, Montroulez ha Naoned e vo ivez tud bodet evit goulenn ar peoc'h etre Israel ha Palestina.
-# text[fra¹] = À Brest, Douarnenez, Quimper, Morlaix et Nantes il y aura aussi gens regroupés pour demander la paix entre Israël et la Palestine.
+# text[fra¹] = Il y aura aussi des rassemblements à Brest, Douarnenez, Quimper, Morlaix et Nantes pour demander la paix entre Israël et la Palestine.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Brest	Brest	PROPN	np	Number=Sing	0	root	_	SpaceAfter=No
@@ -2664,7 +2664,7 @@
 
 # sent_id = bremaik.vislcg.txt:99:3267
 # text = An dilennadegoù kanton o deus lakaet 4 departamant breton diwar 5 da vezañ renet gant an tu kleiz.
-# text[fra¹] = Les élections de canton ont mises 4 de 5 départements bretons à être dirigés par le gauche.
+# text[fra¹] = Les élections cantonales ont mis la gauche au pouvoir dans 4 des 5 départements bretons.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
 2	dilennadegoù	dilennadeg	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -2687,7 +2687,7 @@
 
 # sent_id = bremaik.vislcg.txt:100:3307
 # text = Echuet eo bet tournamant ar 6 broad en dibenn-sizhun-mañ.
-# text[fra¹] = Il a été fini tournoi les 6 nations dans ce week-end.
+# text[fra¹] = Le tournoi des 6 nations s'est fini ce week-end.
 # labels = to_check
 1	Echuet	echuiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -2705,7 +2705,7 @@
 
 # sent_id = bremaik.vislcg.txt:101:3334
 # text = Un dra all a chom da venegiñ eo ar fed ral a-walc'h ez eus bet moullet skritelloù gant an titl e brezhoneg evit ar film-mañ.
-# text[fra¹] = Une autre chose qui reste mentionner est le fait assez rare qu'il a été imprimé affiches avec le titre en breton pour ce film.
+# text[fra¹] = Une autre chose qui reste à mentionner est la rareté relative avec laquelle des affiches ont été imprimées pour ce film avec le titre en breton.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	dra	tra	NOUN	n	Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -2736,7 +2736,7 @@
 
 # sent_id = bremaik.vislcg.txt:102:3390
 # text = Koustañ a ra daou euro mui ar frejoù post.
-# text[fra¹] = Il coûte deux euros plus les frais de poste.
+# text[fra¹] = Il en coûte deux euros plus les frais d'envoi.
 # labels = to_check
 1	Koustañ	koustañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -2751,7 +2751,7 @@
 
 # sent_id = bremaik.vislcg.txt:103:3414
 # text = Er mod-se eo bet saveteet gouenn "yer-koukoug Bro-Roazhon" pe an deñved bihan eus Enez Eusa.
-# text[fra¹] = Comme ça Elle a été sauvé la race "de poules-le coucou de Pays Rennais" quel les petits moutons de l'Île d'Ouessant.
+# text[fra¹] = C'est ainsi qu'a été sauvée la race "poule-coucou du pays de Rennes" ou des petits moutons de Ouessant.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
 1	E	e	ADP	pr	_	3	case	_	_
@@ -2779,7 +2779,7 @@
 
 # sent_id = bremaik.vislcg.txt:104:3461
 # text = Met chom a ra bresk-tre an traoù memes tra.
-# text[fra¹] = Mais Elle reste très fragile les choses quand même.
+# text[fra¹] = Mais cela reste tout de même très fragile.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	2	cc	_	_
 2	chom	chom	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -2796,7 +2796,7 @@
 
 # sent_id = bremaik.vislcg.txt:105:3486
 # text = Evit an 23e gwech e vo aozet ar gouel-se e Sant-Brieg.
-# text[fra¹] = Pour la 23h fois sera organisée cette fête à Saint-Brieuc.
+# text[fra¹] = Cette fête sera organisée à Saint-Brieux pour la 23ème fois.
 # labels = to_check
 1	Evit	evit	ADP	pr	_	4	case	_	_
 2	an	an	DET	det	_	4	det	_	_
@@ -2814,7 +2814,7 @@
 
 # sent_id = bremaik.vislcg.txt:106:3516
 # text = Goude gerioù fromus ar ganerez Nolwenn Korbell e oa bet kaset an dibunadeg war-raok gant startijenn liseidi ha skolajidi an hentad kelenn dre soubidigezh.
-# text[fra¹] = Après les mots émouvants de la chanteuse Nolwenn Korbell la manifestation avait été envoyé en avant par le dynamisme de lycéens et les collégiens du circuit enseignement par immersion.
+# text[fra¹] = Après les mots émouvants de la chanteuse Nolwenn Korbell, l'énergie des lycéens et collégiens de l'enseignement par immersion a mis en branle le défilé.
 # labels = to_check
 1	Goude	goude	ADP	pr	_	2	case	_	_
 2	gerioù	ger	NOUN	n	Gender=Masc|Number=Plur	11	obl	_	_
@@ -2844,7 +2844,7 @@
 
 # sent_id = bremaik.vislcg.txt:107:3570
 # text = Da eil e vez erlec'hiet genoù liesseurt-kenañ gant un doare gen hepken.
-# text[fra¹] = Deuxièmement il est remplacé bouche très diverse avec une manière de gènes seulement.
+# text[fra¹] = Ensuite on change des gènes très divers par un seul gène.
 # labels = to_check
 1	Da	da	ADP	pr	_	2	case	_	_
 2	eil	eil	NUM	num	NumType=Ord	5	obl	_	_
@@ -2864,7 +2864,7 @@
 
 # sent_id = bremaik.vislcg.txt:108:3601
 # text = Dimerc'her e c'hoario skipailh Roazhon a-enep Lyon.
-# text[fra¹] = Mercredi il jouera l'équipe de Rennes contre Lyon.
+# text[fra¹] = Mercredi l'équipe de Rennes jouera contre Lyon.
 # labels = to_check
 1	Dimerc'her	dimerc’her	ADV	adv	_	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -2877,7 +2877,7 @@
 
 # sent_id = bremaik.vislcg.txt:109:3621
 # text = Implijidi an ospital, kenwerzherien Kreiz-Breizh, dilennidi ha tud ar vro, o labourat pe war o leve, a oa bodet holl evit goulenn e virfe ospital Karaez holl e servijoù.
-# text[fra¹] = Les employés de l'hôpital, les commerçants de Centre Bretagne, élus et les gens du pays, en travaillant où en retraite, tous avait regroupé pour demander que l'hôpital de Carhaix garderait tous son services.
+# text[fra¹] = Employés de l'hôpital, commerçants du Centre Bretagne, élus comme gens du pays, actifs ou retraités, étaient tous regroupés pour demander le maintien des services de l'hôpital de Carhaix.
 # labels = to_check
 1	Implijidi	implijad	NOUN	n	Gender=Masc|Number=Plur	23	dislocated	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -2916,7 +2916,7 @@
 
 # sent_id = bremaik.vislcg.txt:110:3693
 # text = Disklêriet en deus Kristian Troadeg, maer Karaez ha prezidant kuzul-verañ an ospital, e oa ret derc'hel gant ar stourm.
-# text[fra¹] = Kristian Troadec, le maire de Carhaix et le président de conseil-gérer l'hôpital, a déclaré qu'il était nécessaire tenir avec le combat.
+# text[fra¹] = Christian Troadec, maire de Carhaix et président de conseil de gestion de l'hôpital, a déclaré qu'il était nécessaire de poursuivre le combat.
 # labels = to_check
 1	Disklêriet	disklêriañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -2944,7 +2944,7 @@
 
 # sent_id = bremaik.vislcg.txt:111:3743
 # text = D'ar sadorn 5 ha Sul 6 a viz Ebrel e vo aozet e Brest ul lodenn eus kampionad Bro-C'hall kentañ rummad mell-droad war gador-ruilh.
-# text[fra¹] = Au samedi 5 et dimanche 6 avril seront organisés il Prête une partie du championnat de la France première la catégorie de football sur chaise roulante.
+# text[fra¹] = Une partie du championnat de la France première catégorie de football sur chaise roulante sera organisé à Brest les samedi 5 et dimanche 6 avril.
 # labels = to_check
 1-2	D'ar	_	_	_	_	_	_	_	_
 1	D'	da	ADP	pr	_	3	case	_	_
@@ -2976,7 +2976,7 @@
 
 # sent_id = bremaik.vislcg.txt:112:3798
 # text = Koulskoude e tiviz Francis pediñ e zaou vreur d'ober ur veaj speredel e bro Indez e-pad ur miz.
-# text[fra¹] = Pourtant Francis décide de prier ses deux frères à faire un voyage spirituel à pays d'Indes pendant un mois.
+# text[fra¹] = Pourtant Francis décide d'inviter ses deux frères à faire un voyage spirituel d'un mois en Inde.
 # labels = to_check
 1	Koulskoude	koulskoude	ADV	adv	_	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -3001,7 +3001,7 @@
 
 # sent_id = bremaik.vislcg.txt:113:3842
 # text = Evel-just e c'hoarvezo ganto ur bern traoù iskis ha dic'hortoz o do pouez ha levezon war o darempredoù.
-# text[fra¹] = Naturellement avec eux il arrivera un tas de choses étranges et inattendus qui auront poids et influence sur leurs relations.
+# text[fra¹] = Naturellement il leur arrivera un tas de choses étranges et inattendues qui pèseront sur leurs relations et y laisseront leur trace.
 # labels = to_check
 1	Evel-just	evel-just	ADV	adv	_	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -3026,7 +3026,7 @@
 
 # sent_id = bremaik.vislcg.txt:114:3883
 # text = Kinniget e vo gant Mirdi ar Faoued ouzhpenn 130 luc'hskeudenn ha skeudenn, bet graet e-kerzh an 19vet kantved, e Breizh.
-# text[fra¹] = Par le Musée de Faouët il soit présenté plus de 130 photographies et image, été faite pendant les 19ème siècle, en Bretagne.
+# text[fra¹] = Le Musée du Faouët va proposer plus de 130 photographies et images réalisées durant le 19ème siècle en Bretagne. 
 # labels = to_check
 1	Kinniget	kinnig	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -3054,7 +3054,7 @@
 
 # sent_id = bremaik.vislcg.txt:115:3933
 # text = Tu vo da welet labourioù luc'hskeudennerien gentañ ar vro koulz hag ur rummad skeudennoù "touristel" brudet-tre e fin an 19vet kantved.
-# text[fra¹] = Il sera possible de voir les travaux de photographes premiers du pays ainsi qu'une catégorie d'images "touristiques" très célèbre à la fin des 19ème siècle.
+# text[fra¹] = On pourra voir les travaux des premiers photographes du pays ainsi qu'une catégorie d'images "touristiques" très célèbres à la fin du 19ème siècle.
 # labels = to_check
 1	Tu	tu	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	vo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	cop	_	_
@@ -3085,7 +3085,7 @@
 
 # sent_id = bremaik.vislcg.txt:116:3986
 # text = Displegañ a reer en diskouezadeg diaesterioù teknikel al luc'hskeudennerien hag o freder arzel ivez.
-# text[fra¹] = On déplie dans l'exposition de difficultés techniques les photographes et leur réflexion artistique aussi.
+# text[fra¹] = On explique dans l'exposition les difficultés techniques des photographes ainsi que leur réflexion artistique.
 # labels = to_check
 1	Displegañ	displegañ	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -3107,7 +3107,7 @@
 
 # sent_id = bremaik.vislcg.txt:117:4021
 # text = Ho puhez karantez a vo disheñvel.
-# text[fra¹] = Votre vie d'amour Il sera différent.
+# text[fra¹] = Votre vie amoureuse changera.
 # labels = to_check
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
 2	puhez	buhez	NOUN	n	Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -3119,7 +3119,7 @@
 
 # sent_id = bremaik.vislcg.txt:118:4039
 # text = Da eil e c'helloc'h stabilaat an traoù da vat ha diskuizhañ un tamm.
-# text[fra¹] = Deuxièmement vous pourrez stabiliser les choses pour de bon et reposer quelques peu.
+# text[fra¹] = Ensuite vous pourrez être à l'équilibre et vous reposer un peu.
 # labels = to_check
 1	Da	da	ADP	pr	_	2	case	_	_
 2	eil	eil	NUM	num	NumType=Ord	5	obl	_	_
@@ -3138,7 +3138,7 @@
 
 # sent_id = bremaik.vislcg.txt:119:4071
 # text = Gouest e vioc'h da gas ho raktresoù da vat !
-# text[fra¹] = Vous serez capable d'envoyer vos projets pour de bon !
+# text[fra¹] = Vous serez capable de réaliser vos projets !
 # labels = to_check
 1	Gouest	gouest	ADJ	adj	_	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -3153,7 +3153,7 @@
 
 # sent_id = bremaik.vislcg.txt:120:4095
 # text = An dud a labour ganeoc'h a vo souezhet ha plijet gant hoc'h emzalc'h.
-# text[fra¹] = Les gens qui travaillent avec vous sera étonné et plu avec votre comportement.
+# text[fra¹] = Vos collègue seront surpris et ravis de votre comportement.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
 2	dud	den	NOUN	n	Gender=Masc|Number=Plur	9	nsubj	_	_
@@ -3174,7 +3174,7 @@
 
 # sent_id = bremaik.vislcg.txt:121:4128
 # text = Disklêriet en deus e oa nec'het gant ar feulster na glote ket gant mennozhioù ar C'hoarioù Olimpek.
-# text[fra¹] = Il a déclaré qu'il était affligé par la violence qui correspondait pas avec les idées des Jeux Olympiques.
+# text[fra¹] = Il a déclaré qu'il était affligé par la violence qui correspondait pas aux valeurs des Jeux Olympiques.
 # labels = to_check
 1	Disklêriet	disklêriañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -3196,7 +3196,7 @@
 
 # sent_id = bremaik.vislcg.txt:122:4166
 # text = Miliadoù a dud a oa deuet da vanifestiñ dec'h er gêr-benn saoz evit skoazellañ tud Tibet gwasket gant gouarnamant Sina.
-# text[fra¹] = Milliers à gens avaient venus en manifester hier à la maison-tête anglaise pour aider les gens de Tibet pressés avec le gouvernement de la Chine.
+# text[fra¹] = Des milliers de gens étaient venus manifester hier dans le capitale anglaise en soutien aux tibétains opprimés par le gouvernement chinois.
 # labels = to_check
 1	Miliadoù	miliad	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
 2	a	a	ADP	pr	_	3	case	_	_
@@ -3224,7 +3224,7 @@
 
 # sent_id = bremaik.vislcg.txt:123:4213
 # text = Boazet omp bremañ da welet milinoù-tredan a ya en-dro gant an avel e Breizh.
-# text[fra¹] = Nous avons habitué maintenant à voir moulins-électricité qui fonctionne avec le vent en Bretagne.
+# text[fra¹] = Nous sommes maintenant habitués à voir des héoliennes en Bretagne.
 # labels = to_check
 1	Boazet	boazañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	omp	bezañ	AUX	vblex	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -3246,7 +3246,7 @@
 
 # sent_id = bremaik.vislcg.txt:124:4251
 # text = Met n'eo ket alies e vez klevet komz eus ar re a c'heller lakaat er mor.
-# text[fra¹] = Mais Elle n'est pas souvent est entendu parler de ceux qui on peut mettre dans la mer.
+# text[fra¹] = Mais on n'entend pas souvent parler de celles que l'on peut mettre en mer.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	5	cc	_	_
 2	n'	ne	ADV	adv	Polarity=Neg	5	advmod	_	SpaceAfter=No
@@ -3271,7 +3271,7 @@
 
 # sent_id = bremaik.vislcg.txt:125:4292
 # text = Gant redoù an dour pe gant al lanvioù e c'hellont bezañ lakaet da dreiñ.
-# text[fra¹] = Par les courants de l'eau où avec les marées peuvent être mis à tourner.
+# text[fra¹] = Elles peuvent être mues par les courants marins ou par les marées.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	2	case	_	_
 2	redoù	red	NOUN	n	Gender=Masc|Number=Plur	12	obl:agent	_	_
@@ -3291,7 +3291,7 @@
 
 # sent_id = bremaik.vislcg.txt:126:4326
 # text = E miz Even 1998 e oa aet diwar wel Eric Tabarly war vor.
-# text[fra¹] = En juin 1998 il avait disparu Eric Tabarly en mer.
+# text[fra¹] = Eric Tabarly a disparu en mer en juin 1998.
 # labels = to_check
 1	E	e	ADP	pr	_	3	case	_	_
 2	miz	miz	X	x	_	3	dep	_	_
@@ -3310,7 +3310,7 @@
 
 # sent_id = bremaik.vislcg.txt:127:4358
 # text = Antronoz e vo c'hoariet ar gourfenn adalek 5e g.m.
-# text[fra¹] = le lendemain il sera joué la finale à partir de 5h p.m.
+# text[fra¹] = La finale sera jouée le lendemain à partir de 17h.
 # labels = to_check
 1	Antronoz	antronoz	ADV	adv	_	4	advmod	_	_
 2	e	e	AUX	vpart	_	4	aux	_	_
@@ -3326,7 +3326,7 @@
 
 # sent_id = bremaik.vislcg.txt:128:4381
 # text = An abadenn nemeti er c'hwec'hkorn e vo.
-# text[fra¹] = La seule émission sera dans l'hexagone.
+# text[fra¹] = Ce sera la seule émission dans l'hexagone.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
 2	abadenn	abadenn	NOUN	n	Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -3343,7 +3343,7 @@
 
 # sent_id = bremaik.vislcg.txt:129:4403
 # text = An teuliad peder fajennad zo gouestlet en niverenn-mañ da zisoc'hoù dilennadegoù kêr ha kanton 2008 e Breizh.
-# text[fra¹] = Le dossier quatre pages ont engagées dans ce numéro aux résultats d'élections ville et canton 2008 en Bretagne.
+# text[fra¹] = Le dossier de quatre pages est dédié dans ce numéro aux résultats des élections municipales et cantonales 2008 en Bretagne.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
 2	teuliad	teuliad	NOUN	n	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -3369,7 +3369,7 @@
 
 # sent_id = bremaik.vislcg.txt:130:4446
 # text = Ne c'heller ket mui komz a hiniennoù pe a strolladoù bihan lezet d'ober ar pezh a garont.
-# text[fra¹] = On ne peut plus parler à individus quels à groupes petits laissés à faire ce que ils aiment.
+# text[fra¹] = On ne peut plus parler un-à-un ou en petits groupes d'autonomie laissés à leurs envies.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	5	advmod	_	_
 2	c'heller	gellout	AUX	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	5	aux	_	_
@@ -3393,7 +3393,7 @@
 
 # sent_id = bremaik.vislcg.txt:131:4488
 # text = Start a-walc'h eo buhez an dud er gêriadenn-se.
-# text[fra¹] = Assez difficile est la vie des gens dans ce village.
+# text[fra¹] = La vie des gens dans ce village est assez difficile.
 # labels = to_check
 1	Start	start	ADJ	adj	_	0	root	_	_
 2	a-walc'h	a-walc’h	ADV	adv	_	1	advmod	_	_
@@ -3410,7 +3410,7 @@
 
 # sent_id = bremaik.vislcg.txt:132:4513
 # text = Ur film a roio levenez d'an holl en desped da bep tra.
-# text[fra¹] = Un film donnera bonheur à tous malgré tous les choses.
+# text[fra¹] = C'est un film qui ravira tout le monde malgré tout.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	film	film	NOUN	n	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -3430,7 +3430,7 @@
 
 # sent_id = bremaik.vislcg.txt:133:4544
 # text = Hemañ a ginnigo un veaj en amzer war-zu ar bloavezhioù 60 e saloñs ha kegin an daou haroz, bepred prest da ijinañ ur sotoni nevez.
-# text[fra¹] = Celui-ci présentera un voyage dans le temps vers les années 60 dans salon et cuisine les deux héros, toujours prêts à inventer une nouvelle sottise.
+# text[fra¹] = Il proposera un voyage dans le temps vers les années 60 dans les salon et cuisine des deux héros, toujours prêts à inventer une nouvelle sottise.
 # labels = to_check
 1	Hemañ	hemañ	PRON	prn	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -3464,7 +3464,7 @@
 
 # sent_id = bremaik.vislcg.txt:134:4603
 # text = Ur sizhunvezh c'hoazh...
-# text[fra¹] = Une semaine encore...
+# text[fra¹] = Encore une semaine...
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
 2	sizhunvezh	sizhunvezh	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -3473,7 +3473,7 @@
 
 # sent_id = bremaik.vislcg.txt:135:4615
 # text = E niverenn miz Ebrel ar gelaouenn Bremañ e c'hellit lenn soñjoù ar strolladoù dilennet e Kuzul-rannvro Breizh war an danvezioù-se.
-# text[fra¹] = Dans le numéro d'avril du magazine Bremañ vous pouvez lire les pensées des groupes élus dans le Conseil régional de Bretagne sur ces matières.
+# text[fra¹] = Dans le numéro d'avril du magazine Bremañ vous pouvez lire les positions des groupes élus dans le Conseil régional de Bretagne sur ces sujets.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	niverenn	niverenn	NOUN	n	Gender=Fem|Number=Sing	10	obl	_	_
