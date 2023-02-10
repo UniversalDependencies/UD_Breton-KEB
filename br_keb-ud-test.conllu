@@ -5312,7 +5312,8 @@
 
 # sent_id = grammar.vislcg.txt:1:0
 # text = Ar mab a welas ar plac'h yaouank.
-# text[eng] = The boy saw the young woman.
+# text[eng] = The son saw the young woman.
+# text[fra] = Le fils vit la jeune femme.
 # labels = timm_1988
 1	Ar	an	DET	det	_	2	det	_	_
 2	mab	mab	NOUN	n	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -5325,7 +5326,8 @@
 
 # sent_id = grammar.vislcg.txt:2:19
 # text = Ar mab a welas ar plac'h yaouank anezhañ.
-# text[eng] = The young woman saw the boy him.
+# text[eng] = The young woman saw the son.
+# text[fra] = La jeune femme vit le fils.
 # labels = timm_1988 to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	mab	mab	NOUN	n	Gender=Masc|Number=Sing	4	obj	_	_
@@ -5339,7 +5341,8 @@
 
 # sent_id = grammar.vislcg.txt:3:41
 # text = Ar mab a welas ar plac'h yaouank a oa deuet da labourat.
-# text[eng] = The boy who saw the girl had come to work.
+# text[eng] = The son who saw the girl had come to work.
+# text[fra] = Le fils qui a vu la jeune femme était venu travailler.
 # labels = timm_1988
 1	Ar	an	DET	det	_	2	det	_	_
 2	mab	mab	NOUN	n	Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -5357,7 +5360,8 @@
 
 # sent_id = grammar.vislcg.txt:4:71
 # text = Ar mab a welas ar plac'h yaouank anezhañ a oa deuet da labourat.
-# text[eng] = The boy whom the girl saw had come to work.
+# text[eng] = The son whom the girl saw had come to work.
+# text[fra] = Le fils que la jeune fille a vu était venu travailler.
 # labels = timm_1988 to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	mab	mab	NOUN	n	Gender=Masc|Number=Sing	11	obj	_	_
@@ -5377,6 +5381,7 @@
 # sent_id = grammar.vislcg.txt:5:103
 # text = Lavaret em eus deoc'h e oa Janed.
 # text[eng] = I told you it was Janed.
+# text[fra] = Je t'ai dit que c'était Jeanette.
 # labels = timm_1988 to_check
 1	Lavaret	lavarout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	em eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -5391,6 +5396,7 @@
 # sent_id = grammar.vislcg.txt:6:122
 # text = Marteze e kredas e oa an holl dud-se oc'h ober goap anezhañ.
 # text[eng] = Perhaps he believed all the people there were making fun of him.
+# text[fra] = Peut-être qu'il a cru que tous ces gens se moquaient de lui.
 # labels = timm_1988 to_check
 1	Marteze	marteze	ADV	adv	_	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -5411,7 +5417,8 @@
 
 # sent_id = grammar.vislcg.txt:7:155
 # text = Ar plac'h yaouank a weles dec'h a ya d'ar pardon.
-# text[eng] = The young woman you saw yesterday is going to the dance.
+# text[eng] = The young woman you saw yesterday is going to the "pardon".
+# text[fra] = La jeune femme que tu voyais hier va au pardon.
 # labels = timm_1988
 1	Ar	an	DET	det	_	2	det	_	_
 2	plac'h	plac’h	NOUN	n	Gender=Fem|Number=Sing	8	nsubj	_	_
@@ -5429,7 +5436,8 @@
 
 # sent_id = grammar.vislcg.txt:8:182
 # text = Me a yelo d'ar pardon.
-# text[eng] = I'll be going to the dance.
+# text[eng] = I'll be going to the "pardon".
+# text[fra] = J'irai au pardon.
 # labels = timm_1988
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -5442,7 +5450,8 @@
 
 # sent_id = grammar.vislcg.txt:9:199
 # text = Mont a rin d'ar pardon.
-# text[eng] = I'll be going to the dance.
+# text[eng] = I'll be going to the "pardon".
+# text[fra] = J'irai au pardon.
 # labels = timm_1988
 1	Mont	mont	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -5456,6 +5465,7 @@
 # sent_id = grammar.vislcg.txt:10:216
 # text = A-raok ma kroge ar foar e c'hwezhe Fañch daou dan.
 # text[eng] = Before the fair started Fañch lit two fires.
+# text[fra] = Avant que la foire ne commence, Fañch allumait deux feux de bois.
 # labels = timm_1988 to_check
 1	A-raok	A-raok	SCONJ	cnjadv	_	3	mark	_	_
 2	ma	ma	X	x	_	1	fixed	_	_
@@ -5472,6 +5482,7 @@
 # sent_id = grammar.vislcg.txt:11:242
 # text = Ar c'hezeg a harpas krenn war an taol hag a chomas hep fichal.
 # text[eng] = The horses stopped completely on the spot and stayed without moving.
+# text[fra] = Les chevaux s'arrêtèrent d'un coup et restèrent immobiles.
 # labels = timm_1988 to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	c'hezeg	marc’h	NOUN	n	Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -5491,6 +5502,7 @@
 # sent_id = grammar.vislcg.txt:12:274
 # text = Stlepel a reas e liñsel pell dioutañ hag e frotas e elgez.
 # text[eng] = He threw the sheet away from him and rubbed his chin.
+# text[fra] = Il se débarassa de ses linges et se frotta le menton.
 # labels = timm_1988
 1	Stlepel	stlepel	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -5511,6 +5523,7 @@
 # sent_id = grammar.vislcg.txt:13:305
 # text = Emaout o vont da sachañ ar c'harr war da gein.
 # text[eng] = You are going to pull the cart on your back.
+# text[fra] = Tu vas tirer la charette sur ton dos.
 # labels = timm_1988 to_check
 1	Emaout	bezañ	AUX	vbloc	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	o	o	AUX	vpart	_	3	aux	_	_
@@ -5527,6 +5540,8 @@
 # sent_id = grammar.vislcg.txt:14:331
 # text = Ne douin ket ne oa netra da damall d'am distagadur.
 # text[eng] = I won't swear that there was nothing to complain about in my pronunciation.
+# text[fra] = Je ne jurerai pas que ma prononciation était irréprochable.
+# text[fra] = Jamais je n'irai frapper un inconnu. 
 # labels = timm_1988 to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	douin	touiñ	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -5545,6 +5560,7 @@
 # sent_id = grammar.vislcg.txt:15:358
 # text = Gwech ebet n'in da skeiñ war unan n'anavezan ket.
 # text[eng] = I will never hit one who I don't know.
+# text[fra] = Jamais je n'irai frapper un inconnu. 
 # labels = timm_1988 to_check
 1	Gwech	gwech	X	x	_	2	dep	_	_
 2	ebet	ebet	ADV	adv	_	4	advmod	_	_
@@ -5562,6 +5578,7 @@
 # sent_id = grammar.vislcg.txt:16:386
 # text = Hennezh a oa un den mat a zifenne ar vro.
 # text[eng] = He was a good man who defended the country.
+# text[fra] = C'était un homme bien qui défendait le pays.
 # labels = timm_1988
 1	Hennezh	hennezh	PRON	prn	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
 2	a	a	AUX	vpart	_	5	aux	_	_
@@ -5577,7 +5594,8 @@
 
 # sent_id = grammar.vislcg.txt:17:412
 # text = Dont a ra soñj din, a-hend-all, eus ar c'homzoù a gane ma mamm d'am breudeur ha din.
-# text[eng] = I remember above all the words that my mother sang to my brothers and me.
+# text[eng] = I remember, otherwise, the words that my mother sang to my brothers and me.
+# text[fra] = Je me rappelle, autrement, des paroles que ma mère chantait à mon frère et moi.
 # labels = timm_1988
 1	Dont	dont	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -5609,6 +5627,7 @@
 # sent_id = grammar.vislcg.txt:18:459
 # text = Glac'harus e oa planedenn ar baotred yaouank-se a veze ret dezho kuitaat o zud.
 # text[eng] = It was a painful fate for those men for whom it was necessary to leave their people.
+# text[fra] = C'était un triste destin que celui de ces jeunes hommes qui devaient quitter les leurs.
 # labels = timm_1988 to_check
 1	Glac'harus	glac'harus	ADJ	adj	_	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -5632,6 +5651,7 @@
 # sent_id = grammar.vislcg.txt:19:496
 # text = Ur spered kurius a zen e oa ivez ma zad.
 # text[eng] = My father was also a curious sort of person.
+# text[fra] = Mon père était aussi un homme à l'esprit curieux.
 # labels = timm_1988
 1	Ur	un	DET	det	_	2	det	_	_
 2	spered	spered	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
