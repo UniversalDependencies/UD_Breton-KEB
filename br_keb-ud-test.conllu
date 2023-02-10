@@ -1,5 +1,6 @@
 # sent_id = apertium.vislcg.txt:1:0
 # text = N'int ket aet war-raok.
+# text[eng] = They haven't progressed.
 # text[fra] = Ils n'ont pas progressé.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -11,6 +12,7 @@
 
 # sent_id = apertium.vislcg.txt:2:15
 # text = N'eur ket aet war-raok.
+# text[eng] = We haven't progressed.
 # text[fra] = On n'a pas progressé.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -22,6 +24,7 @@
 
 # sent_id = apertium.vislcg.txt:3:31
 # text = Ne labour ket amañ.
+# text[eng] = He doesn't work here.
 # text[fra] = Il ne travaille pas ici.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
@@ -32,6 +35,7 @@
 
 # sent_id = apertium.vislcg.txt:4:45
 # text = Glav a ra.
+# text[eng] = It is raining.
 # text[fra] = Il pleut.
 # labels = to_check
 1	Glav	glav	NOUN	n	Gender=Masc|Number=Sing	3	dep	_	_
@@ -41,6 +45,7 @@
 
 # sent_id = apertium.vislcg.txt:5:57
 # text = Erc’h a ra.
+# text[eng] = It is snowing.
 # text[fra] = Il neige.
 # labels = to_check
 1	Erc’h	erc’h	NOUN	n	Gender=Masc|Number=Sing	3	dep	_	_
@@ -50,6 +55,7 @@
 
 # sent_id = apertium.vislcg.txt:6:69
 # text = Debriñ a ran.
+# text[eng] = I eat.
 # text[fra] = Je mange.
 # labels = to_check
 1	Debriñ	debriñ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -59,7 +65,8 @@
 
 # sent_id = apertium.vislcg.txt:7:81
 # text = Graet he deus.
-# text[fra] = Elle a fait.
+# text[eng] = She did it.
+# text[fra] = Elle l'a fait.
 # labels = to_check
 1	Graet	ober	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	he deus	kaout	AUX	vblex	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	SpaceAfter=No
@@ -67,6 +74,7 @@
 
 # sent_id = apertium.vislcg.txt:8:91
 # text = Dav e vije.
+# text[eng] = It would be necessary.
 # text[fra] = Ce serait nécessaire.
 # labels = to_check
 1	Dav	dav	ADJ	adj	_	0	root	_	_
@@ -76,6 +84,7 @@
 
 # sent_id = apertium.vislcg.txt:9:103
 # text = Evet en deus.
+# text[eng] = He drank.
 # text[fra] = Il a bu.
 # labels = to_check
 1	Evet	evañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -84,6 +93,7 @@
 
 # sent_id = apertium.vislcg.txt:10:113
 # text = Evet he deus.
+# text[eng] = She drank.
 # text[fra] = Elle a bu.
 # labels = to_check
 1	Evet	evañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -92,6 +102,7 @@
 
 # sent_id = apertium.vislcg.txt:11:123
 # text = Kerzhet hon eus e-pad 2 eurvezh.
+# text[eng] = We walked for 2 hours.
 # text[fra] = Nous avons marché pendant 2 heures.
 # labels = to_check
 1	Kerzhet	kerzhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -103,6 +114,7 @@
 
 # sent_id = apertium.vislcg.txt:12:139
 # text = Lennet he devoa ur gontadenn d'he bugel.
+# text[eng] = She had read a story to her child.
 # text[fra] = Elle avait lu un conte à son enfant.
 # labels = to_check
 1	Lennet	lenn	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -117,6 +129,7 @@
 
 # sent_id = apertium.vislcg.txt:13:158
 # text = Bet hon eus kalz a draoù.
+# text[eng] = We have had a lot of things.
 # text[fra] = Nous avons eu beaucoup de choses.
 # labels = to_check
 1	Bet	kaout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -128,6 +141,7 @@
 
 # sent_id = apertium.vislcg.txt:14:174
 # text = Bet em eus plijadur gant ar plac'h.
+# text[eng] = I had fun with the girl.
 # text[fra] = J'ai eu du plaisir avec la fille.
 # labels = to_check
 1	Bet	kaout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -140,6 +154,7 @@
 
 # sent_id = apertium.vislcg.txt:15:192
 # text = Mont a ran da c'hoari.
+# text[eng] = I will play.
 # text[fra] = Je vais jouer.
 # labels = to_check
 1	Mont	mont	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -151,6 +166,7 @@
 
 # sent_id = apertium.vislcg.txt:16:208
 # text = Bras eo ar paotr.
+# text[eng] = The boy is big.
 # text[fra] = Le garçon est grand.
 # labels = to_check
 1	Bras	bras	ADJ	adj	_	0	root	_	_
@@ -161,6 +177,7 @@
 
 # sent_id = apertium.vislcg.txt:17:222
 # text = Bras eo ti Herve.
+# text[eng] = Herve's house is big.
 # text[fra] = La maison d'Herve est grande.
 # labels = to_check
 1	Bras	bras	ADJ	adj	_	0	root	_	_
@@ -171,6 +188,7 @@
 
 # sent_id = apertium.vislcg.txt:18:236
 # text = Londrez eo kêr-benn Bro-Saoz.
+# text[eng] = The capital of England is London.
 # text[fra] = La capitale de l'Angleterre est Londres.
 # labels = to_check
 1	Londrez	Londrez	PROPN	np	Number=Sing	0	root	_	_
@@ -181,6 +199,7 @@
 
 # sent_id = apertium.vislcg.txt:19:250
 # text = Ret eo dit dont.
+# text[eng] = You have to come.
 # text[fra] = Il faut que tu viennes.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -193,6 +212,7 @@
 
 # sent_id = apertium.vislcg.txt:20:265
 # text = Ret eo deomp dont.
+# text[eng] = We have to come.
 # text[fra] = Il faut que nous venions.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -205,6 +225,7 @@
 
 # sent_id = apertium.vislcg.txt:21:280
 # text = Ret eo deoc'h dont.
+# text[eng] = You have to come.
 # text[fra] = Il faut que vous veniez.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -217,6 +238,7 @@
 
 # sent_id = apertium.vislcg.txt:22:295
 # text = Ret eo dezhañ dont.
+# text[eng] = He has to come.
 # text[fra] = Il faut qu'il vienne.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -229,6 +251,7 @@
 
 # sent_id = apertium.vislcg.txt:23:310
 # text = Ret eo dezhi dont.
+# text[eng] = She has to come.
 # text[fra] = Il faut qu'elle vienne.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -241,6 +264,7 @@
 
 # sent_id = apertium.vislcg.txt:24:325
 # text = Ret eo dezho dont.
+# text[eng] = They have to come.
 # text[fra] = Il faut qu'ils viennent.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -253,6 +277,7 @@
 
 # sent_id = apertium.vislcg.txt:25:340
 # text = Ret eo d'an dud dont.
+# text[eng] = People have to come.
 # text[fra] = Il faut que les gens viennent.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -266,6 +291,7 @@
 
 # sent_id = apertium.vislcg.txt:26:357
 # text = Poent eo din mont.
+# text[eng] = It's time for me to go.
 # text[fra] = Il est temps que j'y aille.
 # labels = to_check
 1	Poent	poent	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -278,6 +304,7 @@
 
 # sent_id = apertium.vislcg.txt:27:372
 # text = Poent eo mont d'ar gêr.
+# text[eng] = It's time to go home.
 # text[fra] = Il est temps d'aller à la maison.
 # labels = to_check
 1	Poent	poent	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -291,6 +318,7 @@
 
 # sent_id = apertium.vislcg.txt:28:389
 # text = Poent eo debriñ.
+# text[eng] = It's time to eat.
 # text[fra] = Il est temps de manger.
 # labels = to_check
 1	Poent	poent	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -300,6 +328,7 @@
 
 # sent_id = apertium.vislcg.txt:29:401
 # text = C’hwitellat a ra en ur labourat.
+# text[eng] = He whistles while working.
 # text[fra] = Il siffle en travaillant.
 # labels = to_check
 1	C’hwitellat	c’hwitellat	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -312,6 +341,7 @@
 
 # sent_id = apertium.vislcg.txt:30:419
 # text = Gwelet em eus ar c’hi en ur dreuziñ an hent.
+# text[eng] = I saw the dog while crossing the road.
 # text[fra] = J'ai vu le chien en traversant la route.
 # labels = to_check
 1	Gwelet	gwelout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -327,6 +357,7 @@
 
 # sent_id = apertium.vislcg.txt:31:443
 # text = Emaon o paouez echuiñ ma levr.
+# text[eng] = I just finished my book.
 # text[fra] = Je viens de finir mon livre.
 # labels = to_check
 1	Emaon	bezañ	AUX	vbloc	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
@@ -339,6 +370,7 @@
 
 # sent_id = apertium.vislcg.txt:32:461
 # text = Krog on da gompren.
+# text[eng] = I am starting to understand.
 # text[fra] = Je commence à comprendre.
 # labels = to_check
 1	Krog	krog	ADJ	adj	_	0	root	_	_
@@ -349,6 +381,7 @@
 
 # sent_id = apertium.vislcg.txt:33:475
 # text = Ne oar ket.
+# text[eng] = He doesn't know.
 # text[fra] = Il ne sait pas.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
@@ -358,6 +391,7 @@
 
 # sent_id = apertium.vislcg.txt:34:487
 # text = Ne ra ket glav.
+# text[eng] = It is not raining.
 # text[fra] = Il ne pleut pas.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
@@ -368,6 +402,7 @@
 
 # sent_id = apertium.vislcg.txt:35:501
 # text = N'eo ket bet lazhet.
+# text[eng] = He wasn't killed.
 # text[fra] = Il n'a pas été tué.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	5	advmod	_	SpaceAfter=No
@@ -379,6 +414,7 @@
 
 # sent_id = apertium.vislcg.txt:36:517
 # text = En em walc’hiñ a ran.
+# text[eng] = I wash myself.
 # text[fra] = Je me lave.
 # labels = to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
@@ -390,7 +426,8 @@
 
 # sent_id = apertium.vislcg.txt:37:533
 # text = En em c'houlenn a ran.
-# text[fra] = Je me demande.
+# text[eng] = I wonder.
+# text[fra] = Je me le demande.
 # labels = to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
 2	em	em	X	x	_	1	fixed	_	_
@@ -401,6 +438,7 @@
 
 # sent_id = apertium.vislcg.txt:38:549
 # text = En em gannet out c'hoazh ?
+# text[eng] = Did you fight again ?
 # text[fra] = Tu t'es encore battu ?
 # labels = to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
@@ -412,7 +450,8 @@
 
 # sent_id = apertium.vislcg.txt:39:565
 # text = Me en em walc'h.
-# text[fra] = Je me lave.
+# text[eng] = Me, I wash myself.
+# text[fra] = Moi, je me lave.
 # labels = to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	en	en	AUX	vpart	Reflex=Yes	4	aux	_	_
@@ -422,6 +461,7 @@
 
 # sent_id = apertium.vislcg.txt:40:579
 # text = Er sal dour en em walc'han.
+# text[eng] = I wash myself in the bathroom.
 # text[fra] = Je me lave dans la salle de bain.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
@@ -436,6 +476,7 @@
 
 # sent_id = apertium.vislcg.txt:41:598
 # text = Er sal dour en em walc'hen.
+# text[eng] = I washed in the bathroom.
 # text[fra] = Je me lavais dans la salle de bain.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
@@ -450,6 +491,7 @@
 
 # sent_id = apertium.vislcg.txt:42:617
 # text = Er sal dour on en em walc'het.
+# text[eng] = I washed in the bathroom.
 # text[fra] = Je me suis lavé dans la salle de bain.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
@@ -465,6 +507,7 @@
 
 # sent_id = apertium.vislcg.txt:43:638
 # text = En em walc'het on er sal dour.
+# text[eng] = I washed in the bathroom.
 # text[fra] = Je me suis lavé dans la salle de bain.
 # labels = to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
@@ -480,7 +523,8 @@
 
 # sent_id = apertium.vislcg.txt:44:659
 # text = Perak en em walc'hez ?
-# text[fra] = Pourquoi te laves tu ?
+# text[eng] = Why are you washing?
+# text[fra] = Pourquoi te laves-tu ?
 # labels = to_check
 1	Perak	perak	ADV	adv	PronType=Int	4	advmod	_	_
 2	en	en	AUX	vpart	Reflex=Yes	4	aux	_	_
@@ -490,6 +534,7 @@
 
 # sent_id = apertium.vislcg.txt:45:673
 # text = Trizek sizhunvezh e oa padet kendivizoù ar prosez, etre C'hwevrer ha Mezheven 2007.
+# text[eng] = The debates of the trial lasted thirteen weeks, between February and June 2007.
 # text[fra] = Les débats du procès avaient duré treize semaines, entre février et juin 2007.
 # labels = to_check
 1	Trizek	trizek	NUM	num	Number=Plur	2	nummod	_	_
@@ -510,7 +555,8 @@
 
 # sent_id = apertium.vislcg.txt:46:707
 # text = Baleadennoù kontet hag heñchet er c’hoadoù a vo aozet ivez.
-# text[fra] = Des excursions contées et orientées dans les bois seront aussi organisées.
+# text[eng] = Excursions guided in the woods with tales will also be organised.
+# text[fra] = Des excursions contées et guidées dans les bois seront aussi organisées.
 # labels = to_check
 1	Baleadennoù	baleadenn	NOUN	n	Gender=Fem|Number=Plur	10	nsubj	_	_
 2	kontet	kontañ	VERB	vblex	Tense=Past|VerbForm=Part	1	acl	_	_
@@ -528,6 +574,7 @@
 
 # sent_id = apertium.vislcg.txt:47:734
 # text = Kalz re hir eo ar film.
+# text[eng] = The movie is way too long.
 # text[fra] = Le film est beaucoup trop long.
 # labels = to_check
 1	Kalz	kalz	X	x	_	2	dep	_	_
@@ -540,6 +587,7 @@
 
 # sent_id = apertium.vislcg.txt:48:752
 # text = Ret e vo dibab goude-se.
+# text[eng] = A choice will be needed after that.
 # text[fra] = Il faudra choisir après ça.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -551,7 +599,8 @@
 
 # sent_id = apertium.vislcg.txt:49:768
 # text = Gallout a rin ober kement-se.
-# text[fra] = Je pourrai faire tout cela.
+# text[eng] = I will be able to do this.
+# text[fra] = Je serai capable de faire ça.
 # labels = to_check
 1	Gallout	gallout	AUX	vblex	VerbForm=Inf	4	aux	_	_
 2	a	a	AUX	vpart	_	4	aux	_	_
@@ -561,7 +610,8 @@
 6	.	.	PUNCT	sent	_	4	punct	_	_
 
 # sent_id = apertium.vislcg.txt:50:784
-# text = Goulenn a reont ma vo digoret an nor .
+# text = Goulenn a reont ma vo digoret an nor.
+# text[eng] = They ask for the door to be opened.
 # text[fra] = Ils demandent que la porte soit ouverte.
 # labels = to_check
 1	Goulenn	goulenn	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -576,6 +626,7 @@
 
 # sent_id = apertium.vislcg.txt:51:806
 # text = Soñjal a ran enni.
+# text[eng] = I think of her.
 # text[fra] = Je pense à elle.
 # labels = to_check
 1	Soñjal	soñjal	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -588,6 +639,7 @@
 
 # sent_id = apertium.vislcg.txt:52:821
 # text = Degouezhet eo da gentañ.
+# text[eng] = He came first.
 # text[fra] = Il est arrivé en premier.
 # labels = to_check
 1	Degouezhet	degouezhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -598,6 +650,7 @@
 
 # sent_id = apertium.vislcg.txt:53:834
 # text = Degouezhet eo da eil.
+# text[eng] = He came in second.
 # text[fra] = Il est arrivé en deuxième.
 # labels = to_check
 1	Degouezhet	degouezhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -608,6 +661,7 @@
 
 # sent_id = apertium.vislcg.txt:54:848
 # text = Degouezhet eo da drede.
+# text[eng] = He came in third.
 # text[fra] = Il est arrivé en troisième.
 # labels = to_check
 1	Degouezhet	degouezhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -618,6 +672,7 @@
 
 # sent_id = apertium.vislcg.txt:55:862
 # text = Piv eo ar pempvet?
+# text[eng] = Who is the fifth?
 # text[fra] = Qui est le cinquième?
 # labels = to_check
 1	Piv	piv	PRON	prn	PronType=Int	4	nsubj	_	_
@@ -628,6 +683,7 @@
 
 # sent_id = apertium.vislcg.txt:56:876
 # text = Hi eo ar bempvet.
+# text[eng] = She is the fifth.
 # text[fra] = C'est elle la cinquième.
 # labels = to_check
 1	Hi	prpers	PRON	prn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -638,6 +694,7 @@
 
 # sent_id = apertium.vislcg.txt:57:890
 # text = Hi zo pempvet.
+# text[eng] = She is the fifth.
 # text[fra] = Elle est cinquième.
 # labels = to_check
 1	Hi	prpers	PRON	prn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -647,6 +704,7 @@
 
 # sent_id = apertium.vislcg.txt:58:902
 # text = Piv zo da bevare?
+# text[eng] = Who came fourth?
 # text[fra] = Qui est arrivé quatrième?
 # labels = to_check
 1	Piv	piv	PRON	prn	PronType=Int	4	nsubj	_	_
@@ -657,6 +715,7 @@
 
 # sent_id = bremaik.vislcg.txt:1:0
 # text = Kontadennoù niverus en doa gellet dastum diwar komzoù Stéphanie Guillaume, eus Gavr.
+# text[eng] = She had been able to gather many tales from Stéphanie Guillaume, from Gâvres.
 # text[fra] = Elle avait pu rassembler de nombreux contes de la bouche de Stéphanie Guillaume, du Gâvres.
 # labels = to_check
 1	Kontadennoù	kontadenn	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -675,6 +734,7 @@
 
 # sent_id = bremaik.vislcg.txt:2:29
 # text = En teuliad e vez kinniget ur pennad diwar-benn stad an dachenn douar, arouezius eus an dizemglev padus etre Israeliz ha Palestiniz.
+# text[eng] = The file contains an article on the state of the ground, symbol of the lasting misunderstanding between Israelis and Palestinians.
 # text[fra] = Le dossier contient un article sur l'état du terrain, symbole de la mésentente durable entre israéliens et palestinens.
 # labels = to_check
 1-2	En	_	_	_	_	_	_	_	_
@@ -705,6 +765,7 @@
 
 # sent_id = bremaik.vislcg.txt:3:80
 # text = En India eo bet kemeret ar skeudennoù.
+# text[eng] = The images were taken in India.
 # text[fra] = Les images ont été prises en Inde.
 # labels = to_check
 1-2	En	_	_	_	_	_	_	_	_
@@ -720,6 +781,7 @@
 
 # sent_id = bremaik.vislcg.txt:4:101
 # text = Ouzhpenn 20 beaj zo bet graet gantañ en India abaoe e 25 bloaz.
+# text[eng] = He has made more than twenty trips to India since he was twenty-five.
 # text[fra] = Il a fait plus de vingt voyages en Inde depuis ses vingt-cinq ans.
 # labels = to_check
 1	Ouzhpenn	ouzhpenn	ADV	adv	_	2	advmod	_	_
@@ -743,6 +805,7 @@
 
 # sent_id = bremaik.vislcg.txt:5:135
 # text = A-bouez bras eo al livioù.
+# text[eng] = Colors are very important.
 # text[fra] = Les couleurs sont très importantes.
 # labels = to_check
 1	A-bouez	a-bouez	ADJ	adj	_	2	amod	_	_
@@ -754,6 +817,7 @@
 
 # sent_id = bremaik.vislcg.txt:6:151
 # text = Diskouezadegoù skeudennoù a vez graet ingal gant Skol Diwan Roazhon.
+# text[eng] = The Diwan school in Rennes regularly organizes iconographic exhibitions.
 # text[fra] = L'école Diwan de Rennes organise régulièrement des expositions iconograhiques.
 # labels = to_check
 1	Diskouezadegoù	diskouezadeg	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -770,6 +834,7 @@
 
 # sent_id = bremaik.vislcg.txt:7:177
 # text = Staliet e Konk-Kerne emañ.
+# text[eng] = She is based in Concarneau.
 # text[fra] = Elle est installée à Concarneau.
 # labels = to_check
 1	Staliet	staliañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -780,6 +845,7 @@
 
 # sent_id = bremaik.vislcg.txt:8:191
 # text = Ranket em boa dilezel geriaoueg voutin ar rock evit sevel ur pennad diwar-benn ar bladenn-se.
+# text[eng] = I had to get rid of the usual rock vocabulary to write an article on this record.
 # text[fra] = J'avais dû me défaire du vocabulaire habituel du rock pour écrire un article sur ce disque.
 # labels = to_check
 1	Ranket	rankout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -801,6 +867,7 @@
 
 # sent_id = bremaik.vislcg.txt:9:227
 # text = Diskennit div loaiad vras a zourenn bleuñv-orañjez en un hanter litrad a zour o virviñ.
+# text[eng] = Pour two tablespoons of orange blossom water into half a liter of boiling water.
 # text[fra] = Versez deux cuillères à soupe d'eau de fleurs d'oranger dans un demi-litre d'eau bouillante.
 # labels = to_check
 1	Diskennit	diskenn	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -824,7 +891,8 @@
 
 # sent_id = bremaik.vislcg.txt:10:266
 # text = Ouzhpennit div loaiad vras a sukr rouz.
-# text[fra] = Ajoutez  deux cuillèrées à soupe de sucre roux.
+# text[eng] = Add two tablespoons of brown sugar.
+# text[fra] = Ajoutez deux cuillerées à soupe de sucre roux.
 # labels = to_check
 1	Ouzhpennit	ouzhpennañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	div	daou	NUM	num	Gender=Fem|Number=Plur	3	nummod	_	_
@@ -837,6 +905,7 @@
 
 # sent_id = bremaik.vislcg.txt:11:286
 # text = Pa grog da virviñ adarre, tennit diwar an tan.
+# text[eng] = When boiling again, draw from the fire.
 # text[fra] = Au retour de l'ébullition, tirez du feu.
 # labels = to_check
 1	Pa	pa	SCONJ	cnjsub	_	2	mark	_	_
@@ -853,6 +922,7 @@
 
 # sent_id = bremaik.vislcg.txt:12:312
 # text = Ho fent avat a chom unan eus ho perzhioù gwellañ.
+# text[eng] = But your humor remains one of your greatest qualities.
 # text[fra] = Mais votre humour reste une de vos plus grandes qualités.
 # labels = to_check
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
@@ -869,6 +939,7 @@
 
 # sent_id = bremaik.vislcg.txt:13:338
 # text = Ne vezit dilezet gwezh ebet gantañ.
+# text[eng] = He will never leave you.
 # text[fra] = Il ne vous quittera jamais.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	3	advmod	_	_
@@ -883,6 +954,7 @@
 
 # sent_id = bremaik.vislcg.txt:14:357
 # text = Beajoù a c'hellfe bezañ mat evit ho labour.
+# text[eng] = Traveling could help you professionally.
 # text[fra] = Voyager pourrait vous aider professionnellement.
 # labels = to_check
 1	Beajoù	beaj	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -897,6 +969,7 @@
 
 # sent_id = bremaik.vislcg.txt:15:379
 # text = A-hed ar bloavezh, klaskit chom gant ur spered distan, ha derc'hel d'ho palioù.
+# text[eng] = During the year, seek serenity and stay focused on your goals.
 # text[fra] = Durant l'année, cherchez la sérénité et restez concentrés sur vos objectifs.
 # labels = to_check
 1	A-hed	a-hed	ADP	pr	_	3	case	_	_
@@ -920,6 +993,7 @@
 
 # sent_id = bremaik.vislcg.txt:16:416
 # text = Ober a reot pep tra evit en em staliañ da vat, en ho puhez personel koulz hag en ho puhez labour.
+# text[eng] = You will do everything to really settle in, personally and professionally.
 # text[fra] = Vous ferez tout pour vous installer réellement, personnellement comme professionnellement.
 # labels = to_check
 1	Ober	ober	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -948,6 +1022,7 @@
 
 # sent_id = bremaik.vislcg.txt:17:466
 # text = Labourit an toaz un tammig.
+# text[eng] = Work the dough a little.
 # text[fra] = Travaillez un peu la pâte.
 # labels = to_check
 1	Labourit	labourat	VERB	vblex	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -959,6 +1034,7 @@
 
 # sent_id = bremaik.vislcg.txt:18:482
 # text = Gant beg ur gontell, tresit linennoù war ar gorre.
+# text[eng] = With the tip of a knife, draw lines on the surface.
 # text[fra] = Avec la pointe d'un couteau, dessinez des lignes à la surface.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	2	case	_	_
@@ -975,6 +1051,7 @@
 
 # sent_id = bremaik.vislcg.txt:19:508
 # text = Klaskit chom e peoc'h.
+# text[eng] = Seek calm.
 # text[fra] = Cherchez le calme.
 # labels = to_check
 1	Klaskit	klask	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -985,6 +1062,7 @@
 
 # sent_id = bremaik.vislcg.txt:20:522
 # text = Pasianted ivez!
+# text[eng] = And patience!
 # text[fra] = Et la patience!
 # labels = to_check
 1	Pasianted	pasianted	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -993,6 +1071,7 @@
 
 # sent_id = bremaik.vislcg.txt:21:532
 # text = Tarzhañ ne zegaso mann ebet deoc'h.
+# text[eng] = A fit of anger will do you nothing.
 # text[fra] = Un accès de colère ne vous apportera rien.
 # labels = to_check
 1	Tarzhañ	tarzhañ	VERB	vblex	VerbForm=Inf	3	csubj	_	_
@@ -1007,6 +1086,7 @@
 
 # sent_id = bremaik.vislcg.txt:22:551
 # text = Ret e vo deoc'h kemer divizioù, en em zifenn, fiñval ha cheñch.
+# text[eng] = You will have to make decisions, defend yourself, move and change.
 # text[fra] = Il vous faudra prendre des décisions, vous défendre, bouger et changer.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -1029,6 +1109,7 @@
 
 # sent_id = bremaik.vislcg.txt:23:586
 # text = Ret e vo derc'hel mat.
+# text[eng] = You will have to hold on.
 # text[fra] = Il vous faudra tenir bon.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -1040,6 +1121,7 @@
 
 # sent_id = bremaik.vislcg.txt:24:602
 # text = Aesoc'h e vo an traoù deoc'h.
+# text[eng] = This will be easier for you.
 # text[fra] = Cela vous sera plus facile.
 # labels = to_check
 1	Aesoc'h	aes	ADJ	adj	Degree=Cmp	0	root	_	_
@@ -1054,7 +1136,8 @@
 
 # sent_id = bremaik.vislcg.txt:25:621
 # text = Un nebeud diaesterioù a c'hellfe c'hoarvezout en ho puhez kalon pe en ho labour.
-# text[fra] = Vous pourriez rencontrer quelques difficultés dan votre vie émotionnelle ou professionnelle.
+# text[eng] = You may encounter some difficulties in your emotional or professional life.
+# text[fra] = Vous pourriez rencontrer quelques difficultés dans votre vie émotionnelle ou professionnelle.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	nebeud	nebeud	NOUN	n	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -1074,6 +1157,7 @@
 
 # sent_id = bremaik.vislcg.txt:26:655
 # text = Arabat deoc'h en em santout re gablus ma rit fazioù.
+# text[eng] = Don't feel too guilty if you make mistakes.
 # text[fra] = Ne vous sentez pas trop coupable si vous faites des erreurs.
 # labels = to_check
 1	Arabat	arabat	ADV	adv	_	0	root	_	_
@@ -1092,7 +1176,8 @@
 
 # sent_id = bremaik.vislcg.txt:27:682
 # text = Ho youl da eeunaat an traoù a vo a-walc'h evit bezañ digarezet.
-# text[fra] = Votre volonté d'éclaircir les choses amènera le pardon. 
+# text[eng] = Your willingness to clear things up will bring forgiveness.
+# text[fra] = Votre volonté d'éclaircir les choses amènera le pardon.
 # labels = to_check
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
 2	youl	youl	NOUN	n	Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -1110,6 +1195,7 @@
 
 # sent_id = bremaik.vislcg.txt:28:712
 # text = Sirius-tre eo an afer-mañ.
+# text[eng] = This matter is very serious.
 # text[fra] = Cette affaire est très sérieuse.
 # labels = to_check
 1-2	Sirius-tre	_	_	_	_	_	_	_	_
@@ -1123,6 +1209,7 @@
 
 # sent_id = bremaik.vislcg.txt:29:729
 # text = Un teuliad peder fajennad zo bet gouestlet en niverenn-mañ da Vro-Euskadi.
+# text[fra] = This issue has devoted a four-page dossier to the Basque Country.
 # text[fra] = Ce numéro a consacré un dossier de quatre pages au Pays Basque.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
@@ -1143,6 +1230,7 @@
 
 # sent_id = bremaik.vislcg.txt:30:760
 # text = Sinema, kontadennoù, dañs, sonerezh, c'hoariva, barzhonegoù, kendivizoù, stajoù...
+# text[eng] = Cinema, stories, dance, music, theatre, poems, discussions, workshops...
 # text[fra] = Du cinéma, des contes, de la danse, de la musique, du théâtre, des poèmes, des discussions, des stages...
 # labels = to_check
 1	Sinema	sinema	NOUN	n	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
@@ -1164,6 +1252,7 @@
 
 # sent_id = bremaik.vislcg.txt:31:796
 # text = Kontet gant ur paotrig, mab d'un den gwenn ha d'ur plac'h du, e tizho an istor-mañ tud a bep seurt oadoù.
+# text[eng] = This story, told by a little boy son of a white man and a black woman, will touch all ages.
 # text[fra] = Cette histoire, contée par un petit garçon fils d'un homme blanc et d'une femme noire, touchera tous les âges.
 # labels = to_check
 1	Kontet	kontañ	VERB	vblex	Tense=Past|VerbForm=Part	20	acl	_	_
@@ -1196,6 +1285,7 @@
 
 # sent_id = bremaik.vislcg.txt:32:854
 # text = Lakait er yenerez.
+# text[eng] = Put in the refrigerator.
 # text[fra] = Mettez au réfrigérateur.
 # labels = to_check
 1	Lakait	lakaat	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -1208,6 +1298,7 @@
 # sent_id = bremaik.vislcg.txt:33:867
 # text = En ur girin, savit da erc'h ar 4 gwenn-vi.
 # text[fra] = Dans une terrine, levez les quatre blancs en neige.
+# text[eng] = In a terrine, whip the four egg whites.
 # labels = to_check
 1	En	e	ADP	pr	_	3	case	_	_
 2	ur	un	DET	det	_	3	det	_	_
@@ -1223,7 +1314,8 @@
 
 # sent_id = bremaik.vislcg.txt:34:892
 # text = Ouzhpennit ar meskaj bleud, ha goude-se an amann blotaet, meskit kaer a-benn chom hep terriñ ar vioù.
-# text[fra] = Ajoutez le mélange de farine, puis le beurre amolli, mélangez bien de manière à ne pas casser les œufs.
+# text[eng] = Add the flour mixture, then the softened butter, mix carefully so as not to break the eggs.
+# text[fra] = Ajoutez le mélange de farine, puis le beurre amolli, mélangez précautionneusement de manière à ne pas casser les œufs.
 # labels = to_check
 1	Ouzhpennit	ouzhpennañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -1248,6 +1340,7 @@
 
 # sent_id = bremaik.vislcg.txt:35:936
 # text = An teuliad peder fajennad zo gouestlet da adunvanidigezh Breizh.
+# text[eng] = The four-page dossier is devoted to the reunification of Brittany.
 # text[fra] = Le dossier de quatre pages est consacré à la réunification de la Bretagne.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
@@ -1263,6 +1356,7 @@
 
 # sent_id = bremaik.vislcg.txt:36:960
 # text = Merket e vo poentoù ganeoc'h pa dizhoc'h harnez ar c'hoarierien all.
+# text[eng] = You will score points when you reach other players' harnesses.
 # text[fra] = Vous marquerez des points quand vous atteindrez le harnais des autres joueurs.
 # labels = to_check
 1	Merket	merkañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1282,6 +1376,7 @@
 
 # sent_id = bremaik.vislcg.txt:37:989
 # text = Kontet e vo ar poentoù er fin gant an urzhiataer.
+# text[eng] = The computer will count the points at the end.
 # text[fra] = L'ordinateur comptera les points à la fin.
 # labels = to_check
 1	Kontet	kontañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1300,6 +1395,7 @@
 
 # sent_id = bremaik.vislcg.txt:38:1016
 # text = Meskit an hanter eus ar c'heuz gant ar c'hraoñ-kelvez pilet hag an eoul.
+# text[eng] = Mix half the cheese with the crushed hazelnuts and the oil.
 # text[fra] = Mélangez la moitié du fromage avec les noisettes écrasées et l'huile.
 # labels = to_check
 1	Meskit	meskañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -1319,6 +1415,7 @@
 
 # sent_id = bremaik.vislcg.txt:39:1048
 # text = Ho pet pasianted!
+# text[eng] = Be patient!
 # text[fra] = Soyez patients!
 # labels = to_check
 1	Ho pet	kaout	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -1327,6 +1424,7 @@
 
 # sent_id = bremaik.vislcg.txt:40:1058
 # text = Cheñchamantoù bras a vo evidoc'h, met ne vint ket graet trumm.
+# text[eng] = You will notice big changes, but they won't be instantaneous.
 # text[fra] = Vous noterez de grands changements, mais ils ne seront pas instantanés.
 # labels = to_check
 1	Cheñchamantoù	cheñchamant	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -1347,6 +1445,7 @@
 
 # sent_id = bremaik.vislcg.txt:41:1089
 # text = Klaskit chom e peoc'h.
+# text[eng] = Seek peace.
 # text[fra] = Recherchez la paix.
 # labels = to_check
 1	Klaskit	klask	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -1357,6 +1456,7 @@
 
 # sent_id = bremaik.vislcg.txt:42:1103
 # text = Un emzalc'h doujus ha spis a zereo kalz gwelloc'h.
+# text[eng] = A clear and respectful behavior will do much better.
 # text[fra] = Un comportement clair et respectueux conviendra bien mieux.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
@@ -1372,7 +1472,8 @@
 
 # sent_id = bremaik.vislcg.txt:43:1127
 # text = Tachennoù an arc'hant hag ar familh a vo gwarezet.
-# text[fra] = Le capital et la famille seront protégés. 
+# text[eng] = Capital and family will be protected.
+# text[fra] = Le capital et la famille seront protégés.
 # labels = to_check
 1	Tachennoù	tachenn	NOUN	n	Gender=Fem|Number=Plur	9	nsubj	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -1387,6 +1488,7 @@
 
 # sent_id = bremaik.vislcg.txt:44:1151
 # text = En holl e vefe bet tizhet etre 2,1 ha 4,8 milion a dud.
+# text[eng] = Between 2.1 and 4.8 million people would have been affected.
 # text[fra] = Entre 2,1 et 4,8 millions de personnes auraient été touchées.
 # labels = to_check
 1	En	e	ADP	pr	_	2	case	_	_
@@ -1406,6 +1508,7 @@
 
 # sent_id = bremaik.vislcg.txt:45:1183
 # text = Kinnig a ra ar gevredigezh Kentelioù an Noz un dibenn-sizhun staj er Poulgwenn (44) d'ar Sadorn 15 ha d'ar Sul 16 a viz Meurzh 2008.
+# text[eng] = The Kenteliou an Noz association is offering a training weekend in Pouliguen (44) on Saturday 15 and Sunday 16 March 2008.
 # text[fra] = L'association Kenteliou an Noz propose un week-end de stage au Pouliguen (44) les samedi 15 et dimanche 16 mars 2008. 
 # labels = to_check
 1	Kinnig	kinnig	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -1445,6 +1548,7 @@
 
 # sent_id = bremaik.vislcg.txt:46:1244
 # text = Pezhioù-c'hoari a bep seurt a vo kinniget e Konk-Kerne, Pont-Aven, Sant-Ivi, Tregon.
+# text[eng] = There will be plays of all kinds in Concarneau, Pont-Aven, Saint-Yvi, Trégunc.
 # text[fra] = Il y aura des pièces de théâtres de toutes sortes à Concarneau, Pont-Aven, Saint-Yvi, Trégunc.
 # labels = to_check
 1	Pezhioù-c'hoari	pezh-c’hoari	NOUN	n	Gender=Masc|Number=Plur	7	nsubj	_	_
@@ -1466,6 +1570,7 @@
 
 # sent_id = bremaik.vislcg.txt:47:1280
 # text = Ar re o deus ezhomm groñs eus ur c'harr-saout (4x4) evit o micher (labour-douar, labour er c'hoadoù) a vefe aotreet da gaout unan.
+# text[eng] = Professionals (agriculture, forestry) who require a four-wheel drive (4x4) would obtain authorization.
 # text[fra] = Les professionnels (agriculture, foresterie) qui nécessitent un quatre roues motrices (4x4) obtiendraient une autorisation.
 # labels = to_check
 1	Ar	ar	X	x	_	2	dep	_	_
@@ -1503,6 +1608,7 @@
 
 # sent_id = bremaik.vislcg.txt:48:1345
 # text = Kenaozet e vo an degouezh er bloaz-mañ gant Park an Arvorig.
+# text[eng] = The event will be co-organized this year with the Parc d'Armorique.
 # text[fra] = L'évènement sera co-organisé cette année avec le Parc d’Armorique.
 # labels = to_check
 1	Kenaozet	kenaozañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1523,6 +1629,7 @@
 
 # sent_id = bremaik.vislcg.txt:49:1376
 # text = Ma n'ho peus ket lennet al lodenn gentañ er sizhun tremenet, klikit amañ evit lenn anezhi pe war Bremaik ar sizhun dremenet.
+# text[eng] = If you didn't read part one last week, click here to read it on last week's Bremaik.
 # text[fra] = Si vous n'avez pas lu la première partie la semaine dernière, cliquez ici pour la lire sur le Bremaik de la semaine dernière.
 # labels = to_check
 1	Ma	ma	SCONJ	cnjsub	_	5	mark	_	_
@@ -1554,6 +1661,7 @@
 
 # sent_id = bremaik.vislcg.txt:50:1429
 # text = Hag int kroget da c'hounit tachenn en-dro memes tra.
+# text[eng] = And they started to regain ground all the same.
 # text[fra] = Et ils commencèrent tout de même à regagner du terrain.
 # labels = to_check
 1	Hag	ha	CCONJ	cnjcoo	_	3	cc	_	_
@@ -1569,6 +1677,7 @@
 
 # sent_id = bremaik.vislcg.txt:51:1453
 # text = Dek kilometrad a-raok ar fin, e oa daou varc'hhouarner oc'h en em gannañ evit ar plas kentañ.
+# text[eng] = Ten kilometers before the end, two cyclists were fighting for the first place.
 # text[fra] = Dix kilomètres avant la fin, deux cyclistes se battaient pour la première place.
 # labels = to_check
 1	Dek	dek	NUM	num	Number=Plur	2	nummod	_	_
@@ -1593,6 +1702,7 @@
 
 # sent_id = bremaik.vislcg.txt:52:1495
 # text = Servijit diouzhtu.
+# text[eng] = Serve immediately.
 # text[fra] = Servez de suite.
 # labels = to_check
 1	Servijit	servijañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -1601,6 +1711,7 @@
 
 # sent_id = bremaik.vislcg.txt:53:1505
 # text = Hiziv, d'al Lun 8 a viz Meurzh, e vez lidet devezh etrebroadel ar maouezed.
+# text[eng] = Today, Monday, March 8, is International Women's Day.
 # text[fra] = Aujourd’hui, lundi 8 mars, est célébrée la journée internationale des femmes.
 # labels = to_check
 1	Hiziv	hiziv	ADV	adv	_	13	advmod	_	SpaceAfter=No
@@ -1625,7 +1736,8 @@
 
 # sent_id = bremaik.vislcg.txt:54:1544
 # text = Hervez Burev Etrebroadel al Labour, 40 % eus an dud gopret er bed a zo merc'hed.
-# text[fra] = Selon le Bureau International du Travail, 40 % de les salariés dans le monde sont des femmes.
+# text[eng] = According to the International Labor Office, 40% of employees in the world are women.
+# text[fra] = Selon le Bureau International du Travail, 40 % des salariés dans le monde sont des femmes.
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	2	case	_	_
 2	Burev	burev	NOUN	n	Gender=Masc|Number=Sing	17	obl	_	_
@@ -1649,7 +1761,8 @@
 
 # sent_id = bremaik.vislcg.txt:55:1583
 # text = Met 60 % eus an dud a c'hounez nebeutoc'h eget 1 $ bemdez a zo merc'hed.
-# text[fra] = Mais 60% des gens qui gagnent moins d' 1 $ par jour sont des femmes.
+# text[eng] = But 60% of people who earn less than $1 a day are women.
+# text[fra] = Mais 60% des gens qui gagnent moins d'1$ par jour sont des femmes.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	4	cc	_	_
 2	60 %	60	NUM	num	Number=Plur	15	nsubj	_	_
@@ -1670,7 +1783,8 @@
 
 # sent_id = bremaik.vislcg.txt:56:1619
 # text = E Frañs, e 2001, e oa bet jedet gant an EBSSA (INSEE) e veze paeet ar merc'hed, en embregerezhioù prevez hag evit memes amzer labour, tro-dro da 20 % nebeutoc'h eget ar baotred.
-# text[fra] = En France, en 2001, l'EBSSA (INSEE) a calculé que les filles ont était payées, dans les entreprises privées et pour même le temps de travail, autour de 20 % de moins que les garçons.
+# text[eng] = In France, in 2001, the EBSSA (INSEE) calculated that girls were paid, in private companies and even for working time, around 20% less than boys.
+# text[fra] = En France, en 2001, l'EBSSA (INSEE) a calculé que les filles étaient payées, dans les entreprises privées et pour même le temps de travail, autour de 20 % de moins que les garçons.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Frañs	Frañs	PROPN	np	Number=Sing	10	obl	_	SpaceAfter=No
@@ -1716,6 +1830,7 @@
 
 # sent_id = bremaik.vislcg.txt:57:1702
 # text = Klaseloc'h e oa ar pezh kinniget e Kemper d'ar mare-mañ.
+# text[eng] = The play then presented in Quimper was more classic.
 # text[fra] = La pièce alors présentée à Quimper était plus classique.
 # labels = to_check
 1	Klaseloc'h	klasel	ADJ	adj	Degree=Cmp	0	root	_	_
@@ -1734,6 +1849,7 @@
 
 # sent_id = bremaik.vislcg.txt:58:1729
 # text = En dibenn-sizhun-mañ paseet e oa bet kroget kampionad ar bed an F1.
+# text[eng] = Last weekend started the F1 World Championship.
 # text[fra] = Le week-end passé a commencé le championnat du monde de F1.
 # labels = to_check
 1-2	En	_	_	_	_	_	_	_	_
@@ -1755,6 +1871,7 @@
 
 # sent_id = bremaik.vislcg.txt:59:1762
 # text = Peurrest ar skipailhoù a seblant pell a-walc'h eus al live avat.
+# text[eng] = But the rest of the teams seem far from level.
 # text[fra] = Mais le reste des équipes semble loin du niveau.
 # labels = to_check
 1	Peurrest	peurrest	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -1772,6 +1889,7 @@
 
 # sent_id = bremaik.vislcg.txt:60:1790
 # text = Ur fest-deiz a vo kinniget goude an droiad er maezioù.
+# text[eng] = After a walk in the countryside you will be offered a fest-deiz.
 # text[fra] = Après une ballade dans la campagne vous sera proposé un fest-deiz.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
@@ -1790,7 +1908,8 @@
 
 # sent_id = bremaik.vislcg.txt:61:1817
 # text = Fellout a ra dezho e vefe savet un destenn ofisiel a-benn anzav n'eo ket doujet ouzh o gwirioù abaoe trevadennerezh Aostralia gant ar Rouantelezh.
-# text[fra] = Ils veulent l'obtention d'un texte officiel qui reconnaisse que leurs droits ont été baffoués depuis la colonisation de l'Australie par le Royaume.
+# text[eng] = They want to obtain an official text which recognizes that their rights have been flouted since the colonization of Australia by the Kingdom.
+# text[fra] = Ils veulent l'obtention d'un texte officiel qui reconnaisse que leurs droits ont été bafoués depuis la colonisation de l'Australie par le Royaume.
 # labels = to_check
 1	Fellout	fellout	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -1823,6 +1942,7 @@
 
 # sent_id = bremaik.vislcg.txt:62:1874
 # text = Ar c'harotez a zle dont da vezañ tener-kenañ.
+# text[eng] = The carrots should become very tender.
 # text[fra] = Les carottes doivent devenir très tendres.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -1839,6 +1959,7 @@
 
 # sent_id = bremaik.vislcg.txt:63:1897
 # text = Savet ez eus bet ur c'houlennaoueg gant tud Divskouarn eta, a-benn gouzout "piv, petra ha penaos" e-keñver ar c'hinnig brezhoneg d'ar bugaligoù er vro.
+# text[eng] = The people of Diskouarn have therefore set up a questionnaire to find out the who, why and how of the offering of Breton to children in the country.
 # text[fra] = Les gens de Diskouarn ont donc monté un questionnaire pour connaitre le qui, le pourquoi et le comment de la proposition de breton aux enfants du pays.
 # labels = to_check
 1	Savet	sevel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1876,6 +1997,7 @@
 
 # sent_id = bremaik.vislcg.txt:64:1959
 # text = Ret e vo kinnig 2 ganaouenn da nebeutañ hag an hollad ne ranko ket padout ouzhpenn 20 munutenn.
+# text[eng] = Two songs must be submitted, and the whole must not exceed 20 minutes.
 # text[fra] = Il faudra proposer deux chansons, et le tout ne devra pas dépasser 20 minutes.
 # labels = to_check
 1	Ret	ret	ADJ	adj	_	0	root	_	_
@@ -1900,6 +2022,7 @@
 
 # sent_id = bremaik.vislcg.txt:65:2001
 # text = Tennit diouzh ar forn.
+# text[eng] = Take out of the oven.
 # text[fra] = Sortez du four.
 # labels = to_check
 1	Tennit	tennañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -1910,6 +2033,7 @@
 
 # sent_id = bremaik.vislcg.txt:66:2015
 # text = 200 den a oa bet lazhet diriaou, ha 1500 den gloazet, gant gwall-daolioù Madrid.
+# text[eng] = 200 people were killed on Thursday, and 1,500 injured, in the attacks in Madrid.
 # text[fra] = 200 personnes ont été tuées jeudi, et 1500 blessées, dans les attentats de Madrid.
 # labels = to_check
 1	200	200	NUM	num	Number=Plur	2	nummod	_	_
@@ -1934,6 +2058,7 @@
 
 # sent_id = bremaik.vislcg.txt:67:2057
 # text = Evit ar wech kentañ en he istor e kaso Frañs daou skipailh e kardgourfennoù kib kampioned Europa.
+# text[eng] = For the first time in its history, France will send two teams to the quarter-finals of the European Champions Cup.
 # text[fra] = Pour la première fois de son histoire la France enverra deux équipes dans les quarts de finale de la coupe des champions d'Europe.
 # labels = to_check
 1	Evit	evit	ADP	pr	_	3	case	_	_
@@ -1957,6 +2082,7 @@
 
 # sent_id = bremaik.vislcg.txt:68:2097
 # text = Pennoù ar sindikadoù a stourm a-enep ar CPE o deus disklêriet dec'h e roent un "ultimatom" daou devezh d'ar gouarnamant evit lemel kinnig ar CPE.
+# text[eng] = The heads of the unions opposed to the CPE declared yesterday that they were giving a two-day "ultimatum" to the government to withdraw the CPE bill.
 # text[fra] = Les têtes des syndicats opposés au CPE ont déclaré hier qu'ils donnaient un "ultimatum" de deux jours au gouvernement pour retirer le projet de loi CPE.
 # labels = to_check
 1	Pennoù	penn	NOUN	n	Gender=Masc|Number=Plur	10	nsubj	_	_
@@ -1991,6 +2117,7 @@
 
 # sent_id = bremaik.vislcg.txt:69:2156
 # text = En em vodañ a raio pennoù ar sindikadoù adarre hiziv evit gwelet penaos kas ar stourm war-raok.
+# text[eng] = The heads of the unions will meet again today to see how to continue the struggle.
 # text[fra] = Les têtes des syndicats se réuniront de nouveau aujourd'hui pour voir comment continuer la lutte.
 # labels = to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
@@ -2014,7 +2141,8 @@
 
 # sent_id = bremaik.vislcg.txt:70:2196
 # text = Kantikoù ha sonennoù a vo kanet er bloaz-mañ, en o zouez kantikoù gouestlet d'ar Werc'hez ha da Santez Anna.
-# text[fra] = Cantiques et chansons seront chantés cette année, dont des cantiques dédiés à la Vierge et à Sainte Anne.
+# text[eng] = We will sing hymns and songs this year, including hymns dedicated to Our Lady and Saint Anne.
+# text[fra] = Nous chanterons cette année cantiques et chansons, dont des cantiques dédiés à la Vierge et à Sainte Anne.
 # labels = to_check
 1	Kantikoù	kantik	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
 2	ha	ha	CCONJ	cnjcoo	_	3	cc	_	_
@@ -2045,7 +2173,8 @@
 
 # sent_id = bremaik.vislcg.txt:71:2243
 # text = Cheñch a raio spontus e vuhez abalamour d'an enklask-se.
-# text[fra] = Sa vie sera bouleversée par cette enquête.
+# text[eng] = His life will be turned upside down by this research.
+# text[fra] = Sa vie sera bouleversée par cette recherche.
 # labels = to_check
 1	Cheñch	cheñch	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -2062,6 +2191,7 @@
 
 # sent_id = bremaik.vislcg.txt:72:2271
 # text = Dre veskañ ar meteier sokial ha diskouez heñvelderioù mab-den e sav ar film goulennoù dedennus-tre.
+# text[eng] = By mixing social backgrounds and showing human similarities, the film asks very interesting questions.
 # text[fra] = En mélangeant les milieux sociaux et en montrant les similarités humaines, le film pose des questions très intéressantes.
 # labels = to_check
 1	Dre	dre	ADP	pr	_	2	mark	_	_
@@ -2085,6 +2215,7 @@
 
 # sent_id = bremaik.vislcg.txt:73:2308
 # text = Ijinit 'ta.
+# text[eng] = Imagine.
 # text[fra] = Imaginez.
 # labels = to_check
 1	Ijinit	ijinañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -2093,6 +2224,7 @@
 
 # sent_id = bremaik.vislcg.txt:74:2318
 # text = Meskit mat pep tra.
+# text[eng] = Mix everything well.
 # text[fra] = Mélangez bien tout.
 # labels = to_check
 1	Meskit	meskañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -2103,6 +2235,7 @@
 
 # sent_id = bremaik.vislcg.txt:75:2332
 # text = Ledit ar meskaj-se war an toaz.
+# text[eng] = Spread this mixture on the dough.
 # text[fra] = Étalez ce mélange sur la pâte.
 # labels = to_check
 1	Ledit	ledañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -2116,6 +2249,7 @@
 
 # sent_id = bremaik.vislcg.txt:76:2352
 # text = Kaotigell sivi a c'heller ouzhpennañ ivez.
+# text[eng] = One can also add strawberry jam.
 # text[fra] = On peut aussi ajouter de la confiture de fraises.
 # labels = to_check
 1	Kaotigell	kaotigell	NOUN	n	Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -2128,7 +2262,8 @@
 
 # sent_id = bremaik.vislcg.txt:77:2370
 # text = Evel boaz e vo kinniget neuze a bep seurt traoù (sonerezh, c'hoariva, filmoù, arzoù a-vremañ).
-# text[fra] = Le programme sera comme d'habitude diversifié (musique, théâtre, films, arts contemporains).
+# text[eng] = The program will be varied as usual (music, theatre, films, contemporary arts).
+# text[fra] = Le programme sera comme d'habitude varié (musique, théâtre, films, arts contemporains).
 # labels = to_check
 1	Evel	evel	ADP	pr	_	2	case	_	_
 2	boaz	boaz	NOUN	n	Gender=Masc|Number=Sing	5	obl	_	_
@@ -2154,6 +2289,7 @@
 
 # sent_id = bremaik.vislcg.txt:78:2416
 # text = Un nebeud strolladoù a vank c'hoazh er programm, kit neuze da welout al liammoù kinniget amañ dindan evit gouzout hiroc'h.
+# text[eng] = A few groups are still missing from the program, so explore the links below to find out more.
 # text[fra] = Quelques groupes manquent encore au programme, explorez-donc les liens ci-dessous pour en savoir plus.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
@@ -2183,6 +2319,7 @@
 
 # sent_id = bremaik.vislcg.txt:79:2465
 # text = Ouzhpenn 200 darvoud liesseurt a vo kinniget war dachenn Frañs a-bezh.
+# text[eng] = More than 200 varied events will be presented throughout France.
 # text[fra] = Plus de 200 événements variés seront présentés dans toute la France.
 # labels = to_check
 1	Ouzhpenn	ouzhpenn	ADP	pr	_	2	dep	_	_
@@ -2200,6 +2337,7 @@
 
 # sent_id = bremaik.vislcg.txt:80:2493
 # text = Hag anavezout a rit an abadenn "Mil dremm" a vez kinniget bep sizhun war TV Breizh?
+# text[eng] = Do you know the weekly show "Mil dremm" [A thousand faces] on TV Breizh?
 # text[fra] = Connaissez-vous l'émission hebdomadaire "Mil dremm" [Mille visages] sur TV Breizh ?
 # labels = to_check
 1	Hag	ha	CCONJ	cnjcoo	_	2	cc	_	_
@@ -2224,7 +2362,8 @@
 
 # sent_id = bremaik.vislcg.txt:81:2535
 # text = War an tele e tremen abred-tre d'ar Sadorn neuze, e-tro 7 eur.
-# text[fra] = Elle passe très tôt à la télé le samedi alors, vers 7 heures.
+# text[fra] = So she's on TV very early on Saturdays, around 7 o'clock.
+# text[fra] = Alors elle passe très tôt à la télé le samedi, vers 7 heures.
 # labels = to_check
 1	War	war	ADP	pr	_	3	case	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -2247,6 +2386,7 @@
 
 # sent_id = bremaik.vislcg.txt:82:2569
 # text = E gwerzh er stalioù levrioù a ginnig danvez Breizh, pe dre goumanant.
+# text[eng] = On sale in Breton bookstores or by subscription.
 # text[fra] = En vente dans les librairies de matière bretonne ou par abonnement.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
@@ -2268,6 +2408,7 @@
 
 # sent_id = bremaik.vislcg.txt:83:2602
 # text = Ganet eo bet e 1958 e Naoned ha marv e Pariz e 1993.
+# text[eng] = She was born in Nantes in 1958 and died in Paris in 1993.
 # text[fra] = Elle est née à Nantes en 1958  et est morte à Paris en 1993.
 # labels = to_check
 1	Ganet	genel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -2287,7 +2428,8 @@
 
 # sent_id = bremaik.vislcg.txt:84:2634
 # text = Techet e oa al livour da skeudenniñ buhez pemdez ar 17vet kantved en e gorn-bro.
-# text[fra] = Le peintre était porté à représenter la vie quotidienne de son milieu au 17ème siècle.
+# text[eng] = The painter was inclined to represent the daily life of his middle in the 17th century.
+# text[fra] = Le peintre était porté à représenter la vie quotidienne de son milieu au 17ᵉ siècle.
 # labels = to_check
 1	Techet	techet	ADJ	adj	_	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -2308,6 +2450,7 @@
 
 # sent_id = bremaik.vislcg.txt:85:2670
 # text = Un "dro bed ar sonerezh" a zastumo war he hent 10 strollad a sono e-kerz 13vet Gouel an Erer Kozh.
+# text[eng] = A "tour of the world of music" will bring together in its wake 10 groups that will perform at the thirteenth "Vieilles Charrues" festival.
 # text[fra] = Un "tour du monde de la musique" rassemblera dans son sillage 10 groupes qui se produiront à la treizième fête des "Vieilles Charrues".
 # labels = to_check
 1	Un	un	DET	det	_	3	det	_	_
@@ -2336,6 +2479,7 @@
 
 # sent_id = bremaik.vislcg.txt:86:2720
 # text = Ma fell deoc'h kemer perzh en Erer Yaouank e c'hellit lakaat hoc'h anv e-pad ur pennadig c'hoazh.
+# text[eng] = If you want to participate in the "Vieilles Charrues Jeunes" you still have a short time to register.
 # text[fra] = Si vous voulez participer aux "Vieilles Charrues Jeunes" vous avez encore un petit délai pour vous inscrire. 
 # labels = to_check
 1	Ma	ma	SCONJ	cnjsub	_	2	mark	_	_
@@ -2363,6 +2507,7 @@
 
 # sent_id = bremaik.vislcg.txt:87:2762
 # text = Ur stourm a ranko kenderc'hel (ha marteze dont da vezañ... nerzhusoc'h) ma fell d'ar Vretoned bezañ doujet evit pezh a sell ouzh skignañ o yezh er radio.
+# text[eng] = A fight will have to continue (and perhaps take a little nerve) if the Bretons want to be respected with regard to the radio broadcasting of their language.
 # text[fra] = Un combat devra continuer (et peut-être prendre un peu de nerf) si les bretons veulent être respectés en ce qui concerne la diffusion radiophonique de leur langue.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
@@ -2403,6 +2548,7 @@
 
 # sent_id = bremaik.vislcg.txt:88:2830
 # text = Ur pred krampouezh a vo kinniget war al lec'h.
+# text[eng] = A pancake meal will be offered on site.
 # text[fra] = Un repas de crêpes sera proposé sur place.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
@@ -2418,6 +2564,7 @@
 
 # sent_id = bremaik.vislcg.txt:89:2854
 # text = Kenaozet eo gant implijidi an ospital ha kevredigezhioù lec'hel.
+# text[eng] = It is co-organized with hospital employees and local associations.
 # text[fra] = Il est coorganisé avec les employés de l'hôpital et des associations locales.
 # labels = to_check
 1	Kenaozet	kenaozañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -2433,6 +2580,7 @@
 
 # sent_id = bremaik.vislcg.txt:90:2878
 # text = An holl arc'hant dastumet a servijo da seveniñ raktresoù pe da brenañ dafar evit gwellaat degemer ar vugale en ospitalioù.
+# text[eng] = The sums collected will be used entirely to carry out projects or to buy equipment to improve the reception conditions for children in hospitals.
 # text[fra] = Les sommes récoltées serviront entièrement à réaliser des projets où à acheter du matériel pour améliorer les conditions d'accueil des enfants dans les hôpitaux.
 # labels = to_check
 1	An	an	DET	det	_	3	det	_	_
@@ -2461,6 +2609,7 @@
 
 # sent_id = bremaik.vislcg.txt:91:2925
 # text = Gwelomp er sizhun-mañ peseurt strategiezhioù a vez lakaet e-pleustr gant an embregerezhioù bras-se evit mirout al labourerien-douar en o dalc'h.
+# text[eng] = Let's see this week what strategies are practiced by these big companies to keep farmers under their control.
 # text[fra] = Voyons cette semaine quelles stratégies sont pratiquées par ces grandes entreprises pour garder les agriculteurs sous leur coupe.
 # labels = to_check
 1	Gwelomp	gwelout	VERB	vblex	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -2491,6 +2640,7 @@
 
 # sent_id = bremaik.vislcg.txt:92:2976
 # text = Met n'eo ket sioul pep tra er palez.
+# text[eng] = But all is not quiet in the palace.
 # text[fra] = Mais tout n'est pas tranquille dans le palais.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	5	cc	_	_
@@ -2508,6 +2658,7 @@
 
 # sent_id = bremaik.vislcg.txt:93:3001
 # text = Hervez al lec'h e vo marteze graet an dibab?
+# text[eng] = The choice will perhaps be made according to the place?
 # text[fra] = Le choix sera peut-être opéré selon le lieu ?
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	3	case	_	_
@@ -2523,6 +2674,7 @@
 
 # sent_id = bremaik.vislcg.txt:94:3025
 # text = Ar goulenn brasañ graet ganto zo krouiñ ur skoaziad arc'hant kevatal d'ar SMIC, evit ma c'hellfe bevañ en un doare aesoc'h an dud nammet betek chom hep gellout labourat.
+# text[eng] = Their biggest demand is the creation of financial support equal to the minimum wage to facilitate the lives of people who are disabled to the point of not being able to work.
 # text[fra] = Leur plus grande revendication est la création d'un soutien financier égal au SMIC pour faciliter la vie des personnes qui sont handicapées au point de pas pouvoir travailler.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -2563,7 +2715,8 @@
 
 # sent_id = bremaik.vislcg.txt:95:3092
 # text = E Kemper ez eo ar stourm evit ar c'helenn divyezhek a vo er jeu.
-# text[fra] = C'est à Quimper que se mène le combat pour le type d'enseignement bilingue dont il sera question.
+# text[eng] = In Quimper it is the fight for the type of bilingual education that will be at stake.
+# text[fra] = À Quimper c'est le combat pour le type d'enseignement bilingue qui sera en jeu.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Kemper	Kemper	PROPN	np	Number=Sing	0	root	_	_
@@ -2585,6 +2738,7 @@
 
 # sent_id = bremaik.vislcg.txt:96:3127
 # text = Rankout a reont bewech stourm ha stourm adarre evit rediañ Renerezh-eskopti ar c'helenn katolik da zigeriñ klasoù divyezhek nevez.
+# text[eng] = They have to fight again and again to force the Bishop's Office of Catholic Education to open new bilingual classes.
 # text[fra] = C'est pour eux un combat sans fin pour obliger la Direction de l'évêché de l'enseignement catholique à ouvrir des nouvelles classes bilingues.
 # labels = to_check
 1	Rankout	rankout	AUX	vblex	VerbForm=Inf	5	aux	_	_
@@ -2612,6 +2766,7 @@
 
 # sent_id = bremaik.vislcg.txt:97:3175
 # text = E Brest, Douarnenez, Kemper, Montroulez ha Naoned e vo ivez tud bodet evit goulenn ar peoc'h etre Israel ha Palestina.
+# text[eng] = There will also be rallies in Brest, Douarnenez, Quimper, Morlaix and Nantes to demand peace between Israel and Palestine.
 # text[fra] = Il y aura aussi des rassemblements à Brest, Douarnenez, Quimper, Morlaix et Nantes pour demander la paix entre Israël et la Palestine.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
@@ -2641,7 +2796,8 @@
 
 # sent_id = bremaik.vislcg.txt:98:3227
 # text = Pep Kevre football amatour a zo e karg eus dibab ar c'hoarierien betek ar rummad DH hepken.
-# text[fra] = Chaque Ligue de football amateur est en charge de choisir les joueurs jusque la catégorie DH seulement.
+# text[eng] = Each Amateur Football League is in charge of choosing players up to the DH category only.
+# text[fra] = Chaque Ligue de football amateur est en charge de choisir les joueurs jusqu'à la catégorie DH seulement.
 # labels = to_check
 1	Pep	pep	DET	det	Number=Sing	2	det	_	_
 2	Kevre	kevre	NOUN	n	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -2664,6 +2820,7 @@
 
 # sent_id = bremaik.vislcg.txt:99:3267
 # text = An dilennadegoù kanton o deus lakaet 4 departamant breton diwar 5 da vezañ renet gant an tu kleiz.
+# text[eng] = The cantonal elections have put the left in power in 4 of the 5 Breton departments.
 # text[fra] = Les élections cantonales ont mis la gauche au pouvoir dans 4 des 5 départements bretons.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
@@ -2687,6 +2844,7 @@
 
 # sent_id = bremaik.vislcg.txt:100:3307
 # text = Echuet eo bet tournamant ar 6 broad en dibenn-sizhun-mañ.
+# text[eng] = The 6 nations tournament ended this weekend.
 # text[fra] = Le tournoi des 6 nations s'est fini ce week-end.
 # labels = to_check
 1	Echuet	echuiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -2705,7 +2863,8 @@
 
 # sent_id = bremaik.vislcg.txt:101:3334
 # text = Un dra all a chom da venegiñ eo ar fed ral a-walc'h ez eus bet moullet skritelloù gant an titl e brezhoneg evit ar film-mañ.
-# text[fra] = Une autre chose qui reste à mentionner est la rareté relative avec laquelle des affiches ont été imprimées pour ce film avec le titre en breton.
+# text[eng] = Another thing that remains to be mentioned is the rather rare fact that posters were printed for this film with the title in Breton.
+# text[fra] = Une autre chose qui reste à mentionner est le fait assez rare que des affiches ont été imprimées pour ce film avec le titre en breton.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
 2	dra	tra	NOUN	n	Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -2736,6 +2895,7 @@
 
 # sent_id = bremaik.vislcg.txt:102:3390
 # text = Koustañ a ra daou euro mui ar frejoù post.
+# text[eng] = It costs two euros plus postage.
 # text[fra] = Il en coûte deux euros plus les frais d'envoi.
 # labels = to_check
 1	Koustañ	koustañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -2751,6 +2911,7 @@
 
 # sent_id = bremaik.vislcg.txt:103:3414
 # text = Er mod-se eo bet saveteet gouenn "yer-koukoug Bro-Roazhon" pe an deñved bihan eus Enez Eusa.
+# text[eng] = This is how the breed "poule-coucou du pays de Rennes" or the small sheep of Ouessant was saved.
 # text[fra] = C'est ainsi qu'a été sauvée la race "poule-coucou du pays de Rennes" ou des petits moutons de Ouessant.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
@@ -2779,6 +2940,7 @@
 
 # sent_id = bremaik.vislcg.txt:104:3461
 # text = Met chom a ra bresk-tre an traoù memes tra.
+# text[eng] = But it's still very fragile.
 # text[fra] = Mais cela reste tout de même très fragile.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	2	cc	_	_
@@ -2796,6 +2958,7 @@
 
 # sent_id = bremaik.vislcg.txt:105:3486
 # text = Evit an 23e gwech e vo aozet ar gouel-se e Sant-Brieg.
+# text[eng] = This party will be organized in Saint-Brieux for the 23rd time.
 # text[fra] = Cette fête sera organisée à Saint-Brieux pour la 23ème fois.
 # labels = to_check
 1	Evit	evit	ADP	pr	_	4	case	_	_
@@ -2814,6 +2977,7 @@
 
 # sent_id = bremaik.vislcg.txt:106:3516
 # text = Goude gerioù fromus ar ganerez Nolwenn Korbell e oa bet kaset an dibunadeg war-raok gant startijenn liseidi ha skolajidi an hentad kelenn dre soubidigezh.
+# text[eng] = After the moving words of singer Nolwenn Korbell, the energy of high school and college students in immersion education set the parade in motion.
 # text[fra] = Après les mots émouvants de la chanteuse Nolwenn Korbell, l'énergie des lycéens et collégiens de l'enseignement par immersion a mis en branle le défilé.
 # labels = to_check
 1	Goude	goude	ADP	pr	_	2	case	_	_
@@ -2844,6 +3008,7 @@
 
 # sent_id = bremaik.vislcg.txt:107:3570
 # text = Da eil e vez erlec'hiet genoù liesseurt-kenañ gant un doare gen hepken.
+# text[eng] = Then we change very diverse genes with a single gene.
 # text[fra] = Ensuite on change des gènes très divers par un seul gène.
 # labels = to_check
 1	Da	da	ADP	pr	_	2	case	_	_
@@ -2864,6 +3029,7 @@
 
 # sent_id = bremaik.vislcg.txt:108:3601
 # text = Dimerc'her e c'hoario skipailh Roazhon a-enep Lyon.
+# text[fra] = On Wednesday the Rennes team will play against Lyon.
 # text[fra] = Mercredi l'équipe de Rennes jouera contre Lyon.
 # labels = to_check
 1	Dimerc'her	dimerc’her	ADV	adv	_	3	advmod	_	_
@@ -2877,6 +3043,7 @@
 
 # sent_id = bremaik.vislcg.txt:109:3621
 # text = Implijidi an ospital, kenwerzherien Kreiz-Breizh, dilennidi ha tud ar vro, o labourat pe war o leve, a oa bodet holl evit goulenn e virfe ospital Karaez holl e servijoù.
+# text[eng] = Hospital employees, shopkeepers from Central Brittany, elected as locals, active or retired, were all gathered to demand that the services of the Carhaix hospital be maintained.
 # text[fra] = Employés de l'hôpital, commerçants du Centre Bretagne, élus comme gens du pays, actifs ou retraités, étaient tous regroupés pour demander le maintien des services de l'hôpital de Carhaix.
 # labels = to_check
 1	Implijidi	implijad	NOUN	n	Gender=Masc|Number=Plur	23	dislocated	_	_
