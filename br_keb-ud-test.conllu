@@ -9751,7 +9751,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:13:374
 # text = E-doug ar mizioù diwezhañ ho poa pouezet war ar ret m’eo ober ur c’hemm armerzhel.
-# text[fra] = Au cours de ces derniers mois, vous avez insisté sur la nécessité d’une mutation économique.
+# text[eng] = In recent months, you have insisted on the need for economic change.
+# text[fra] = Au cours de ces derniers mois, vous aviez insisté sur la nécessité d’une mutation économique.
 # labels = to_check opab_parallel
 1	E-doug	e-doug	ADP	pr	_	3	case	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -9773,6 +9774,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:14:409
 # text = Gant Ofis ar Brezhoneg eo bet troet al levr-mañ.
+# text[fra] = This work has been translated by the Office de la Langue Bretonne.
 # text[fra] = Cet ouvrage a été traduit par l'Office de la Langue Bretonne.
 # labels = to_check opab_parallel
 1	Gant	gant	ADP	pr	_	4	case	_	_
@@ -9789,7 +9791,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:15:433
 # text = Daou arvest eus buhez Sant Erwan
-# text[fra] = Deux scènes de la vie de saint Yves
+# text[eng] = Two scenes from the life of Saint Yves
+# text[fra] = Deux scènes de la vie de Saint Yves
 # labels = to_check opab_parallel
 1	Daou	daou	NUM	num	Gender=Masc|Number=Plur	2	nummod	_	_
 2	arvest	arvest	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -9800,6 +9803,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:16:449
 # text = Porzh-mor bihan ouzh sklaer al loar
+# text[eng] = Small port in the moonlight
 # text[fra] = Petit port au clair de lune
 # labels = to_check opab_parallel
 1	Porzh-mor	porzh-mor	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -9811,6 +9815,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:17:465
 # text = Porzh Pont-Aven
+# text[eng] = The port of Pont-Aven
 # text[fra] = Le port de Pont-Aven
 # labels = to_check opab_parallel
 1	Porzh	porzh	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -9818,7 +9823,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:18:473
 # text = Donder an dourioù, gourdrouz an oabl a zeu da zegas takadoù teñval, glas ha rous, ha frammañ an ec’honder.
-# text[fra] = La profondeur des eaux, la menace du ciel, viennent apporter leurs touches sombres, bleues et brunes, et construire l'espace.
+# text[eng] = The depth of the waters, the threat of the sky which brings dark, blue and brown touches, and builds the space.
+# text[fra] = La profondeur des eaux, la menace du ciel qui vient apporter des touches sombres, bleues et brunes, et construire l'espace.
 # labels = to_check opab_parallel
 1	Donder	donder	NOUN	n	Gender=Masc|Number=Sing	9	nsubj	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -9846,6 +9852,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:19:523
 # text = En em gavout a ra gant Gauguin e 1888.
+# text[eng] = In 1888, he met Gauguin.
 # text[fra] = En 1888, il rencontre Gauguin.
 # labels = to_check opab_parallel
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
@@ -9861,7 +9868,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:20:547
 # text = Hemañ a erbed dezhañ en em ouestlañ penn-da-benn d'al livañ.
-# text[fra] = Celui-ci lui conseille de se consacrer exclusivement à la peinture.
+# text[eng] = This one advises him to devote himself entirely to painting.
+# text[fra] = Celui-ci lui conseille de se consacrer entièremement à la peinture.
 # labels = to_check opab_parallel
 1	Hemañ	hemañ	PRON	prn	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -9881,7 +9889,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:21:575
 # text = Ezel eus Kevredigezh al Livourien-engraverien c'hall, e produ dourioù-kreñv.
-# text[fra] = Membre de la Société des Peintres-Graveurs français, il exécute des eaux-fortes.
+# text[eng] = Member of the Society of French Painters-engravers, he produces etchings.
+# text[fra] = Membre de la Société des Peintres-graveurs français, il exécute des eaux-fortes.
 # labels = to_check opab_parallel
 1	Ezel	ezel	NOUN	n	Gender=Masc|Number=Sing	11	nsubj	_	_
 2	eus	eus	ADP	pr	_	3	case	_	_
@@ -9901,7 +9910,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:22:609
 # text = Embann a ra ivez levrioù ha pennadoù niverus.
-# text[fra] = Il publie également de nombreux ouvrages et articles.
+# text[eng] = He also publishes books and numerous articles.
+# text[fra] = Il publie également des livres et de nombreux articles.
 # labels = to_check opab_parallel
 1	Embann	embann	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -9915,7 +9925,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:23:631
 # text = Gouestlet eo an darn vrasañ eus e oberenn d’an engravañ.
-# text[fra] = L'essentiel de son travail est consacré à la gravure.
+# text[eng] = Most of his work is devoted to engraving.
+# text[fra] = L'essentiel de son œuvre est consacré à la gravure.
 # labels = opab_parallel
 1	Gouestlet	gouestlañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	_
@@ -9933,6 +9944,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:24:658
 # text = E 1994 e oa bet gouestlet un diskouezadeg adsell dezhañ gant mirdi Montroulez.
+# text[eng] = The musuem of Morlaix devoted a retrospective exhibition to him in 1994.
 # text[fra] = Le musée de Morlaix lui a consacré en 1994 une exposition rétrospective.
 # labels = to_check opab_parallel
 1	E	e	ADP	pr	_	2	case	_	_
@@ -9951,22 +9963,6 @@ text[eng] = Salt, pepper.
 13	mirdi	mirdi	NOUN	n	Gender=Masc|Number=Sing	6	nmod	_	_
 14	Montroulez	Montroulez	PROPN	np	Number=Sing	13	nmod:gen	_	SpaceAfter=No
 15	.	.	PUNCT	sent	_	6	punct	_	_
-
-# sent_id = oab.vislcg.txt:25:691
-# text = Gant Ofis ar Brezhoneg eo bet troet al levr-mañ.
-# text[fra] = Cet ouvrage a été traduit par l'Office de la Langue Bretonne.
-# labels = to_check opab_parallel
-1	Gant	gant	ADP	pr	_	4	case	_	_
-2	Ofis	Ofis	X	x	_	4	dep	_	_
-3	ar	ar	X	x	_	4	dep	_	_
-4	Brezhoneg	Brezhoneg	PROPN	np	Number=Sing	7	obl:agent	_	_
-5	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-6	bet	bezañ	AUX	vblex	Tense=Past|VerbForm=Part	7	aux:pass	_	_
-7	troet	treiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
-8	al	an	DET	det	_	9	det	_	_
-9	levr	levr	NOUN	n	Gender=Masc|Number=Sing	7	dep	_	SpaceAfter=No
-10	-mañ	mañ	ADV	adv	_	9	advmod	_	SpaceAfter=No
-11	.	.	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = oab.vislcg.txt:26:717
 # text = Arzourien ar gevredigezh Spered Kelt
