@@ -5381,7 +5381,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:1:0
 # text = Ni, Breizhiz a galon, karomp hon gwir vro!
-# text[fra] = Nous, Bretons de coeur, aimons notre vrai pays !
+# text[eng] = We, Bretons by the heart, let's love our true country!
+# text[fra] = Nous, Bretons de cœur, aimons notre vrai pays !
 # labels = to_check song
 1	Ni	prpers	PRON	prn	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	cm	_	3	punct	_	_
@@ -5397,6 +5398,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:2:24
 # text = Brudet eo an Arvor dre ar bed tro-dro.
+# text[eng] = The Arvor is renowned throughout the world.
 # text[fra] = L'Arvor est renommée à travers le monde.
 # labels = to_check song
 1	Brudet	brudañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -5411,7 +5413,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:3:46
 # text = Dispont 'kreiz ar brezel, hon tadoù ken mat, a skuilhas eviti o gwad.
-# text[fra] = Sans peur au coeur de la guerre, nos ancêtres si bons versèrent leur sang pour lui.
+# text[eng] = Fearless in the heat of war, our kind ancestors shed their blood for it.
+# text[fra] = Sans peur au cœur de la guerre, nos ancêtres si bons versèrent leur sang pour lui.
 # labels = to_check song
 1	Dispont	dispont	ADJ	adj	_	7	amod	_	_
 2	'kreiz	e-kreiz	ADP	pr	_	4	case	_	_
@@ -5434,6 +5437,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:4:83
 # text = O Breizh, ma Bro, me 'gar ma Bro.
+# text[eng] = Oh Brittany, my country, I love my country.
 # text[fra] = Ô Bretagne, mon pays, j'aime mon pays.
 # labels = to_check song
 1	O	o	INTJ	ij	_	2	case	_	_
@@ -5451,6 +5455,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:5:111
 # text = Tra ma vo mor 'vel mur 'n he zro, ra vezo digabestr ma bro!
+# text[eng] = As long as the sea forms a wall around it, may my country be free!
 # text[fra] = Tant que la mer formera un mur autour de lui, que mon pays soit libre !
 # labels = to_check song
 1	Tra	tra	SCONJ	cnjadv	_	6	mark	_	_
@@ -5472,6 +5477,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:6:147
 # text = Ar Vretoned 'zo tud kalet ha kreñv.
+# text[eng] = Bretons are tough and strong people.
 # text[fra] = Les Bretons sont des gens durs et forts.
 # labels = to_check song
 1	Ar	an	DET	det	_	2	det	_	_
@@ -5485,6 +5491,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:7:167
 # text = N'eus pobl ken kalonek a-zindan an neñv.
+# text[eng] = No people under heaven are so brave.
 # text[fra] = Aucun peuple sous les cieux n'est aussi courageux.
 # labels = to_check song
 1-2	N'eus	_	_	_	_	_	_	_	_
@@ -5500,6 +5507,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:8:188
 # text = Gwerz trist, son dudius a ziwan enno.
+# text[eng] = Sad lament, pleasant tone arises from them.
 # text[fra] = Ils font s'épanouir ton plaisant comme triste complainte. 
 # labels = to_check song
 1	Gwerz	gwerz	NOUN	n	Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -5516,7 +5524,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:9:211
 # text = O! pegen kaer ez out, ma Bro!
-# text[fra] = Ô ! Comme tu es belle, ma Patrie !
+# text[eng] = Oh! How beautiful you are, my country!
+# text[fra] = Ô ! Comme tu es beau, mon Pays !
 # labels = to_check song
 1	O	o	INTJ	ij	_	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	sent	_	1	punct	_	_
@@ -5531,7 +5540,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:10:235
 # text = Mard eo bet trec'het Breizh er brezelioù bras, he yezh a zo bepred ken bev ha biskoazh, he c'halon virvidik a lamm c'hoazh 'n he c'hreiz.
-# text[fra] = Si la Bretagne a été vaincue dans les grandes guerres, sa langue est toujours aussi vivante que jamais, son coeur ardent palpite encore en elle.
+# text[eng] = If Brittany was defeated in the great wars, its language is still as alive as ever, its ardent heart still beats within it.
+# text[fra] = Si la Bretagne a été vaincue dans les grandes guerres, sa langue est toujours aussi vivante que jamais, son cœur ardent palpite encore en elle.
 # labels = to_check song
 1	Mard	ma	SCONJ	cnjsub	_	4	mark	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
@@ -5567,6 +5577,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = bro-gozh.vislcg.txt:11:298
 # text = Dihunet out bremañ, ma Breizh !
+# text[eng] = You are awake now, my Brittany!
 # text[fra] = Tu es réveillée maintenant, ma Bretagne!
 # labels = to_check song
 1	Dihunet	dihuniñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -5731,7 +5742,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = grammar.vislcg.txt:10:216
 # text = A-raok ma kroge ar foar e c'hwezhe Fañch daou dan.
-# text[eng] = Before the fair started Fañch lit two fires.
+# text[eng] = Before the fair started Fañch lit two wood fires.
 # text[fra] = Avant que la foire ne commence, Fañch allumait deux feux de bois.
 # labels = timm_1988 to_check
 1	A-raok	A-raok	SCONJ	cnjadv	_	3	mark	_	_
@@ -5807,8 +5818,7 @@ text[eng] = Salt, pepper.
 # sent_id = grammar.vislcg.txt:14:331
 # text = Ne douin ket ne oa netra da damall d'am distagadur.
 # text[eng] = I won't swear that there was nothing to complain about in my pronunciation.
-# text[fra] = Je ne jurerai pas que ma prononciation était irréprochable.
-# text[fra] = Jamais je n'irai frapper un inconnu. 
+# text[fra] = Je ne jurerai pas que ma prononciation était irréprochable. 
 # labels = timm_1988 to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	douin	touiñ	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -6155,6 +6165,7 @@ text[eng] = Salt, pepper.
 # sent_id = grammar.vislcg.txt:38:815
 # text = Chomet eo.
 # text[eng] = She has stayed.
+# text[fra] = Elle est restée.
 # labels = stephens_1993 to_check
 1	Chomet	chom	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	SpaceAfter=No
@@ -6215,7 +6226,7 @@ text[eng] = Salt, pepper.
 # sent_id = grammar.vislcg.txt:44:889
 # text = Lennet eo al levr gant Lenaig.
 # text[eng] = The book is read by Lenaig.
-#  text[fra] = Le livre est lu par Lenaig.
+# text[fra] = Le livre est lu par Lenaig.
 # labels = stephens_1993 to_check
 1	Lennet	lenn	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	_
@@ -6344,7 +6355,7 @@ text[eng] = Salt, pepper.
 # sent_id = grammar.vislcg.txt:55:1085
 # text = Ne ziskenn ket ar vugale betek an hent.
 # text[eng] = The children don't go down to the road.
-#  text[fra] = Les enfants ne descendent pas jusqu'à la route.
+# text[fra] = Les enfants ne descendent pas jusqu'à la route.
 # labels = stephens_1993 to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
 2	ziskenn	diskenn	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -6371,7 +6382,7 @@ text[eng] = Salt, pepper.
 # sent_id = grammar.vislcg.txt:57:1123
 # text = Emañ ar vugale 'tiskenn.
 # text[eng] = The children are going down.
-#  text[fra] = Les enfants descendent.
+# text[fra] = Les enfants descendent.
 # labels = stephens_1993 to_check
 1	Emañ	bezañ	AUX	vbloc	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -7056,7 +7067,7 @@ text[eng] = Salt, pepper.
 # sent_id = grammar.vislcg.txt:108:2064
 # text = Aet on d'o gwelout.
 # text[eng] = I went to see them.
-#  text[fra] = Je suis allée les voir.
+# text[fra] = Je suis allée les voir.
 # labels = press_1986 ch_morphology to_check
 1	Aet	mont	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	on	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7244,6 +7255,7 @@ text[eng] = Salt, pepper.
 # sent_id = grammar.vislcg.txt:123:2311
 # text = Kousket ne rin ket.
 # text[eng] = I will not sleep.
+# text[fra] = Je ne dormirai pas.
 # labels = press_1986 ch_morphology to_check
 1	Kousket	kousket	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	ne	ne	ADV	adv	Polarity=Neg	1	advmod	_	_
@@ -7938,7 +7950,7 @@ text[eng] = Salt, pepper.
 # sent_id = grammar.vislcg.txt:178:3217
 # text = Kollet eo bet ar voutailh gant Lan.
 # text[eng] = Lan has lost the bottle.
-text[fra] = Lan a perdu la bouteille.
+# text[fra] = Lan a perdu la bouteille.
 # labels = press_1986 ch_morphology to_check
 1	Kollet	koll	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -8349,7 +8361,7 @@ text[fra] = Lan a perdu la bouteille.
 # sent_id = grammar.vislcg.txt:208:3772
 # text = Pegement e labour-hi e-pad an devezh?
 # text[eng] = How much does she work during the day?
-# Elle travaille combien par jour ?
+# text[fra] = Elle travaille combien par jour ?
 # labels = press_1986 ch_morphology to_check
 1	Pegement	pegement	ADV	adv	PronType=Int	3	advmod	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -8422,7 +8434,7 @@ text[fra] = Lan a perdu la bouteille.
 # sent_id = grammar.vislcg.txt:213:3875
 # text = Yann a davas, Mari e oa skuizh.
 # text[eng] = Yann became silent, Mari was tired.
-# Yann se tût, Marie était fatiguée.
+# text[fra] = Yann se tût, Marie était fatiguée.
 # labels = press_1986 ch_syntax p_185 to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	a	a	AUX	vpart	_	3	aux	_	_
@@ -8635,7 +8647,7 @@ text[fra] = Lan a perdu la bouteille.
 6	!	!	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = grammar.vislcg.txt:230:4160
-# text = Na ziskouezit ket din an ti !
+# text = Na ziskouezit ket din an ti!
 # text[eng] = Don't show me the house!
 # text[fra] = Ne me montrez pas la maison!
 # labels = press_1986 ch_syntax to_check
@@ -8652,7 +8664,7 @@ text[fra] = Lan a perdu la bouteille.
 # sent_id = grammar.vislcg.txt:231:4179
 # text = Va selaouit!
 # text[eng] = Listen to me!
-# text[fra] = Écoutez-moi !
+# text[fra] = Écoutez-moi!
 # labels = press_1986 ch_morphology p_195 to_check
 1	Va	direct	PRON	prn	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 2	selaouit	selaou	VERB	vblex	Number=Plur|Person=2	0	root	_	SpaceAfter=No
@@ -8661,7 +8673,7 @@ text[fra] = Lan a perdu la bouteille.
 # sent_id = grammar.vislcg.txt:232:4189
 # text = Na selaouit ket ac'hanon!
 # text[eng] = Don't listen to me!
-# text[fra] = Ne m'écoutez pas !
+# text[fra] = Ne m'écoutez pas!
 # labels = press_1986 ch_syntax p_195 to_check
 1	Na	na	AUX	vpart	Polarity=Neg	2	aux	_	_
 2	selaouit	selaou	VERB	vblex	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -8672,7 +8684,7 @@ text[fra] = Lan a perdu la bouteille.
 # sent_id = grammar.vislcg.txt:233:4203
 # text = Pesketaer e vo Yannig a-hed e vuhez.
 # text[eng] = Yannig will be a fisherman all his life.
-#  text[fra] = Yannig sera pêcheur toute sa vie.
+# text[fra] = Yannig sera pêcheur toute sa vie.
 # labels = press_1986 ch_syntax p_196
 1	Pesketaer	pesketaer	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -8686,7 +8698,7 @@ text[fra] = Lan a perdu la bouteille.
 # sent_id = grammar.vislcg.txt:234:4223
 # text = Yannig a vo pesketaer a-hed e vuhez.
 # text[eng] = Yannig will be a fisherman all his life.
-#  text[fra] = Yannig sera pêcheur toute sa vie.
+# text[fra] = Yannig sera pêcheur toute sa vie.
 # labels = press_1986 ch_syntax p_196
 1	Yannig	Yannig	PROPN	np	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	a	a	AUX	vpart	_	4	aux	_	_
@@ -8700,7 +8712,7 @@ text[fra] = Lan a perdu la bouteille.
 # sent_id = grammar.vislcg.txt:235:4243
 # text = A-hed e vuhez e vo Yannig pesketaer.
 # text[eng] = Yannig will be a fisherman all his life.
-#  text[fra] = Yannig sera pêcheur toute sa vie.
+# text[fra] = Yannig sera pêcheur toute sa vie.
 # labels = press_1986 ch_syntax p_196
 1	A-hed	a-hed	ADP	pr	_	3	case	_	_
 2	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	3	det	_	_
@@ -8855,6 +8867,7 @@ text[fra] = Lan a perdu la bouteille.
 # sent_id = grammar.vislcg.txt:245:4464
 # text = E Pariz ho preudeur ne gavint ket a labour.
 # text[eng] = Your brothers will not find work in Paris.
+# text[fra] = À Paris, vos frères ne trouveront pas d'emploi.
 # labels = press_1986 ch_syntax p_198 to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	Pariz	Pariz	PROPN	np	Number=Sing	6	obl	_	_
@@ -9498,7 +9511,8 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:1:0
 # text = Ur gevezadeg ziaes ha brudet eo an Olimpiadennoù, met ouzhpenn an dra-se ez int.
-# text[fra] = Les Olympiades sont plus qu'une compétition difficile et renommée.
+# text[eng] = The Olympics are a tough and famous competition, but it's more than that.
+# text[fra] = Les jeux Olympiques sont plus qu'une compétition difficile et renommée.
 # labels = to_check opab_parallel
 1	Ur	un	DET	det	_	2	det	_	_
 2	gevezadeg	kevezadeg	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -9520,7 +9534,8 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:2:37
 # text = An takad merket gant ar bir n'eo ket ur c'halaksienn met ur bouilh stered ha gaz a zeu eus unan eus ar galaksiennoù distummet gant efed ar gravitadur.
-# text[fra] = La zone indiquée par la flèche n'est pas une galaxie mais une éruption d'étoiles et de gaz provenant d'une des galaxies déformée par effet gravitationnel.
+# text[eng] = The area indicated by the arrow is not a galaxy, but an eruption of stars and gas from one of the galaxies deformed by gravitational effect.
+# text[fra] = La zone indiquée par la flèche n'est pas une galaxie, mais une éruption d'étoiles et de gaz provenant d'une des galaxies déformée par effet gravitationnel.
 # labels = to_check opab_parallel
 1	An	an	DET	det	_	2	det	_	_
 2	takad	takad	NOUN	n	Gender=Masc|Number=Sing	11	nsubj	_	_
@@ -9555,6 +9570,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:3:101
 # text = Grit anaoudegezh gant istor an Hollved kontet deoc'h a-hed e bazennoù bras war-bouez gerioù eeun dalc'hmat.
+# text[eng] = Discover the history of the Universe told in its main stages with a constant concern for simplicity.
 # text[fra] = Découvrez l’histoire de l’Univers racontée dans ses grandes étapes avec un souci constant de simplicité.
 # labels = to_check opab_parallel
 1	Grit	ober	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -9579,6 +9595,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:4:140
 # text = Katalog menegerioù lodenn ar Rannvro atebek a oa bet kinniget da-geñver ar memes dalc'h.
+# text[eng] = The catalog of indicators for the Responsible Region section was presented during the same session.
 # text[fra] = Le catalogue des indicateurs du volet Région responsable a été présenté lors de la même session.
 # labels = to_check opab_parallel
 1	Katalog	katalog	NOUN	n	Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -9599,6 +9616,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:5:174
 # text = Framm dave an diorren padus e Breizh
+# text[eng] = The reference framework for sustainable development in Brittany
 # text[fra] = Le cadre de référence du développement durable en Bretagne
 # labels = to_check opab_parallel
 1	Framm	framm	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -9611,6 +9629,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:6:192
 # text = Penaos displegañ kement-se ?
+# text[eng] = How to explain this?
 # text[fra] = Comment expliquer cela ?
 # labels = to_check opab_parallel
 1	Penaos	penaos	ADV	adv	PronType=Int	2	advmod	_	_
@@ -9620,6 +9639,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:7:204
 # text = Muzuliañ uhelder Sterenn an Norzh zo kement hag anavezout ledred al lec'h (hag a-c'hin).
+# text[eng] = To measure the height of the polar star is to know the latitude of the place (and vice versa).
 # text[fra] = Mesurer la hauteur de l'étoile polaire, c'est connaître la latitude du lieu (et inversement).
 # labels = to_check opab_parallel
 1	Muzuliañ	muzuliañ	VERB	vblex	VerbForm=Inf	9	csubj	_	_
@@ -9642,6 +9662,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:8:242
 # text = Treiñ a ra an Douar en-dro d'an Heol (360°) en ur ober 365 devezh.
+# text[eng] = Indeed, the Earth revolves around the Sun (360°) in 365 days.
 # text[fra] = Effectivement, la Terre tourne autour du Soleil (360°) en 365 jours.
 # labels = to_check opab_parallel
 1	Treiñ	treiñ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -9665,6 +9686,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:9:282
 # text = Heuliet e oa bet pizh kresk ar vugale e-touez gorilhed ar menezioù.
+# text[eng] = Child development has been carefully monitored in the mountain gorilla.
 # text[fra] = Le développement de l'enfant a été suivi avec minutie chez le gorille de montagne.
 # labels = to_check opab_parallel
 1	Heuliet	heuliañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -9683,6 +9705,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:10:312
 # text = takad teñval
+# text[eng] = dark area
 # text[fra] = zone obscure
 # labels = to_check opab_parallel
 1	takad	takad	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -9690,6 +9713,7 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:11:320
 # text = Domani Arvorig an Hanternoz
+# text[eng] = North Armorican domain
 # text[fra] = Domaine nord armoricain
 # labels = to_check opab_parallel
 1	Domani	domani	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -9699,7 +9723,8 @@ text[fra] = Lan a perdu la bouteille.
 
 # sent_id = oab.vislcg.txt:12:332
 # text = Ar Vreizhiz a ranko deskiñ terkañ mat o bro ma fell dezho mirout he neuz dibar dezhi.
-# text[fra] = Les bretons devront apprendre à perfectionner l'aménagement du territoire s'ils veulent lui préserver son originalité.
+# text[eng] = The Bretons will have to learn how to perfect the planning of the territory if they want to preserve its originality.
+# text[fra] = Les Bretons devront apprendre à perfectionner l'aménagement du territoire s'ils veulent lui préserver son originalité.
 # labels = to_check opab_parallel
 1	Ar	an	DET	det	_	2	det	_	_
 2	Vreizhiz	Breizhad	NOUN	n	Gender=Masc|Number=Plur	4	nsubj	_	_
