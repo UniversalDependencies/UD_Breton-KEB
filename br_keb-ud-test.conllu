@@ -1934,7 +1934,7 @@
 
 # sent_id = bremaik.vislcg.txt:67:2057
 # text = Evit ar wech kentañ en he istor e kaso Frañs daou skipailh e kardgourfennoù kib kampioned Europa.
-# text[fra¹] = Pour la première fois dans son histoire elle enverra la France deux équipes dans les quarts de finale de la coupe des champions d'Europe.
+# text[fra¹] = Pour la première fois de son histoire la France enverra deux équipes dans les quarts de finale de la coupe des champions d'Europe.
 # labels = to_check
 1	Evit	evit	ADP	pr	_	3	case	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -1957,7 +1957,7 @@
 
 # sent_id = bremaik.vislcg.txt:68:2097
 # text = Pennoù ar sindikadoù a stourm a-enep ar CPE o deus disklêriet dec'h e roent un "ultimatom" daou devezh d'ar gouarnamant evit lemel kinnig ar CPE.
-# text[fra¹] = Les chefs des syndicats qui combattent contre le CPE ont déclarés hier qu'ils donnaient un "ultimatum" de deux journées au gouvernement pour ôter présenter le CPE.
+# text[fra¹] = Les têtes des syndicats opposés au CPE ont déclaré hier qu'ils donnaient un "ultimatum" de deux jours au gouvernement pour retirer le projet de loi CPE.
 # labels = to_check
 1	Pennoù	penn	NOUN	n	Gender=Masc|Number=Plur	10	nsubj	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -1991,7 +1991,7 @@
 
 # sent_id = bremaik.vislcg.txt:69:2156
 # text = En em vodañ a raio pennoù ar sindikadoù adarre hiziv evit gwelet penaos kas ar stourm war-raok.
-# text[fra¹] = regroupera les têtes des syndicats de nouveau aujourd’hui pour voir comment envoyer le combat en avant.
+# text[fra¹] = Les têtes des syndicats se réuniront de nouveau aujourd'hui pour voir comment continuer la lutte.
 # labels = to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
 2	em	em	X	x	_	1	fixed	_	_
@@ -2014,7 +2014,7 @@
 
 # sent_id = bremaik.vislcg.txt:70:2196
 # text = Kantikoù ha sonennoù a vo kanet er bloaz-mañ, en o zouez kantikoù gouestlet d'ar Werc'hez ha da Santez Anna.
-# text[fra¹] = Cantiques et chansons Elle sera chantée cette année, parmi eux cantiques engagés à la Vierge et à la Sainte d'Anna.
+# text[fra¹] = Cantiques et chansons seront chantés cette année, dont des cantiques dédiés à la Vierge et à Sainte Anne.
 # labels = to_check
 1	Kantikoù	kantik	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
 2	ha	ha	CCONJ	cnjcoo	_	3	cc	_	_
@@ -2045,7 +2045,7 @@
 
 # sent_id = bremaik.vislcg.txt:71:2243
 # text = Cheñch a raio spontus e vuhez abalamour d'an enklask-se.
-# text[fra¹] = Il changera effrayant sa vie à cause de cette enquête.
+# text[fra¹] = Sa vie sera bouleversée par cette enquête.
 # labels = to_check
 1	Cheñch	cheñch	VERB	vblex	VerbForm=Inf	0	root	_	_
 2	a	a	AUX	vpart	_	1	aux	_	_
@@ -2062,7 +2062,7 @@
 
 # sent_id = bremaik.vislcg.txt:72:2271
 # text = Dre veskañ ar meteier sokial ha diskouez heñvelderioù mab-den e sav ar film goulennoù dedennus-tre.
-# text[fra¹] = Par mélanger les milieux sociaux et montrer les conformités d'homme le film monte questions très intéressantes.
+# text[fra¹] = En mélangeant les milieux sociaux et en montrant les similarités humaines, le film pose des questions très intéressantes.
 # labels = to_check
 1	Dre	dre	ADP	pr	_	2	mark	_	_
 2	veskañ	meskañ	VERB	vblex	VerbForm=Inf	11	advcl	_	_
@@ -2085,7 +2085,7 @@
 
 # sent_id = bremaik.vislcg.txt:73:2308
 # text = Ijinit 'ta.
-# text[fra¹] = Inventez donc.
+# text[fra¹] = Imaginez.
 # labels = to_check
 1	Ijinit	ijinañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	'ta	eta	ADV	adv	_	1	advmod	_	SpaceAfter=No
@@ -2103,7 +2103,7 @@
 
 # sent_id = bremaik.vislcg.txt:75:2332
 # text = Ledit ar meskaj-se war an toaz.
-# text[fra¹] = Vous étalez ce mélange sur la pâte.
+# text[fra¹] = Étalez ce mélange sur la pâte.
 # labels = to_check
 1	Ledit	ledañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
 2	ar	an	DET	det	_	3	det	_	_
@@ -2116,7 +2116,7 @@
 
 # sent_id = bremaik.vislcg.txt:76:2352
 # text = Kaotigell sivi a c'heller ouzhpennañ ivez.
-# text[fra¹] = On peut ajouter la confiture de fraises aussi.
+# text[fra¹] = On peut aussi ajouter de la confiture de fraises.
 # labels = to_check
 1	Kaotigell	kaotigell	NOUN	n	Gender=Fem|Number=Sing	5	nsubj	_	_
 2	sivi	sivi	NOUN	n	Gender=Fem|Number=Plur	1	nmod:gen	_	_
@@ -2128,7 +2128,7 @@
 
 # sent_id = bremaik.vislcg.txt:77:2370
 # text = Evel boaz e vo kinniget neuze a bep seurt traoù (sonerezh, c'hoariva, filmoù, arzoù a-vremañ).
-# text[fra¹] =  Evel habitude Elle sera présentée alors de toute sorte les choses (de musique, théâtre, films, arts désormais).
+# text[fra¹] = Le programme sera comme d'habitude diversifié (musique, théâtre, films, arts contemporains).
 # labels = to_check
 1	Evel	evel	ADP	pr	_	2	case	_	_
 2	boaz	boaz	NOUN	n	Gender=Masc|Number=Sing	5	obl	_	_
