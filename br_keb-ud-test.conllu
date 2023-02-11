@@ -13055,6 +13055,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:13:340
 # text = Muioc'h-mui e adkaver ivez ar yezh vrezhon e-liamm gant ar bed ekonomikel.
+# text[eng] = The Breton language is also increasingly present in the economic world.
 # text[fra] = La langue bretonne est aussi de plus en plus présente dans le monde économique.
 # labels = to_check
 1	Muioc'h-mui	muioc’h-mui	ADV	adv	_	3	advmod	_	_
@@ -13073,6 +13074,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:14:370
 # text = Er maez eus an Emsav e adkaver nebeut implij eus ar yezh vrezhon war an dachenn bolitikel.
+# text[eng] = Apart from Emsav, the Breton language is rarely used in politics.
 # text[fra] = Si ce n'est dans l'Emsav, la langue bretonne est peu employée dans le domaine politique.
 # labels = to_check
 1	Er maez	er-maez	ADV	adv	_	4	case	_	_
@@ -13095,6 +13097,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:15:408
 # text = Ral eo da gavout ur c'hoant gwirion da souten ar yezh.
+# text[eng] = It is rare to encounter a real desire to support the language.
 # text[fra] = Il est rare de rencontrer une réelle envie de soutenir la langue.
 # labels = to_check
 1	Ral	ral	ADJ	adj	_	0	root	_	_
@@ -13112,6 +13115,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:16:436
 # text = Hervez un enklask kaset en-dro gant Fañch Broudig ha TMO, paeet gant Kuzul Rannvro Breizh, ne vije nemet 207 000 brezhoneger ken e 2007.
+# text[eng] = According to a new survey by Fañch Broudig and TMO, sponsored by the Regional Council of Brittany, in 2007 there would be only 207,000 Breton speakers
 # text[fra] = Selon une nouvelle enquête de Fañch Broudig et TMO, commanditée par le Conseil Régional de Bretagne, il n'y aurait plus en 2007 que 207 000 brittophones.
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	3	case	_	_
@@ -13144,6 +13148,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:17:494
 # text = Hervez enklask an INSEE, kempoelloc'h hervez Hervé Abalain, graet e 1999, e vefe 295 000.
+# text[eng] = According to the 1999 INSEE survey, more consistent according to Hervé Abalain, it would be 295,000.
 # text[fra] = Selon l'enquête de l'INSEE de 1999, plus cohérente selon Hervé Abalain, ce serait 295 000.
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	2	case	_	_
@@ -13168,6 +13173,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:18:536
 # text = Ur vro eo Breizh.
+# text[eng] = Brittany is a country.
 # text[fra] = La Bretagne est un pays.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
@@ -13178,6 +13184,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:19:550
 # text = Unan eus ar riezoù kentañ bet krouet en Europa eo ivez.
+# text[eng] = It is also one of the first states created in Europe.
 # text[fra] = C'est aussi un des premiers états créés en Europe.
 # labels = to_check
 1	Unan	unan	NUM	num	Number=Sing	7	nsubj	_	_
@@ -13195,6 +13202,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:20:578
 # text = Krouet e oa ar rannvro Breizh ez-ofisiel e 1943 gant gouarnamant Vichy, enni pevar departamant eus Breizh istorel hepken.
+# text[eng] = The Brittany region was officially created in 1943 by the Vichy government, from just four departments of historic Brittany.
 # text[fra] = La région Bretagne a été créée officiellement en 1943 par le gouvernement de Vichy, à partir de seulement quatre départements de la Bretagne historique.
 # labels = to_check
 1	Krouet	krouiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13223,6 +13231,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:21:625
 # text = Chaseal a raent kirvi, yourc'hed ha lern.
+# text[eng] = They hunted deer, roe deer and foxes.
 # text[fra] = Ils chassaient des cerfs, des chevreuils et renards.
 # labels = to_check
 1	Chaseal	chaseal	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -13237,6 +13246,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:22:647
 # text = Pesketa ha kregina a raent ivez a-benn debriñ.
+# text[eng] = They also caught fish and shellfish for food.
 # text[fra] = Ils pêchaient aussi poissons et coquillages pour se nourrir.
 # labels = to_check
 1	Pesketa	pesketa	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -13251,6 +13261,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:23:669
 # text = Stagañ a raent da c'hounit plant, ha da zoñvaat loened.
+# text[eng] = They began to grow plants and domesticate animals.
 # text[fra] = Ils commençaient à cultiver des plantes et à domestiquer des animaux.
 # labels = to_check
 1	Stagañ	stagañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -13268,6 +13279,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:24:697
 # text = Ar Gelted ne implijent ket ar skritur da gustum.
+# text[eng] = The Celts used writing only exceptionally.
 # text[fra] = Les Celtes n'employaient qu'exceptionnellement l'écriture.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -13283,6 +13295,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:25:721
 # text = Antreal a rae hor bro en istor.
+# text[eng] = Our country was going down in history.
 # text[fra] = Notre pays entrait dans l'histoire.
 # labels = to_check
 1	Antreal	antreal	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -13298,6 +13311,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:26:742
 # text = Lakaet e oa izili ar sened d'ar marv hag ar "peurrest" eus ar bobl a oa gwerzhet evel sklaved.
+# text[eng] = The members of the senate were put to death and the "remnant" of the people sold into slavery.
 # text[fra] = Les membres du sénat étaient mis à mort et le "reste" du peuple vendu en esclavage.
 # labels = to_check
 1	Lakaet	lakaat	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13327,6 +13341,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:27:791
 # text = Distrujet e oa kalz kêriadennoù.
+# text[eng] = Many of the villages were destroyed.
 # text[fra] = Beaucoup des villages étaient détruits.
 # labels = to_check
 1	Distrujet	distrujañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13338,6 +13353,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:28:807
 # text = Graet e oa kalz pezhioù moneiz.
+# text[eng] = Many coins were minted.
 # text[fra] = Il était frappé beaucoup des pièces de monnaie.
 # labels = to_check
 1	Graet	ober	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13350,6 +13366,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:29:825
 # text = War ar memes tro eo aloubet reter an enezenn gant pobloù german, an Angled hag ar Saozon peurgetket, a argas ar Vrezhoned trema ar c'hornôg.
+# text[eng] = At the same time the east of the island was invaded by Germanic peoples, the Angles and the Saxons in particular, who drove the Brittons westward.
 # text[fra] = Au même moment l'est de l'île est envahi par des peuples germaniques, les Angles et les Saxons notamment, qui chassent les Brittons vers l'ouest.
 # labels = to_check
 1	War	war	ADP	pr	_	4	case	_	_
@@ -13383,7 +13400,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:30:885
 # text = Bodet e oa bet an teir rouantelezh dindan aotrouniezh roueed ha duged Breizh en IXvet kantved.
-# text[fra] = Les trois royaumes ont été regroupés sous l'autorité des rois et ducs de Bretagne  au IXème siècle.
+# text[eng] = The three kingdoms were brought together under the authority of the kings and dukes of Brittany in the 9th century.
+# text[fra] = Les trois royaumes ont été regroupés sous l'autorité des rois et ducs de Bretagne au IXème siècle.
 # labels = to_check
 1	Bodet	bodañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	e	e	AUX	vpart	_	1	aux	_	_
@@ -13405,6 +13423,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:31:923
 # text = rouantelezh Breizh
+# text[eng] = the kingdom of Brittany
 # text[fra] = le royaume de Bretagne
 # labels = to_check
 1	rouantelezh	rouantelezh	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -13412,6 +13431,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:32:933
 # text = D’ar mare-se e voe staget Bro-Naoned ha Bro-Roazhon ouzh rouantelezh Breizh.
+# text[eng] = It was at this time that the regions of Nantes and Rennes were attached to the Kingdom of Brittany.
 # text[fra] = C'est à ce moment-là que furent rattachés le Pays nantais et le Pays Rennais au royaume de Bretagne.
 # labels = to_check
 1-2	D’ar	_	_	_	_	_	_	_	_
@@ -13432,7 +13452,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:33:964
 # text = Ar Vikinged, siwazh d’ar Vretoned, a aloubas Stad unanet kentañ Breizh e 913.
-# text[fra] = Malheureusement pour les bretons, les Vikings envahirent le premier État unifié de Bretagne en 913.
+# text[eng] = Unfortunately for the Bretons, the Vikings invaded the first unified state of Brittany in 913.
+# text[fra] = Malheureusement pour les Bretons, les Vikings envahirent le premier État unifié de Bretagne en 913.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
 2	Vikinged	Viking	NOUN	n	Gender=Masc|Number=Plur	10	nsubj	_	SpaceAfter=No
@@ -13455,6 +13476,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:34:1001
 # text = Distrujet hag aloubet e voe war-lerc’h gant ar Vikinged e deroù an Xvet kantved.
+# text[eng] = It was then destroyed and invaded by the Vikings at the beginning of the 10th century.
 # text[fra] = Il fut ensuite détruit et envahi par les Vikings au début du Xème siècle.
 # labels = to_check
 1	Distrujet	distrujañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13475,6 +13497,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:35:1035
 # text = Melestradurezh c’hall ar Renadur kozh a anaveze Breizh da vroad.
+# text[eng] = The French administration of the Old Regime recognized Brittany as a nation.
 # text[fra] = L'administration française de l'ancien Régime reconnaissait la Bretagne comme nation.
 # labels = to_check
 1	Melestradurezh	melestradurezh	NOUN	n	Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -13491,6 +13514,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:36:1061
 # text = Da-heul e voe trec’h rouantelezh Bro-C’hall, ur rouantelezh c’halloudus anezhi, war an dugelezh da vare emgannoù 1488 ha 1491.
+# text[eng] = Then the kingdom of France, a powerful kingdom, defeated the duchy in the battles of 1488 and 1491.
 # text[fra] = Ensuite le royaume de France, un royaume puissant, vainquit le duché lors des batailles de 1488 et 1491.
 # labels = to_check
 1	Da-heul	da-heul	ADV	adv	_	4	advmod	_	_
@@ -13520,6 +13544,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:37:1110
 # text = Gant se e oa bet boulc’het an hent a gase d’an unaniezh.
+# text[eng] = Thus was initiated the process that led to union.
 # text[fra] = Ainsi fut initié le processus qui menait à l'union.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	2	case	_	_
@@ -13540,6 +13565,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:38:1141
 # text = Daou seurt unaniezh a voe.
+# text[eng] = There were two kinds of unions.
 # text[fra] = Il y eût deux sortes d'unions.
 # labels = to_check
 1	Daou	daou	NUM	num	Gender=Masc|Number=Plur	2	nummod	_	_
@@ -13551,7 +13577,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:39:1157
 # text = Gant an arc’hant bras dastumet d’ar mare-se e voe diorroet-mat glad ar savouriezh er vro.
-# text[fra] = Le patrimoine architecturel du pays s'épanouit de ces richesses amassées.
+# text[eng] = The architectural heritage of the country has greatly flourished from the wealth then amassed.
+# text[fra] = Le patrimoine architectural du pays s'est grandement épanoui des richesses alors amassées.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	3	case	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -13579,6 +13606,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:40:1198
 # text = Ostel an Arc’hant Roazhon a oa an hini kentañ eus Frañs.
+# text[fra] = The Hôtel des Monnaies in Rennes was the first in France.
 # text[fra] = L'hôtel des Monnaies à Rennes était le premier de France.
 # labels = to_check
 1	Ostel	ostel	NOUN	n	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -13596,6 +13624,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:41:1226
 # text = Rannet e oant ivez etre nav eskopti.
+# text[eng] = They had also been split into nine bishoprics.
 # text[fra] = Ils avaient aussi été scindés en neuf évêchés.
 # labels = to_check
 1	Rannet	rannañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13609,6 +13638,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:42:1246
 # text = an Dispac'h Gall
+# text[eng] = the French Revolution
 # text[fra] = la Révolution Française
 # labels = to_check
 1	an	an	DET	det	_	2	det	_	_
@@ -13617,6 +13647,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:43:1258
 # text = Breizh rannet e pemp departamant
+# text[fra] = Brittany divided into five departments
 # text[fra] = la Bretagne partagée en cinq départements
 # labels = to_check
 1	Breizh	Breizh	PROPN	np	Number=Sing	0	root	_	_
@@ -13627,6 +13658,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:44:1274
 # text = Hennezh a oa e penn ar gomiserien all (=prefeded) e Breizh.
+# text[eng] = This was the head of the other commissioners (= prefects) in Brittany.
 # text[fra] = Celui-ci était à la tête des autres commissaires (=préfets) en Bretagne.
 # labels = to_check
 1	Hennezh	hennezh	PRON	prn	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
@@ -13647,6 +13679,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:45:1308
 # text = An Eil Brezel-bed en deus skoet kalz tud e Breizh, prizoniet, gloazet, kaset d'ar c'hampoù bac'h pe gloazet.
+# text[eng] = The Second World War struck many people in Brittany, taken prisoner, wounded, sent to prison camps or injured.
 # text[fra] = La Second Guerre mondiale a frappé beaucoup des gens en Bretagne, faits prisonniers, blessés, envoyés aux camps de prisonniers ou blessés.
 # labels = to_check
 1	An	an	DET	det	_	3	det	_	_
@@ -13677,6 +13710,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:46:1359
 # text = Kalz distrujoù zo bet ivez betek 1945.
+# text[eng] = There was also a lot of destruction until 1945.
 # text[fra] = Il y eût aussi beaucoup destructions jusqu'en 1945.
 # labels = to_check
 1	Kalz	kalz	ADP	pr	_	2	case	_	_
@@ -13690,6 +13724,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:47:1379
 # text = Gounit a ra ar gomunouriezh kalz tachenn e Breizh abalamour d'ar roll a-bouez en deus bet ar PCF hag an URSS er brezel.
+# text[eng] = Communism then gained a lot of ground in Brittany because of the important role that the PCF and the USSR had in the war.
 # text[fra] = Le communisme gagne beaucoup de terrain en Bretagne en raison du rôle important qu'ont eu le PCF et l'URSS dans la guerre.
 # labels = to_check
 1	Gounit	gounit	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -13721,6 +13756,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:48:1432
 # text = E miz Gwengolo 1919 o doa kroget ar c’hevredadoù tiez an degemer da aozañ “rannvroioù touristel” diwar ur patrom un tamm disheñvel.
+# text[eng] = The hospitality house societies began in September 1919 to organize “tourist regions” on a slightly different model.
 # text[fra] = Les sociétés des maisons de l'accueil ont commencé dès septembre 1919 à organiser “des régions touristiques” sur un modèle un peu différent.
 # labels = to_check
 1	E	e	ADP	pr	_	3	case	_	_
@@ -13750,6 +13786,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:49:1484
 # text = Ne gloto tamm ebet ar rannvroioù-se gant ar rannvroioù armerzhel.
+# text[eng] = These regions will not correspond to economic regions at all.
 # text[fra] = Ces régions ne correspondront pas du tout aux régions économiques.
 # labels = to_check
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
@@ -13767,6 +13804,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:50:1512
 # text = Krouet eo bet ar rannvro velestradurel nevez-se hep derc’hel kont eus an istor.
+# text[eng] = This new administrative region was created without taking history into account.
 # text[fra] = Cette nouvelle région administrative a été créée sans tenir compte de l'histoire.
 # labels = to_check
 1	Krouet	krouiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13787,6 +13825,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:51:1546
 # text = Mouezhiadegoù peurheñvel a voe aozet gant Kuzul-rannvro Breizh ivez.
+# text[eng] = The Regional Council of Brittany has also organized identical referendums.
 # text[fra] = Le Conseil régional de Bretagne a aussi organisé des référendums identiques.
 # labels = to_check
 1	Mouezhiadegoù	mouezhiadeg	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -13802,6 +13841,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:52:1570
 # text = Kenderc’hel a reer da zivizout er mare-mañ evit adstagañ al Liger-Atlantel ouzh Rannvro Breizh.
+# text[eng] = The re-attachment of Loire-Atlantique to the Brittany region is still under debate.
 # text[fra] = Le rattachement de la Loire-Atlantique à la Région Bretagne est toujours en débat.
 # labels = to_check
 1	Kenderc’hel	kenderc’hel	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -13823,6 +13863,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:53:1606
 # text = Tu a vefe neuze da unaniñ ar vro bremañ.
+# text[eng] = So there would now be a way to unify the country.
 # text[fra] = Il y aurait donc maintenant moyen d'unifier le pays.
 # labels = to_check
 1	Tu	tu	NOUN	n	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -13838,7 +13879,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:54:1630
 # text = Prezidanted an daou guzul-rannvro ha prezidant kuzul-departamant al Liger-Atlantel hepken a c’hall divizout reiñ lañs da adaozañ ar rannvro.
-# text[fra] = Pré Seuls les présidents des deux conseils régionaux et le président du conseil général de Loire-Atlantique peuvent décider de lancer la réorganisation de la région.
+# text[eng] = Only the presidents of the two regional councils and the president of the general council of Loire-Atlantique can decide to launch the reorganization of the region.
+# text[fra] = Seuls les présidents des deux conseils régionaux et le président du conseil général de Loire-Atlantique peuvent décider de lancer la réorganisation de la région.
 # labels = to_check
 1	Prezidanted	prezidant	NOUN	n	Gender=Masc|Number=Plur	12	nsubj	_	_
 2	an	an	DET	det	_	4	det	_	_
@@ -13863,6 +13905,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:55:1674
 # text = Doare-skrivañ pennañ ar brezhoneg eo hiziv.
+# text[eng] = This is today the main spelling system for Breton.
 # text[fra] = C'est aujourd’hui la principale orthographe du breton.
 # labels = to_check
 1	Doare-skrivañ	doare-skrivañ	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -13875,6 +13918,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:56:1692
 # text = Implijet e vez gant an holl skolioù, degemeret gant an holl skolioù-meur, hag e ya da ober tost an holl levrioù embannet.
+# text[eng] = It is recognized in all universities, is used by all schools, and in almost all books.
 # text[fra] = Elle est reconnue dans toutes les universités, est employée par toutes les écoles, et dans presque tous les livres.
 # labels = to_check
 1	Implijet	implijout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13905,6 +13949,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:57:1746
 # text = Reolennoù doare-skrivañ ar peurunvan a vo kavet er pennad doareoù-skrivañ e brezhoneg.
+# text[eng] = The spelling rules of the peurunvan can be found in the article "ways of writing in Breton".
 # text[fra] = Les règles d'orthographe du peurunvan se trouvent dans l'article "manières d'écrire en breton".
 # labels = to_check
 1	Reolennoù	reolenn	NOUN	n	Gender=Fem|Number=Plur	7	nsubj	_	_
@@ -13925,6 +13970,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:58:1777
 # text = Koulskoude ez eus bet tabut e-pad pell e Breizh diwar-benn an doare-skrivañ ha dreist-holl enebiezh ouzh ar peurunvan.
+# text[eng] = For a long time in Brittany, however, the spelling and above all the hostility to the perunvan writing system were debated.
 # text[fra] = Pendant longtemps en Bretagne, cependant, ont fait débat l'orthographe et surtout l'hostilité à l'écriture peurunvan.
 # labels = to_check
 1	Koulskoude	koulskoude	ADV	adv	_	8	advmod	_	_
@@ -13948,6 +13994,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:59:1817
 # text = Kevreet eo ar spas gant an arzoù plastik, hag an amzer gant ar muzik hag al lennegezh.
+# text[eng] = Space is linked to the visual arts, and time to music and literature.
 # text[fra] = L'espace est lié aux arts plastiques, et le temps avec la musique et la littérature.
 # labels = to_check
 1	Kevreet	kevreañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -13972,7 +14019,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:60:1859
 # text = Gant an teatr hag an dañs e teu an nen da vezañ danvez e arz.
-# text[fra] = Avec le théâtre et la danse on est soi-même la matière de son art.
+# text[eng] = With theater and dance, one becomes the subject of one's art.
+# text[fra] = Avec le théâtre et la danse on devient soi-même la matière de son art.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	3	case	_	_
 2	an	an	DET	det	_	3	det	_	_
@@ -13993,12 +14041,14 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:61:1895
 # text = istor
+# text[eng] = story
 # text[fra] = histoire
 # labels = to_check
 1	Istor	istor	NOUN	n	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 
 # sent_id = wikipedia.vislcg.txt:62:1903
 # text = Ar ouenn goshañ anezhe a zo bet kavet en Afrika.
+# text[eng] = Their oldest race was found in Africa.
 # text[fra] = Leur plus ancienne race a été trouvée en Afrique.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -14019,6 +14069,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:63:1931
 # text = Ur sindikad zo kevredigezh ur c’houch tud ha prevez, dizalc’h e-keñver ar Stad met anavezet ganti, ha renet gant un teskad lezennoù.
+# text[eng] = A trade union is a group of natural and legal persons, independent of the State but recognized by it, and governed by a set of laws.
 # text[fra] = Un syndicat est un groupement de personnes physiques et morales, indépendants de l'État mais reconnu par lui, et régi par un ensemble de lois.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
@@ -14051,6 +14102,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:64:1986
 # text = Gant al lodenn all ez eus kaoz eus gouzout tout a-fet Mab-Den, anvet douaroniezh denel.
+# text[eng] = The other part concerns everything related to humans, called human geography.
 # text[fra] = L'autre partie concerne tout ce qui touche à l'humain, nommée géographie humaine.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	3	case	_	_
@@ -14072,6 +14124,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:65:2022
 # text = Abaoe an Dispac'h gall ez eo deuet war-wel ur sell nevez evit renkañ ar strolladoù politikel hag an dud hervez al liv politikel warno.
+# text[fra] = Since the French Revolution, a new way of looking at the political spectrum and classifying people according to their political color has emerged.
 # text[fra] = Depuis la Révolution française est apparue une nouvelle manière d'envisager le spectre politique et de classer les gens selon leur couleur politique.
 # labels = to_check
 1	Abaoe	abaoe	ADP	pr	_	3	case	_	_
@@ -14104,6 +14157,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:66:2077
 # text = emdroadur ar yezh
+# text[eng] = language evolution
 # text[fra] = l'évolution de la langue
 # labels = to_check
 1	Emdroadur	emdroadur	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -14112,6 +14166,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:67:2089
 # text = Ar saozneg zo ur yezh c'hermanek hag a zo bet edan levezon ar galleg e meur a goulz.
+# text[eng] = English is a Germanic language which has been under the influence of French at various times.
 # text[fra] = L'anglais est une langue germanique qui s'est trouvée sous l'influence du français à plusieurs périodes.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -14136,6 +14191,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:68:2131
 # text = Hañval-bras ouzh hini ar brezhoneg eo ereadurezh ar c'herneveureg.
+# text[eng] = Cornish syntax is very similar to Breton.
 # text[fra] = La syntaxe du cornique est très similaire à celle du breton.
 # labels = to_check
 1-2	Hañval-bras	_	_	_	_	_	_	_	_
@@ -14153,6 +14209,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:69:2156
 # text = Komzet e vez kembraeg e Kembre, gant war-dro 611 000 den (da lavaret eo tremen 22% eus tud ar vro).
+# text[eng] = Welsh is spoken in Wales, by approximately 611,000 people (i.e. over 22% of the population).
 # text[fra] = Le gallois est parlé au Pays de Galles, par environ 611 000 personnes (c’est-à-dire plus de 22% de la population).
 # labels = to_check
 1	Komzet	komz	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14182,6 +14239,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:70:2208
 # text = Komzet e vez kembraeg e Bro-Saoz gant tost da 150 000 a dud.
+# text[eng] = Welsh is spoken in England by nearly 150,000 people.
 # text[fra] = Le gallois est parlé en Angleterre par près de 150 000 personnes.
 # labels = to_check
 1	Komzet	komz	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14201,6 +14259,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:71:2240
 # text = Stummoù kozh ar c'hembraeg zo anavezet mat.
+# text[eng] = Old forms of Welsh are well known.
 # text[fra] = Les formes anciennes du gallois sont bien connues.
 # labels = to_check
 1	Stummoù	stumm	NOUN	n	Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -14214,6 +14273,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:72:2260
 # text = Komzet e vez bemdez gant miliadoù ha miliadoù a dud ha gwelet e vez e pep lec’h e Kembre.
+# text[eng] = It is spoken by thousands and thousands of people every day and can be seen all over Wales.
 # text[fra] = Il est parlé tous les jours par des milliers et des milliers de gens et est visible partout au Pays de Galles.
 # labels = to_check
 1	Komzet	komz	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14239,6 +14299,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:73:2304
 # text = Rankout a ra an aozadurioù foran prientiñ ha kas da benn ur steuñv yezh.
+# text[eng] = Public organizations should design and implement language planning.
 # text[fra] = Les organisations publiques doivent concevoir et réaliser une planification linguistique.
 # labels = to_check
 1	Rankout	rankout	AUX	vblex	VerbForm=Inf	7	aux	_	_
@@ -14259,6 +14320,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:74:2338
 # text = Gant strollegezhioù lec’hel ha gant Bodadenn Kembre e vez implijet ar c’hembraeg evel ur yezh ofisiel, oc’h embann skridoù er yezh-se ha dleout a rafe an holl banelloù hent e Kembre bezañ e kembraeg hag e saozneg.
+# text[eng] = Welsh is used as an official language by local authorities and by the Assembly for Wales, which publishes writings in this language and all road signs in Wales should be in Welsh and English .
 # text[fra] = Le gallois est employé comme langue officielle par les collectivités locales et par l'Assemblée du Pays de Galles, qui publient des écrits en cette langue et tous les panneaux routiers du Pays de Galles devraient être en gallois et en anglais.
 # labels = to_check
 1	Gant	gant	ADP	pr	_	2	case	_	_
@@ -14305,6 +14367,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:75:2421
 # text = Kavout a reer kembraeg war ar Genrouedad ivez.
+# text[eng] = Welsh is also found on the Internet.
 # text[fra] = On trouve aussi du gallois sur Internet.
 # labels = to_check
 1	Kavout	kavout	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -14319,6 +14382,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:76:2443
 # text = Gwechall e oa kembraegerien unyezhek eus an holl Gembreiz, koulz lavaret.
+# text[eng] = Once all Welsh were monolingual Welsh speakers, so to speak.
 # text[fra] = Autrefois tous les gallois étaient galloisants monolingues, pour ainsi dire.
 # labels = to_check
 1	Gwechall	gwezhall	ADV	adv	_	9	advmod	_	_
@@ -14337,6 +14401,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:77:2473
 # text = E deroù an naontekvet kantved e oa, d’an nebeutañ, 80% eus an dud o komz kembraeg.
+# text[eng] = At the beginning of the nineteenth century, at least 80% of people spoke Welsh.
 # text[fra] = Au début du dix-neuvième siècle, au moins, 80% des gens parlaient gallois.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
@@ -14361,7 +14426,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:78:2515
 # text = Met gant an dispac’h greantel e voe desachet ur bern tud eus an diavaez da Su Kembre.
-# text[fra] = Mais la révolution industrielle attira un tas de gens de l'extérieur dans le Sud du Pays de Galles.
+# text[eng] = But the Industrial Revolution brought a lot of outsiders to South Wales.
+# text[fra] = Mais la révolution industrielle attira un tas de gens de l'extérieur dans le sud du Pays de Galles.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	8	cc	_	_
 2	gant	gant	ADP	pr	_	4	case	_	_
@@ -14384,6 +14450,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:79:2555
 # text = Kement-se a zegasas un diskar en dregantad a gembraegerien er rannvroioù-se, dre ma oa kresket ar boblañs eno en un taol.
+# text[eng] = This caused a decline in the percentage of Welsh speakers in these areas, since the population there had suddenly increased.
 # text[fra] = Cela provoqua un déclin dans le pourcentage de galloisants dans ces régions, puisque la population y avait augmenté subitement.
 # labels = to_check
 1	Kement-se	kement-se	PRON	prn	Number=Sing|PronType=Dem	3	nsubj	_	_
@@ -14417,6 +14484,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:80:2608
 # text = E niveradeg 1911 e voe embannet sifroù resis da live ar parrezioù.
+# text[eng] = The 1911 census published precise figures at parish level.
 # text[fra] = Le recensement de 1911 publia des chiffres précis au niveau des paroisses.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
@@ -14435,6 +14503,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:81:2638
 # text = Da gentañ e ranker menegiñ levezon al lezennoù evit unvaniñ Kembre ha Bro-Saoz e 1536 ha 1542.
+# text[eng] = Mention should first be made of the influence of the Acts for the Unification of Wales and England in 1536 and 1542.
 # text[fra] = On doit mentionner tout d'abord l'influence des lois pour l'unification du Pays de Galles et de l'Angleterre en 1536 et 1542.
 # labels = to_check
 1	Da	da	ADP	pr	_	2	case	_	_
@@ -14458,6 +14527,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:82:2678
 # text = Ar saozneg e oa ar yezh ofisiel nemeti e Kembre.
+# text[eng] = English was the only official language in Wales.
 # text[fra] = L'anglais était la seule langue officielle au Pays de Galles.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -14476,6 +14546,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:83:2705
 # text = Ha bremañ e ra Jañ-Mari war-dro an deñved eno.
+# text[eng] = And now Jean-Marie takes care of the sheep there.
 # text[fra] = Et maintenant Jean-Marie s'y occupe des moutons.
 # labels = to_check
 1	Ha	ha	CCONJ	cnjcoo	_	4	cc	_	_
@@ -14493,6 +14564,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:84:2733
 # text = E miz Gouhere 2013 e vo o kanañ en Erer Kozh, e Karaez.
+# text[eng] = In July 2013 she will sing at the "Vieilles Charrues" in Carhaix.
 # text[fra] = En juillet 2013 elle chantera aux "Vieilles Charrues" à Carhaix.
 # labels = to_check
 1	E	e	ADP	pr	_	3	case	_	_
@@ -14513,6 +14585,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:85:2767
 # text = E gwirionez e vez implijet ar skeul-se gant ur bern muzikoù er bed.
+# text[eng] = This scale is in fact used by many musics in the world.
 # text[fra] = Cette échelle est en fait employée par nombre de musiques dans le monde.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
@@ -14535,6 +14608,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:86:2802
 # text = Implijet eo ar japaneg gant 130 milion a dud, tout ar re zo bar vro.
+# text[eng] = Japanese is spoken by 130 million people, all residents of the country.
 # text[fra] = Le japonais est employé par 130 millions de personnes, tous les résidents du pays.
 # labels = to_check
 1	Implijet	implijout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14557,6 +14631,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:87:2840
 # text = Ar voudaegezh a vez kemeret a-wechoù evel prederouriezh pe evel ur relijion.
+# text[eng] = Buddhism is sometimes taken as a philosophy or as a religion.
 # text[fra] = Le bouddhisme est parfois pris comme philosophie ou comme religion.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -14575,6 +14650,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:88:2870
 # text = Kontet e vez 6 milion a Dibetaned ha 7,5 milion a Sinaiz ouzhpenn, deuet nevez 'zo.
+# text[eng] = There are 6 million Tibetans and 7.5 million more Chinese, newcomers.
 # text[fra] = On compte 6 millions de Tibétains et 7,5 millions de Chinois en plus, nouveaux-venus.
 # labels = to_check
 1	Kontet	kontañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14598,6 +14674,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:89:2910
 # text = Kelenn a reas dezhañ un anaoudegezh vat eus sevenadur broioù ar c'hornôg hag eus ar gevredigezh vodern, a-raok bezañ rediet da vont kuit e 1959.
+# text[eng] = She taught him a good knowledge of the culture of Western countries and modern society, before being forced to leave in 1959.
 # text[fra] = Elle lui enseigna une bonne connaissance de la culture des pays occidentaux et de la société moderne, avant être obligée de partir en 1959.
 # labels = to_check
 1	Kelenn	kelenn	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -14632,6 +14709,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:90:2969
 # text = Pemp devezh diwezhatoc'h e varvas diwar ul lamm-kalon d'an oad a 50 vloaz.
+# text[eng] = She died of a heart attack five days later at age 50.
 # text[fra] = Elle mourut d'une crise cardiaque cinq jours plus tard à l'âge à 50 ans.
 # labels = to_check
 1	Pemp	pemp	NUM	num	Number=Plur	2	nummod	_	_
@@ -14653,6 +14731,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:91:3002
 # text = Krouet eo bet holl an deskadurezh laik e Rannvro emren Tibet goude an dispac'h.
+# text[eng] = Secular education in the Tibet Autonomous Region was entirely created after the revolution.
 # text[fra] = L'enseignement laïque dans la Région autonome du Tibet a entièrement été créée après la révolution.
 # labels = to_check
 1	Krouet	krouiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14673,6 +14752,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:92:3036
 # text = Bout a ra 25 skol-uhel imbourc'h pa ne oa hini e 1950.
+# text[eng] = There are 25 research universities when there were none in 1950.
 # text[fra] = Il existe 25 universités de recherche quand n'y en avait aucune en 1950.
 # labels = to_check
 1	Bout	bezañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -14691,6 +14771,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:93:3066
 # text = Diskennet eo feur mervel ar vugale eus 43% e 1950 da 0,661% e 2000.
+# text[eng] = The infant mortality rate fell from 43% in 1950 to 0.661% in 2000.
 # text[fra] = Le taux de mortalité infantile est descendu de 43% en 1950 à 0,661% en 2000.
 # labels = to_check
 1	Diskennet	diskenn	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14711,6 +14792,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:94:3100
 # text = Savet eo ar spi da vevañ eus 35,5 bloaz e 1950 da 67 e 2000.
+# text[eng] = Life expectancy has increased from 35.5 years in 1950 to 67 in 2000.
 # text[fra] = L'espérance de vie a progressé de 35,5 ans en 1950 à 67 en 2000.
 # labels = to_check
 1	Savet	sevel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14732,6 +14814,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:95:3136
 # text = Lazhet e oa tud ha serret e oa Tibet d'an estrañjourien.
+# text[eng] = There were murders and Tibet was closed to foreigners.
 # text[fra] = Il y avait des meurtres et le Tibet était fermé aux étrangers.
 # labels = to_check
 1	Lazhet	lazhañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -14751,6 +14834,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:96:3165
 # text = Teir relijion a gaver e Tibet : ar voudaegezh, ar bon hag an islam.
+# text[eng] = There are three religions in Tibet: Buddhism, Bon and Islam.
 # text[fra] = Il existe trois religions au Tibet : le bouddhisme, le bön et l'islam.
 # labels = to_check
 1	Teir	tri	NUM	num	Gender=Fem|Number=Plur	2	nummod	_	_
@@ -14772,6 +14856,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:97:3201
 # text = N'eo ket diorroet brav an armerzh.
+# text[eng] = The economy is not well developed.
 # text[fra] = L'économie n'est pas bien développée.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -14785,7 +14870,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:98:3221
 # text = An urzhiataerezh pe ar "c'hompoderezh" eo ar skiant hag ar pleustr a denn d'an urzhiataerioù.
-# text[fra] = L'informatique ou la "computation" est la science et la pratique des ordinateurs.
+# text[eng] = Informatics or "computation" is the science and practice of computers.
+# text[fra] = L'informatique ou la "computation" est la science et la pratique attachée aux ordinateurs.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
 2	urzhiataerezh	urzhiataerezh	NOUN	n	Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -14810,6 +14896,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:99:3262
 # text = N'ouzer ket mat eus pelec'h e teue Nevenoe.
+# text[eng] = It is unclear where Nominoe came from.
 # text[fra] = On ne sait pas bien d'où venait Nominoe.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	2	advmod	_	SpaceAfter=No
@@ -14825,6 +14912,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:100:3286
 # text = Feal e chomas Nevenoe da Loeiz betek marv an impalaer e 840, met ne oa ket evit anavezout beli e vab pa n'en doa ket touet chom feal dezhañ.
+# text[eng] = Nominoe remained loyal to Louis until the emperor's death in 840, but he refused to recognize his son, to whom he had not sworn allegiance.
 # text[fra] = Nominoe resta fidèle à Louis jusqu'à la mort de l'empereur en 840, mais il refusa de reconnaître son fils, à qui il n'avait pas juré allégeance.
 # labels = to_check
 1	Feal	feal	ADJ	adj	_	3	xcomp	_	_
@@ -14863,6 +14951,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:101:3353
 # text = Trec'h e voe Nevenoe war Karl Voal, mab da Loeiz an Deol, en Emgann Ballon e-kichen Baen-Ballon e 845.
+# text[eng] = Nominoe defeated Charles Le Chauve, son of Louis the Pious, at the Battle of Ballon near Bains-sur-Oust in 845.
 # text[fra] = Nominoe vainquit Charles Le Chauve, fils de Louis le Pieux, à la Bataille de Ballon près de Bains-sur-Oust en 845.
 # labels = to_check
 1	Trec'h	trec’h	ADJ	adj	_	0	root	_	_
@@ -14892,6 +14981,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:102:3400
 # text = Ur werz (liester: "gwerzioù") a zo ur ganaouenn e brezhoneg hag a gont un istor.
+# text[eng] = A gwerz (plural: gwerzioù) is a song in Breton that tells a story.
 # text[fra] = Une gwerz (pluriel: gwerzioù) est une chanson en breton qui raconte une histoire.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
@@ -14918,6 +15008,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:103:3446
 # text = Yann-Fañch Kemener zo unan eus gwellañ kanerien hengounel a Vreizh.
+# text[eng] = Yann-Fañch Kemener is one of the best traditional singers in Brittany.
 # text[fra] = Yann-Fañch Kemener est un des meilleurs chanteurs traditionnels de Bretagne.
 # labels = to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
@@ -14936,6 +15027,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:104:3476
 # text = En em gavout a ra eno gant e gamaladed skol met ivez gant izili eus e familh, deuet eus pell.
+# text[eng] = He finds himself there with his school friends but also with members of his family, who have come from afar.
 # text[fra] = Il s'y retrouve avec ses camarades d'école mais aussi avec des membres de sa famille, venus de loin.
 # labels = to_check
 1	En	en	AUX	vpart	Reflex=Yes	3	aux	_	_
@@ -14963,6 +15055,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:105:3524
 # text = Hemañ a roas ar c'hentelioù kentañ hag a zeskas dezhe kanaouennoù ha tonioù.
+# text[eng] = This one gave the first lessons and taught them songs and melodies.
 # text[fra] = Celui-ci donna les premières leçons et leur apprit des chansons et des mélodies.
 # labels = to_check
 1	Hemañ	hemañ	PRON	prn	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
@@ -14984,6 +15077,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:106:3557
 # text = D'ar 26 a viz Gwengolo 2009 en deus resevet Yann-Fañch Kemener Urzh an Erminig.
+# text[eng] = Yann-Fañch Kemener received the Order of the Ermine on September 26, 2009.
 # text[fra] = Yann-Fañch Kemener a reçu l'Ordre de l'Hermine le 26 septembre 2009.
 # labels = to_check
 1-2	D'ar	_	_	_	_	_	_	_	_
@@ -15007,6 +15101,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:107:3594
 # text = Ar c'heginañ eo an doare da aozañ boued evit magañ an dud.
+# text[eng] = Cooking is the way of preparing food for human consumption.
 # text[fra] = La cuisine est la manière de préparer la nourriture pour l'alimentation humaine.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -15025,6 +15120,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:108:3624
 # text = Meur a bred a ra an den bemdez.
+# text[eng] = One eats several times a day.
 # text[fra] = On mange plusieurs fois par jour.
 # labels = to_check
 1	Meur	meur	X	x	_	2	dep	_	_
@@ -15039,6 +15135,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:109:3646
 # text = Aozet e vez ar predoù-se gant ur c'heginer.
+# text[eng] = These meals are organized by a cook.
 # text[fra] = Ces repas sont organisés par un cuisinier.
 # labels = to_check
 1	Aozet	aozañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
