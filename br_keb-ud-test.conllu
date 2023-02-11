@@ -12965,6 +12965,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:10:184
 # text = Miliadoù a dud yaouank (16 345 e 2015) a ya da skolioù seurt-se adal ar skol-vamm betek fin al lise.
+# text[eng] = Thousands of young people (16,345 in 2015) are educated in such schools from kindergarten to the end of high school.
 # text[fra] = Des milliers de jeunes (16 345 en 2015) sont scolarisés dans de telles écoles de la maternelle jusqu’à la fin du lycée.
 # labels = to_check
 1	Miliadoù	miliad	NOUN	n	Gender=Masc|Number=Plur	11	nsubj	_	_
@@ -12993,6 +12994,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:11:234
 # text = Dre an daolenn dindan e c'haller gwelet ar pezh zo heñvel etre brezhoneg (hini Gwened ha KLT) ha kerneveureg, gallaoueg ha galleg.
+# text[eng] = We can see in the table below the similarities between Breton (Vannetais and KLT) and Cornish, Gallo and French.
 # text[fra] = On peut voir dans le tableau ci-dessous les similarités entre le breton (Vannetais et KLT) et le cornique, le gallo et le français.
 # labels = to_check
 1	Dre	dre	ADP	pr	_	3	case	_	_
@@ -13023,6 +13025,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:12:288
 # text = A-benn talañ ouzh an diouer a gelennerien stummet war an deskadurezh vrezhoneg ez eus bet krouet yalc'hadoù gant ar rannvroioù hag ar c'huzul bro.
+# text[eng] = Regions and cantons have created scholarships to address the shortage of teachers trained in teaching in the Breton language.
 # text[fra] = Les régions et les cantons ont créé des bourses pour parer au manque d'enseignants formés en enseignement brittophone.
 # labels = to_check
 1	A-benn	a-benn	ADP	pr	_	2	case	_	_
