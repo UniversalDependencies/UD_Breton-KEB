@@ -10979,6 +10979,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:83:2308
 # text = Ne c'haller ket lenn ur perzh skrivañ hepken.
+# text[eng] = Unable to read single write property.
 # text[fra] = Impossible de lire une propriété d'écriture unique.
 # labels = to_check opab_parallel
 1	Ne	ne	ADV	adv	Polarity=Neg	2	advmod	_	_
@@ -10993,6 +10994,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:84:2330
 # text = Unan eus ho kontoù pe meur a gont a gas ar c'hemennadoù nevez d'ar restr roadennoù-mañ.
+# text[eng] = One or more of your accounts send new messages to this data file.
 # text[fra] = Un ou plusieurs de vos comptes envoient les nouveaux messages dans ce fichier de données.
 # labels = to_check opab_parallel
 1	Unan	unan	NUM	num	Number=Sing	10	nsubj	_	_
@@ -11018,7 +11020,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:85:2371
 # text = Evel-se e tiwaller na vefe paouezet ho roll gant embanner un deiziadur Kenrouedad.
-# text[fra] = Ceci permet d'éviter la suspension éventuelle de votre liste par l'éditeur d'un éphéméride Internet.
+# text[eng] = This avoids the possible suspension of your list by the publisher of an Internet ephemeris.
+# text[fra] = Ceci permet d'éviter la suspension éventuelle de votre liste par l'éditeur d'une éphéméride Internet.
 # labels = to_check opab_parallel
 1	Evel-se	evel-se	ADV	adv	_	3	dep	_	_
 2	e	e	AUX	vpart	_	3	aux	_	_
@@ -11037,6 +11040,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:86:2403
 # text = kevreañ ouzh ur servijer LDAP evit klask ha gwiriañ ar chomlec'hioù postel ha titouroù all
+# text[eng] = connect to an LDAP server to search and verify email addresses and other information
 # text[fra] = se connecter à un serveur LDAP pour rechercher et vérifier les adresses de messagerie et autres informations
 # labels = to_check opab_parallel
 1	kevreañ	kevreañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -11057,6 +11061,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:87:2439
 # text = Gant ar servijer-mañ e vez goulennet diganin kevreañ.
+# text[eng] = This server requires me to log in.
 # text[fra] = Ce serveur exige que je me connecte.
 # labels = to_check opab_parallel
 1	Gant	gant	ADP	pr	_	3	case	_	_
@@ -11074,6 +11079,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:88:2462
 # text = Kefluniet brav eo ho kont postel evit implijout.
+# text[eng] = Your email account is correctly configured for use.
 # text[fra] = Votre compte de messagerie est correctement configuré pour l'utilisation.
 # labels = to_check opab_parallel
 1	Kefluniet	kefluniañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11088,6 +11094,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:89:2482
 # text = An titouroù a eskemmit gant al lec'hienn-mañ ne c'hallont ket bezañ lennet pe cheñchet gant implijerien all.
+# text[eng] = The information you exchange with this site cannot be viewed or modified by other users.
 # text[fra] = Les informations que vous échangez avec ce site ne peuvent pas être consultées ou modifiées par d'autres utilisateurs.
 # labels = to_check opab_parallel
 1	An	an	DET	det	_	2	det	_	_
@@ -11112,6 +11119,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:90:2524
 # text = Skriverezit anv ar voest posteloù en deus kefluniet ho merour evidoc'h.
+# text[eng] = Type the name of the mailbox that the administrator has set up for you.
 # text[fra] = Tapez le nom de la boîte aux lettres que l'administrateur a configurée pour vous.
 # labels = to_check opab_parallel
 1	Skriverezit	skriverezañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -11131,6 +11139,7 @@ text[eng] = Salt, pepper.
 # sent_id = oab.vislcg.txt:91:2551
 # text = Peurliesañ e klot anv ar voest posteloù gant hoc'h anv implijer.
 # text[spa] = Generalmente el nombre de buzón de correos corresponde a tu nombre de usuario.
+# text[eng] = Most of the time, your mailbox name and username match.
 # text[fra] = La plupart du temps, le nom de votre boite mail et votre nom d'utilisateur concordent.
 # labels = to_check opab_parallel
 1	Peurliesañ	peurliesañ	ADV	adv	_	3	advmod	_	_
@@ -11148,6 +11157,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:92:2579
 # text = Pouezit war F1 evit kaout skoazell war ar voest kendiviz.
+# text[eng] = Press F1 for dialog help.
 # text[fra] = Appuyez sur F1 pour obtenir de l'aide sur la boîte de dialogue.
 # labels = to_check opab_parallel
 1	Pouezit	pouezañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -11164,6 +11174,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:93:2603
 # text = eilañ ar grafik
+# text[eng] = copy graphic
 # text[fra] = copier le graphique
 # labels = to_check opab_parallel
 1	eilañ	eilañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -11172,6 +11183,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:94:2613
 # text = Un destenn erlec'hiañ a vez implijet ivez evit an dud nammet.
+# text[eng] = We also use an alternative text for people with disabilities.
 # text[fra] = On utilise aussi un texte de remplacement pour les personnes handicapées.
 # labels = to_check opab_parallel
 1	Un	un	DET	det	_	2	det	_	_
@@ -11189,6 +11201,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:95:2641
 # text = N'eo ket implijet ar perzh-mañ gant ahel an talvoudoù.
+# text[eng] = This property is not used by value axes.
 # text[fra] = Cette propriété n'est pas utilisée par les axes de valeurs.
 # labels = to_check opab_parallel
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -11206,6 +11219,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:96:2669
 # text = N'eo ket implijet ar perzh-mañ gant ahel ar rummadoù.
+# text[eng] = This property is not used by category axes.
 # text[fra] = Cette propriété n'est pas utilisée par les axes de catégories.
 # labels = to_check opab_parallel
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -11223,6 +11237,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:97:2697
 # text = takad testenn
+# text[eng] = text area
 # text[fra] = zone de texte
 # labels = to_check opab_parallel
 1	takad	takad	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -11230,6 +11245,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:99:2713
 # text = kemmañ ar bannoù hag an arventennoù
+# text[eng] = modify columns and parameters
 # text[fra] = modifier les colonnes et les paramètres
 # labels = to_check opab_parallel
 1	kemmañ	kemmañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -11241,12 +11257,14 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:100:2729
 # text = 5
+# text[eng] = 5
 # text[fra] = 5
 # labels = to_check opab_parallel
 1	5	5	NUM	num	Number=Plur	0	root	_	SpaceAfter=No
 
 # sent_id = oab.vislcg.txt:101:2737
 # text = Klikit war Echuiñ evit krouiñ danevell an daolenn kroaziet dinamek.
+# text[eng] = Click Finish to create the pivot table report.
 # text[fra] = Cliquez sur Terminer pour créer le rapport de tableau croisé dynamique.
 # labels = to_check opab_parallel
 1	Klikit	klikañ	VERB	vblex	Number=Plur|Person=2	0	root	_	_
@@ -11263,6 +11281,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:102:2763
 # text = mirout ar c'hemmoù enrollet dija
+# text[eng] = keep changes already saved
 # text[fra] = conserver les modifications déjà enregistrées
 # labels = to_check opab_parallel
 1	mirout	mirout	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -11273,6 +11292,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:103:2777
 # text = Ha c'hoant hoc'h eus da gefluniañ ur gont postel ?
+# text[eng] = Do you want to set up an email account?
 # text[fra] = Voulez-vous configurer un compte de messagerie ?
 # labels = to_check opab_parallel
 1	Ha	ha	CCONJ	cnjcoo	_	3	cc	_	_
@@ -11287,6 +11307,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:104:2799
 # text = Peurliesañ ho po c'hoant da virout ar reolennoù war ar servijer.
+# text[eng] = Most of the time you want to keep the rules on the server.
 # text[fra] = Vous voudrez la plupart du temps garder les règles sur le serveur.
 # labels = to_check opab_parallel
 1	Peurliesañ	peurliesañ	ADV	adv	_	2	advmod	_	_
@@ -11303,6 +11324,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:105:2825
 # text = Ha c'hoant hoc'h eus da verañ ho rolloù kaserien berzet bremañ ?
+# text[eng] = Do you now want to manage your spam lists?
 # text[fra] = Voulez-vous maintenant gérer vos listes des expéditeurs indésirables ?
 # labels = to_check opab_parallel
 1	Ha	ha	CCONJ	cnjcoo	_	3	cc	_	_
@@ -11319,6 +11341,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:106:2851
 # text = Merañ ar rolloù...
+# text[eng] = Manage lists...
 # text[fra] = Gérer les listes...
 # labels = to_check opab_parallel
 1	Merañ	merañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -11328,6 +11351,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:107:2863
 # text = Logo / Galloud
+# text[eng] = Logo / Power
 # text[fra] = Logo / Pouvoir
 # labels = to_check opab_parallel
 1	Logo	logo	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -11336,6 +11360,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:108:2873
 # text = E-kreiz ar reuz e voe kreñvaet o galloud gant an Duged ha krouet un danvez Stad vodern.
+# text[eng] = In the midst of these difficulties, the new ducal power grew stronger and created an embryo of a modern state.
 # text[fra] = Au milieu de ces difficultés, le nouveau pouvoir ducal se renforça et façonna un embryon d’État moderne.
 # labels = to_check opab_parallel
 1	E-kreiz	e-kreiz	ADP	pr	_	3	case	_	_
@@ -11359,6 +11384,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:109:2913
 # text = Kevredigezh Breizh dindan ar Renad Kozh
+# text[eng] = Breton society under the Ancien Régime
 # text[fra] = La société bretonne sous l'Ancien Régime
 # labels = to_check opab_parallel
 1	Kevredigezh	kevredigezh	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -11370,6 +11396,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:110:2929
 # text = Ur vro zo pinvidik a wazed hag a vaouezed.
+# text[eng] = A country is rich in men and women.
 # text[fra] = Un pays est riche d'hommes et de femmes.
 # labels = to_check opab_parallel
 1	Ur	un	DET	det	_	2	det	_	_
@@ -11385,6 +11412,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:111:2951
 # text = Brasaet e voe ar c'hastell hag adsavet e voe moger-dro kêr a-raok he astenn.
+# text[eng] = The castle was enlarged and the city wall was rebuilt and extended.
 # text[fra] = Le château fut agrandi et l'enceinte urbaine fut reconstruite et étendue.
 # labels = to_check opab_parallel
 1	Brasaet	brasaat	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11405,6 +11433,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:112:2985
 # text = Evit adkregiñ ganti, pouezit adarre war an douchenn PAUSE-se.
+# text[eng] = To resume it, press that PAUSE key again.
 # text[fra] = Pour la reprendre, appuyez à nouveau sur cette touche PAUSE.
 # labels = to_check opab_parallel
 1	Evit	evit	ADP	pr	_	2	case	_	_
@@ -11424,6 +11453,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:113:3014
 # text = Gouestlet eo ar werenn-mañ d'ar binvioù merdeiñ.
+# text[eng] = This showcase is dedicated to navigation instruments.
 # text[fra] = Cette vitrine est consacrée aux instruments de navigation.
 # labels = to_check opab_parallel
 1	Gouestlet	gouestlañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11440,6 +11470,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:114:3037
 # text = Gouestlet eo an eil gwerenn e-kreiz da ensavadurioù ar c'henwerzh ha d' ar c'huzul-kêr.
+# text[eng] = The second showcase in the center is devoted to trading institutions and the municipality.
 # text[fra] = La deuxième vitrine au centre est consacrée aux institutions du négoce et à la municipalité.
 # labels = to_check opab_parallel
 1	Gouestlet	gouestlañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11460,6 +11491,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:115:3071
 # text = Dindan un nebeud bloavezhioù eo deuet Sant-Nazer da vezañ porzh bras an aber ha keveziñ a ra ouzh Naoned.
+# text[eng] = In a few years, Saint-Nazaire has become the major port of the estuary and it competes with Nantes.
 # text[fra] = En quelques années, Saint-Nazaire est devenu le grand port de l'estuaire et il concurrence Nantes.
 # labels = to_check opab_parallel
 1	Dindan	dindan	ADP	pr	_	3	case	_	_
@@ -11485,6 +11517,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:116:3115
 # text = D'ar greanterezhioù nevez eo gouestlet ar peurrest eus ar sal.
+# text[eng] = The rest of the room is devoted to new industries.
 # text[fra] = Le reste de la salle est consacré aux nouvelles industries.
 # labels = to_check opab_parallel
 1-2	D'ar	_	_	_	_	_	_	_	_
@@ -11503,6 +11536,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:117:3142
 # text = Evit pennadurezhioù Frañs libr eo ret adsevel ar porzh a-raok pep tra.
+# text[eng] = For the authorities of Free France, the priority is the reconstruction of the port.
 # text[fra] = Pour les autorités de la France libre, la priorité est la reconstruction du port.
 # labels = to_check opab_parallel
 1	Evit	evit	ADP	pr	_	2	case	_	_
@@ -11521,6 +11555,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:118:3172
 # text = An douvezioù, ar porzh hag an hent-ged a c'haller gweladenniñ digoust.
+# text[eng] = The moat, courtyard and walkway are freely accessible.
 # text[fra] = Les douves, la cour et le chemin de ronde sont en accès libre.
 # labels = to_check opab_parallel
 1	An	an	DET	det	_	2	det	_	_
@@ -11539,6 +11574,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:119:3202
 # text = niv. d'ober war an douchennaoueg
+# text[eng] = number to dial on your keyboard
 # text[fra] = n° à composer sur votre clavier
 # labels = to_check opab_parallel
 1	niv.	niv.	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -11550,6 +11586,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:120:3218
 # text = 2602 Porzh Naoned e 1914
+# text[eng] = 2602 The port of Nantes in 1914
 # text[fra] = 2602 Le port de Nantes en 1914
 # labels = to_check opab_parallel
 1	2602	2602	NUM	num	Number=Plur	2	parataxis	_	_
@@ -11560,6 +11597,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:121:3232
 # text = 2803 Amprest evit adsevel porzh Naoned
+# text[eng] = 2803 Loan for the reconstruction of the port
 # text[fra] = 2803 Emprunt pour la reconstruction du port
 # labels = to_check opab_parallel
 1	2803	2803	NUM	num	Number=Plur	2	parataxis	_	_
@@ -11571,6 +11609,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:122:3248
 # text = Gwezharall e talveze ar Blavezh da harzoù naturel er c'hornôg d'ar gêr.
+# text[eng] = The Blavet to the west of the city once served as a natural border.
 # text[fra] = Le Blavet à l'ouest de la ville servait jadis de frontière naturelle.
 # labels = to_check opab_parallel
 1	Gwezharall	gwezhall	ADV	adv	_	3	advmod	_	_
@@ -11593,6 +11632,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:123:3280
 # text = gounidegezh an annezidi, live an tailhoù, kresk ar boblañs ha kresk niver an implijoù
+# text[eng] = the income of the inhabitants, the level of taxes, the increase in population and the increase in the number of jobs
 # text[fra] = le revenu des habitants, le niveau des impôts, l'augmentation de population et l'augmentation du nombre d'emplois
 # labels = to_check opab_parallel
 1	gounidegezh	gounidegezh	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -11614,6 +11654,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:124:3318
 # text = Galvet e vo ar poloù kevezusted, an embregerezhioù, ar poellgorioù rannvro, ar c'hreizennoù skiantel, an ensavadurioù enklask hag an obererien sevenadurel dave, da ziskouez o skiant-prenet war an tachennoù-se.
+# text[eng] = Empirical experience of competitiveness clusters, businesses, regional committees, scientific centres, research institutes and cultural players that are references in these fields will be called upon.
 # text[fra] = Il sera fait appel à l'expérience empirique des pôles de compétitivité, des entreprises, des comités régionaux, des centres scientifiques, des instituts de recherche et des acteurs culturels faisant référence dans ces domaines.
 # labels = to_check opab_parallel
 1	Galvet	gelver	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11655,6 +11696,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:125:3394
 # text = Peseurt palioù zo d'ar Gevrat-se ?
+# text[eng] = What are the objectives of this Contract?
 # text[fra] = Quels sont les objectifs de ce Contrat ?
 # labels = to_check opab_parallel
 1	Peseurt	peseurt	DET	adj	PronType=Int	2	det	_	_
@@ -11669,6 +11711,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:126:3413
 # text = 37 gwazour o doa embannet o youl da luskañ an argerzh-se war o zachenn barregezh ha bremañ e kemeront perzh da gas ar c'houlzad war-raok ;
+# text[eng] = 37 agents have declared themselves volunteers to lead this approach in their field of expertise and are now participating in the progress of the operation;
 # text[fra] = 37 agents se sont déclarés volontaires pour animer cette démarche dans leur champ de compétences et participent aujourd'hui à la progression de l'opération ;
 # labels = to_check opab_parallel
 1	37	37	NUM	num	Number=Plur	2	nummod	_	_
@@ -11700,6 +11743,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:127:3469
 # text = - termeniñ kevelerien a c'hallfe bezañ war dachenn al labour-douar padus
+# text[eng] = - identify potential partners in sustainable agriculture
 # text[fra] = - identifier des partenaires potentiels en matière d'agriculture durable
 # labels = to_check opab_parallel
 1	-	-	PUNCT	guio	_	2	punct	_	_
@@ -11716,6 +11760,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:128:3497
 # text = War dachenn ar sevenadur e vo broudet an div Rannvro da zizoleiñ holl dachennoù krouidigezh sevenadurel an eil hag eben.
+# text[eng] = In the cultural field, the two Regions will be encouraged to discover all the fields of cultural creation from each other.
 # text[fra] = Dans le domaine culturel, les deux Régions seront incitées à découvrir l'une de l'autre tous les domaines de la création culturelle.
 # labels = to_check opab_parallel
 1	War	war	ADP	pr	_	2	case	_	_
@@ -11742,6 +11787,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:129:3543
 # text = Laouen on get an emdroadur-se.
+# text[eng] = I welcome this development.
 # text[fra] = Je me réjouis de cette évolution.
 # labels = to_check opab_parallel
 1	Laouen	laouen	ADJ	adj	_	0	root	_	_
@@ -11754,6 +11800,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:130:3561
 # text = Ha c’hoant hoc'h eus da virout kambreier ?
+# text[eng] = Do you want to book rooms?
 # text[fra] = Désirez-vous réserver des chambres ?
 # labels = to_check opab_parallel
 1	Ha	ha	CCONJ	cnjcoo	_	3	cc	_	_
@@ -11766,6 +11813,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:131:3579
 # text = Ha c’hoant hoc’h eus da virout predoù ?
+# text[eng] = Do you want to book meals?
 # text[fra] = Désirez-vous réserver des repas ?
 # labels = to_check opab_parallel
 1	Ha	ha	CCONJ	cnjcoo	_	3	cc	_	_
@@ -11778,6 +11826,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:132:3597
 # text = 2002 Lidañ a reer digoradur ar framm touristel degemer « Douar an Holen »
+# text[eng] = 2002 Inauguration of the “Terre de Sel” tourist reception structure
 # text[fra] = 2002 Inauguration de la structure touristique d’accueil « Terre de Sel »
 # labels = to_check opab_parallel
 1	2002	2002	NUM	num	Number=Plur	2	parataxis	_	_
@@ -11797,6 +11846,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:133:3629
 # text = KINNIG DEOC'H DISKOULMOÙ PERSONELAET
+# text[eng] = OFFER YOU PERSONALIZED SOLUTIONS
 # text[fra] = VOUS OFFRIR DES SOLUTIONS PERSONNALISEES
 # labels = to_check opab_parallel
 1	KINNIG	kinnig	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -11808,6 +11858,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:134:3642
 # text = keodedourien, strollegezhioù, obererien armerzhel...
+# text[eng] = citizens, local authorities, economic actors…
 # text[fra] = citoyens, collectivités, acteurs économiques…
 # labels = to_check opab_parallel
 1	keodedourien	keodedour	NOUN	n	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
@@ -11820,6 +11871,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:135:3660
 # text = Skoazellet e vez mont en-dro ar gevredigezh gant ar Rannvro hag emañ goprad ar gevredigezh gant un implij kevredigezhel a laz rannvroel.
+# text[eng] = The Region provides the association with operational support and the employee of the association is on an associative job of regional interest.
 # text[fra] = La Région apporte à l'association un soutien au fonctionnement et le salarié de l'association est sur un emploi associatif d'intérêt régional.
 # labels = to_check opab_parallel
 1	Skoazellet	skoazellañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11848,6 +11900,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:136:3710
 # text = Kinnig ar gêr pe ar vro
+# text[eng] = Introduce the city or the country
 # text[fra] = Présenter la ville ou le pays
 # labels = to_check opab_parallel
 1	Kinnig	kinnig	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -11859,6 +11912,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:137:3726
 # text = Saverion bennañ àr o zachenn
+# text[eng] = Leading manufacturers in their field
 # text[fra] = Des constructeurs leaders dans leur domaine
 # labels = to_check opab_parallel
 1	Saverion	saver	NOUN	n	Gender=Masc|Number=Plur	0	root	_	_
@@ -11869,6 +11923,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:138:3740
 # text = Ur gorread leur a 350 m² a vo da bep hini hag hañval e vo o framm.
+# text[eng] = Of similar structure, they will each have a floor area of 350 m².
 # text[fra] = De structures similaires, ils disposeront chacun d'une surface au sol de 350 m².
 # labels = to_check opab_parallel
 1	Ur	un	DET	det	_	2	det	_	_
@@ -11892,6 +11947,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:139:3780
 # text = Laouen eo kêr Wened o kinnig deoc'h he lec'hienn Internet nevez.
+# text[eng] = The city of Vannes is pleased to present its new website.
 # text[fra] = La ville de Vannes est heureuse de vous présenter son nouveau site Internet.
 # labels = to_check opab_parallel
 1	Laouen	laouen	ADJ	adj	_	0	root	_	_
@@ -11911,6 +11967,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:140:3809
 # text = Kinnig a ra al lec'hienn deoc'h un dorikell c'halloudel evit ho tifraeoù melestradurel.
+# text[eng] = The site offers you a virtual counter for access to administrative procedures.
 # text[fra] = Le site vous propose un guichet virtuel d'accès aux démarches administratives.
 # labels = to_check opab_parallel
 1	Kinnig	kinnig	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -11932,6 +11989,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:141:3842
 # text = Kargoù ar maer
+# text[eng] = The functions of the mayor
 # text[fra] = Les fonctions du maire
 # labels = to_check opab_parallel
 1	Kargoù	karg	NOUN	n	Gender=Fem|Number=Plur	0	root	_	_
@@ -11940,6 +11998,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:142:3852
 # text = Ul lec'h evit kinnigoù hag eskemmoù eo ivez.
+# text[eng] = They are also a place for proposals and exchanges.
 # text[fra] = Elles sont également un lieu de propositions et d'échanges.
 # labels = to_check opab_parallel
 1	Ul	un	DET	det	_	2	det	_	_
@@ -11954,6 +12013,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:143:3874
 # text = Aezamant 28° eo gwrezverk dour ar poull sport.
+# text[eng] = Comfort The water temperature in the sports pool is 28°.
 # text[fra] = Confort La température de l'eau du bassin sportif est de 28°.
 # labels = to_check opab_parallel
 1	Aezamant	aezamant	NOUN	n	Gender=Masc|Number=Sing	2	parataxis	_	_
@@ -11968,6 +12028,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:144:3896
 # text = Ag ar mammennoù d'ar c'hogoù
+# text[eng] = From source to tap
 # text[fra] = De la source au robinet
 # labels = to_check opab_parallel
 1	Ag	a	ADP	pr	_	3	case	_	_
@@ -11980,6 +12041,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:145:3911
 # text = Graet e vezont àr standilhonoù dastumet àr-eeun diouzh ar c'hogoù.
+# text[eng] = They are made on samples taken directly from the tap.
 # text[fra] = Ils sont réalisés sur des échantillons prélevés directement au robinet.
 # labels = to_check opab_parallel
 1	Graet	ober	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11996,6 +12058,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:146:3937
 # text = ■ 60 tonennad produioù da naetaat marc'hadoù hag abadennoù.
+# text[eng] = ■ 60 tonnes of cleaning products for markets and events.
 # text[fra] = ■ 60 tonnes de produits de nettoyage des marchés et manifestations.
 # labels = to_check opab_parallel
 1	■	■	PUNCT	sent	_	3	punct	_	_
@@ -12011,6 +12074,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:147:3961
 # text = Labourioù diouzh ar c'houlz (karter ar porzh) ha dreistordinal a vez graet alies.
+# text[eng] = Seasonal (port sector) and exceptional operations are organized frequently.
 # text[fra] = Des opérations saisonnières (secteur du port) et exceptionnelles sont organisées fréquemment.
 # labels = to_check opab_parallel
 1	Labourioù	labour	NOUN	n	Gender=Masc|Number=Plur	14	nsubj	_	_
@@ -12032,6 +12096,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:148:3997
 # text = Ho kont
+# text[eng] = Your account
 # text[fra] = Votre compte
 # labels = to_check opab_parallel
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
@@ -12039,6 +12104,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:149:4005
 # text = Deiziataer ar c'hevredigezhioù
+# text[eng] = Agenda of associations
 # text[fra] = Agenda des associations
 # labels = to_check opab_parallel
 1	Deiziataer	deiziataer	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -12047,6 +12113,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:150:4015
 # text = Klask un abadenn
+# text[eng] = Find an event
 # text[fra] = Rechercher une manifestation
 # labels = to_check opab_parallel
 1	Klask	klask	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -12055,6 +12122,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:151:4025
 # text = - ar retredidi hag an dud oadet
+# text[eng] = - pensioners and elderly people
 # text[fra] = - les retraités et personnes âgées
 # labels = to_check opab_parallel
 1	-	-	PUNCT	guio	_	3	punct	_	_
@@ -12067,6 +12135,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:152:4045
 # text = Monet d'ar poull
+# text[eng] = Access to the basin
 # text[fra] = Accès au bassin
 # labels = to_check opab_parallel
 1	Monet	monet	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -12077,6 +12146,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:153:4056
 # text = E 1952 e oa daet da vout ezel ag ar Gevredigezh Liesdiskiblezh.
+# text[eng] = In 1952 he became a member of the Polymathic Society.
 # text[fra] = En 1952, il devint membre de la Société Polymathique.
 # labels = to_check opab_parallel
 1	E	e	ADP	pr	_	2	case	_	_
@@ -12095,6 +12165,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:154:4086
 # text = « Ar c'horn azasaet ouzh an dud e kadorioù-ruilh zo aveet gant skrammoù difer evit titouriñ ar veajourien ha dudiañ anezho.
+# text[eng] = “The space adapted for people in wheelchairs is specifically equipped with passenger and leisure information screens.
 # text[fra] = « L'espace adapté pour les personnes en fauteuil roulant est équipé spécifiquement d'écrans d'information voyageurs et loisirs.
 # labels = to_check opab_parallel
 1	«	«	PUNCT	lquot	_	11	punct	_	_
@@ -12122,6 +12193,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:155:4134
 # text = Reiñ a reont un neuz c'hwekoc'h d'an tren ha gallout a reer krouiñ kinkladurioù gouloù ganto. »
+# text[eng] = They make it possible to give a warmer aspect to the train and to create luminous decorations »
 # text[fra] = Elles permettent de donner un aspect plus chaleureux au train et de créer des décors lumineux »
 # labels = to_check opab_parallel
 1	Reiñ	reiñ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -12149,6 +12221,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:156:4176
 # text = pedadenn evit daou zen
+# text[eng] = invitation for two people
 # text[fra] = invitation pour deux personnes
 # labels = to_check opab_parallel
 1	pedadenn	pedadenn	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -12158,6 +12231,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:157:4190
 # text = Dibabet he deus Breizh ivez degas skoazell d'an deskadurezh uhel evit diorren ur c'hinnig stummañ kempouezet e-barzh ar vro.
+# text[eng] = Brittany has also chosen to support higher education in order to develop a balanced training offer in the territory.
 # text[fra] = La Bretagne a également choisi d'apporter son soutien à l'enseignement supérieur afin de développer une offre de formation équilibrée sur le territoire.
 # labels = to_check opab_parallel
 1	Dibabet	dibab	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -12184,6 +12258,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:158:4233
 # text = prezidant Kuzul-rannvro Breizh (PS)
+# text[eng] = President of the Regional Council of Brittany (PS)
 # text[fra] = président du Conseil régional de Bretagne (PS)
 # labels = to_check opab_parallel
 1	prezidant	prezidant	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -12195,6 +12270,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:159:4249
 # text = Un taol-chañs eo ar c'hresk poblañs-se.
+# text[eng] = This demographic progression is an opportunity.
 # text[fra] = Cette progression démographique est une chance.
 # labels = to_check opab_parallel
 1	Un	un	DET	det	_	2	det	_	_
@@ -12208,6 +12284,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:160:4269
 # text = a brient ar c'hinnigoù
+# text[eng] = prepare proposals
 # text[fra] = prépare les propositions
 # labels = to_check opab_parallel
 1	a	a	AUX	vpart	_	2	aux	_	_
@@ -12217,6 +12294,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:161:4281
 # text = Muioc'h-mui a dud a zebr boued bio.
+# text[eng] = More and more people are consuming organic.
 # text[fra] = De plus en plus de personnes consomment bio.
 # labels = to_check opab_parallel
 1	Muioc'h-mui	muioc’h-mui	ADV	adv	_	5	advmod	_	_
@@ -12230,6 +12308,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:162:4301
 # text = Sin vat eo.
+# text[eng] = This is a good sign.
 # text[fra] = C'est bon signe.
 # labels = to_check opab_parallel
 1	Sin	sin	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -12239,6 +12318,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:163:4313
 # text = Gant ur c'hresk a 35% eus ar veajourien dindan pemp bloaz, emañ Breizh e penn rannvroioù Frañs evit an TER.
+# text[eng] = With 35% growth in TER use in five years, Brittany ranks first among the regions of France.
 # text[fra] = Avec une croissance de fréquentation du TER de 35% en cinq ans, la Bretagne se classe en tête des régions de France.
 # labels = to_check opab_parallel
 1	Gant	gant	ADP	pr	_	3	case	_	_
@@ -12267,6 +12347,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:164:4363
 # text = En holl lec'hioù e c'hall mont an dud nammet.
+# text[eng] = All spaces are accessible to people with reduced mobility
 # text[fra] = L’ensemble des espaces est accessible aux personnes à mobilité réduite
 # labels = to_check opab_parallel
 1	En	e	ADP	pr	_	3	case	_	_
@@ -12282,6 +12363,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:165:4387
 # text = Evit tizhout ar pal-se e tleer suraat hag aesaat labour ar wazourien.
+# text[eng] = To achieve this objective, it is necessary to improve the level of security and comfort at work for agents.
 # text[fra] = Pour atteindre cet objectif, il est nécessaire d'améliorer le niveau de sécurité et de confort au travail des agents.
 # labels = to_check opab_parallel
 1	Evit	evit	ADP	pr	_	2	mark	_	_
@@ -12301,7 +12383,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:166:4419
 # text = An holl frammoù a sav kartennoù hetoù ha da gentañ holl evit lidañ ar bloavezh nevez.
-# text[fra] = Tous les organismes impriment des cartes de vœux et surtout pour souhaiter la bonne année.
+# text[eng] = All organizations print greeting cards and especially to wish a happy new year.
+# text[fra] = Tous les organismes impriment des cartes de vœux et particulièrement pour souhaiter la bonne année.
 # labels = to_check opab_parallel
 1	An	an	DET	det	_	3	det	_	_
 2	holl	holl	DET	predet	_	3	det	_	_
@@ -12323,6 +12406,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:167:4457
 # text = staliañ ar brezhoneg e diabarzh mont en-dro ho framm
+# text[eng] = install the Breton language at the heart of the functioning of your organization
 # text[fra] = installer la langue bretonne au cœur du fonctionnement de votre organisme
 # labels = to_check opab_parallel
 1	staliañ	staliañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -12337,7 +12421,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:168:4479
 # text = Ofis ar Brezhoneg a sav kontoù e zisoc'hoù eus ar 1añ a viz Genver d'ar 31añ a viz Kerzu.
-# text[fra] = L'Office de la Langue Bretonne établit ses comptes de résultats du 1er Janvier au 31 Décembre.
+# text[eng] = The Office de la Langue Bretonne draws up its income statements from January 1st to December 31st.
+# text[fra] = L'Office de la Langue Bretonne établit ses comptes de résultats du 1er janvier au 31 décembre.
 # labels = to_check opab_parallel
 1	Ofis	Ofis	X	x	_	3	dep	_	_
 2	ar	ar	X	x	_	3	dep	_	_
@@ -12364,7 +12449,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:169:4524
 # text = War-dro 5.000 den o doa lestret e bigi ar gompagnunezh-vor Penn-ar-Bed evit mont da Eusa, Sun ha Molenez e-kerzh an dibenn-sizhun Pask tremen.
-# text[fra] = Le dernier week-end de Pâques a vu près de 5.000 personnes embarquer avec la Compagnie maritime Penn ar Bed pour les îles de Ouessant, Sein et Molène.
+# text[eng] = The last Easter weekend saw nearly 5,000 people embark with the Compagnie maritime Penn ar Bed for the islands of Ouessant, Sein and Molène.
+# text[fra] = Le dernier week-end de Pâques a vu près de 5.000 personnes embarquer avec la Compagnie maritime Penn ar Bed pour les îles d'Ouessant, Sein et Molène.
 # labels = to_check opab_parallel
 1	War-dro	war-dro	ADV	adv	_	2	advmod	_	_
 2	5.000	5.000	NUM	num	Number=Plur	3	nummod	_	_
@@ -12395,6 +12481,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:170:4580
 # text = A-benn tizhout e balioù en doa disklêriet an emstriver sokialour e oa « a-du » evit krouiñ ministrerezh ar Mor.
+# text[eng] = To achieve these objectives, the socialist candidate declared himself "in favor" of the creation of a Ministry of the Sea.
 # text[fra] = Pour atteindre ces objectifs, le candidat socialiste s'est déclaré "favorable" à la création d'un ministère de la Mer.
 # labels = to_check opab_parallel
 1	A-benn	a-benn	ADP	pr	_	2	mark	_	_
@@ -12420,6 +12507,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:171:4624
 # text = « Ma'z on dilennet da brezidant ar Republik e vo degemeret mat ar c'hinnig-se ganin », en doa lavaret dirak 1.000 den bodet d'abardaez e Palez ar C'hendalc'hioù an Oriant.
+# text[eng] = "If I am elected President of the Republic, I will welcome such a proposal positively", he declared in front of 1,000 people gathered at the start of the evening at the Palais des Congrès in Lorient.
 # text[fra] = "Si je suis élu président de la République, j'accueillerai positivement une telle proposition", a-t-il déclaré devant 1.000 personnes réunies en début de soirée au palais des Congrès de Lorient.
 # labels = to_check opab_parallel
 1	«	«	PUNCT	lquot	_	11	punct	_	_
@@ -12459,7 +12547,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:172:4693
 # text = Ma'z ouzhpenner ar familh hag ar vignoned, pedet ur wezh an amzer, e tizher e-tro 3 milion den.
-# text[fra] = Si l'on ajoute la famille et les copains, invités occasionnels, ce total atteint dans les trois millions de personnes.
+# text[eng] = If we add occasional guests, family and friends, this total reaches three million people.
+# text[fra] = Si l'on ajoute les invités occasionnels, famille et amis, ce total atteint dans les trois millions de personnes.
 # labels = to_check opab_parallel
 1	Ma'z	ma	SCONJ	cnjsub	_	2	mark	_	_
 2	ouzhpenner	ouzhpennañ	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	16	advcl	_	_
@@ -12485,6 +12574,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:173:4739
 # text = Dedennet eo gant an deskadurezh ha kemer a ra perzh e kevredigezhioù a bep seurt a stourm evit stummañ ar re yaouank.
+# text[eng] = He is interested in the world of education and he is involved in various associations which campaign for the training of young people.
 # text[fra] = Il est intéressé par le monde de l'éducation et il est impliqué dans différentes associations qui militent pour la formation des jeunes.
 # labels = to_check opab_parallel
 1	Dedennet	dedennañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -12513,6 +12603,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:174:4789
 # text = Kement abadenn sevenadurel a denn da zanvez Breizh a vez brudet gant pedadennoù divyezhek.
+# text[eng] = Cultural events are the subject of systematic bilingual communication when they concern Breton themes.
 # text[fra] = Les manifestations culturelles font l’objet de communication bilingue systématique quand ils concernent des thèmes bretons.
 # labels = to_check opab_parallel
 1	Kement	kement	DET	det	Number=Sing	2	det	_	_
@@ -12533,6 +12624,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:175:4823
 # text = Al linenn reter-kornôg a zarempredo an takadoù annez, implij hag obererezh pennañ.
+# text[eng] = The east-west line will serve the main residential, employment and business sectors.
 # text[fra] = La ligne est-ouest desservira les principaux secteurs d’habitation, d’emploi et d’activité.
 # labels = to_check opab_parallel
 1	Al	an	DET	det	_	2	det	_	_
@@ -12554,6 +12646,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = oab.vislcg.txt:176:4859
 # text = Un aod traezh munut !
+# text[eng] = A fine sandy beach!
 # text[fra] = Une plage de sable fin !
 # labels = to_check opab_parallel
 1	un	un	DET	det	_	2	det	_	_
@@ -12564,6 +12657,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:1:0
 # text = P'edon war bont an Naoned, an deiz all o kanañ...
+# text[eng] = When I was singing the other day on the Nantes bridge...
 # text[fra] = Quand je chantais l'autre jour sur le pont de Nantes... 
 # labels = to_check song
 1-2	P'edon	_	_	_	_	_	_	_	_
@@ -12583,6 +12677,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:2:28
 # text = Me 'welas ur verjelenn war ar pont o ouelañ.
+# text[eng] = I saw a shepherdess crying on the bridge.
 # text[fra] = Je vis une bergère qui pleurait sur le pont.
 # labels = to_check song
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -12599,7 +12694,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:3:54
 # text = Petra 'peus 'ta plac'h yaouank?
-# text[fra] = Qu'as-tu donc jeune fille?
+# text[eng] = What's the matter with you girl?
+# text[fra] = Qu'as-tu donc jeune fille ?
 # labels = to_check song
 1	Petra	petra	ADV	prn	PronType=Int	3	advmod	_	_
 2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
@@ -12611,6 +12707,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:4:72
 # text = Petra 'ra dit gouelañ ?
+# text[eng] = What makes you cry?
 # text[fra] = Qu'est-ce qui te fait pleurer ?
 # labels = to_check song
 1	Petra	petra	ADV	prn	PronType=Int	3	advmod	_	_
@@ -12624,6 +12721,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:5:89
 # text = Va gwalenn aour, emezi, zo kouezhet er mor amañ.
+# text[eng] = My golden ring, she said, fell there in the sea.
 # text[fra] = Mon anneau d'or, dit-elle, est tombé là dans la mer.
 # labels = to_check song
 1	Va	ma	DET	det	Poss=Yes	2	det	_	_
