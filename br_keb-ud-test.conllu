@@ -15151,6 +15151,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:110:3670
 # text = Kriz e chomo ar boued na vo ket poazhet.
+# text[eng] = Food that will not be cooked will remain raw.
 # text[fra] = La nourriture qui ne sera pas cuite restera crue.
 # labels = to_check
 1	Kriz	kriz	ADJ	adj	_	3	acl	_	_
@@ -15166,6 +15167,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:111:3694
 # text = Hervez ar vonreizh eo lakaet da vezañ "Prezidant peurbadel" ar vro, goude e varv zoken.
+# text[eng] = According to the constitution he must be "Eternal President" of the country, even after his death.
 # text[fra] = Selon la constitution il doit être "Président éternel" du pays, même après sa mort.
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	3	case	_	_
@@ -15190,6 +15192,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:112:3736
 # text = Un deiz ha tregont zo ennañ, unan eus ar mizioù hirañ eo eta.
+# text[eng] = It has thirty-one days, so it's one of the longest months.
 # text[fra] = Il compte trente et un jours, c'est donc un des mois les plus longs.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
@@ -15212,6 +15215,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:113:3771
 # text = an anv
+# text[eng] = the name
 # text[fra] = le nom
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
@@ -15219,6 +15223,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:114:3781
 # text = Un anv-tiegezh eo Genver ivez.
+# text[eng] = Genver is also a surname.
 # text[fra] = Genver est aussi un nom de famille.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
@@ -15232,7 +15237,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:115:3801
 # text = E gresianeg a-vremañ e vez skrivet μπ evit ober diouzh ar son [b].
-# text[fra] = Le grec moderne écrit μπ le son [b].
+# text[eng] = In Modern Greek the sound [b] is writen μπ.
+# text[fra] = En grec moderne, le son [b] s'écrit μπ.
 # labels = to_check
 1	E	e	ADP	pr	_	2	case	_	_
 2	gresianeg	gresianeg	NOUN	n	Gender=Masc|Number=Sing	6	obl	_	_
@@ -15251,6 +15257,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:116:3831
 # text = Ar Gurded o doa ivez da zilenn ar 111 kannad eus ar vodadenn emren.
+# text[eng] = The Kurds also had to elect the 111 deputies of the autonomous assembly.
 # text[fra] = Les Kurdes devaient aussi élire les 111 députés de l'assemblée autonome.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -15270,6 +15277,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:117:3863
 # text = Bras eo bet e levezon war an emsav sevenadurel.
+# text[eng] = His influence on the cultural movement has been big.
 # text[fra] = Son influence sur le mouvement culturel a été considérable.
 # labels = to_check
 1	Bras	bras	ADJ	adj	_	0	root	_	_
@@ -15285,6 +15293,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:118:3887
 # text = War-dro 300.000 annezad zo enni.
+# text[eng] = It has about 300,000 inhabitants.
 # text[fra] = Elle comprend environ 300.000 habitants.
 # labels = to_check
 1	War-dro	war-dro	ADV	adv	_	2	advmod	_	_
@@ -15298,6 +15307,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:119:3904
 # text = E vamm-gozh a oa keginerez.
+# text[eng] = His grandmother was a cook.
 # text[fra] = Sa grand-mère était cuisinière.
 # labels = to_check
 1	E	e	DET	det	Gender[psor]=Masc|Poss=Yes	2	det	_	_
@@ -15309,6 +15319,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:120:3920
 # text = Met skrivañ eo e oberiantiz pennañ.
+# text[eng] = But writing is his main activity.
 # text[fra] = Mais écrire est son activité principale.
 # labels = to_check
 1	Met	met	CCONJ	cnjcoo	_	2	cc	_	_
@@ -15321,6 +15332,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:121:3938
 # text = Skrivet en deus un tregont bennak a levrioù, war ar c’heginañ pe al liorzhañ.
+# text[eng] = He has written about thirty books, on cooking or gardening.
 # text[fra] = Il a écrit une trentaine de livres, sur la cuisine ou le jardinage.
 # labels = to_check
 1	Skrivet	skrivañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -15341,6 +15353,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:122:3972
 # text = gwelet ivez
+# text[eng] = see also
 # text[fra] = voir aussi
 # labels = to_check
 1	gwelet	gwelet	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -15348,6 +15361,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:123:3982
 # text = E dad, Olier Iañ Klison, a reas brezel da Yann Iañ, dug Breizh.
+# text[eng] = His father, Olivier I of Clisson, made war on Jean I, Duke of Brittany.
 # text[fra] = Son père, Olivier Ier de Clisson, fit la guerre à Jean Ier, duc de Bretagne.
 # labels = to_check
 1	E	e	DET	det	Gender[psor]=Masc|Poss=Yes	2	det	_	_
@@ -15370,6 +15384,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:124:4020
 # text = Un den a-bouez eo bet en istor ha sevenadur portugalek.
+# text[eng] = He was an important figure in Portuguese history and culture.
 # text[fra] = Il fut un personnage important dans l'histoire et la culture portugaise.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
@@ -15388,6 +15403,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:125:4047
 # text = Sebastian zo un anv-badez brezhonek a orin gresianek.
+# text[eng] = Sebastian is a Breton Christian name of Greek origin.
 # text[fra] = Sebastian est un nom de baptême breton d'origine grecque.
 # labels = to_check
 1	Sebastian	Sebastian	PROPN	np	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -15402,6 +15418,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:126:4069
 # text = Sébastien zo un anv-badez gallek.
+# text[eng] = Sébastien is a French Christian name.
 # text[fra] = Sébastien est un nom de baptême français.
 # labels = to_check
 1	Sébastien	Sébastien	PROPN	np	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -15413,6 +15430,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:127:4085
 # text = Er bloavezh 2001 e voe ar GSI anzavet evel dizoloer an elfenn 110.
+# text[eng] = GSI was recognized as the discoverer of element 110 in 2001.
 # text[fra] = Le GSI a été reconnu comme découvreur de l'élément 110 en 2001.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
@@ -15434,6 +15452,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:128:4118
 # text = Honnezh he devoa barradoù follentez ha mervel a reas e 1615.
+# text[eng] = She had fits of madness and died in 1615.
 # text[fra] = Elle avait des accès de folie et mourut en 1615.
 # labels = to_check
 1	Honnezh	honnezh	PRON	prn	Gender=Fem|Number=Sing|PronType=Dem	2	nsubj	_	_
@@ -15450,6 +15469,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:129:4144
 # text = Bez' e oa 180 719 a annezidi e 2010.
+# text[eng] = There were 180,719 inhabitants in 2010.
 # text[fra] = Il y avait 180 719 habitants en 2010.
 # labels = to_check
 1	Bez'	bezañ	AUX	vblex	VerbForm=Inf	9	cop	_	_
@@ -15465,6 +15485,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:130:4168
 # text = Un elfenn genaozet gant mab-den eo, n'he c'haver ket en natur.
+# text[eng] = It is an element synthesized by humans, it is not found in nature.
 # text[fra] = C'est un élément synthétisé par l'humain, on ne le trouve pas dans la nature.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
@@ -15486,6 +15507,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:131:4201
 # text = Er bloavezh 2003 e voe ar GSI anzavet evel dizoloer an elfenn 111.
+# text[eng] = GSI was recognized as the discoverer of element 111 in 2003.
 # text[fra] = Le GSI a été reconnu comme découvreur de l'élément 111 en 2003.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
@@ -15507,6 +15529,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:132:4234
 # text = liamm diavaez
+# text[eng] = external link
 # text[fra] = lien externe
 # labels = to_check
 1	liamm	liamm	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -15514,6 +15537,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:133:4244
 # text = Brudet eo bet ar ganaouenn gant ur film bruderezh evit Citroën.
+# text[eng] = The song was made famous by a Citroën advertisement.
 # text[fra] = La chanson a été rendue célèbre par une publicité Citroën.
 # labels = to_check
 1	Brudet	brudañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -15531,6 +15555,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:134:4272
 # text = Bras e voe e levezon war al lennegezh italianek er XVIIvet kantved.
+# text[eng] = His influence was great on Italian literature in the 17th century.
 # text[fra] = Son influence fut grande sur la littérature italienne au XVIIème siècle.
 # labels = to_check
 1	Bras	bras	ADJ	adj	_	0	root	_	_
@@ -15551,6 +15576,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:135:4303
 # text = Tri bugel a zeuas d'ar priedoù.
+# text[eng] = Three children came to the spouses.
 # text[fra] = Trois enfants vinrent aux époux.
 # labels = to_check
 1	Tri	tri	NUM	num	Gender=Masc|Number=Plur	2	nummod	_	_
