@@ -12743,7 +12743,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:6:119
 # text = Petra 'roi din, plac'h yaouank? Me 'yelo d'he zapañ.
-# text[fra] = Que me donneras-tu, jeune fille? J'irai le chercher.
+# text[eng] = What will you give me, young lady? I will go get him.
+# text[fra] = Que me donneras-tu, jeune fille ? J'irai le chercher.
 # labels = to_check song
 1	Petra	petra	PRON	prn	PronType=Int	3	obj	_	_
 2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
@@ -12767,6 +12768,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:7:152
 # text = Hanter-kant skoed, emezi, em eus em yalc'h amañ.
+# text[eng] = Fifty crowns, she said, which I have there in my purse.
 # text[fra] = Cinquante écus, dit-elle, que j'ai là dans ma bourse.
 # labels = to_check song
 1	Hanter-kant	hanter-kant	NUM	num	Number=Plur	2	nummod	_	_
@@ -12786,6 +12788,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:8:178
 # text = 'vit ar c'hentañ ploñjadenn, netra gwelet e oa.
+# text[eng] = On the first dive, he saw nothing.
 # text[fra] = Au premier plongeon, il ne vit rien.
 # labels = to_check song
 1	'vit	evit	ADP	pr	_	4	case	_	_
@@ -12801,6 +12804,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:9:202
 # text = 'vit an eilvet ploñjadenn, 'r walenn touchet e oa.
+# text[eng] = On the second dive, he touched the ring.
 # text[fra] = Au deuxième plongeon, il a touché l'anneau.
 # labels = to_check song
 1	'vit	evit	ADP	pr	_	4	case	_	_
@@ -12817,6 +12821,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = war-bont.vislcg.txt:10:228
 # text = 'vit an drede ploñjadenn, ar paotr beuzet e oa.
+# text[eng] = On the third dive, the boy was drowned.
 # text[fra] = Au troisième plongeon, le garçon était noyé.
 # labels = to_check song
 1	'vit	evit	ADP	pr	_	4	case	_	_
@@ -12833,6 +12838,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:1:0
 # text = studiañ an Istor
+# text[eng] = study History
 # text[fra] = étudier l'Histoire
 # labels = to_check
 1	studiañ	studiañ	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -12841,6 +12847,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:2:11
 # text = dre al lec'hioù
+# text[eng] = by places
 # text[fra] = par les lieux
 # labels = to_check
 1	dre	dre	ADP	pr	_	3	case	_	_
@@ -12849,6 +12856,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:3:23
 # text = dre ar sevenadurioù
+# text[eng] = by cultures
 # text[fra] = par les cultures
 # labels = to_check
 1	Dre	dre	ADP	pr	_	3	case	_	_
@@ -12857,6 +12865,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:4:35
 # text = dre an darvoudoù
+# text[eng] = by events
 # text[fra] = par les événements
 # labels = to_check
 1	dre	dre	ADP	pr	_	3	case	_	_
@@ -12865,7 +12874,8 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:5:47
 # text = ar brezelioù hag o heuliadoù
-# text[fra] = les guerres et leur suites
+# text[eng] = wars and their aftermath
+# text[fra] = les guerres et leurs suites
 # labels = to_check
 1	ar	an	DET	det	_	2	det	_	_
 2	brezelioù	brezel	NOUN	n	Gender=Masc|Number=Plur	0	root	_	_
@@ -12875,6 +12885,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:6:63
 # text = istor diavaez ar brezhoneg
+# text[eng] = the external history of Breton
 # text[fra] = l'histoire externe du breton
 # labels = to_check
 1	istor	istor	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -12884,6 +12895,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:7:77
 # text = Er bloaz 1950 ne chome mui nemet 100 000 a dud na ouient nemet brezhoneg.
+# text[eng] = There were only 100,000 monolingual Breton speakers left in 1950.
 # text[fra] = Il ne restait plus en 1950 que 100 000 brittophones monolingues.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
@@ -12906,6 +12918,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:8:112
 # text = Er bloaz 1977 eo bet krouet ar skolioù Diwan.
+# text[eng] = The Diwan schools were created in 1977.
 # text[fra] = Les écoles Diwan ont été créés en 1977.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
@@ -12923,6 +12936,7 @@ text[eng] = Salt, pepper.
 
 # sent_id = wikipedia.vislcg.txt:9:137
 # text = Er skolioù-se e vez desket dre ar brezhoneg (4 087 skoliad da vare an distro-skol e 2015).
+# text[eng] = In these schools, teaching is done in Breton (4,087 pupils at the start of the 2015 school year).
 # text[fra] = Dans ces écoles l'enseignement est fait en breton (4 087 écoliers lors de la rentrée scolaire de 2015).
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
