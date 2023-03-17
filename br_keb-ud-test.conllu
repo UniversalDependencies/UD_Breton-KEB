@@ -9787,7 +9787,7 @@ text[eng] = Salt, pepper.
 8	al	an	DET	det	_	9	det	_	_
 9	levr	levr	NOUN	n	Gender=Masc|Number=Sing	7	dep	_	SpaceAfter=No
 10	-mañ	mañ	ADV	adv	_	9	advmod	_	_
-11	.	.	PUNCT	sent	_	0	punct	_	_
+11	.	.	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = oab.vislcg.txt:15:433
 # text = Daou arvest eus buhez Sant Erwan
