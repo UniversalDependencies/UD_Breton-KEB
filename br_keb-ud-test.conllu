@@ -5060,7 +5060,7 @@
 
 # sent_id = bremaik.vislcg.txt:199:6800
 # text = Lakait holen ha pebr.
-text[eng] = Salt, pepper.
+# text[eng] = Salt, pepper.
 # text[fra] = Salez, poivrez.
 # labels = to_check
 1	Lakait	lakaat	VERB	vblex	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -9228,7 +9228,7 @@ text[eng] = Salt, pepper.
 11	beleg	beleg	NOUN	n	Gender=Masc|Number=Sing	9	nsubj	_	_
 12	da	da	ADP	pr	_	13	mark	_	_
 13	c'hoari	c’hoari	VERB	vblex	VerbForm=Inf	9	dep	_	_
-14	c'hartoù	kartenn	NOUN	n	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+14	c'hartoù	kartenn	NOUN	n	Gender=Fem|Number=Plur	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	sent	_	9	punct	_	_
 
 # sent_id = grammar.vislcg.txt:268:4997
@@ -10357,7 +10357,7 @@ text[eng] = Salt, pepper.
 # text[eng] = the budget allocated to regional languages by other Regional Councils in France
 # text[fra] = le budget alloué aux langues régionales par d’autres Conseils régionaux en France
 # labels = to_check opab_parallel
-1	Ar	an	DET	det	_	2	det	_	_
+1	ar	an	DET	det	_	2	det	_	_
 2	budjed	budjed	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 3	gouestlet	gouestlañ	VERB	vblex	Tense=Past|VerbForm=Part	2	acl	_	_
 4-5	d'ar	_	_	_	_	_	_	_	_
@@ -10624,7 +10624,7 @@ text[eng] = Salt, pepper.
 # text[fra] = obstacles and solutions to the development of the offer
 # text[fra] = les blocages et les solutions au développement de l'offre
 # labels = to_check opab_parallel
-1	An	an	DET	det	_	2	det	_	_
+1	an	an	DET	det	_	2	det	_	_
 2	diskoulmoù	diskoulm	NOUN	n	Gender=Masc|Number=Plur	7	obj	_	_
 3	hag	ha	CCONJ	cnjcoo	_	4	cc	_	_
 4	an	an	DET	det	_	5	det	_	_
@@ -12649,7 +12649,7 @@ text[eng] = Salt, pepper.
 # text[eng] = A fine sandy beach!
 # text[fra] = Une plage de sable fin !
 # labels = to_check opab_parallel
-1	un	un	DET	det	_	2	det	_	_
+1	Un	un	DET	det	_	2	det	_	_
 2	aod	aod	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
 3	traezh	traezh	NOUN	n	Gender=Masc|Number=Sing	2	nmod:gen	_	_
 4	munut	munut	ADJ	adj	_	3	amod	_	_
