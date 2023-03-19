@@ -12755,7 +12755,7 @@
 6	,	,	PUNCT	cm	_	3	punct	_	_
 7	plac'h	plac’h	NOUN	n	Gender=Fem|Number=Sing	3	vocative	_	_
 8	yaouank	yaouank	ADJ	adj	_	7	amod	_	SpaceAfter=No
-9	?	?	PUNCT	cm	_	12	punct	_	_
+9	?	?	PUNCT	cm	_	3	punct	_	_
 10	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 11-12	'yelo	_	_	_	_	_	_	_	_
 11	'	a	AUX	vpart	_	12	aux	_	_
