@@ -1,6 +1,6 @@
 # sent_id = apertium.vislcg.txt:1:0
 # text = N'int ket aet war-raok.
-# text[eng] = They haven't progressed.
+# text[eng] = They didn't progress.
 # text[fra] = Ils n'ont pas progressé.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -12,7 +12,7 @@
 
 # sent_id = apertium.vislcg.txt:2:15
 # text = N'eur ket aet war-raok.
-# text[eng] = We haven't progressed.
+# text[eng] = We didn't progress.
 # text[fra] = On n'a pas progressé.
 # labels = to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -781,7 +781,7 @@
 
 # sent_id = bremaik.vislcg.txt:4:101
 # text = Ouzhpenn 20 beaj zo bet graet gantañ en India abaoe e 25 bloaz.
-# text[eng] = He has made more than twenty trips to India since he was twenty-five.
+# text[eng] = He traveled more than twenty times to India since he was twenty-five.
 # text[fra] = Il a fait plus de vingt voyages en Inde depuis ses vingt-cinq ans.
 # labels = to_check
 1	Ouzhpenn	ouzhpenn	ADV	adv	_	2	advmod	_	_
@@ -2820,7 +2820,7 @@
 
 # sent_id = bremaik.vislcg.txt:99:3267
 # text = An dilennadegoù kanton o deus lakaet 4 departamant breton diwar 5 da vezañ renet gant an tu kleiz.
-# text[eng] = The cantonal elections have put the left in power in 4 of the 5 Breton departments.
+# text[eng] = The cantonal elections put the left in power in 4 of the 5 Breton departments.
 # text[fra] = Les élections cantonales ont mis la gauche au pouvoir dans 4 des 5 départements bretons.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
@@ -3754,7 +3754,7 @@
 
 # sent_id = bremaik.vislcg.txt:139:4760
 # text = Digresket eo an niver an dud o kemer perzh er votadeg eus 4 foent keñveriet gant mouezhiadeg 2006.
-# text[eng] = The number of voters in the elections has decreased by 4 points compared to the 2006 vote.
+# text[eng] = The number of voters in the elections decreased by 4 points compared to the 2006 vote.
 # text[fra] = Le nombre de votants aux élections a décru de 4 points comparé au vote de 2006.
 # labels = to_check
 1	Digresket	digreskiñ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -4563,7 +4563,7 @@
 
 # sent_id = bremaik.vislcg.txt:175:6025
 # text = Hervez kont eo bet kresket ar c'heitad-mañ a 50 % en daou vloaz diwezhañ, ar pezh a gas betek tost ur c'hard eus ar marc'had.
-# text[eng] = This average has apparently increased by 50% in the last two years, which is up to almost a quarter of the market.
+# text[eng] = This average apparently increased by 50% in the last two years, which is up to almost a quarter of the market.
 # text[fra] = Cette moyenne a apparemment augmenté de 50% ces deux dernières années, ce qui représente jusqu'à près du quart du marché.
 # labels = to_check
 1	Hervez	hervez	ADP	pr	_	2	case	_	_
@@ -4860,7 +4860,7 @@
 
 # sent_id = bremaik.vislcg.txt:190:6488
 # text = Adwelet eo bet hounnezh, met n'eus bet cheñchet netra enni, hag evel-se ne savo tabut ebet war ar 56 testenn-kemm a vez kinniget.
-# text[eng] = It has been revised, but without modification, thus preventing debate on the 56 proposed amendments.
+# text[eng] = It was revised, but without modification, thus preventing debate on the 56 proposed amendments.
 # text[fra] = Elle a été revue, mais sans modification, prévenant ainsi le débat sur les 56 amendements proposés.
 # labels = to_check
 1	Adwelet	adwelet	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -6155,7 +6155,7 @@
 
 # sent_id = grammar.vislcg.txt:37:805
 # text = Arruet eo.
-# text[eng] = She has arrived.
+# text[eng] = She arrived.
 # text[fra] = Elle est arrivée.
 # labels = stephens_1993 to_check
 1	Arruet	arruout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -6164,7 +6164,7 @@
 
 # sent_id = grammar.vislcg.txt:38:815
 # text = Chomet eo.
-# text[eng] = She has stayed.
+# text[eng] = She stayed.
 # text[fra] = Elle est restée.
 # labels = stephens_1993 to_check
 1	Chomet	chom	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -6173,7 +6173,7 @@
 
 # sent_id = grammar.vislcg.txt:39:825
 # text = Savet eo.
-# text[eng] = She has got up.
+# text[eng] = She got up.
 # text[fra] = Elle est levée.
 # labels = stephens_1993 to_check
 1	Savet	sevel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -6191,7 +6191,7 @@
 
 # sent_id = grammar.vislcg.txt:41:845
 # text = Kousket am eus.
-# text[eng] = I have slept.
+# text[eng] = I slept.
 # text[fra] = J'ai dormi.
 # labels = stephens_1993 to_check
 1	Kousket	kousket	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -6498,7 +6498,7 @@
 
 # sent_id = grammar.vislcg.txt:65:1284
 # text = N'en deus ket kollet Yann al levr.
-# text[eng] = Yann has not lost the book.
+# text[eng] = Yann did not lose the book.
 # text[fra] = Yann n'a pas perdu le livre.
 # labels = stephens_1993 to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -6525,7 +6525,7 @@
 
 # sent_id = grammar.vislcg.txt:67:1322
 # text = Yann en deus prenet anezhañ.
-# text[eng] = Yann has bought it.
+# text[eng] = Yann bought it.
 # text[fra] = Yann l'a achetée.
 # labels = stephens_1993 to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -6536,7 +6536,7 @@
 
 # sent_id = grammar.vislcg.txt:68:1336
 # text = Petra en deus prenet Yann?
-# text[eng] = What has Yann bought ?
+# text[eng] = What did Yann buy ?
 # text[fra] = Qu'est-ce que Yann a acheté ?
 # labels = stephens_1993 to_check
 1	Petra	petra	PRON	prn	PronType=Int	3	obj	_	_
@@ -6579,7 +6579,7 @@
 
 # sent_id = grammar.vislcg.txt:71:1398
 # text = Petra he deus prenet ?
-# text[eng] = What has she bought?
+# text[eng] = What did she buy?
 # text[fra] = Qu'est-ce qu'elle a acheté ?
 # labels = stephens_1993 to_check
 1	Petra	petra	PRON	prn	PronType=Int	3	obj	_	_
@@ -6660,7 +6660,7 @@
 
 # sent_id = grammar.vislcg.txt:78:1504
 # text = Al levr-mañ eo an hini am eus kavet.
-# text[eng] = This book is the one I have found.
+# text[eng] = This book is the one I found.
 # text[fra] = C'est ce livre que j'ai trouvé.
 # labels = stephens_1993 to_check
 1	Al	an	DET	det	_	2	det	_	_
@@ -6675,7 +6675,7 @@
 
 # sent_id = grammar.vislcg.txt:79:1526
 # text = Al levr-mañ 'ni am eus kavet.
-# text[eng] = This is the book I have found.
+# text[eng] = This is the book I found.
 # text[fra] = C'est ce livre que j'ai trouvé.
 # labels = stephens_1993 to_check
 1	Al	an	DET	det	_	2	det	_	_
@@ -7034,7 +7034,7 @@
 
 # sent_id = grammar.vislcg.txt:105:2024
 # text = Me am eus kanet.
-# text[eng] = I have sung.
+# text[eng] = I sang.
 # text[fra] = J'ai chanté.
 # labels = press_1986 ch_morphology to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -7119,7 +7119,7 @@
 
 # sent_id = grammar.vislcg.txt:112:2129
 # text = N'he deus ket labouret a-walc'h se.
-# text[eng] = She hasn't worked enough at that.
+# text[eng] = She didn't work enough at that.
 # text[fra] = Elle ne l'a pas assez travaillée.
 # labels = press_1986 ch_morphology to_check
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
@@ -7736,7 +7736,7 @@
 
 # sent_id = grammar.vislcg.txt:160:2940
 # text = Marvet en deus al leue bihan.
-# text[eng] = The little calf has died.
+# text[eng] = The little calf died.
 # text[fra] = Le petit veau est mort.
 # labels = press_1986 ch_morphology to_check
 1	Marvet	mervel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -7798,7 +7798,7 @@
 
 # sent_id = grammar.vislcg.txt:166:3016
 # text = Kerzhout am eus graet.
-# text[eng] = I have walked.
+# text[eng] = I walked.
 # text[fra] = J'ai marché.
 # labels = press_1986 ch_morphology to_check
 1	Kerzhout	kerzhout	VERB	vblex	VerbForm=Inf	0	root	_	_
@@ -7871,7 +7871,7 @@
 
 # sent_id = grammar.vislcg.txt:172:3114
 # text = Yann en deus lennet al levr.
-# text[eng] = Yann has read the book.
+# text[eng] = Yann read the book.
 # text[fra] = Yann a lu le livre.
 # labels = press_1986 ch_morphology to_check
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -7949,8 +7949,8 @@
 
 # sent_id = grammar.vislcg.txt:178:3217
 # text = Kollet eo bet ar voutailh gant Lan.
-# text[eng] = Lan has lost the bottle.
-# text[fra] = Lan a perdu la bouteille.
+# text[eng] = The bottle was lost by Lan.
+# text[fra] = La bouteille a été perdue par Lan.
 # labels = press_1986 ch_morphology to_check
 1	Kollet	koll	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
@@ -7992,7 +7992,7 @@
 
 # sent_id = grammar.vislcg.txt:181:3279
 # text = Me a zo bet roet ul levr din gant Yannig.
-# text[eng] = I have been given a book by Yannig.
+# text[eng] = I was given a book by Yannig.
 # text[fra] = J'ai reçu un livre de Yannig.
 # labels = press_1986 ch_morphology to_check
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
@@ -8897,7 +8897,7 @@
 
 # sent_id = grammar.vislcg.txt:247:4510
 # text = Labourer-douar eo bet Yannig e-pad daou vloaz.
-# text[eng] = Yannig has been a farm worker for two years.
+# text[eng] = Yannig was a farm worker for two years.
 # text[fra] = Yannig a été agriculteur pendant deux ans.
 # labels = press_1986 ch_syntax p_199 to_check
 1	Labourer-douar	labourer-douar	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
@@ -8911,7 +8911,7 @@
 
 # sent_id = grammar.vislcg.txt:248:4530
 # text = Yannig a zo bet labourer-douar e-pad daou vloaz.
-# text[eng] = Yannig has been a farm worker for two years.
+# text[eng] = Yannig was a farm worker for two years.
 # text[fra] = Yannig a été agriculteur pendant deux ans.
 # labels = press_1986 ch_syntax p_199 to_check
 1	Yannig	Yannig	PROPN	np	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -8926,7 +8926,7 @@
 
 # sent_id = grammar.vislcg.txt:249:4552
 # text = E-pad daou vloaz eo bet labourer-douar Yannig.
-# text[eng] = Yannig has been a farm worker for two years.
+# text[eng] = Yannig was a farm worker for two years.
 # text[fra] = Pendant deux ans Yannig a été agriculteur.
 # labels = press_1986 ch_syntax p_199 to_check
 1	E-pad	e-pad	ADP	pr	_	3	case	_	_
@@ -8940,7 +8940,7 @@
 
 # sent_id = grammar.vislcg.txt:250:4572
 # text = Bet eo Yannig labourer-douar e-pad daou vloaz.
-# text[eng] = Yannig has been a farm worker for two years.
+# text[eng] = Yannig was a farm worker for two years.
 # text[fra] = Yannig a été agriculteur pendant deux ans.
 # labels = press_1986 ch_syntax p_199 to_check
 1	Bet	bezañ	AUX	vblex	Tense=Past|VerbForm=Part	4	cop	_	_
@@ -8954,7 +8954,7 @@
 
 # sent_id = grammar.vislcg.txt:251:4592
 # text = Deut eo Yannig da vezañ labourer-douar.
-# text[eng] = Yannig has become a farm worker.
+# text[eng] = Yannig became a farm worker.
 # text[fra] = Yannig est devenu agriculteur.
 # labels = press_1986 ch_syntax p_200 to_check
 1	Deut	dont	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11491,7 +11491,7 @@
 
 # sent_id = oab.vislcg.txt:115:3071
 # text = Dindan un nebeud bloavezhioù eo deuet Sant-Nazer da vezañ porzh bras an aber ha keveziñ a ra ouzh Naoned.
-# text[eng] = In a few years, Saint-Nazaire has become the major port of the estuary and it competes with Nantes.
+# text[eng] = In a few years, Saint-Nazaire became the major port of the estuary and it competes with Nantes.
 # text[fra] = En quelques années, Saint-Nazaire est devenu le grand port de l'estuaire et il concurrence Nantes.
 # labels = to_check opab_parallel
 1	Dindan	dindan	ADP	pr	_	3	case	_	_
@@ -13025,7 +13025,7 @@
 
 # sent_id = wikipedia.vislcg.txt:12:288
 # text = A-benn talañ ouzh an diouer a gelennerien stummet war an deskadurezh vrezhoneg ez eus bet krouet yalc'hadoù gant ar rannvroioù hag ar c'huzul bro.
-# text[eng] = Regions and cantons have created scholarships to address the shortage of teachers trained in teaching in the Breton language.
+# text[eng] = Regions and cantons created scholarships to address the shortage of teachers trained in teaching in the Breton language.
 # text[fra] = Les régions et les cantons ont créé des bourses pour parer au manque d'enseignants formés en enseignement brittophone.
 # labels = to_check
 1	A-benn	a-benn	ADP	pr	_	2	case	_	_
@@ -13825,7 +13825,7 @@
 
 # sent_id = wikipedia.vislcg.txt:51:1546
 # text = Mouezhiadegoù peurheñvel a voe aozet gant Kuzul-rannvro Breizh ivez.
-# text[eng] = The Regional Council of Brittany has also organized identical referendums.
+# text[eng] = The Regional Council of Brittany also organized identical referendums.
 # text[fra] = Le Conseil régional de Bretagne a aussi organisé des référendums identiques.
 # labels = to_check
 1	Mouezhiadegoù	mouezhiadeg	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
@@ -14124,7 +14124,7 @@
 
 # sent_id = wikipedia.vislcg.txt:65:2022
 # text = Abaoe an Dispac'h gall ez eo deuet war-wel ur sell nevez evit renkañ ar strolladoù politikel hag an dud hervez al liv politikel warno.
-# text[fra] = Since the French Revolution, a new way of looking at the political spectrum and classifying people according to their political color has emerged.
+# text[eng] = Since the French Revolution, a new way of looking at the political spectrum and classifying people according to their political color has emerged.
 # text[fra] = Depuis la Révolution française est apparue une nouvelle manière d'envisager le spectre politique et de classer les gens selon leur couleur politique.
 # labels = to_check
 1	Abaoe	abaoe	ADP	pr	_	3	case	_	_
@@ -14792,7 +14792,7 @@
 
 # sent_id = wikipedia.vislcg.txt:94:3100
 # text = Savet eo ar spi da vevañ eus 35,5 bloaz e 1950 da 67 e 2000.
-# text[eng] = Life expectancy has increased from 35.5 years in 1950 to 67 in 2000.
+# text[eng] = Life expectancy increased from 35.5 years in 1950 to 67 in 2000.
 # text[fra] = L'espérance de vie a progressé de 35,5 ans en 1950 à 67 en 2000.
 # labels = to_check
 1	Savet	sevel	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
@@ -15277,7 +15277,7 @@
 
 # sent_id = wikipedia.vislcg.txt:117:3863
 # text = Bras eo bet e levezon war an emsav sevenadurel.
-# text[eng] = His influence on the cultural movement has been big.
+# text[eng] = His influence on the cultural movement was big.
 # text[fra] = Son influence sur le mouvement culturel a été considérable.
 # labels = to_check
 1	Bras	bras	ADJ	adj	_	0	root	_	_
