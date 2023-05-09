@@ -5,10 +5,10 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>888</sentences><tokens>9776</tokens><words>10057</words><fused>281</fused></total>
+    <total><sentences>884</sentences><tokens>9725</tokens><words>10006</words><fused>281</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>888</sentences><tokens>9776</tokens><words>10057</words><fused>281</fused></test>
+    <test><sentences>884</sentences><tokens>9725</tokens><words>10006</words><fused>281</fused></test>
   </size>
   <lemmas unique="1727" /><!-- an, ., bezañ, e, a, da, ,, ha, un, gant, ober, indirect, kaout, ne, evit -->
   <forms unique="2423" /><!-- ., e, ar, a, an, ,, eo, da, gant, ha, ur, o, ket, oa, evit -->
@@ -17,21 +17,21 @@
   <tags unique="17">
     <tag name="ADJ">435</tag><!-- bras, mat, ret, nevez, kentañ, yaouank, all, brav, kozh, bihan -->
     <tag name="ADP">1104</tag><!-- da, e, gant, evit, war, eus, a, ouzh, dre, e-pad -->
-    <tag name="ADV">552</tag><!-- ne, ket, se, mañ, ivez, bremañ, ebet, neuze, setu, hepken -->
-    <tag name="AUX">1332</tag><!-- bezañ, a, e, ober, kaout, o, en, gellout, na, rankout -->
+    <tag name="ADV">546</tag><!-- ne, ket, se, mañ, ivez, bremañ, ebet, neuze, setu, hepken -->
+    <tag name="AUX">1329</tag><!-- bezañ, a, e, ober, kaout, o, en, gellout, na, rankout -->
     <tag name="CCONJ">206</tag><!-- ha, pe, met, hogen, koulz -->
-    <tag name="DET">1206</tag><!-- an, un, ho, e, ma, o, he, holl, bep, hon -->
+    <tag name="DET">1202</tag><!-- an, un, e, ho, ma, o, he, holl, bep, hon -->
     <tag name="INTJ">2</tag><!-- o -->
-    <tag name="NOUN">1990</tag><!-- den, levr, bro, ti, labour, yezh, brezhoneg, bugel, rannvro, breur -->
+    <tag name="NOUN">1984</tag><!-- den, levr, bro, ti, labour, yezh, brezhoneg, bugel, rannvro, breur -->
     <tag name="NUM">233</tag><!-- daou, unan, tri, 2007, 20, 4, pevar, 000, 1950, 3 -->
     <tag name="PART">2</tag><!-- na -->
     <tag name="PRON">239</tag><!-- indirect, prpers, direct, piv, hini, holl, re, a, petra, netra -->
-    <tag name="PROPN">308</tag><!-- Breizh, Yann, Yannig, Lenaig, Pariz, Frañs, Kemper, Kembre, Naoned, Brezhoneg -->
-    <tag name="PUNCT">1153</tag><!-- ., ,, ?, ", -, (, ), !, ..., « -->
+    <tag name="PROPN">307</tag><!-- Breizh, Yann, Yannig, Lenaig, Pariz, Frañs, Kemper, Kembre, Naoned, Divi -->
+    <tag name="PUNCT">1130</tag><!-- ., ,, ?, ", -, (, ), !, ..., « -->
     <tag name="SCONJ">39</tag><!-- ma, pa, evit, A-raok, dre, kement, koulz, rak, tra -->
     <tag name="SYM">2</tag><!-- $, / -->
-    <tag name="VERB">1102</tag><!-- dont, gwelout, ober, mont, kinnig, kavout, lenn, kaout, lakaat, chom -->
-    <tag name="X">152</tag><!-- em, ar, miz, da, ur, ma, meur, Ofis, hag, pezh -->
+    <tag name="VERB">1097</tag><!-- dont, gwelout, ober, mont, kinnig, kavout, lenn, kaout, lakaat, chom -->
+    <tag name="X">149</tag><!-- em, miz, ar, da, ma, ur, meur, pezh, Ofis, an -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="32">
@@ -40,74 +40,74 @@
     <feat name="Case" value="Nom" upos="PRON">43</feat><!-- me, int, -me, hi, -hi, c'hwi, Ni -->
     <feat name="Degree" value="Cmp" upos="ADJ">14</feat><!-- aesoc'h, bravoc'h, Klaseloc'h, c'hwekoc'h, diwezhatoc'h, emskiantekoc’h, gwelloc'h, hiroc'h, kempoelloc'h, nerzhusoc'h -->
     <feat name="Degree" value="Sup" upos="ADJ">9</feat><!-- gwellañ, vrasañ, brasañ, goshañ, hirañ, yenañ -->
-    <feat name="Gender" value="Fem" upos="AUX,NOUN,NUM,PRON,PROPN,VERB">701</feat><!-- i, yezh, vro, rannvro, Lenaig, bro, he deus, gevredigezh, gêr, plac'h -->
-    <feat name="Gender" value="Masc" upos="AUX,NOUN,NUM,PRON,PROPN">1541</feat><!-- Yann, levr, dud, en deus, den, ti, brezhoneg, daou, labour, vugale -->
+    <feat name="Gender" value="Fem" upos="AUX,NOUN,NUM,PRON,PROPN,VERB">699</feat><!-- i, yezh, vro, rannvro, Lenaig, bro, he deus, gevredigezh, gêr, plac'h -->
+    <feat name="Gender" value="Masc" upos="AUX,NOUN,NUM,PRON,PROPN">1537</feat><!-- Yann, dud, levr, en deus, den, ti, brezhoneg, daou, labour, añ -->
     <feat name="Gender[psor]" value="Fem" upos="DET">17</feat><!-- he -->
     <feat name="Gender[psor]" value="Masc" upos="DET">37</feat><!-- e -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">30</feat><!-- vefe, c'hellfe, c'hallfe, rafe, ve, blijfe, c'hanfe, ganfe, kollfemp, lavarfen -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">819</feat><!-- eo, oa, vo, zo, ra, en deus, emañ, ran, he deus, o deus -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">817</feat><!-- eo, oa, vo, zo, ra, en deus, emañ, ran, he deus, o deus -->
     <feat name="Mood" value="Opt" upos="AUX">1</feat><!-- ra -->
-    <feat name="Number" value="Plur" upos="AUX,DET,NOUN,NUM,PRON,PROPN,VERB">924</feat><!-- dud, daou, o, oc'h, vugale, tud, traoù, o deus, holl, int -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2763</feat><!-- eo, oa, vo, zo, Breizh, ra, Yann, levr, vez, brezhoneg -->
-    <feat name="NumType" value="Ord" upos="ADJ,NUM">17</feat><!-- eil, 19vet, 13vet, 17vet, 1añ, 31añ, 60vet, X, c'hentañ, drede -->
+    <feat name="Number" value="Plur" upos="AUX,DET,NOUN,NUM,PRON,PROPN,VERB">919</feat><!-- dud, daou, o, oc'h, vugale, tud, traoù, o deus, holl, int -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2757</feat><!-- eo, oa, vo, zo, Breizh, ra, Yann, levr, vez, brezhoneg -->
+    <feat name="NumType" value="Ord" upos="ADJ,NUM">17</feat><!-- eil, 19vet, 13vet, 17vet, 1añ, 31añ, 60vet, Xvet, c'hentañ, drede -->
     <feat name="Person" value="0" upos="AUX,VERB">31</feat><!-- reer, c'haller, c'heller, adkaver, eus, c'haver, c'houlenner, c’haller, eur, gaver -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">145</feat><!-- me, in, ran, am eus, em eus, on, rin, -me, hon eus, omp -->
-    <feat name="Person" value="2" upos="AUX,PRON,VERB">106</feat><!-- oc'h, tennit, klaskit, meskit, out, Lakait, hoc'h eus, it, rit, Ouzhpennit -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">874</feat><!-- eo, oa, vo, zo, ra, vez, en deus, o, i, añ -->
-    <feat name="Polarity" value="Neg" upos="ADV,AUX,PART">98</feat><!-- ne, n', na, Ne'z, n’ -->
-    <feat name="Poss" value="Yes" upos="DET">153</feat><!-- e, ho, o, he, ma, va, hon, hoc'h, da, hor -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">104</feat><!-- oc'h, tennit, klaskit, meskit, out, Lakait, hoc'h eus, it, rit, Ouzhpennit -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">872</feat><!-- eo, oa, vo, zo, ra, vez, en deus, o, i, añ -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,PART">97</feat><!-- ne, n', na, Ne'z, n’ -->
+    <feat name="Poss" value="Yes" upos="DET">152</feat><!-- e, ho, o, he, ma, va, hon, hoc'h, da, hor -->
     <feat name="PronType" value="Dem" upos="PRON">12</feat><!-- Hemañ, kement-se, Hennezh, se, Honnezh, hounnezh -->
     <feat name="PronType" value="Int" upos="ADJ,ADV,DET,PRON">35</feat><!-- piv, petra, penaos, pelec'h, Perak, hag-eñ, peseurt, Pegement, Pegoulz, pegen -->
     <feat name="PronType" value="Prs" upos="PRON">175</feat><!-- me, in, o, oc'h, i, añ, hi, int, -me, anezhi -->
     <feat name="PronType" value="Rel" upos="PRON">12</feat><!-- a, re, ar pezh -->
     <feat name="Reflex" value="Yes" upos="AUX">25</feat><!-- en -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">163</feat><!-- vo, rin, zeuy, gavo, raio, yelo, gavint, teuio, kavo, ranko -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">611</feat><!-- oa, bet, kinniget, graet, voe, gouestlet, lennet, aozet, kavet, deuet -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">568</feat><!-- eo, zo, ra, vez, en deus, emañ, ran, he deus, o deus, am eus -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">908</feat><!-- eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran -->
-    <feat name="VerbForm" value="Inf" upos="AUX,VERB">413</feat><!-- dont, ober, bezañ, labourat, vont, kinnig, chom, debriñ, gwelout, kanañ -->
-    <feat name="VerbForm" value="Part" upos="AUX,VERB">434</feat><!-- bet, kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">610</feat><!-- oa, bet, kinniget, graet, voe, gouestlet, lennet, aozet, kavet, deuet -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">566</feat><!-- eo, zo, ra, vez, en deus, emañ, ran, he deus, o deus, am eus -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">906</feat><!-- eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">411</feat><!-- dont, ober, bezañ, labourat, vont, kinnig, chom, debriñ, kanañ, vezañ -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">433</feat><!-- bet, kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, gwelet, lakaet -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="39">
     <dep name="acl">127</dep>
     <dep name="acl:relcl">1</dep>
-    <dep name="advcl">151</dep>
-    <dep name="advmod">535</dep>
+    <dep name="advcl">150</dep>
+    <dep name="advmod">529</dep>
     <dep name="amod">291</dep>
     <dep name="appos">39</dep>
-    <dep name="aux">969</dep>
-    <dep name="aux:pass">143</dep>
-    <dep name="case">974</dep>
+    <dep name="aux">967</dep>
+    <dep name="aux:pass">142</dep>
+    <dep name="case">973</dep>
     <dep name="cc">206</dep>
     <dep name="ccomp">28</dep>
     <dep name="compound">19</dep>
     <dep name="conj">237</dep>
     <dep name="cop">220</dep>
     <dep name="csubj">27</dep>
-    <dep name="dep">156</dep>
-    <dep name="det">1207</dep>
+    <dep name="dep">152</dep>
+    <dep name="det">1203</dep>
     <dep name="discourse">2</dep>
     <dep name="dislocated">3</dep>
     <dep name="expl">2</dep>
-    <dep name="fixed">66</dep>
+    <dep name="fixed">65</dep>
     <dep name="flat:name">25</dep>
     <dep name="list">2</dep>
-    <dep name="mark">161</dep>
+    <dep name="mark">162</dep>
     <dep name="nmod">220</dep>
-    <dep name="nmod:gen">378</dep>
+    <dep name="nmod:gen">377</dep>
     <dep name="nmod:poss">4</dep>
-    <dep name="nsubj">548</dep>
+    <dep name="nsubj">547</dep>
     <dep name="nsubj:cop">1</dep>
     <dep name="nummod">97</dep>
-    <dep name="obj">394</dep>
+    <dep name="obj">392</dep>
     <dep name="obl">618</dep>
-    <dep name="obl:agent">66</dep>
+    <dep name="obl:agent">65</dep>
     <dep name="orphan">2</dep>
-    <dep name="parataxis">37</dep>
-    <dep name="punct">1153</dep>
-    <dep name="root">888</dep>
+    <dep name="parataxis">36</dep>
+    <dep name="punct">1130</dep>
+    <dep name="root">884</dep>
     <dep name="vocative">2</dep>
-    <dep name="xcomp">58</dep>
+    <dep name="xcomp">59</dep>
   </deps>
 </treebank>
