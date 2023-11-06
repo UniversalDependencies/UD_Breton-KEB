@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Breton-KEB:
-commit 0a7c204dd744acead96f320da0f626bb2c9bd654
-Merge: 554d540 6a6bfdd
+commit 6822c62844b6a2dc0799ff2b24e4114c2e801fcd
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 9 09:31:43 2023 +0200
 Size: counted 10006 of 10006 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60636982613203.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,8 @@ Udapi: found 1589 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10006 words.
 Genres: found 6 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang br --max-err=10 UD_Breton-KEB/br_keb-ud-test.conllu
+[Line 10409 Sent oab.vislcg.txt:50:1410 Node 13]: [L3 Warning fixed-gap] Gaps in fixed expression [13, 15] 'en * zouez'
+Warnings: 1
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
