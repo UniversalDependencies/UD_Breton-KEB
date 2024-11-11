@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Breton-KEB:
-commit a56f369533d37ca845add225ec6898d7d2639001
+commit 984e0011ad8bf54ff0a460b9cafd3dca452013d8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 11:32:40 2023 +0100
+Date:   Sun May 5 11:55:39 2024 +0200
 Size: counted 10006 of 10006 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60636982613203.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,8 +25,15 @@ Udapi: found 1589 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10006 words.
 Genres: found 6 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang br --max-err=10 UD_Breton-KEB/br_keb-ud-test.conllu
+[Line 3858 Sent bremaik.vislcg.txt:143:4899 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
+[Line 10276 Sent oab.vislcg.txt:44:1209 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
 [Line 10409 Sent oab.vislcg.txt:50:1410 Node 13]: [L3 Warning fixed-gap] Gaps in fixed expression [13, 15] 'en * zouez'
-Warnings: 1
+[Line 10772 Sent oab.vislcg.txt:69:1968 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:a:det --> 15:meur:dep)
+[Line 11005 Sent oab.vislcg.txt:84:2330 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:a:det --> 6:meur:dep)
+[Line 14187 Sent wikipedia.vislcg.txt:67:2089 Node 17]: [L3 Warning leaf-det] 'det' not expected to have children (17:a:det --> 16:meur:dep)
+[Line 14975 Sent wikipedia.vislcg.txt:101:3353 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:n:det --> 18:Ballon:nmod)
+[Line 15126 Sent wikipedia.vislcg.txt:108:3624 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:a:det --> 1:Meur:dep)
+Warnings: 8
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
