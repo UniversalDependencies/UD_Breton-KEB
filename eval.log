@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Breton-KEB:
-commit 984e0011ad8bf54ff0a460b9cafd3dca452013d8
+commit 2b4b2f61e8bf03a5c2dd9f6ed4236200c07d9520
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 11:55:39 2024 +0200
+Date:   Mon Nov 11 15:03:19 2024 +0100
 Size: counted 10006 of 10006 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60636982613203.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,30 +20,44 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       1589
-Udapi: found 1589 bugs.
+               TOTAL       1587
+Udapi: found 1587 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10006 words.
-Genres: found 6 out of 17 known.
+Genres: found 6 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang br --max-err=10 UD_Breton-KEB/br_keb-ud-test.conllu
-[Line 3858 Sent bremaik.vislcg.txt:143:4899 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
-[Line 10276 Sent oab.vislcg.txt:44:1209 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
-[Line 10409 Sent oab.vislcg.txt:50:1410 Node 13]: [L3 Warning fixed-gap] Gaps in fixed expression [13, 15] 'en * zouez'
-[Line 10772 Sent oab.vislcg.txt:69:1968 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:a:det --> 15:meur:dep)
-[Line 11005 Sent oab.vislcg.txt:84:2330 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:a:det --> 6:meur:dep)
-[Line 14187 Sent wikipedia.vislcg.txt:67:2089 Node 17]: [L3 Warning leaf-det] 'det' not expected to have children (17:a:det --> 16:meur:dep)
-[Line 14975 Sent wikipedia.vislcg.txt:101:3353 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:n:det --> 18:Ballon:nmod)
-[Line 15126 Sent wikipedia.vislcg.txt:108:3624 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:a:det --> 1:Meur:dep)
-Warnings: 8
-*** PASSED ***
-Validity: 1
+[Line 137 Sent apertium.vislcg.txt:13:158 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'kalz a' does not have the 'ExtPos' feature
+[Line 137 Sent apertium.vislcg.txt:13:158 Node 3]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'X' word 'kalz'
+[Line 337 Sent apertium.vislcg.txt:29:401 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'en ur' does not have the 'ExtPos' feature
+[Line 351 Sent apertium.vislcg.txt:30:419 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'en ur' does not have the 'ExtPos' feature
+[Line 420 Sent apertium.vislcg.txt:36:517 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'En em' does not have the 'ExtPos' feature
+[Line 432 Sent apertium.vislcg.txt:37:533 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'En em' does not have the 'ExtPos' feature
+[Line 444 Sent apertium.vislcg.txt:38:549 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'En em' does not have the 'ExtPos' feature
+[Line 457 Sent apertium.vislcg.txt:39:565 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
+[Line 472 Sent apertium.vislcg.txt:40:579 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
+[Line 487 Sent apertium.vislcg.txt:41:598 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
+[Line 503 Sent apertium.vislcg.txt:42:617 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 3858 Sent bremaik.vislcg.txt:143:4899 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
+[Line 10276 Sent oab.vislcg.txt:44:1209 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
+[Line 10772 Sent oab.vislcg.txt:69:1968 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:a:det --> 15:meur:dep)
+[Line 11005 Sent oab.vislcg.txt:84:2330 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:a:det --> 6:meur:dep)
+[Line 14187 Sent wikipedia.vislcg.txt:67:2089 Node 17]: [L3 Syntax leaf-det] 'det' not expected to have children (17:a:det --> 16:meur:dep)
+[Line 14252 Sent wikipedia.vislcg.txt:70:2208 Node 8]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADP' word 'tost'
+[Line 14975 Sent wikipedia.vislcg.txt:101:3353 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:n:det --> 18:Ballon:nmod)
+[Line 15126 Sent wikipedia.vislcg.txt:108:3624 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:a:det --> 1:Meur:dep)
+Syntax errors: 9
+Warnings: 63
+*** FAILED *** with 9 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
-(weight=0.0769230769230769) * (score{genres}=0.352941176470588) = 0.0271493212669683
+(weight=0.0769230769230769) * (score{genres}=0.333333333333333) = 0.0256410256410256
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.333420166182463) = 0.0854923503031958
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.355607714536207) * (availability=1) * (validity=1) = 0.355607714536207
-STARS = 2
-UD_Breton-KEB	0.355607714536207	2
+(TOTAL score=0.354099418910264) * (availability=1) * (validity=0.01) = 0.00354099418910264
+STARS = 0
+UD_Breton-KEB	0.00354099418910264	0
