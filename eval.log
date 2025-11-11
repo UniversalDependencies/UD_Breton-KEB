@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Breton-KEB:
-commit 2b4b2f61e8bf03a5c2dd9f6ed4236200c07d9520
+commit 2b41cef1a9d17b51797b06a84002ee800bb15090
+Merge: 0d22470 57a52d9
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 15:03:19 2024 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'br_keb'
+Language code (from CoNLL-U file name) = 'br'
+Found the following data files: br_keb-ud-test.conllu
 Size: counted 10006 of 10006 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60636982613203.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,45 +23,40 @@ Features: 4924 out of 10006 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL       1587
-Udapi: found 1587 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 10006 words.
 Genres: found 6 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang br --max-err=10 UD_Breton-KEB/br_keb-ud-test.conllu
-[Line 137 Sent apertium.vislcg.txt:13:158 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'kalz a' does not have the 'ExtPos' feature
-[Line 137 Sent apertium.vislcg.txt:13:158 Node 3]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'X' word 'kalz'
-[Line 337 Sent apertium.vislcg.txt:29:401 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'en ur' does not have the 'ExtPos' feature
-[Line 351 Sent apertium.vislcg.txt:30:419 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'en ur' does not have the 'ExtPos' feature
-[Line 420 Sent apertium.vislcg.txt:36:517 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'En em' does not have the 'ExtPos' feature
-[Line 432 Sent apertium.vislcg.txt:37:533 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'En em' does not have the 'ExtPos' feature
-[Line 444 Sent apertium.vislcg.txt:38:549 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'En em' does not have the 'ExtPos' feature
-[Line 457 Sent apertium.vislcg.txt:39:565 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
-[Line 472 Sent apertium.vislcg.txt:40:579 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
-[Line 487 Sent apertium.vislcg.txt:41:598 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
-[Line 503 Sent apertium.vislcg.txt:42:617 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
+[Line 122 Sent apertium.vislcg.txt:12:139]: [L3 Warning pron-det-without-prontype] The word 'ur' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 126 Sent apertium.vislcg.txt:12:139]: [L3 Warning pron-det-without-prontype] The word 'he' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 137 Sent apertium.vislcg.txt:13:158]: [L3 Warning fixed-without-extpos] Fixed expression 'kalz a' does not have the 'ExtPos' feature
+[Line 137 Sent apertium.vislcg.txt:13:158]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'X' ('kalz')
+[Line 151 Sent apertium.vislcg.txt:14:174]: [L3 Warning pron-det-without-prontype] The word 'ar' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 174 Sent apertium.vislcg.txt:16:208]: [L3 Warning pron-det-without-prontype] The word 'ar' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 287 Sent apertium.vislcg.txt:25:340]: [L3 Warning pron-det-without-prontype] The word 'an' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 315 Sent apertium.vislcg.txt:27:372]: [L3 Warning pron-det-without-prontype] The word 'ar' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 337 Sent apertium.vislcg.txt:29:401]: [L3 Warning fixed-without-extpos] Fixed expression 'en ur' does not have the 'ExtPos' feature
+[Line 349 Sent apertium.vislcg.txt:30:419]: [L3 Warning pron-det-without-prontype] The word 'ar' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 351 Sent apertium.vislcg.txt:30:419]: [L3 Warning fixed-without-extpos] Fixed expression 'en ur' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-[Line 3858 Sent bremaik.vislcg.txt:143:4899 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
-[Line 10276 Sent oab.vislcg.txt:44:1209 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
-[Line 10772 Sent oab.vislcg.txt:69:1968 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:a:det --> 15:meur:dep)
-[Line 11005 Sent oab.vislcg.txt:84:2330 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:a:det --> 6:meur:dep)
-[Line 14187 Sent wikipedia.vislcg.txt:67:2089 Node 17]: [L3 Syntax leaf-det] 'det' not expected to have children (17:a:det --> 16:meur:dep)
-[Line 14252 Sent wikipedia.vislcg.txt:70:2208 Node 8]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADP' word 'tost'
-[Line 14975 Sent wikipedia.vislcg.txt:101:3353 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:n:det --> 18:Ballon:nmod)
-[Line 15126 Sent wikipedia.vislcg.txt:108:3624 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:a:det --> 1:Meur:dep)
+[Line 3858 Sent bremaik.vislcg.txt:143:4899]: [L3 Syntax leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
+[Line 10276 Sent oab.vislcg.txt:44:1209]: [L3 Syntax leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
+[Line 10772 Sent oab.vislcg.txt:69:1968]: [L3 Syntax leaf-det] 'det' not expected to have children (16:a:det --> 15:meur:dep)
+[Line 11005 Sent oab.vislcg.txt:84:2330]: [L3 Syntax leaf-det] 'det' not expected to have children (7:a:det --> 6:meur:dep)
+[Line 14187 Sent wikipedia.vislcg.txt:67:2089]: [L3 Syntax leaf-det] 'det' not expected to have children (17:a:det --> 16:meur:dep)
+[Line 14252 Sent wikipedia.vislcg.txt:70:2208]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADP' ('tost')
+[Line 14975 Sent wikipedia.vislcg.txt:101:3353]: [L3 Syntax leaf-det] 'det' not expected to have children (16:n:det --> 18:Ballon:nmod)
+[Line 15126 Sent wikipedia.vislcg.txt:108:3624]: [L3 Syntax leaf-det] 'det' not expected to have children (2:a:det --> 1:Meur:dep)
 Syntax errors: 9
-Warnings: 63
+Warnings: 1380
 *** FAILED *** with 9 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
-(weight=0.0769230769230769) * (score{genres}=0.333333333333333) = 0.0256410256410256
-(weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.333420166182463) = 0.0854923503031958
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.354099418910264) * (availability=1) * (validity=0.01) = 0.00354099418910264
+(weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
+(weight=0.111111111111111) * (score{genres}=0.333333333333333) = 0.037037037037037
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.333420166182463) = 0.123488950437949
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{udeprels}=0.891891891891892) = 0.0990990990990991
+(TOTAL score=0.507032493981493) * (availability=1) * (validity=0.01) = 0.00507032493981493
 STARS = 0
-UD_Breton-KEB	0.00354099418910264	0
+UD_Breton-KEB	0.00507032493981493	0
