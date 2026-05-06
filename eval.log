@@ -1,62 +1,7 @@
-Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
-Evaluating the following revision of UD_Breton-KEB:
-commit 2b41cef1a9d17b51797b06a84002ee800bb15090
-Merge: 0d22470 57a52d9
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
-Language-treebank code (from CoNLL-U file name) = 'br_keb'
-Language code (from CoNLL-U file name) = 'br'
-Found the following data files: br_keb-ud-test.conllu
-Size: counted 10006 of 10006 words (nodes).
-Size: min(0, log((N/1000)**2)) = 4.60636982613203.
-Size: maximum value 13.815511 is for 1000000 words or more.
-Split: Did not find more than 10000 training words.
-Split: Did not find at least 10000 development words.
-Split: Found at least 10000 test words.
-Lemmas: source of annotation (from README) factor is 0.8.
-Universal POS tags: 17 out of 17 found in the corpus.
-Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 4924 out of 10006 total words have one or more features.
-Features: source of annotation (from README) factor is 0.8.
-Universal relations: 33 out of 37 found in the corpus.
-Universal relations: source of annotation (from README) factor is 1.
-Genres: found 6 out of 18 known.
-/net/work/people/zeman/unidep/tools/validate.py --lang br --max-err=10 UD_Breton-KEB/br_keb-ud-test.conllu
-[Line 122 Sent apertium.vislcg.txt:12:139]: [L3 Warning pron-det-without-prontype] The word 'ur' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 126 Sent apertium.vislcg.txt:12:139]: [L3 Warning pron-det-without-prontype] The word 'he' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 137 Sent apertium.vislcg.txt:13:158]: [L3 Warning fixed-without-extpos] Fixed expression 'kalz a' does not have the 'ExtPos' feature
-[Line 137 Sent apertium.vislcg.txt:13:158]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'X' ('kalz')
-[Line 151 Sent apertium.vislcg.txt:14:174]: [L3 Warning pron-det-without-prontype] The word 'ar' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 174 Sent apertium.vislcg.txt:16:208]: [L3 Warning pron-det-without-prontype] The word 'ar' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 287 Sent apertium.vislcg.txt:25:340]: [L3 Warning pron-det-without-prontype] The word 'an' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 315 Sent apertium.vislcg.txt:27:372]: [L3 Warning pron-det-without-prontype] The word 'ar' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 337 Sent apertium.vislcg.txt:29:401]: [L3 Warning fixed-without-extpos] Fixed expression 'en ur' does not have the 'ExtPos' feature
-[Line 349 Sent apertium.vislcg.txt:30:419]: [L3 Warning pron-det-without-prontype] The word 'ar' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 351 Sent apertium.vislcg.txt:30:419]: [L3 Warning fixed-without-extpos] Fixed expression 'en ur' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-[Line 3858 Sent bremaik.vislcg.txt:143:4899]: [L3 Syntax leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
-[Line 10276 Sent oab.vislcg.txt:44:1209]: [L3 Syntax leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
-[Line 10772 Sent oab.vislcg.txt:69:1968]: [L3 Syntax leaf-det] 'det' not expected to have children (16:a:det --> 15:meur:dep)
-[Line 11005 Sent oab.vislcg.txt:84:2330]: [L3 Syntax leaf-det] 'det' not expected to have children (7:a:det --> 6:meur:dep)
-[Line 14187 Sent wikipedia.vislcg.txt:67:2089]: [L3 Syntax leaf-det] 'det' not expected to have children (17:a:det --> 16:meur:dep)
-[Line 14252 Sent wikipedia.vislcg.txt:70:2208]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADP' ('tost')
-[Line 14975 Sent wikipedia.vislcg.txt:101:3353]: [L3 Syntax leaf-det] 'det' not expected to have children (16:n:det --> 18:Ballon:nmod)
-[Line 15126 Sent wikipedia.vislcg.txt:108:3624]: [L3 Syntax leaf-det] 'det' not expected to have children (2:a:det --> 1:Meur:dep)
-Syntax errors: 9
-Warnings: 1380
-*** FAILED *** with 9 errors
-Exit code: 1
-Validity: 0.01
-(weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
-(weight=0.111111111111111) * (score{genres}=0.333333333333333) = 0.037037037037037
-(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
-(weight=0.37037037037037) * (score{size}=0.333420166182463) = 0.123488950437949
-(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
-(weight=0.111111111111111) * (score{tags}=0.8) = 0.0888888888888889
-(weight=0.111111111111111) * (score{udeprels}=0.891891891891892) = 0.0990990990990991
-(TOTAL score=0.507032493981493) * (availability=1) * (validity=0.01) = 0.00507032493981493
-STARS = 0
-UD_Breton-KEB	0.00507032493981493	0
+Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
+Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
+Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
+Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
+from which this script is invoked and which also holds the validator.
+$0 == tools/evaluate_treebank.pl
+The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
