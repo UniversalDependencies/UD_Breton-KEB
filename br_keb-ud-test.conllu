@@ -1016,7 +1016,7 @@
 18	hag	hag	X	x	_	17	fixed	_	_
 19	en	e	ADP	pr	_	21	case	_	_
 20	ho	ho	DET	det	Poss=Yes	21	det	_	_
-21	puhez	buhez	NOUN	n	Gender=Fem|Number=Sing	15	obl	_	_
+21	puhez	buhez	NOUN	n	Gender=Fem|Number=Sing	15	nmod	_	_
 22	labour	labour	NOUN	n	Gender=Masc|Number=Sing	21	nmod:gen	_	SpaceAfter=No
 23	.	.	PUNCT	sent	_	1	punct	_	_
 
@@ -1937,7 +1937,7 @@
 23	Aostralia	Aostralia	PROPN	np	Number=Sing	22	nmod:gen	_	_
 24	gant	gant	ADP	pr	_	26	case	_	_
 25	ar	an	DET	det	_	26	det	_	_
-26	Rouantelezh	rouantelezh	NOUN	n	Gender=Fem|Number=Sing	22	obl:agent	_	SpaceAfter=No
+26	Rouantelezh	rouantelezh	NOUN	n	Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	sent	_	1	punct	_	_
 
 # sent_id = bremaik.vislcg.txt:62:1874
@@ -4877,7 +4877,7 @@
 11	netra	netra	PRON	prn	Number=Sing	10	nsubj	_	_
 12-13	enni	_	_	_	_	_	_	_	SpaceAfter=No
 12	enn	e	ADP	pr	_	13	case	_	_
-13	i	indirect	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+13	i	indirect	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
 14	,	,	PUNCT	cm	_	18	punct	_	_
 15	hag	ha	CCONJ	cnjcoo	_	18	cc	_	_
 16	evel-se	evel-se	ADV	adv	_	18	advmod	_	_
@@ -14444,7 +14444,7 @@
 13	an	an	DET	det	_	14	det	_	_
 14	diavaez	diavaez	NOUN	n	Gender=Masc|Number=Sing	8	obl	_	_
 15	da	da	ADP	pr	_	17	case	_	_
-16	Su	su	NOUN	n	Gender=Masc|Number=Sing	17	obl	_	_
+16	Su	su	NOUN	n	Gender=Masc|Number=Sing	17	nmod	_	_
 17	Kembre	Kembre	PROPN	np	Number=Sing	8	nmod:gen	_	SpaceAfter=No
 18	.	.	PUNCT	sent	_	8	punct	_	_
 
