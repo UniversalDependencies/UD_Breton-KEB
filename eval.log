@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Breton-KEB:
-commit d9dd205e7fee65ba9b243a4b56b30229d4e7ce87
+commit 27c2f19d3ea426319bfc4687da9b2dd29e226045
+Merge: 639600f a9a40f5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 6 12:06:01 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'br_keb'
 Language code (from CoNLL-U file name) = 'br'
@@ -48,19 +48,17 @@ Genres: found 6 out of 18 known.
 [Line 487 Sent apertium.vislcg.txt:41:598]: [L3 WARNING fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
 [Line 503 Sent apertium.vislcg.txt:42:617]: [L3 WARNING fixed-without-extpos] Fixed expression 'en em' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
-[Line 1019 Sent bremaik.vislcg.txt:16:416]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'puhez') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1940 Sent bremaik.vislcg.txt:61:1817]: [L3 SYNTAX obl-should-be-nmod] The parent (node [22] 'trevadennerezh') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 3858 Sent bremaik.vislcg.txt:143:4899]: [L3 SYNTAX leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
-[Line 4880 Sent bremaik.vislcg.txt:190:6488]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] 'netra') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 10276 Sent oab.vislcg.txt:44:1209]: [L3 SYNTAX leaf-det] 'det' not expected to have children (10:a:det --> 9:meur:dep)
 [Line 10772 Sent oab.vislcg.txt:69:1968]: [L3 SYNTAX leaf-det] 'det' not expected to have children (16:a:det --> 15:meur:dep)
 [Line 11005 Sent oab.vislcg.txt:84:2330]: [L3 SYNTAX leaf-det] 'det' not expected to have children (7:a:det --> 6:meur:dep)
 [Line 14187 Sent wikipedia.vislcg.txt:67:2089]: [L3 SYNTAX leaf-det] 'det' not expected to have children (17:a:det --> 16:meur:dep)
 [Line 14252 Sent wikipedia.vislcg.txt:70:2208]: [L3 SYNTAX rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADP' ('tost')
-...suppressing further messages regarding ERROR/SYNTAX
+[Line 14975 Sent wikipedia.vislcg.txt:101:3353]: [L3 SYNTAX leaf-det] 'det' not expected to have children (16:n:det --> 18:Ballon:nmod)
+[Line 15126 Sent wikipedia.vislcg.txt:108:3624]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:a:det --> 1:Meur:dep)
 Warnings: 1376
-SYNTAX errors: 13
-*** FAILED *** with 13 errors
+SYNTAX errors: 9
+*** FAILED *** with 9 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
